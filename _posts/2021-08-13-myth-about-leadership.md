@@ -6,6 +6,8 @@ tags: [leader, myth, life, team, people]     # TAG names should always be lowerc
 ---
 
 
+## Introduction
+
 We really don't understand leadership like the way we think we do.
 
 In our minds, we often hold this idea about what a leader should be or look like. There are things in leadership that makes things work and effective and these things are effective in the short term only. And this is bad leadership. Often times we say that if something is stupid but it works, it isn't stupid. And if you apply that to leadership you will say, well if something is bad in leadership but it works is it bad? For example abusing your people, been dishonest etc. And the answer we will mostly come to is that to some degree this is bad.
@@ -26,11 +28,17 @@ So the key thing for leaders to understand is that there is not one leadership s
 
 In any organisation, almost all the answers in that organisation is below the leader. So it shouldn't be a case for people to wait for the leader to come with the right idea or decision. The thing is for the leader to help create an environment that the right answer could come out. And what the leader can do is be an advocate for that. And that takes a little bit of coming to grip with your ego.
 
+### First Myth
+
 **The first myth** about leadership we often come to is that if you are born with the right traits or if you can develop the right behavior then you can become an effective leader. And people sell a lot of leadership and management books with a list of things you can do. The reality is that we will find no cases where a set of attributes or qualities that worked for someone are transferable. There are things that work in others but every situation is so unique, every time is so unique.
 
 And even for the same leader, to be a leader on Monday in certain way and try to use exactly the same technique the next day often is a loser. Then you'd say you'd have no consistency. But no, the reality is that your consistency is your ability to adapt to the situation at the moment.
 
+### The Second Myth
+
 **The second myth**, the attribution myth is really reinforced by things like biographies. Because we often hear that an individual was a man of their time. But that's always a gross of over simplification. They may have had a significant role in it but if we look through the limbs of history, we tend to sharpen that focus on that person. Like putting the spotlight on them. And all we see is the actions of that person and we tend not be aware of all the other things that are happening. And so the danger of the attribution myth is that we start to think that all we got to do is get a good leader and all the problem is solved. And the reality is that that's not true. It's actually the organisation, the followers, the context of the situation that matters so much. And we see that a leader who does one thing in one place and is moved to another place and tries to repeat it almost never succeeds. And so the consequence we find is that it's very contextual into what the leader does and that is reinforced.
+
+### The Third Myth
 
 And **the last myth** is the result myth. And that is the idea that we are clear-eyed calculating people and so we follow and elect the leader who will most give us what we want. And we think it will make the most money in the company, it will win the victories on the battle field, accomplish the most politically. And the reality is that it is not true either. In reality what we find is that the actual performance, measurable outcomes by many leaders got nothing to do with how successful they are in terms of been selected or promoted.
 
