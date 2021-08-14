@@ -1,6 +1,7 @@
 ---
 title: Myth About Leadership
 date: 2021-08-13 02:25:00 +00
+comments: true
 categories: [Leadership, Life]
 tags: [leader, myth, life, team, people]     # TAG names should always be lowercase
 ---
