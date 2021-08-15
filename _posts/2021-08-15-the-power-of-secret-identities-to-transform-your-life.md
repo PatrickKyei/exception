@@ -15,7 +15,7 @@ Our ego is responsible for reality testing and a sense of personal identity.
 
 Sometimes when you look at celebrities and high performers that you look up to, they are like superheroes of some sort. They act and behave in a *superhuman way*you find impressive. But when you meet these people in life, they are surprisingly normal people. They are friendly people who do the normal stuff we are all used to doing. And you may often ask yourself how these people are able to do that. How are they able to transform from one identity to the other? And more importantly, how do we harness this for ourselves?
 
-This is what can be termed as the **Alter Ego Effect**
+This is what can be termed as the [*Alter Ego Effect*](https://en.m.wikipedia.org/wiki/Alter_ego)
 
 Continue to scroll down as we answer some of these more interesting and fascinating questions.
 
