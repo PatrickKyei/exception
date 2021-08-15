@@ -7,7 +7,7 @@ tags: [effec, self, ego, nuance, division, superpowers]     # TAG names should a
 
 ## What Is Ego?
 
-Simply put it, **ego** is a person's sense of self-esteem or self-importance.
+Simply put it, [*ego*](https://en.m.wikipedia.org/wiki/Self-concept) is a person's sense of self-esteem or self-importance.
 
 Our ego is responsible for reality testing and a sense of personal identity.
 
