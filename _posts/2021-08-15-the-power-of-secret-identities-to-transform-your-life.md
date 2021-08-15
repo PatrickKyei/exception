@@ -69,4 +69,4 @@ In one of our previous readings, we got to know that the best leaders are those 
 
 That goes further to teach us that to win more people to our side and grow our network we need to treat people the way they want. And that is often not easy. But if we wear this alter ego self this can become more easier to do.
 
-Credits: [*The Jordan Harbinger Show*](jordanhabinger.com)
+Credits: [*The Jordan Harbinger Show*](https://www.jordanharbinger.com/)
