@@ -5,7 +5,7 @@ categories: [Networking, Communication]
 tags: [communication, relationships]     # TAG names should always be lowercase
 ---
 
-
+![talking](/assets/img/conversation-starters.png)
 
 ## Introduction
 
