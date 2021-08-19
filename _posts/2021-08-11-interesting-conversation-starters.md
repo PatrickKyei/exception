@@ -45,7 +45,7 @@ You can ask for example; "It was very nice meeting you. What is the best to keep
 
 ## After "Hello" What Next?
 
-[what-next](/assets/img/conversation-starters-what-next.png) 
+![what-next](/assets/img/conversation-starters-what-next.png) 
 
 If you are lucky, you are able to get the contact the first time you engaged. How do you continue to engage with this person in an interesting way to even warrant the next meeting if you make the request? Because if you are not interesting enough you are going to be let down with a no as an answer if you ask to see them again. If  it only becomes "hello how are you", "what did you eat", "how is your family and work" all the time it is going to be boring and the communication is going to die.
 
