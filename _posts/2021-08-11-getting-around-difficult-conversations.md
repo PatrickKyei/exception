@@ -5,6 +5,8 @@ categories: [Conversations, Communication]
 tags: [communication, difficult, resolution]     # TAG names should always be lowercase
 ---
 
+![networking](/assets/img/Networking.jpg)
+
 ## Networking
 
 Meeting new people in your life is exciting and illuminating.  We are all made of interesting and amazing traits that can be shared and learned. This starts with a warm touch in the form of a conversation. But many people find this as a deal-breaker that often is not overcome. Well if they try, the result they expect don't go the same. You may have remembered a day you mastered courage to start a conversation with a stranger you liked but immediately got bounced. It's sad and can demotivate you 5x. But we still need to foster healthy relationships with other people.

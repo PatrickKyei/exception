@@ -5,13 +5,17 @@ categories: [Networking, Communication]
 tags: [communication, relationships]     # TAG names should always be lowercase
 ---
 
-
+![talking](/assets/img/conversation-starters.jpg)
 
 ## Introduction
 
 Striking and maintaining an interesting conversation is not always simple and easy for many. In an age where we love to express ourselves with emojis and memes, people are losing the skill of expressing themselves through valuable conversations. An age where you click a button to express you like someone or something - an age where you can express your dislike or hate for something with the click of a button, people are growing into the habit of ending it there when they say just a word. They lose the opportunity of knowing and experiencing what maintaining a valuable conversation can lead one to.
 
-It almost looks like we want to say more but don't know how. Our words are trapped within our heads. We delete our emotions and expressions, end them with a simple "I'm fine" and walk away. We cry for affection and connection but don't know how to establish and maintain one ourselves.
+It almost looks like we want to say more but don't know how. 
+
+> Our words are trapped within our heads.
+
+We delete our emotions and expressions, end them with a simple "I'm fine" and walk away. We cry for affection and connection but don't know how to establish and maintain one ourselves.
 
 People are falling into the habit of getting stuck after "how are you", "what did you eat", "how's work". There's a lot of fun and interesting conversations that can be had if one can move past some of these basic questions.
 
@@ -44,6 +48,8 @@ After been able to establish the connection, the next thing is to find the best 
 You can ask for example; "It was very nice meeting you. What is the best to keep in touch with you?" They might tell you or even give you their contact information themselves. If you realize this is not happening quickly, you can go on by saying, "I think I will take down your number so we can still be in touch. What is your number?", whiles you pull your phone out.
 
 ## After "Hello" What Next?
+
+![what-next](/assets/img/conversation-starters-what-next.png) 
 
 If you are lucky, you are able to get the contact the first time you engaged. How do you continue to engage with this person in an interesting way to even warrant the next meeting if you make the request? Because if you are not interesting enough you are going to be let down with a no as an answer if you ask to see them again. If  it only becomes "hello how are you", "what did you eat", "how is your family and work" all the time it is going to be boring and the communication is going to die.
 
