@@ -45,6 +45,8 @@ You can ask for example; "It was very nice meeting you. What is the best to keep
 
 ## After "Hello" What Next?
 
+[what-next](/assets/img/conversation-starters-what-next.png) 
+
 If you are lucky, you are able to get the contact the first time you engaged. How do you continue to engage with this person in an interesting way to even warrant the next meeting if you make the request? Because if you are not interesting enough you are going to be let down with a no as an answer if you ask to see them again. If  it only becomes "hello how are you", "what did you eat", "how is your family and work" all the time it is going to be boring and the communication is going to die.
 
 Mostly they are not going to reach out to you and it is going to seem you are the only one doing all the work. And oh yes you will be doing all the work at first but when you are interesting  or make your conversations interesting enough, they will reach out to you themselves. So how can you spice up things better? You can! This is where I am going to list a number of interesting topics and questions you can chip in your conversation. It is going to bring up a lot of things to talk about and you may even have the chance to know each other better. In this case don't let it be only a question to the other person. If they provide an answer to the things you ask, you may provide your opinion on it to make it more spontaneous. The next you will realize is they coming out to ask your opinions on the subsequent interactions - keeping the conversation lively and fun.
