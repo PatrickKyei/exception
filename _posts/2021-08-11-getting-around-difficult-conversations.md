@@ -5,7 +5,7 @@ categories: [Conversations, Communication]
 tags: [communication, difficult, resolution]     # TAG names should always be lowercase
 ---
 
-![Networking](/assets/img/Networking.jpg)
+![networking](/assets/img/Networking.jpg)
 
 ## Networking
 
