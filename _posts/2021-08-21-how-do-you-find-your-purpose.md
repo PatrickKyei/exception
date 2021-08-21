@@ -23,23 +23,25 @@ Now there is this occult of purpose that the world has created. And the cult of 
 
 We often use these terms interchangeably. But when people talk about finding their purpose I think they are usually talking about feeling a sense of meaning.
 
-And **meaning** is about finding our life significance, finding our lives worthwhile, interesting, exciting, challenging in the right ways. **Purpose**at the simplest level is the way we explore that significance. So to find your purpose is to discover an activity or role, or sets of actions or projects and goals or even relationships that help you access that deeper sense of meaning and expand them.
+And **meaning** is about finding our life significance, finding our lives worthwhile, interesting, exciting, challenging in the right ways. **Purpose** at the simplest level is the way we explore that significance. So to find your purpose is to discover an activity or role, or sets of actions or projects and goals or even relationships that help you access that deeper sense of meaning and expand them.
 
-So we can say that meaning is the what and purpose is the how. And as human beings we are wired for that sense of meaning. That is part of our make-up. There is really no way around finding meaning, the reason why it is such a difficult and absorbing topic for many of us is that we all want it so badly. *And one of the primary reasons this has become such a problem is that we all think it is going to come from work.*
+So we can say that meaning is the What and purpose is he How. And as human beings we are wired for that sense of meaning. That is part of our make-up. There is really no way around finding meaning; the reason why it is such a difficult and absorbing topic for many of us is that we all want it so badly. *And one of the primary reasons this has become such a problem is that we all think it is going to come from work.*
 
-But if you talk to someone who is raising three kids or a mom I don't think they are going to say that their life is meaningless. But we think unless we are doing this hobby as a job, we have failed. A lot of people feel that a person who is grinding away at their so called purpose that is part of their professional identity is more meaningful or purpose driven than a mom who derives a ton of meaning from raising her children. But these two things are equally meaningful to those two people. It all comes down to what they value and build their lives around.
+But if you talk to someone who is raising three kids or a mom, I don't think they are going to say that their life is meaningless. But we think unless we are doing this hobby as a job, we have failed. A lot of people feel that a person who is grinding away at their so called “purpose” that is part of their professional identity is more meaningful or purpose driven than a mom who derives a ton of meaning from raising her children. But these two things are equally meaningful to those two people. It all comes down to what they value and build their lives around.
 
 The important thing to understand is that we do have this inbuilt drive to find, explore and expand meaning. Our purpose, which is to try to discover this meaning; and when those two things line up life becomes a lot more interesting. So simply, meaning is finding our life significance in general. And purpose is essentially the way we try to find that meaning. And I think it is important to keep it as simple as that because it doesn't need to be any complicated, otherwise we will not find it.
 
 ### The Reason People Seek Purpose in Life
 
-Having a purpose gives us an anchor in life and a kind of protection against some of the more difficult aspect of life. Viktor Franklprofessor of psychology said, "Those who have a why to live can bear with almost any how".
+Having a purpose gives us an anchor in life and a kind of protection against some of the more difficult aspect of life ![Viktor Frank](https://en.m.wikipedia.org/wiki/Viktor_Frankl) professor of psychology said, "Those who have a why to live can bear with almost any how".
 
-And it is also an important thing to remember that it isn't just feeling excited, it goes beyond about how we navigate life. It can therefore be put as, meaning is the what and purpose is how we get to the what.
+And it is also an important thing to remember that it isn't just feeling excited, it goes beyond about how we navigate life. It can therefore be put as, meaning is the What and purpose is how we get to the what.
 
 ### The Truth About Meaning
 
-The truth is that meaning is deeply personal. It is different for every single person and it changes during the course of your life. There is been too many occult of purpose and this is what we should be able to identify and break away from. Some of the way this gets sold is one: You've got to have a purpose to be happy. If you don't you've failed. And two: it has to be your job. You can't just have hobbies and enjoy your family.
+The truth is that meaning is deeply personal. It is different for every single person and it changes during the course of your life. There is been too many occult of purpose and this is what we should be able to identify and break away from. Some of the way this gets sold is one: 
+* You've got to have a purpose to be happy. If you don't you've failed. 
+* And two: it has to be your job. You can't just have hobbies and enjoy your family.
 
 So we've been exposed to this influence online that we somehow have to make dressing and standing in front of classic cars something to define success. And this is not healthy. Because it causes you to veer way off from what your purpose might be. And it leads you to make bad decisions. At  the end of the day meaning generally comes from a handful of common sources.
 
