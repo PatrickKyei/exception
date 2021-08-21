@@ -39,8 +39,9 @@ And it is also an important thing to remember that it isn't just feeling excited
 
 ### The Truth About Meaning
 
-The truth is that meaning is deeply personal. It is different for every single person and it changes during the course of your life. There is been too many occult of purpose and this is what we should be able to identify and break away from. Some of the way this gets sold is one: 
-* You've got to have a purpose to be happy. If you don't you've failed. 
+The truth is that meaning is deeply personal. It is different for every single person and it changes during the course of your life. There is been too many occult of purpose and this is what we should be able to identify and break away from. Some of the way this gets sold is
+
+* One: You've got to have a purpose to be happy. If you don't you've failed.
 * And two: it has to be your job. You can't just have hobbies and enjoy your family.
 
 So we've been exposed to this influence online that we somehow have to make dressing and standing in front of classic cars something to define success. And this is not healthy. Because it causes you to veer way off from what your purpose might be. And it leads you to make bad decisions. At  the end of the day meaning generally comes from a handful of common sources.
