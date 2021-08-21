@@ -5,6 +5,7 @@ categories: [Purpose, Passion]
 tags: [destiny, meaning, purpose, desire, passion, explore, life]     # TAG names should always be lowercase
 ---
 
+![purpose](/assets/img/purpose.jpg)
 
 ### How do I find my Purpose or Passion?
 
