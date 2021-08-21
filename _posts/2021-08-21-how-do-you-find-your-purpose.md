@@ -33,7 +33,7 @@ The important thing to understand is that we do have this inbuilt drive to find,
 
 ### The Reason People Seek Purpose in Life
 
-Having a purpose gives us an anchor in life and a kind of protection against some of the more difficult aspect of life ![Viktor Frank](https://en.m.wikipedia.org/wiki/Viktor_Frankl) professor of psychology said, "Those who have a why to live can bear with almost any how".
+Having a purpose gives us an anchor in life and a kind of protection against some of the more difficult aspect of life [Viktor Frank](https://en.m.wikipedia.org/wiki/Viktor_Frankl) professor of psychology said, "Those who have a why to live can bear with almost any how".
 
 And it is also an important thing to remember that it isn't just feeling excited, it goes beyond about how we navigate life. It can therefore be put as, meaning is the What and purpose is how we get to the what.
 
