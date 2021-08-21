@@ -11,7 +11,7 @@ tags: [communication, relationships]     # TAG names should always be lowercase
 
 Striking and maintaining an interesting conversation is not always simple and easy for many. In an age where we love to express ourselves with emojis and memes, people are losing the skill of expressing themselves through valuable conversations. An age where you click a button to express you like someone or something - an age where you can express your dislike or hate for something with the click of a button, people are growing into the habit of ending it there when they say just a word. They lose the opportunity of knowing and experiencing what maintaining a valuable conversation can lead one to.
 
-It almost looks like we want to say more but don't know how. 
+It almost looks like we want to say more but don't know how.
 
 > Our words are trapped within our heads.
 
@@ -49,7 +49,7 @@ You can ask for example; "It was very nice meeting you. What is the best to keep
 
 ## After "Hello" What Next?
 
-![what-next](/assets/img/conversation-starters-what-next.png) 
+![what-next](/assets/img/conversation-starters-what-next.png)
 
 If you are lucky, you are able to get the contact the first time you engaged. How do you continue to engage with this person in an interesting way to even warrant the next meeting if you make the request? Because if you are not interesting enough you are going to be let down with a no as an answer if you ask to see them again. If  it only becomes "hello how are you", "what did you eat", "how is your family and work" all the time it is going to be boring and the communication is going to die.
 
