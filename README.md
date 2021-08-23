@@ -1,3 +1,3 @@
 # I'm glad you are here
 
-> Visit <https://patrickkyei.github.io>
+> Visit [https://patrickkyei.com](https://patrickkyei.com)

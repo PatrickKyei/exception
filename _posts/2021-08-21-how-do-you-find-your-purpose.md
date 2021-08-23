@@ -33,14 +33,15 @@ The important thing to understand is that we do have this inbuilt drive to find,
 
 ### The Reason People Seek Purpose in Life
 
-Having a purpose gives us an anchor in life and a kind of protection against some of the more difficult aspect of life ![Viktor Frank](https://en.m.wikipedia.org/wiki/Viktor_Frankl) professor of psychology said, "Those who have a why to live can bear with almost any how".
+Having a purpose gives us an anchor in life and a kind of protection against some of the more difficult aspect of life [Viktor Frank](https://en.m.wikipedia.org/wiki/Viktor_Frankl) professor of psychology said, "Those who have a why to live can bear with almost any how".
 
 And it is also an important thing to remember that it isn't just feeling excited, it goes beyond about how we navigate life. It can therefore be put as, meaning is the What and purpose is how we get to the what.
 
 ### The Truth About Meaning
 
-The truth is that meaning is deeply personal. It is different for every single person and it changes during the course of your life. There is been too many occult of purpose and this is what we should be able to identify and break away from. Some of the way this gets sold is one: 
-* You've got to have a purpose to be happy. If you don't you've failed. 
+The truth is that meaning is deeply personal. It is different for every single person and it changes during the course of your life. There is been too many occult of purpose and this is what we should be able to identify and break away from. Some of the way this gets sold is
+
+* One: You've got to have a purpose to be happy. If you don't you've failed.
 * And two: it has to be your job. You can't just have hobbies and enjoy your family.
 
 So we've been exposed to this influence online that we somehow have to make dressing and standing in front of classic cars something to define success. And this is not healthy. Because it causes you to veer way off from what your purpose might be. And it leads you to make bad decisions. At  the end of the day meaning generally comes from a handful of common sources.
