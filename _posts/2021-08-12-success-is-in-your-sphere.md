@@ -5,7 +5,7 @@ categories: [Networking, Goals]
 tags: [communication, relationships, circle, people, value, connect, success, network]     # TAG names should always be lowercase
 ---
 
-⅓[friends](/assets/img/your-network.jpg)
+![friends](/assets/img/your-network.jpg)
 
 ## Introduction
 
