@@ -22,8 +22,7 @@ title: Patrick                         # the main title
 tagline: This is where my thoughts go. Check in regularly for updates  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  I create digital products,
-  that are driven by
+  I create digital products,that are driven by
   user experience
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
