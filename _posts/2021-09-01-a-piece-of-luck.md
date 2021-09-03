@@ -58,7 +58,7 @@ What about the network effect? How does that exacerbate the effect of luck?
 
 The things we do often are more important to us if more other people are doing the same things we're doing. So you want to read a book? What book would it be advisable to pursue? You could say, "I simply need to read the best book and that is all I care about." But another thing you probably care about in addition to reading the best book is to have an opportunity to discuss the book you read with other people. And you can't do that if you read a book that no one else reads.
 
-And so if you have two books of equivalent quality, you will get a similar advantage from pursuing one as the other, except if one has a more grounded readership. One's on the best seller list and the other one isn't. Then in addition to getting the same enjoyment you would have from reading the other book, you're going to also enjoy more opportunities to discuss that book with friends who will have read it as well. So when that's true, the saying, **"Success breeds success," holds with a vengeance.**
+And so if you have two books of equivalent quality, you will get a similar advantage from pursuing one as the other, except if one has a more grounded readership. One's on the best seller list and the other one isn't. Then in addition to getting the same enjoyment you would have from reading the other book, you're going to also enjoy more opportunities to discuss that book with friends who will have read it as well. So when that's true, the saying, **"Success breeds success," holds with vengeance.**
 
 ## The Acknowledgement Effect
 
