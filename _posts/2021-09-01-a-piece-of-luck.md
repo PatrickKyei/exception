@@ -36,7 +36,7 @@ And we do so from the things that are most accessible in memory. So if you've be
 
 If you had to battle against an obstacle you're hyper-aware of that, you remember it, you include it in your story. If you had a wind at your back, that's something that you just don't notice. And so I think in complete innocence, will in generally think back on their lives and say, "Goodness, I did it all myself."
 
-So of course, any successful career track, any successful life course will have hard work, talent, and a little bit of chance or luck.
+![talent](/assets/img/talents.jpg)
 
 If you succeeded, it wasn't just because of things you had done yourself but community had a hand in it too. And part of the social contract is to pay forward. So that the next group that comes along will have its shot at success.
 
