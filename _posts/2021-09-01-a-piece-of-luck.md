@@ -62,7 +62,7 @@ And so if you have two books of equivalent quality, you will get a similar advan
 
 ## The Acknowledgement Effect
 
-You know, this is always so interesting. I do see a ton of successful people who just don't even understand or just flat out refuse to acknowledge the role that luck has in their success. And for me, I'm constantly trying nowadays to count my blessings. Where was I lucky? Of course there's gratitude involved, right? I'm so lucky that this happened. I'm so lucky I was born in this generation, for example. I'm so lucky that I got great people around me and that I didn't screw up my life. I haven't been hit by a bus lately or ever for that matter now. 
+You know, this is always so interesting. I do see a ton of successful people who just don't even understand or just flat out refuse to acknowledge the role that luck has in their success. And for me, I'm constantly trying nowadays to count my blessings. Where was I lucky? Of course there's gratitude involved, right? I'm so lucky that this happened. I'm so lucky I was born in this generation, for example. I'm so lucky that I got great people around me and that I didn't screw up my life. I haven't been hit by a bus lately or ever for that matter now.
 
 But the idea here is also that when we count the role of luck in our lives, it helps us get a little bit more compassionate for those that don't have it. Not that it's an excuse for other people or anything like that, but at least we're not measuring people by the same measuring stick that we have when we're counting our luck, or I should say discounting our own luck.
 
