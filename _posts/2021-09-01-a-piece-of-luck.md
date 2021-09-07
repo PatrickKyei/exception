@@ -65,4 +65,6 @@ You know, this is always so interesting. I do see a ton of successful people who
 
 But the idea here is also that when we count the role of luck in our lives, it helps us get a little bit more compassionate for those that don't have it. Not that it's an excuse for other people or anything like that, but at least we're not measuring people by the same measuring stick that we have when we're counting our luck, or I should say discounting our own luck.
 
-And there's a lot here that I think breeds compassion. It breeds a realistic viewpoint of what is possible in our own lives, especially given the amount of luck that you have just by virtue of reading this and understanding English and reading it on your super expensive by most standards in the world, mobile device, using 4G that your country has for you. I mean, there's endless amounts of things to consider lucky in our lives.
+And there's a lot here that I think breeds compassion. It breeds a realistic viewpoint of what is possible in our own lives, especially given the amount of luck that you have just by virtue of reading this and understanding English and reading it on your super expensive by most standards in the world, mobile device, using 4G that your country has for you. 
+
+**I mean, there's endless amounts of things to consider lucky in our lives.**
