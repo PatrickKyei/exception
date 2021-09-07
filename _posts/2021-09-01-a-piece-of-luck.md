@@ -26,11 +26,10 @@ The number of times when we've been affected by luck is countless. Furthermore,
 Someone wins the lottery, we say that individual was truly lucky.
 The man who gets ready for his all time interview, gets ready early but gets stuck in the middle of the road due to a car breakdown and misses his interview, I will say he was very unlucky.
 
-So we noticed vivid examples like that yet when luck plays out as it typically does throughout everyday life, it's in far more subtle ways, and we tend not to see it's significance in those cases. We see successful people, 30 years into their careers, almost all of them are hardworking and talented. There are a few examples to the contrary.
+We noticed vivid examples like that, yet when luck plays out as it typically does throughout everyday life, it's in far more subtle ways, and we tend not to see it's significance in those cases. We see successful people, 30 years into their careers, almost all of them are hardworking and talented. There are a few examples to the contrary.
 
-You can think of lip-syncing kid groups or different people who have succeeded without much hard work or talent, but most of the people who make it big really do work hard. They really are talented. And then it comes time to look back and try to explain to themselves, why did I succeed? You know, that's what we do as people we construct narratives about our lives.
-
-And we do so from the things that are most accessible in memory. So if you've been successful, you've probably gotten up every day and worked hard. You can recollect endless instances of doing that, even occasions when you didn't feel like it, which is when you're most likely to remember examples. You can remember all the hard problems you solved because you solved so many of them over those years. You remember all the formidable opponents that you had to vanquish along your path to the top.
+So if you've been successful, you've probably gotten up every day and worked hard right?. 
+You can recollect endless instances of doing that, even occasions when you didn't feel like it, which is when you're most likely to remember examples. You can remember all the hard problems you solved because you solved so many of them over those years. You remember all the formidable opponents that you had to vanquish along your path to the top.
 
 *So there are simply regular inclinations in human perception to remember the obvious causes of events that we see and to disregard things that don't occur oftentimes or as strikingly.*
 
