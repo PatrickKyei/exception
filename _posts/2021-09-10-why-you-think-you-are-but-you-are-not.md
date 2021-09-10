@@ -1,13 +1,13 @@
 ---
 title: Why You Think You Are Right But You Are Not
-date: 2021-09-10 20:35:00 +00
+date: 2021-09-10 20:30:00 +00
 categories: [Mindset, Identity]
 tags: [mindset, thinking, results, identity, perspective]     # TAG names should always be lowercase
 ---
 ![mindset](/assets/img/mindfulness.jpg)
 
 People think they see things as they are.
-> 
+>
 > There's a group of people who I think are somewhat self-aware who do agree that "Indeed, I'm sure I'm wrong about some things. I'm sure I have some biases," because everyone does.
 
 We think we see things to be what they are. Also, I regularly see this contention on the web. In case somebody's arguing on Twitter, "I'm simply disclosing to you current realities." And it resembles, all things considered, they have their inclination and your political conviction and afterward a strict teaching, and some arrangement of realities that they sort of have misconstrued. Furthermore, one may say, "I'm simply mentioning to you what's directly before the entirety of our eyes," and it's rarely the equivalent. You know, we can get as philosophical as we need concerning how our brains construct reality, but at the end of the day, nobody really seems to see things how they are. All we can do is get close, right?
@@ -28,7 +28,6 @@ At the point when you're wrong or when you're biased, it never really feels like
 
 ![extent](/assets/img/extent.jpg)
 
-
 ## Why We Misunderstand Arguments As People
 
 How we misunderstand arguments is that our brains sort of match them with arguments that we've heard before. So it's so difficult to learn from misunderstanding with people with various perspectives from you, because I think we sort of anticipate that it should be simpler than it is.
@@ -41,7 +40,7 @@ By which, I mean, we will, in general, have this implicit assumption that well, 
 
 A lot of things additionally boil down to identity, right? Our identity is often wrapped up in beliefs. So the most natural instances of beliefs that become part of our identity are our politics and religion. Being a liberal or traditionalist, or libertarian, or a nonbeliever or a Baptist. Those beliefs are part of our identities in the sense that we feel proud to be a skeptic or a Baptist or a liberal, and so on. You know, we take it personally when someone disagrees and it becomes much more quickly an attack on us as a person, as opposed to an attack on something we happen to believe. Thus this is the reason there is the normal decorum rule to not raise politics and religion at a social gathering or on a date.
 
-> All things equal, you want to let a few things into your identity as possible, if you need to have the option to think as clearly as could be expected. 
+> All things equal, you want to let a few things into your identity as possible, if you need to have the option to think as clearly as could be expected.
 
 I will attempt to try not to label myself in any way, with the goal that I don't distort my thinking. So I will keep away from political labels. I will try not to consider myself a vegan or a skeptic." And the issue is only that this isn't strategically doable. Like names are helpful to have the option to simply portray your beliefs and your decisions. What's more, just inwardly, it's presumably not sensible to dispose of all sensations of connection to your convictions about things like politics.
 
