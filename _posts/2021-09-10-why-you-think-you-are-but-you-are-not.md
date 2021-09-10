@@ -17,8 +17,6 @@ We think we see things to be what they are. Also, I regularly see this contentio
 Try to hold your identity more lightly, try to maintain a little bit more emotional distance from your beliefs. Thus you can in any case call yourself, you know, whatever you are, yet attempt to hold that all the more softly. So that involves things like reminding yourself that label is contingent. So indeed, you are whatever you call yourself right now because that label describes your beliefs, but if you were to conclude that belief is wrong or harmful, then you would not hold those beliefs anymore.
 So essentially, you're trying to make the label feel like just a label and not like a flag that you're waving or a badge that you're wearing.
 
-There's a category of people who I believe are somewhat more mindful who might somehow agree and say "Indeed, I'm certain I'm biased with regards to certain things, I'm certain I have a few inclinations," since everybody does. Yet, there will never be a second where they're similar to, "Gracious, indeed, this is a thing that I may be wrong about."
-
 <div align="center">
   <img src="/assets/img/category.gif" alt="category" width="100%" />
   <br>
