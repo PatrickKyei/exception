@@ -8,4 +8,4 @@ order: 4
 > that are driven by  
 > user experience
 
-Visit [my portfolio site](https://dev-path.github.io/jekyll-theme-memoirs/)
+[What Am I Learning?](https://dev-path.github.io/jekyll-theme-memoirs/)
