@@ -10,7 +10,7 @@ People think they see things as they are.
 >
 > There's a group of people who I think are somewhat self-aware who do agree that "Indeed, I'm sure I'm wrong about some things. I'm sure I have some biases," because everyone does.
 
-We think we see things to be what they are. Also, I regularly see this contention on the web. In case somebody's arguing on Twitter, "I'm simply disclosing to you current realities." And it resembles, all things considered, they have their inclination and your political conviction and afterward a strict teaching, and some arrangement of realities that they sort of have misconstrued. Furthermore, one may say, "I'm simply mentioning to you what's directly before the entirety of our eyes," and it's rarely the equivalent. You know, we can get as philosophical as we need concerning how our brains construct reality, but at the end of the day, nobody really seems to see things how they are. All we can do is get close, right?
+We think we see things to be what they are. Also, I regularly see this contention on the web. In case somebody's arguing on Twitter, "I'm simply disclosing to you current realities." And it resembles, all things considered, they have their inclination and their political conviction and afterward a strict teaching, and some arrangement of realities that they sort of have misconstrued. Furthermore, one may say, "I'm simply mentioning to you what's directly before the entirety of our eyes," and it's rarely the equivalent. You know, we can get as philosophical as we need concerning how our brains construct reality, but at the end of the day, nobody really seems to see things how they are. All we can do is get close, right?
 
 ## Hold Your Identity Lightly
 
