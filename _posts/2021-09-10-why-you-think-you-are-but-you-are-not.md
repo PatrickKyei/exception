@@ -21,7 +21,6 @@ So essentially, you're trying to make the label feel like just a label and not l
 
 <div align="center">
   <img src="/assets/img/category.gif" alt="category" width="100%" />
-  <br>
 </div>
 
 At the point when you're wrong or when you're biased, it never really feels like you are in the moment. **So it takes some true sort of confidence** in the external view that like, even though it seems like I'm most certainly right, there is some possibility that I'm not because everybody's biased with regards to bunches of things and I've been biased in the past. Thus you need to sort of do that theoretical jump in your mind to override your certainty that for this situation you're most certainly right.
@@ -52,11 +51,10 @@ So what you can try to do now instead is to just try to hold your identity more 
 
 ## What You Want To Consider
 
-All things considered, I mean, it's additionally for all intents and purposes if you would like to persuade anybody that they're wrong, it's simply an awful strategic choice to make your case in a very self-righteous and self-congratulatory way, because regardless of whether you are correct, regardless of whether you do have valid justifications for holding your belief, assuming you say it simply in a tone dribbling with loftiness, you're not going to change anyone's mind. 
+All things considered, I mean, it's additionally for all intents and purposes if you would like to persuade anybody that they're wrong, it's simply an awful strategic choice to make your case in a very self-righteous and self-congratulatory way, because regardless of whether you are correct, regardless of whether you do have valid justifications for holding your belief, assuming you say it simply in a tone dribbling with loftiness, you're not going to change anyone's mind.
 
 No doubt I believe that is another — people often worry, "Well, you have to hold your belief strongly, or you'll never change the world. You'll never prevail upon hearts and minds," - however practically speaking, more often than not, holding your beliefs strongly tied to your identity makes you worse at effecting change because it makes people not want to listen to you.
 
 <div align="center">
   <img src="/assets/img/argue.gif" alt="category" width="100%" />
-  <br>
 </div>

@@ -28,7 +28,7 @@ The man who gets ready for his all time interview, gets ready early but gets stu
 
 We noticed vivid examples like that, yet when luck plays out as it typically does throughout everyday life, it's in far more subtle ways, and we tend not to see it's significance in those cases. We see successful people, 30 years into their careers, almost all of them are hardworking and talented. There are a few examples to the contrary.
 
-So if you've been successful, you've probably gotten up every day and worked hard right?. 
+So if you've been successful, you've probably gotten up every day and worked hard right?.
 You can recollect endless instances of doing that, even occasions when you didn't feel like it, which is when you're most likely to remember examples. You can remember all the hard problems you solved because you solved so many of them over those years. You remember all the formidable opponents that you had to vanquish along your path to the top.
 
 *So there are simply regular inclinations in human perception to remember the obvious causes of events that we see and to disregard things that don't occur oftentimes or as strikingly.*
@@ -65,6 +65,6 @@ You know, this is always so interesting. I do see a ton of successful people who
 
 > But the idea here is also that when we count the role of luck in our lives, it helps us get a little bit more compassionate for those that don't have it. Not that it's an excuse for other people or anything like that, but at least we're not measuring people by the same measuring stick that we have when we're counting our luck, or I should say discounting our own luck.
 
-And there's a lot here that I think breeds compassion. It breeds a realistic viewpoint of what is possible in our own lives, especially given the amount of luck that you have just by virtue of reading this and understanding English and reading it on your super expensive by most standards in the world, mobile device, using 4G that your country has for you. 
+And there's a lot here that I think breeds compassion. It breeds a realistic viewpoint of what is possible in our own lives, especially given the amount of luck that you have just by virtue of reading this and understanding English and reading it on your super expensive by most standards in the world, mobile device, using 4G that your country has for you.
 
 **I mean, there's endless amounts of things to consider lucky in our lives.**
