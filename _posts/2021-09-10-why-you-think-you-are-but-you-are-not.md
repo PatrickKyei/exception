@@ -29,25 +29,25 @@ At the point when you're wrong or when you're biased, it never really feels like
 
 ## Why We Misunderstand Arguments As People
 
-How we misunderstand arguments is that our brains sort of match them with arguments that we've heard before. So it's so difficult to learn from misunderstanding with people with various perspectives from you, because I think we sort of anticipate that it should be simpler than it is.
+We misunderstand arguments because our brains sort of match them with statements that we've heard before. So it's so difficult to learn from arguments with people with various perspectives from you because I think we sort of anticipate that it should be more straightforward than it is.
 
 ![argue](/assets/img/argue.jpg)
 
-By which, I mean, we will, in general, have this implicit assumption that well, assuming people are being sensible and arguing with the best of intentions, it ought to be clear who's right, and that person should change their perspective. Thus assuming that doesn't occur, you get disappointed and you feel like, "Well, these people are being unreasonable and they're stubborn and close-minded," and you sort of discount them. That assumption kind of backfires and does make it harder for you to learn from disagreements because you end up thinking that everyone is being stubborn and close-minded.  
+By which, I mean, we will, in general, have this implicit assumption that well, assuming people are being sensible and arguing with the best of intentions, it ought to be clear who's right, and that person should change their perspective. Thus assuming that doesn't occur, you get disappointed, and you feel like, "Well, these people are being unreasonable and they're stubborn and close-minded," and you sort of discount them. That assumption kind of backfires and makes it harder for you to learn from disagreements because you think that everyone is being stubborn and close-minded.  
 
 ## Is My Mindset Tied To My Identity?
 
-A lot of things additionally boil down to identity, right? Our identity is often wrapped up in our beliefs. So the most natural instances of beliefs that become part of our identity are politics and religion. Being a liberal or traditionalist, or libertarian, or a nonbeliever or a Baptist, those beliefs are part of our identities in the sense that we feel proud to be a skeptic or a Baptist or a liberal, and so on. You know, we take it personally when someone disagrees with us on these topics and it becomes much more quickly an attack on us as a person, as opposed to an attack on something we happen to believe. Thus this is the reason there is the normal decorum rule to not raise politics and religion at a social gathering or on a date.
+A lot of things, after all, come down to identity, don't they? Our beliefs frequently shape our identity. Politics and religion are the most obvious examples of beliefs that become part of our identity. Being a liberal, traditionalist, libertarian, nonbeliever, or Baptist, for example, is part of our identities in the sense that we are proud to be a skeptic, a Baptist, or a liberal. We take it personally when someone disagrees with us on these topics, and it quickly becomes an attack on us as a person rather than an attack on something we happen to believe. As a result, it is customary not to bring up politics or religion during a social gathering or date.
 
 > All things equal, you want to let a few things into your identity as possible, if you need to have the option to think as clearly as could be expected.
 
-"I will attempt to try not to label myself in any way, with the goal that I don't distort my thinking. So I will keep away from political labels. I will try not to consider myself a vegan or a skeptic." And the issue is only that this isn't strategically doable. Labels are helpful to have the option to simply portray your beliefs and your decisions. What's more, just inwardly, it's presumably not sensible to dispose off all sensations of connection to your convictions about things like politics.
+"I'll try not to label myself in any way, so that my thinking isn't skewed. As a result, I'm going to avoid using political labels. I'm going to try not to think of myself as a vegan or skeptic." The problem is that this isn't a strategic option. Labels are helpful for simply expressing your beliefs and decisions. Furthermore, it's probably not a good idea to reject all feelings of attachment to your political convictions.
 
 ## What Can I Do Instead?
 
 ![instead](/assets/img/instead.jpg)
 
-So what you can try to do now instead is to just try to hold your identity more lightly, attempting to keep somewhat a little bit more emotional distance from your beliefs. Thus you can in any case call yourself, you know, a skeptic or anything you desire, however, attempt to hold that all the more gently. So that involves things like reminding yourself that label is contingent. So yes, I'm a religious activist because that label just best describes my beliefs. But if I were to conclude that activism is wrong or harmful, then I would not be an activist anymore. So essentially you're trying to make the label feel like just the label and not like a flag that you're waving or a badge that you're wearing.
+So, instead, you can try to hold your identity more lightly, attempting to maintain a little bit more emotional distance from your beliefs. Thus, you can call yourself a skeptic or whatever you want; however, try to do so with caution. That entails things like reminding yourself that the label is conditional. So, yes, I'm a religious activist because it best describes my beliefs. But if I concluded that activism is wrong or harmful, I would cease to be an activist. So, essentially, you're attempting to make the label feel like it's just a label, rather than a flag you're waving or a badge you're wearing.
 
 ## What You Want To Consider
 

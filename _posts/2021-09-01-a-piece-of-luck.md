@@ -9,27 +9,27 @@ tags: [success, luck, destiny, opportunity]     # TAG names should always be low
 
 ## Perspectives
 
-People  have distinctive methods of parsing events and I won't quarrel with anyone's view on that.
+People have distinctive methods of parsing events, and I won't quarrel with anyone's view on that.
 
-There's a great deal of conversation around luck, both in the political sphere, in the business sphere, in the economic sphere, you can truly isolate those things. Just as far as we could tell.
+There's a great deal of conversation around luck, both in the political, business, and economic spheres; you can genuinely isolate those things just as far as we can tell.
 
-We're only sort of terrible as people in assessing what is attributable to luck.
+We are just awful as people to evaluate the attributes of luck.
 
 > What luck even is? We're not really sure a lot of the time.
 
-The number of times when we've been affected by luck is countless. Furthermore, it's not my highlight attempt to recommend that I'm more perceptive than others, that I notice these things and the vast majority don't. It's simply that in the event that you get hit over the head hard enough by luck, you will see that.
+There are countless times when we have had luck. In addition, it's not my highlight to recommend that I am more aware of these things than others and that the vast majority are not. It's just that if you get hit hard enough by luck over your head, you'll see.
 
 ![lottery](/assets/img/lottery.jpg)
 
 ## Scenarios
 
-Someone wins the lottery, we say that individual was truly lucky.
-The man who gets ready for his all time interview, gets ready early but gets stuck in the middle of the road due to a car breakdown and misses his interview, I will say he was very unlucky.
+When someone wins the lottery, we say that person was indeed lucky.
+I will say that the man who gets ready for his all-time interview, gets prepared early, but gets stuck in the middle of the road due to a car breakdown and misses his interview, was very unlucky.
 
-We noticed vivid examples like that, yet when luck plays out as it typically does throughout everyday life, it's in far more subtle ways, and we tend not to see it's significance in those cases. We see successful people, 30 years into their careers, almost all of them are hardworking and talented. There are a few examples to the contrary.
+We saw vivid examples like that, but when luck acts in the way it usually does in everyday life, it does so in far more subtle ways, and we tend to overlook its significance in those cases. We see successful people who have been in their careers for 30 years, and almost all of them are hardworking and talented. There are a few instances where this is not the case.
 
-So if you've been successful, you've probably gotten up every day and worked hard right?.
-You can recollect endless instances of doing that, even occasions when you didn't feel like it, which is when you're most likely to remember examples. You can remember all the hard problems you solved because you solved so many of them over those years. You remember all the formidable opponents that you had to vanquish along your path to the top.
+So, if you've been successful, you've most likely worked hard every day, right?
+You can recall a plethora of instances of doing so, even when you didn't feel like it, which is when you're most likely to recall examples. Because you solved so many difficult problems during those years, you can recall all of them. You recall all of the formidable foes you had to overcome on your way to the top.
 
 *So there are simply regular inclinations in human perception to remember the obvious causes of events that we see and to disregard things that don't occur oftentimes or as strikingly.*
 
@@ -37,15 +37,15 @@ If you had to battle against an obstacle you're hyper-aware of that, you remembe
 
 ![talent](/assets/img/talent.jpg)
 
-If you succeeded, it wasn't just because of things you had done yourself but community had a hand in it too. And part of the social contract is to pay forward. So that the next group that comes along will have its shot at success.
+If you were successful, it wasn't just because of your own efforts; the community also played a role. And paying it forward is part of the social contract. So that the next group that comes along has a chance at success.
 
-And it really depends on how you raise the subject in the first place. How people will react to it?
+And it all comes down to how you bring up the subject in the first place. How will people react to it?
 
-If you tell people that they were lucky to be in a certain environment, they blow up. What I found out, and this was very coincidentally, was that if you take a slightly different approach, if you say to a successful friend, *"Would you be able to think about any instances of best of luck you enjoyed along your way to the top?"* You don't get an angry or defensive reaction if you just ask that question. People think about it, their eyes light up when they can think of an example of good luck that they have.
+People become enraged when they are told that they are fortunate to be in a particular environment. What I discovered, by chance, was that if you take a slightly different approach, if you ask a successful friend, *"Would you be able to think about any instances of best of luck you enjoyed along your way to the top?"* If you simply ask that question, you will not elicit an angry or defensive response. When people think about it, their eyes light up when they recall an instance of good luck.
 
-They want to tell you about it. And in the act of telling you about it, that kindles a memory of another example of luck that they enjoyed. And then they're telling you about three or four, and then suddenly they're engaged in a conversation.
+They'd like to tell you all about it. And the act of telling you about it jogs their memory of another instance of good luck. Then they're telling you about three or four, and then they're having a conversation.
 
-So you've got to be careful not to appear to be saying, "Oh, you're successful. You don't deserve that,"-because that's not the message.
+So be cautious not to appear to be saying, "Oh, you've had a lot of success. You do not deserve it, "-because that's not the point.
 
 ## How  to Increase your Chances of Been Lucky
 
@@ -55,16 +55,16 @@ What about the network effect? How does that exacerbate the effect of luck?
 
 > The number of chances you have to get lucky when things aren’t going your way is through your network.
 
-The things we do often are more important to us if more other people are doing the same things we're doing. So you want to read a book? What book would it be advisable to pursue? You could say, "I simply need to read the best book and that is all I care about." But another thing you probably care about in addition to reading the best book is to have an opportunity to discuss the book you read with other people. And you can't do that if you read a book that no one else reads.
+The things we do are often more important to us if more people are doing the same things we are. So you want to read a book? What book should I read? "I just want to read the best book," you could say. But, aside from reading the best book, you probably want to be able to discuss it with other people. And you can't do that if you read a book that no one else reads.
 
-And so if you have two books of equivalent quality, you will get a similar advantage from pursuing one as the other, except if one has a more grounded readership. One's on the best seller list and the other one isn't. Then in addition to getting the same enjoyment you would have from reading the other book, you're going to also enjoy more opportunities to discuss that book with friends who will have read it as well. So when that's true, the saying, **"Success breeds success," holds with vengeance.**
+So, if you have two books of equal quality, pursuing one will give you a similar advantage as pursuing the other, unless one has a more grounded readership. One is a best-seller, while the other isn't. Then, in addition to getting the same enjoyment from reading the other book, you'll have more opportunities to discuss it with friends who will have also read it. When that is true, the adage **"success breeds success" holds true with vengeance.**
 
 ## The Acknowledgement Effect
 
-You know, this is always so interesting. I do see a ton of successful people who just don't even understand or just flat out refuse to acknowledge the role that luck has in their success. And for me, I'm constantly trying nowadays to count my blessings. Where was I lucky? Of course there's gratitude involved, right? I'm so lucky that this happened. I'm so lucky I was born in this generation, for example. I'm so lucky that I got great people around me and that I didn't screw up my life. I haven't been hit by a bus lately or ever for that matter now.
+You know, this is always fascinating. I see a lot of successful people who don't understand or refuse to acknowledge the role that luck plays in their success. And I'm constantly trying to count my blessings these days. Where have I been lucky? Isn't there a sense of gratitude involved? I consider myself extremely fortunate that this occurred. For example, I consider myself extremely fortunate to have been born in this generation. I'm so grateful that I have wonderful people in my life and that I haven't messed up my life. I haven't been hit by a bus in a long time, if ever.
 
-> But the idea here is also that when we count the role of luck in our lives, it helps us get a little bit more compassionate for those that don't have it. Not that it's an excuse for other people or anything like that, but at least we're not measuring people by the same measuring stick that we have when we're counting our luck, or I should say discounting our own luck.
+> However, the idea here is that counting the role of luck in our lives helps us become a little more compassionate for those who do not have it. Not that it's an excuse for other people or anything, but at least we're not using the same measuring stick when we're counting our luck, or should I say discounting our own luck.
 
-And there's a lot here that I think breeds compassion. It breeds a realistic viewpoint of what is possible in our own lives, especially given the amount of luck that you have just by virtue of reading this and understanding English and reading it on your super expensive by most standards in the world, mobile device, using 4G that your country has for you.
+And there's a lot here that I believe fosters compassion. It fosters a realistic vision of what is possible in our own lives, especially considering the amount of luck that you have just by virtue of reading this and understanding English and reading it on your highly expensive by most standards in the world, mobile gadget, utilizing 4G that your country has for you.
 
 **I mean, there's endless amounts of things to consider lucky in our lives.**
