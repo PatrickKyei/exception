@@ -7,33 +7,40 @@ tags: [secret, creativity, thinking, life]     # TAG names should always be lowe
 
 > It is transformational when someone teaches you how to be purposeful about your thoughts, how to take charge of your life and your brain.
 
-We are living in a very intriguing and strange epoch. Most economics and social scientists would agree that the world is actually changing around us. We are in the midst of an economic revolution that will radically alter our society in the same way that the industrial and agricultural revolutions did. The issue with situations like these is that they are really stressful. If you go back a hundred years and look at diaries from the industrial revolution, you'll see people freaking out about how the world is changing and feeling utterly unsure.
+We are living in a very intriguing and strange epoch. Most economics and social scientists would agree that the world is changing around us. We are in the midst of an economic revolution that will radically alter our society in the same way that the industrial and agricultural revolutions did. The issue with situations like these is that they are stressful. If you go back a hundred years and look at diaries from the industrial revolution, you'll see people freaking out about how the world is changing and feeling utterly unsure.
 
-And at the heart of these shifts are generally disputes about the meaning of productivity. Is it more productive for me to just generate reminders, or is it more effective for me to think and come up with a fantastic idea? Is it more productive for me to spend time with my family and be happy? A debate about productivity is taking place now in a way that our parents and grandparents had not have to deal with. 
+And at the heart of these shifts are generally disputes about the meaning of productivity. Is it more productive for me to just generate reminders, or is it more effective for me to think and come up with a fantastic idea? Is it more productive for me to spend time with my family and be happy? A debate about productivity is taking place now in a way that our parents and grandparents did not have to deal with. 
 
-And it's quite fine for folks to be concerned about it. They should not feel terrible about their anxiety. It's merely a feature of the time, but there is a solution. The solution is to figure out how to drive yourself to think more, to focus on the right goals, to create to-do lists correctly, to become an innovation broker, and to construct mental models so you can focus better. For the first time, we have a good enough understanding of how the brain works to be able to control our thoughts and become more effective. Teaching oneself to think more helps to alleviate anxiety. Because once you have power over your thoughts, there is nothing you can't accomplish.
+And it's quite fine for folks to be concerned about it. They should not feel terrible about their anxiety. It's merely a feature of the time, but there is a solution. The solution is to figure out how to drive yourself to think more, to focus on the right goals, to create to-do lists correctly, to become an innovation broker, and to construct mental models so you can focus better. 
+
+For the first time, we have a good enough understanding of how the brain works to be able to control our thoughts and become more effective. Teaching oneself to think more helps to alleviate anxiety. Because once you have power over your thoughts, there is nothing you can't accomplish.
 
 Making a decision that gives you a sense of control makes it much simpler to engage the areas of your brain that govern motivation, which works extremely well for little activities.
 
-I believe there is a basic lesson here, which is that we are living in a moment of fast change and economic revolution on portions of the agricultural and industrial revolutions, as well as a cultural revolution. It is easy to get so preoccupied that you cease being productive.
+I believe there is a basic lesson here, which is that we are living in a time of rapid change and it It is all too easy to become so distracted that you stop being productive.
 
-And you can become so busy that you lose the capacity to focus on those things that are actually important. 
+And you might get so preoccupied that you lose the ability to focus on what is truly essential.
 
-That you'll have time to really focus on the things that matter. And so when we talk about knowing how to think as much as what we think about, what we're really talking about is these lessons from neurology and from psychology and from behavioral economics that tell us how to structure our thinking, how to build what psychologists refer to as contemplative routines that allow us to stay focused on the things that matter the most.
+When we say that understanding how to think is just as important as knowing what to think about, we're talking about lessons on how to structure our thinking and create routines that help us to stay focused on the most important things.
 
-So contemplative routines are essentially habits that we build that give us the space to think about the right thing
+Routines that we build essentially give us the space to think about the right things.
 
-It's any habit that we get into that pushes us to think a little bit more. The thing that distinguishes the most productive people from everyone else is that they have these habits that push them to think a little bit more about what's going on.
+The thing that differentiates the most productive individuals from everyone else is that they have these routines that force them to think about what's happening a little bit more.
 
-So for me, one of my big contemplative routines besides every morning, is sort of write my thought process down, documents ideas that pop up im my head and later post it somewhere I can regualarly see and think about a little bit more. 
+So, in addition to every morning, one of my major contemplative habits is to write down my thinking process, record thoughts that come to me, and subsequently put it somewhere I can see it and think about it a little bit more.
 
-I have found that for me, pending down my thoughts helps me to understand my hold that idea, it pushes me to think a little bit more deeply about like, why did I think this process was right? And sometimes they're hard, but that ended up being the most meaningful. 
+I've discovered that writing down my thoughts helps me comprehend why I have that idea; it forces me to think a little more thoroughly, such as, "why did I believe this method was right?" And while they might be difficult at times, they have proven to be the most significant.
 
-You know, one of the big challenges in contemporary life is that simply all of us want to think more, rigeht? There's nobody out there who says, "I really wish I was thinking less about the important things each day," and yet one of the challenges is that oftentimes we get so wrapped up that we forget to think.
-Not because we don't like thinking, but because there's always a thousand things on your to-do list before you think about the problem in front of you, or think about your priorities.
+You know, one of the major difficulties in modern life is that we all want to think more, right? Nobody says, "I wish I was thinking less about the essential things each day," but one of the problems is that we frequently get so caught up that we forget to think.
 
-There are so many times we really learn things and we just don't absorb them. 
+Not because we dislike thinking, but because there are always a thousand items on your to-do list before you can think about the matter at hand or your priorities.
 
-Well, one of the things that we find is the most productive people, they tend to have this kind of check in system. Where very frequently on a Sunday afternoon, they'll set aside two hours and they'll say, "For these two hours, I'm going to look at what happened in the past week and I'm going to plan the coming week," or they have a regular meal once every three weeks with one of their best friends. And at that meal, they do the same thing every time they talk about what's happened in the last three weeks, the best ideas that they've been exposed to and they describe those ideas. And then what they're excited about, that's coming up in the next three weeks. We think of those things as things that like our social opportunities, right? That we tell our friends about ideas because we want to educate them. But what's actually happening is that we're educating ourselves. We're remembering the most important idea. We're rephrasing that idea in a way that forces us to make sense of it, to see how it actually interacts with our life and how we can use it. 
+> Many times, we learn things but do not retain them.
 
-And the people who recognize what implications their behaviors have, the people who recognize how to discipline their own thoughts and their own actions, those are the people who tend to engage more in these contemplative routines. They tend to have these practices, these habits that force them to think about what's really going on. And that really pays off over the long run.
+One of the things we've discovered is that the most productive people have this type of check-in mechanism. Where they will regularly set aside two hours on certain days and say, "For these two hours, I'm going to look at what occurred in the past week and I'm going to plan the future week," or they will have a regular lunch once every three weeks with one of their greatest friends.
+
+And during that dinner, they always do the same thing: they speak about what's happened in the past three weeks, the finest ideas they've been exposed to, and they explain those ideas. Then they talk about what they're looking forward to in the following three weeks. We conceive of those as things we do like our social freedom, right? That we share ideas with our friends in order to educate them. But what's really going on is that we're educating ourselves. We're recalling the most important ideas.
+
+We're rephrasing that concept in such a manner that it pushes us to make sense of it, to understand how it connects with our lives and how we might apply it.
+
+People who understand the repercussions of their acts, who understand how to control their own thoughts and actions, are the ones who participate in these meditative routines the most. They have these routines, these habits that drive them to consider what is truly going on. And it's a strategy that pays off in the long term.
