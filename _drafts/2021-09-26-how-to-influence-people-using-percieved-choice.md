@@ -1,6 +1,6 @@
 ---
 title: How To Influence Other People With Percieved Choice
-date: 2021-09-26 22:35:00 +00
+date: 2021-09-25 22:35:00 +00
 categories: [Influence, Choice]
 tags: [secret, creativity, thinking, life]     # TAG names should always be lowercase
 ---
