@@ -17,11 +17,15 @@ One may ask why it's even necessary when people try to push you back all the tim
 
 What are some methods to use when people  shut you down aggressively in a conversation?
 
+![walking past](/assets/img/walking-past.jpg)
+
 If people in a conversation are giving you one-word answers, they are often shy and less skilled in conversation or more because they don't like you or possibly because they are not in the mood to talk. You can figure out which one is it by asking an open-ended question that is not a yes or no question. If you do this and they give you the shortest answer possible, disengage; they don't want to talk for some reason. There's no point in figuring out why. If they don't like you, who cares. It's not relevant most of the time. If they don't wanna talk, fine, not really your problem. Obviously, if this is family, friend, or work colleague, you might wanna investigate another time; not at the moment, that's just annoying. But if it's a stranger, just cut bait and move on. Zero-point trying to get blood from a stone. If they are just shy, asking open-ended questions will help them open up and keep the conversation going.
 
 ## Use Question Statement Strategy
 
 Instead of asking questions, use the question-answer statement formula. Instead of asking a question and getting an answer and asking another question, which just starts to feel like an interrogation - you ask the question, get the answer, then make a statement that relates to that question before asking another question. This makes things more conversational.
+
+![questionaire](/assets/img/questionaire.jpg)
 
 For example, the usual way people have conversation is like this:
 
