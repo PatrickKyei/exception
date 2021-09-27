@@ -31,7 +31,7 @@ Making a decision that gives you a sense of control makes it much simpler to eng
 
 ## Making Your Thought Process More Intentional
 
-I believe there is a basic lesson here, which is that we are living in a time of rapid change and it It is all too easy to become so distracted that you stop being productive.
+I believe there is a basic lesson here, which is that we are living in a time of rapid change and it is all too easy to become so distracted that you stop being productive.
 
 And you might get so preoccupied that you lose the ability to focus on what is truly essential.
 
