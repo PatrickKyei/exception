@@ -59,7 +59,7 @@ One of the things we've discovered is that the most productive people have this 
 
 ![dinner](/assets/img/dinner.jpg)
 
-And during that dinner, they always do the same thing: they speak about what's happened in the past three weeks, the finest ideas they've been exposed to, and they explain those ideas. Then they talk about what they're looking forward to in the following three weeks. We conceive of those as things we do like our social freedom, right? That we share ideas with our friends in order to educate them. But what's really going on is that we're educating ourselves. We're recalling the most important ideas.
+And during that dinner, they always do the same thing: they speak about what's happened in the past three weeks, the finest ideas they've been exposed to, and they explain those ideas. Then they talk about what they're looking forward to in the following three weeks. We conceive of those as things we do in our social freedom, right? That we share ideas with our friends in order to educate them. But what's really going on is that we're educating ourselves. We're recalling the most important ideas.
 
 We're rephrasing that concept in such a manner that it pushes us to make sense of it, to understand how it connects with our lives and how we might apply it.
 
