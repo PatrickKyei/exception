@@ -36,7 +36,6 @@ As a result, we might argue that meaning is the what and purpose is the how. And
 
 ![parenting](/assets/img/parenting.jpg)
 
-
 But if you ask someone who is raising three children or a mother, I doubt they will say their life is pointless. But we believe that unless we turn this hobby into a job, we have failed. Many people believe that someone who is working on their so-called purpose as part of their professional identity is more meaningful or purpose-driven than a mother who receives a great deal of meaning from raising her children. However, these two things are equally important to those two persons. It all boils down to what they value and how they live their lives.
 
 The crucial thing to realize is that humans have an innate need to discover, investigate, and expand meaning. Our purpose is to investigate this meaning, and when those two things align, life becomes a lot more interesting. Simply put, meaning is discovering our life's significance in general. And "purpose" is essentially the means through which we attempt to find that meaning. And I believe it is critical to keep it as basic as possible since it does not need to be complicated; otherwise, we will not find it.
@@ -64,7 +63,6 @@ One of the most important is relationships. It could be a romantic or love relat
 Another big one is beauty. Which I think includes art, nature and any connection we have to what we find interesting or stimulating out in the world.
 
 ![beauty](/assets/img/beauty-power.jpg)
-
 
 Another is suffering, which is a strange way of saying we may take meaning from this really terrible experience. But the point is, suffering is a great teacher. It's not always instantly useful, and it's not something we'd want to join up for. But how many people have gone through really difficult situations just to learn that it was precisely those conditions that provided them with so much? You can get a lot of things. Whether they suffered through a breakup, lost a job, or lost a loved one.
 
@@ -101,4 +99,3 @@ It is also vital to highlight that you must be willing to be lost. And many of u
 I believe that anybody who has discovered their purpose has experienced periods of uncertainty, perplexity, and intense self-doubt. And the strange thing is that people don't want to talk about it because it's not very interesting, and once you're on the other side, you forget how frightening it was.
 
 **There is a journey that is not fully logical and is really challenging. But if you keep paying attention to what you find meaningful and expand on it, those periods of uncertainty and self-doubt will nearly always turn out to be the pathways to your mission.**
-
