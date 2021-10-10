@@ -47,7 +47,7 @@ Stories are what make information relevant and impact our emotions. Stories are 
 
 One of the most difficult problems for speakers is that they like talking. They could go on and on about these topics that they are so enthusiastic about and like. People want to hear it, but they don't have time for it. And they want to remember what they hear.
 
-### Tips and approaches for telling a story and presenting
+### Tips and approaches for telling a story and presenting your ideas
 
 * Try to be concise with your message
 
