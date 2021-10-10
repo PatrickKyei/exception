@@ -1,6 +1,6 @@
 ---
 title: Communicate Your Ideas Effectively
-date: 2021-08-11 22:35:00 +00
+date: 2021-10-10 20:00:00 +00
 categories: [Ideas, Communication]
 tags: [communication, ideas, storytelling, message]     # TAG names should always be lowercase
 ---
