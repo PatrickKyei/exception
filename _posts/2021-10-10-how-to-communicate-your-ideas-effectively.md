@@ -1,5 +1,5 @@
 ---
-title: Communicate Your Ideas Effectively
+title: How To Communicate Your Ideas Effectively
 date: 2021-10-10 20:00:00 +00
 categories: [Ideas, Communication]
 tags: [communication, ideas, storytelling, message]     # TAG names should always be lowercase
@@ -23,7 +23,7 @@ So, once again, pen and paper are my go-to tools. It's generally a good idea to 
 
 Create spokes radiating from the center of the circle to emphasize these various areas of interest. One of the reasons I enjoy mind mapping so much is because it allows you to make connections that you would not have made otherwise.
 
-A simple way to mind map is by to start by putting a subject in the middle of the page. From there, you can draw spokes out from the main ideas and write words or draw pictures at the end of each one. You can continue drawing spokes out from each new idea/image, or connect existing ones by drawing lines between them. Of course, this method can be adapted to suit your own personal style. As long you write down words, images, or ideas and connect them, you’re following the mind-mapping method!
+A simple way to mind map is to start by putting a subject in the middle of the page. From there, you can draw spokes out from the main ideas and write words or draw pictures at the end of each one. You can continue drawing spokes out from each new idea/image, or connect existing ones by drawing lines between them. Of course, this method can be adapted to suit your own personal style. As long you write down words, images, or ideas and connect them, you’re following the mind-mapping method!
 
 ## Storyboards
 
@@ -33,9 +33,9 @@ Storyboards are an excellent method to visually explore ideas and experiences. I
 
 If you wish to work on your first storyboard, consider the following. Consider where you'll be in a year. How does that scene look? Draw it, but also give it a title. It's a good idea to provide a date just so you have something to refer to. As we acquire more data, it may get overwhelming, so knowing when you produced something is helpful.
 
-They're also a fantastic method to engage with team members and communicate with different stakeholders and those involved in the process, in addition to working through your own ideas visually.
+If you are with a team they're also a fantastic method to engage with team members and communicate with different stakeholders and those involved in the process, in addition to working through your own ideas visually.
 
-Another exciting aspect of storyboards is that you never know where a project will take you. Another thing I enjoy doing when I'm going through these visual experiments is documenting my work. It not only helps me discover it later, but it's also something I might use in a future presentation or pitch. And, as I previously stated, I'm a terrible drawing, but it's all about the concepts here.
+Another exciting aspect of storyboards is that you never know where an idea will take you. Another thing I enjoy doing when I'm going through these visual experiments is documenting my work. It not only helps me discover it later, but it's also something I might use in a future presentation or pitch. And, as I previously stated, I'm a terrible at drawing, but it's all about the concepts here.
 
 ## Storytelling
 
