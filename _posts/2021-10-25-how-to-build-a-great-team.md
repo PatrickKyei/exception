@@ -62,7 +62,7 @@ Let's jump ahead three years and eliminate the nonsense immediately. Let's move 
 Ambition is the most crucial factor in achieving success, which seems logical, doesn't it? And I'm curious if you discovered this; it's very simple to think that other people have the same amount of ambition as you, but statistically, that's just not going to be the case, right?
 It needs a certain level of determination. And the more ambitious you are, the more obstacles you will be able to conquer.
 
-## Create A Tea Of Thinkers And Perfomers
+## Create A Sea Of Thinkers And Perfomers
 
 Create a team where each individual is a creative thinker and perfomer. So you're not like the bottom of this infrastructure, where if one peg falls for any reason, everyone else falls. You have folks that conduct your daily stand-up meetings and are in charge of uncovering new possibilities and bringing in talents, correct? You have many branches or components of the firm or product you are working on that are operated independently by individuals you trust. So, if something goes wrong with any other aspect of your organization — it's like the Internet, if one node goes down, the rest of the nodes just take over. And it's almost as if no one has to realize that there's an issue. So you can start to work on correcting it.
 
