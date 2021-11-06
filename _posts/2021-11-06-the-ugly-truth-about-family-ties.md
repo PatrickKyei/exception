@@ -1,8 +1,8 @@
 ---
-title: How To Break Away From Crippling Family Ties And Grow
-date: 2021-08-11 22:35:00 +00
-categories: [Conversations, Communication]
-tags: [communication, difficult, resolution]     # TAG names should always be lowercase
+title: 	The Ugly Truth About FAMILY TIES
+date: 2021-06-11 15:55:00 +00
+categories: [Family, Career]
+tags: [family, goals, careers, decisions, growth, life]     # TAG names should always be lowercase
 ---
 
 ![networking](/assets/img/Networking.jpg)
@@ -12,9 +12,11 @@ tags: [communication, difficult, resolution]     # TAG names should always be lo
 If you've ever lived in a typical African household, particularly a Ghanaian family home, you've definitely witnessed how strong the bonds between parents and children can become. This is wonderful, yet the same positive thing can also stifle one's development.
 
 It's a widely held belief that a child will always be a child to their parents, particularly their mother. And this is a typical occurrence in Ghanaian society. Even in their 20's and 30's, some African parents treat their children as if they were teens. This is in stark contrast to the way a Western family or household views the parent-child connection. There would have been nothing wrong with this, but it is impacting how youngsters (the youth) think for themselves and take action to investigate new opportunities that would improve their life.
+
 ## The Downside Of Attachment
 
 They develop a strong attachment to their parents and rely on them to guide them in every decision they make in life, eventually becoming more reliant on them. One of the tasks of parenting is to help children become self-sufficient and capable of making decisions about their own life, but this does not mean that parents must make all of their children's decisions. A youngster raised in a Western family is more likely to take the initiative to explore areas of personal growth, which is why so many of them have gone on to become inventors and worldwide innovators.
+
 ## Growth And The Need For Change
 
 As we get older, we have our own ambitions, objectives, and goals that may differ significantly from those that our parents had in the past or even imagined for us. This is a wonderful thing, but parents and children must recognize that they will no longer be able to live with their parents at some time in their lives. Especially if you want to have your own family and pursue your dreams and goals. As a result, breaking away from your parents and the familial bonds you've grown up with may be necessary.
