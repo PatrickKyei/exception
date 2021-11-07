@@ -5,7 +5,7 @@ categories: [Family, Career]
 tags: [family, goals, careers, decisions, growth, life]     # TAG names should always be lowercase
 ---
 
-![family bond](/assets/img/Networking.jpg)
+![family bond](/assets/img/old-ways.jpg)
 
 ## The Old Way
 
