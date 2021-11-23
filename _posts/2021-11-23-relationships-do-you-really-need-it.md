@@ -5,22 +5,31 @@ categories: [Relationships, Communication]
 tags: [relationships, habits, goals, adventure]     # TAG names should always be lowercase
 ---
 
-![networking](/assets/img/Networking.jpg)
+![relationships](/assets/img/need-relationships.jpg)
 
-You can ask yourself a really important question that some people never ask themselves.
+You may ask yourself a critical question that many people never ask themselves. Do I Really Need Relationships?
 
-Invest in great relationships - I'm not talking about finding a partner or a spouse. What I mean is developing meaningful connections with friends, colleagues, mentors, bosses, peers and anyone really that you like and admire.
-> All of the research shows that the quality of our relationships determines most of the happiness in our lives.
-Having strong friendships to fall back on, that's a great way to create opportunities in life for yourself. So if I were you I'd be actively working on meeting new people and taking a chance on sharing yourself with them.
+Invest in wonderful relationships – and I don't mean finding a companion or a marriage. I'm talking about making genuine connections with friends, coworkers, mentors, bosses, peers, and anybody else you like and appreciate.
 
-And I'd also consider deepening the relationships you already have with your parents, siblings, old friends and whoever it is because investing in those relationships will also be a big part of really living in your thirties. I wouldn't fix it on getting married or finding a spouse or anything like that. Just focus on the people in front of you and see where those relationships take you.
+> All of the studies indicates that the quality of our connections affects the majority of our pleasure in life.
+Having good friendships to depend on is a terrific approach to generate possibilities for yourself in life. So, if I were you, I'd be actively seeking out meeting new people and taking the chance of expressing myself with them.
 
-At the same time start exploring something that you care about. I'm not just talking about you throwing yourself into your career. If this aligns with your career great, but that can come later. I'm talking about finding something that really lights you up. It could be an issue and activity a puzzle a problem a sport a goal a craft a game anything really.  So just to put it, literally play around, explore, find that thing and then take tiny steps towards it every day. Forget the bigger picture, forget making money. Just follow your curiosity for now. If you do this consistently it will slowly nudge you towards your "purpose" - you know I know that word's overused but this is really what it means here. But honestly doing something you really care about it, doesn't even need to become something that profound. It can just be fun, it can just be interesting.
+And I'd also think about expanding your existing connections with your parents, siblings, old friends, and anybody else you have, since investing in those relationships is an important element of truly living in your early days. I wouldn't base it on getting married, finding a partner, or anything else like that. Simply pay attention to the individuals in front of you and see where your interactions lead you.
 
-I'm actually a big fan of starting small here. Small is okay. Also invest in yourself, read a ton, share what you learn with the people you know. Maybe even with a few people you don't know yet. Apply what you learn to new situations and new problems.
+![interests](/assets/img/interests.jpg)
 
-Become a real nerd about one or two things that you care about. Also this one's obvious but it's crucial, take care of yourself. Eat well, exercise regularly. This will work wonders for anxiety and depression. I know you've heard it before it'll also make the rest of your life so much better honestly. I'd make this a top five priority no matter what, it is a game changer.
+At the same time, start investigating anything that interests you. I'm not just talking about you pouring your heart and soul into your job. If this coincides with your job goals, that's fantastic, but it can wait. I'm referring to discovering something that truly energizes you. It might be a problem, an activity, a puzzle, a sport, a goal, a craft, a game, or anything else at all. To put it simply, play around, investigate, find that thing, and then take baby steps toward it every day. Forget the larger picture, and forget about generating money. For the time being, just pursue your interest. If you do this regularly, it will gradually pull you towards your "purpose" - I know that phrase is overused, but that is exactly what it implies here. But, to be honest, doing something you're passionate about doesn't have to be that significant. It might just be entertaining or fascinating.
 
-And face difficult situations in your life headson. Get into more existential questions like, "what should my life be about and what is it all mean and what do I do with all these feelings I have about my past and my purpose'. Find someone good. Somebody who gets you and challenges you and start talking. And finally I would try to go on some adventures. A lot of what I am doing and plan to do more of is to travel around and get a ton of new experiences. Getting new experiences light me up of course but it also exposed me to new ways of thinking, living, eating etc that helped me grow really quickly. I grew up quickly and I got a ton of life experience in a much shorter time than my peers and it helped me be kind of ahead of the game. And a lot of ways this might help you make up for some loss time as well without actually taking a decade to do it.
+In fact, I'm a strong advocate in starting small. Small is ok. Also, invest in yourself by reading a lot and sharing what you learn with those you know. Perhaps even with a few folks you haven't met yet. Apply what you've learned in new scenarios and situations with new issues.
 
-So go get it buddy, I know you might be a little late to the party but that does not matter. You are at the party and you are still so young. You have plenty of time to live your life, so good luck.
+Become a true enthusiast about one or two topics that interest you. Also, and this should go without saying, take care of yourself. Eat healthily and exercise on a regular basis. This will be quite beneficial for anxiety and despair. I know you've heard it before, but it'll also make the rest of your life so much better. This is a game changer, thus I'd make it a top five priority anyway.
+
+![headon](/assets/img/face-headon.jpg)
+
+And deal with problems in your life front on. Inquire about deeper existential issues, such as "what should my life be about, what does it all mean, and what should I do with all these sentiments I have about my history and my purpose?" Find a decent person. Someone who understands you, pushes you, and initiates conversation.
+
+![adventures](/assets/img/adventures.jpg)
+
+Finally, I'd like to attempt some new experiences. A lot of what I'm doing and intend to do more of is traveling around and gaining a plethora of new experiences. Experiencing new things excites me, but it also exposes me to different ways of thinking, living, eating, and so on, which has allowed me to grow fast. I grew up rapidly and gained a lot of life experience in a much shorter period of time than my contemporaries, which helped me get a head start. And in many respects, this might help you make up for lost time without taking a decade.
+
+So go grab it, buddy. I know you're a bit late to the party, but that doesn't matter. You're at the party, and you're still so young. You have plenty of time to enjoy your life, so good luck.
