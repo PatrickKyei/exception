@@ -47,7 +47,7 @@ Because just a few things will be significant in three years. You may be dealing
 
 > Continue to invest in your abilities and connections because they are what will rescue you. Start putting things together in a way that allows you to pursue your job. If you put in the effort, you can always carve your own route in life.
 
-Networking with leaders and individuals who have gone before you in your business is not meaningless; what you should learn is "how do I master the art of networking, how do I master the skill of meeting wonderful people in the sector I want to enter and use it for my career? Because, to be honest, there is no virtue in sitting about and doing nothing. It makes you no more ethical than anyone else. It certainly does not increase your chances of success. I'd prefer you take up your paddle and row your boat of life, deciding whether or not you want to live the life you so desperately desire. Decide on it and go for it.
+Networking with leaders and individuals who have gone before you in your career is not meaningless; what you should learn is "how do I master the art of networking, how do I master the skill of meeting wonderful people in the sector I want to enter and use it for my career? Because, to be honest, there is no virtue in sitting about and doing nothing. It makes you no more ethical than anyone else. It certainly does not increase your chances of success. I'd prefer you take up your paddle and row your boat of life, deciding whether or not you want to live the life you so desperately desire. Decide on it and go for it.
 
 ## Cultivate A Beginner Mindset
 
