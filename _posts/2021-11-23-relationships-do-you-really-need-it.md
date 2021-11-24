@@ -34,23 +34,3 @@ And deal with problems in your life front on. Inquire about deeper existential i
 Finally, I'd like to attempt some new experiences. A lot of what I'm doing and intend to do more of is traveling around and gaining a plethora of new experiences. Experiencing new things excites me, but it also exposes me to different ways of thinking, living, eating, and so on, which has allowed me to grow fast. I grew up rapidly and gained a lot of life experience in a much shorter period of time than my contemporaries, which helped me get a head start. And in many respects, this might help you make up for lost time without taking a decade.
 
 So go grab it, buddy. I know you're a bit late to the party, but that doesn't matter. You're at the party, and you're still so young. You have plenty of time to enjoy your life, so good luck.
-
-{% if page.comments %} <div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://patrickkyei-com-1.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> {% endif %}
