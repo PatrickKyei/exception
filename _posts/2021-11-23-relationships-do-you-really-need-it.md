@@ -9,7 +9,7 @@ tags: [relationships, habits, goals, adventure]     # TAG names should always be
 
 You may ask yourself a critical question that many people never ask themselves. Do I Really Need Relationships?
 
-Invest in wonderful relationships – and I don't mean finding a companion or a marriage. I'm talking about making genuine connections with friends, coworkers, mentors, bosses, peers, and anybody else you like and appreciate.
+Invest in meaninful relationships – and I don't mean finding a companion or a marriage. I'm talking about making genuine connections with friends, coworkers, mentors, bosses, peers, and anybody else you like and appreciate.
 
 > All of the studies indicates that the quality of our connections affects the majority of our pleasure in life.
 Having good friendships to depend on is a terrific approach to generate possibilities for yourself in life. So, if I were you, I'd be actively seeking out meeting new people and taking the chance of expressing myself with them.
