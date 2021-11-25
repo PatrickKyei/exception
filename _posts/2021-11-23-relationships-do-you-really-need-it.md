@@ -1,7 +1,7 @@
 ---
 title: RELATIONSHIPS Do You Really Need It? This Will Help You Decide!
 date: 2021-11-23 20:10:00 +00
-categories: [Relationships, Habbits]
+categories: [Relationships, Habits]
 tags: [relationships, habits, goals, adventure]     # TAG names should always be lowercase
 ---
 
