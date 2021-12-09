@@ -1,4 +1,13 @@
-Yeah, definitely. I always refer to networking is the insurance policy that money could never buy. Because when you're up on top, like right now, I'm sure you have people calling you like, "Hey Chase, dude, get me on your show. Let me do a CreativeLive course, man." "Where were you before I had CreativeLive and I wanted to use your loft? Like you were busy, bro." You know, there's a lot of that. You got to dig the well before you get thirsty. I think that's a book title by this guy, but I want to say like Harvey Mackay. He's some sort of self-helpy type dude from the '90s. Dig the well before you get thirsty and I say that a lot because you can't really make relationships when you need them. It's very difficult to do that. 
+---
+title: Networking
+date: 2021-11-23 20:10:00 +00
+categories: [Networking, Relationships]
+tags: [relationships, networking, people, connections]     # TAG names should always be lowercase
+---
+
+![relationships](/assets/img/need-relationships.jpg)
+
+Yeah, definitely. I always refer to networking is the insurance policy that money could never buy. Because when you're up on top, like right now, I'm sure you have people calling you like, "Hey Chase, dude, get me on your show. Let me do a CreativeLive course, man." "Where were you before I had CreativeLive and I wanted to use your loft? Like you were busy, bro." You know, there's a lot of that. You got to dig the well before you get thirsty. I think that's a book title by this guy, but I want to say like Harvey Mackay. He's some sort of self-helpy type dude from the '90s. Dig the well before you get thirsty and I say that a lot because you can't really make relationships when you need them. It's very difficult to do that.
 
 You know, when somebody reaches out to you after eight years and you haven't talked to them and you went to college with them or something like that, if they pop up, you're like, "Hmmm, is it going to be Herbalife or Scientology? Like, what are you trying to sell me? What are you trying to get me into? I don't know. I'm a little bit suspicious. What's going on here?" But if you reach out to somebody and they're suspicious of you and you say, "Hey, you know, I've just done a bad job of keeping my network and my relationships. And you were always a really smart dude and I kind of want to keep that going. And I kind of want to get back in touch." I might still be suspicious. But I'll talk to you for a second. And then you pop back up in three months, six months. Check in again, tell me what's going on with you. I'll tell you a little bit about what's going on with me. All right. I'm less suspicious than, you know, a year later you popped back in, "Hey, I noticed you did this show. I listened to this and here's what I'm doing. And it's kind of interesting. Here's a picture of my kid.
 
