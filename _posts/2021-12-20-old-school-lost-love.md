@@ -7,12 +7,11 @@ tags: [lost, love, old, heartbreak, pain]     # TAG names should always be lower
 
 The fact is that I'm not sure why I like you.
 
-I simply know I love you a lot; 
+I simply know I love you a lot;
 
-I'm not sure how much I love you; 
+I'm not sure how much I love you;
 
 I just know I will love you forever.
-
 
 When everything around us is changing and the world appears to be moving too quickly, remember that I'll be right there with you.
 
