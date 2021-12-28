@@ -5,13 +5,15 @@ categories: [Love, Lost]
 tags: [lost, love, old, heartbreak, pain]     # TAG names should always be lowercase
 ---
 
+## Green Leaf
+
 The fact is that I'm not sure why I like you.
 
 I simply know I love you a lot;
 
 I'm not sure how much I love you;
 
-I just know I will love you forever.
+I just know I will love you for a really long time.
 
 When everything around us is changing and the world appears to be moving too quickly, remember that I'll be right there with you.
 
@@ -20,6 +22,8 @@ So, whether you think about future changes or how the past used to be, remember 
 That's one thing you can count on that will never change!!!!
 
 ![lost love](/assets/img/lost-love.jpg)
+
+## Into the Valleys
 
 I loved you, and I probably still do,
 
