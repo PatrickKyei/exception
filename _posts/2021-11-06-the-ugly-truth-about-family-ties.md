@@ -15,7 +15,7 @@ It's a widely held belief that a child will always be a child to their parents, 
 
 ## The Downside Of Attachment
 
-They develop a strong attachment to their parents and rely on them to guide them in every decision they make in life, eventually becoming more reliant on them. One of the tasks of parenting is to help children become self-sufficient and capable of making decisions about their own life, but this does not mean that parents must make all of their children's decisions. A youngster raised in a Western family is more likely to take the initiative to explore areas of personal growth, which is why so many of them have gone on to become inventors and worldwide innovators.
+Children develop a strong attachment to their parents and rely on them to guide them in every decision they make in life, eventually becoming more reliant on them. One of the tasks of parenting is to help children become self-sufficient and capable of making decisions about their own life, but this does not mean that parents must make all of their children's decisions. A youngster raised in a Western family is more likely to take the initiative to explore areas of personal growth, which is why so many of them have gone on to become inventors and worldwide innovators.
 
 ## Growth And The Need For Change
 
