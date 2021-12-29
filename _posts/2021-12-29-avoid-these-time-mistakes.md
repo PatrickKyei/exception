@@ -2,7 +2,7 @@
 title: Avoid The Top 10 "AFRICAN MAN TIME" Mistakes
 date: 2021-12-29 20:10:00 +00
 categories: [Time, Change]
-tags: [time, change, life]     # TAG names should always be lowercase
+tags: [change, life]     # TAG names should always be lowercase
 ---
 
 ![Ghana](/assets/img/ghana.jpg)
