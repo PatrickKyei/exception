@@ -7,14 +7,28 @@ tags: [relationships, networking, people, connections]     # TAG names should al
 
 ![people](/assets/img/need-relationships.jpg)
 
-I'm thinking very much about this.  I think one of the challenges I find in Africa and every concerned   African is worried about is keeping to time. You see as humans beings alive all we have is time. In other words your life is just the time you have on earth. If you say someone is 70 years it means he had 70 years of time, which is 2,207,520,000 of seconds spent. So I find that to respect any human being you respect their time. If you disrespect their time you disrespect the whole human being and this means you don't mind wasting  that moment of their life that has been entrusted to you. It is that serious! Now the biggest crime in the law books is murder. Murder is shutting somebody's life; the time they have on this earth. So if you waste somebody's one hour you've committed partial murder. This is how serious it is.
+If you've lived in Ghana for a while, you've probably heard the expression "Ghana man time." The name arose as a result of most Ghanaians' attitude toward time. It is an attitude that has wrecked many relationships, caused many individuals to lose their jobs, caused many people to miss out on life opportunities, and has led many people to believe that they will never be able to overcome or modify their attitude towards lateness.
 
-So in dealing with your respective people and this if you get it right is ultimate customer service. When somebody walks to you and is looking for a service, use as little as their time as possible and give their life or their time back to them for them to decide what they want to do with it. Now the time that you take to serve them the additional bet is  that make sure it's quality time and they find it memorable. Because there are two aspect to time, the shared quantity of it and  the quality of it. 
+If you have an appointment with a Ghanaian, it is normal for them to be late or not show up at all without any prior warning.
 
-Quantity, you don't determine it, quality you can do something about it. So customer service and to win clients and all that make sure that you deal with them that shortest possible time. If you have to extend it ask their permission and show concern and don't waste their time because you are wasting their life. And make sure that the time you spend with them is quality time. And anytime they remember you by the quality time you shared with them and they wish to spend to moments with you again. And that is what life is all about.  
+We've explored a variety of approaches to resolving this issue. The most typical one that comes to mind is writing down the names of "late-comers" in elementary and secondary school and punishing these "late-comers."
 
-In Africa we got it all wrong. The moment you are successful, you are  successful or you are big man it means you can just disrespect anybody's time.
+It is an issue that I believe should be addressed individually by all Ghanaians. We will not be able to fix this problem unless we comprehend the seriousness of the situation.
 
- I think really really If we will address our woes in Africa with respect to time, the other things will fall in to place and it is not a joke. And if you want to think about innovation, don't think anything, think time.
+This is something I've been thinking about a lot. One of the challenges I encounter in Africa, and which every caring African is concerned about, is keeping track of time. You know, as living people, we only have time. In other words, your life is simply the time you have on this planet. When you say someone is 70 years old, it indicates he or she has spent 70 years of time, or 2,207,520,000 seconds. As a result, I believe that respecting any human being requires respecting their time. If you insult their time, you are disrespecting the entire human person, which implies that you don't mind squandering that moment of their life that has been given to you. 
 
-Is the new product or service going to save time or is it going to give quality time? It must qualify under one of these things. It's either saving time or providing quality time, nothing else matters.
+That is how serious it is! Murder is a serious offense in the legal system. Murder is the act of terminating someone's life; the time they have on this planet. So if you waste an hour of someone's time, you've done half murder. This is the gravity of the situation.
+
+So, while interacting with individuals, you must recognize and value the time they invest in your care. When someone approaches you searching for a service, utilize as little of their time as possible and give them their life or time back to them to determine what to do with it.
+
+Now, when you take the time to serve them, make sure it's quality time and that they remember.
+
+Time has two aspects: the shared quantity of it and the quality of it.
+
+You have no control over quantity, but you do have control over quality. So, if you have the opportunity to assist someone within the time they have given you and share a portion of their time, take advantage of it as soon as feasible. If you need to prolong it, get their permission and demonstrate compassion; don't waste their time since you're wasting their life. Also, make certain that the time you spend with them is of high quality. And whenever they think of you, it's because of the quality time you spent with them, and they want to relive those moments with you. And that is what life is all about. 
+
+We got it all wrong in Africa. When you are successful or a big person (someone of greater rank), you have the right to disregard anyone's time.
+
+I truly believe If we solve our problems in Africa on time, the rest will fall into place, and this is not a joke. And if you want to think about innovation, think of time rather than anything else.
+
+Is the new product or service going to save time or deliver quality time? It has to fall under one of these categories. It's either save time or provide quality time; nothing else counts.
