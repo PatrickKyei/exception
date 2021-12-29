@@ -43,4 +43,6 @@ Is the new product or service going to save time or deliver quality time? It has
 
 - If you cannot make it on time to your appointment, send a message to the other person and let them know you will run late.
 
-- Sometimes it is better to postpone the appointment than to make it there late. Been there late can affect the quality of the meeting as you rush to conclusions.
+- Sometimes it is better to postpone an appointment than to make it to the appointment late. Been there late can affect the quality of the meeting as you may rush to conclusions and it can affect the quality of the meeting.
+
+**Leave your thoughts about how we could manage our time effectively in the comment section below. Let's Get Interactive**
