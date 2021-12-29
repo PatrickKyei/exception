@@ -15,9 +15,13 @@ The name arose as a result of most Ghanaians' attitude toward time. It is an att
 
 If you have an appointment with a Ghanaian, it is 'normal' for them to be late or not show up at all without any prior warning.
 
+![spanking](/assets/img/spank.jpg)
+
 We've explored a variety of approaches to resolving this issue. The most typical one that comes to mind is writing down the names of "late-comers" in elementary and secondary school and punishing these "late-comers."
 
 It is an issue that I believe should be addressed individually by all Ghanaians. We will not be able to fix this problem unless we comprehend the seriousness of the situation.
+
+![man thinking](/assets/img/man-thinking.jpg)
 
 This is something I've been thinking about a lot. One of the challenges I encounter in Africa, and which every caring African is concerned about, is keeping track of time. You know, as living people, we only have time. In other words, your life is simply the time you have on this planet. When you say someone is 70 years old, it indicates he or she has spent 70 years of time, or 2,207,520,000 seconds. As a result, I believe that respecting any human being requires respecting their time. If you insult their time, you are disrespecting the entire human person, which implies that you don't mind squandering that moment of their life that has been given to you.
 
@@ -29,7 +33,11 @@ Now, when you take the time to serve them, make sure it's quality time and that 
 
 Time has two aspects: the shared quantity of it and the quality of it.
 
+![quality time](/assets/img/quality-time.jpg)
+
 You have no control over quantity, but you do have control over quality. So, if you have the opportunity to assist someone within the time they have given you and share a portion of their time, take advantage of it as soon as feasible. If you need to prolong it, get their permission and demonstrate compassion; don't waste their time since you're wasting their life. Also, make certain that the time you spend with them is of high quality. And whenever they think of you, it's because of the quality time you spent with them, and they want to relive those moments with you. And that is what life is all about.
+
+![all wrong](/assets/img/all-wrong.jpg)
 
 We got it all wrong in Africa. When you are successful or a big person (someone of greater rank), you have the right to disregard anyone's time.
 
