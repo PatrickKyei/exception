@@ -7,9 +7,13 @@ tags: [time, change, life]     # TAG names should always be lowercase
 
 ![Ghana](/assets/img/ghana.jpg)
 
-If you've lived in Ghana for a while, you've probably heard the expression "Ghana man time." The name arose as a result of most Ghanaians' attitude toward time. It is an attitude that has wrecked many relationships, caused many individuals to lose their jobs, caused many people to miss out on life opportunities, and has led many people to believe that they will never be able to overcome or modify their attitude towards lateness.
+> An attitude that has wrecked many relationships, caused many individuals to lose their jobs, caused many people to miss out on life opportunities, and has led many people to believe that they will never be able to overcome or modify their attitude towards lateness.
 
-If you have an appointment with a Ghanaian, it is normal for them to be late or not show up at all without any prior warning.
+If you've lived in Ghana for a while, you've probably heard the expression "Ghana man time."
+
+The name arose as a result of most Ghanaians' attitude toward time. It is an attitude that has wrecked many relationships, caused many individuals to lose their jobs, caused many people to miss out on life opportunities, and has led many people to believe that they will never be able to overcome or modify their attitude towards lateness.
+
+If you have an appointment with a Ghanaian, it is 'normal' for them to be late or not show up at all without any prior warning.
 
 We've explored a variety of approaches to resolving this issue. The most typical one that comes to mind is writing down the names of "late-comers" in elementary and secondary school and punishing these "late-comers."
 
