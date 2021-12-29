@@ -1,8 +1,8 @@
 ---
-title: Time
+title: Your AFRICAN M TIME Is Bound To Make An Influence On Your Life
 date: 2021-11-23 20:10:00 +00
-categories: [Networking, Relationships]
-tags: [relationships, networking, people, connections]     # TAG names should always be lowercase
+categories: [Time, Change]
+tags: [time, change, 2021, life]     # TAG names should always be lowercase
 ---
 
 ![people](/assets/img/need-relationships.jpg)
@@ -32,3 +32,13 @@ We got it all wrong in Africa. When you are successful or a big person (someone 
 I truly believe If we solve our problems in Africa on time, the rest will fall into place, and this is not a joke. And if you want to think about innovation, think of time rather than anything else.
 
 Is the new product or service going to save time or deliver quality time? It has to fall under one of these categories. It's either save time or provide quality time; nothing else counts.
+
+## Key Takeaways
+
+- Show up at appointments at least 15 minutes early.
+
+- If you cannot make it on time to your appointment, send a message to the other person and let them know you will run late.
+
+- Sometimes it is better to postpone the appointment than to make it there late. Been there late can affect the quality of the meeting as you rush to conclusions.
+
+- 
