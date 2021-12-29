@@ -2,10 +2,10 @@
 title: Avoid The Top 10 AFRICA TIME Mistakes
 date: 2021-12-29 20:10:00 +00
 categories: [Time, Change]
-tags: [time, change, life]     # TAG names should always be lowercase
+tags: [time, change, 2021, life]     # TAG names should always be lowercase
 ---
 
-![time](/assets/img/need-relationships.jpg)
+![Ghana](/assets/img/ghana.jpg)
 
 If you've lived in Ghana for a while, you've probably heard the expression "Ghana man time." The name arose as a result of most Ghanaians' attitude toward time. It is an attitude that has wrecked many relationships, caused many individuals to lose their jobs, caused many people to miss out on life opportunities, and has led many people to believe that they will never be able to overcome or modify their attitude towards lateness.
 
