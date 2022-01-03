@@ -7,8 +7,8 @@ tags: [lost, love, old, heartbreak, pain]     # TAG names should always be lower
 
 ## Green Leaf
 
-> I loved you, and the hopelessness I knew,
-The jealousy, the shyness - though in vain,
+> I loved you, and the hopelessness I knew,   
+The jealousy, the shyness - though in vain,   
 Made up a love so tender and so true
 
 The fact is that I'm not sure why I like you.
