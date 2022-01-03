@@ -10,4 +10,4 @@ order: 4
 
 [What Am I Learning?](https://dev-path.github.io/jekyll-theme-memoirs/)
 
-Would love to hear from you. [Want to have a chat? Set up a call here](https://bit.ly/coffeechatwithpat)
+Would love to hear from you. [Want to have a chat? Schedule a call](https://calendly.com/patrickbaffour/coffeechat)
