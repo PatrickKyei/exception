@@ -1,5 +1,5 @@
 ---
-title: Answered, Your Most Burning Questions About TIME AND OPPORTUNITY
+title: Answered - Your Most Burning Questions About TIME AND OPPORTUNITY
 
 date: 2022-01-12 20:25:00 +00
 categories: [Opportunity, Time]
