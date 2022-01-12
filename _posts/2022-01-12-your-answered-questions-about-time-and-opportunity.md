@@ -26,6 +26,6 @@ People should have a sense of urgency about their time, in my opinion, since hav
 
 You understand what I mean? Living in fear of the amount of time you have left gives you a feeling of purpose.
 
-I believe that sometimes individuals become too comfortable, and when they do, they lose their anxiety because they simply feel like, "Oh, I'm OK. I'll put my feet up. I can just glide through this thing called life and accomplish what has to be done at any given time."
+I believe that sometimes people become too comfortable, and when they do, they lose their sense of urgency because they simply feel like, "Oh, I'm OK. I'll put my feet up. I can just glide through this thing called life and accomplish what has to be done at any given time."
 
 Something is amiss when you reach the point where you are no longer afraid and less concerned the time you have left on this earth.
