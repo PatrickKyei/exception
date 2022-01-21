@@ -31,7 +31,7 @@ If you do it on a large enough scale you're building trust. You're rekindling ol
 
 ## Reach out to people before you Need Something
 
-Make a list of everyone with whom you have lost contact. Those with whom you have not maintained contact. They're your dormant and frail ties, right? Or, at the very least, your inactive network ties. Reach out to them before you need something, otherwise they'll say, "Huh? Isn't it Herbalife or Dogecoin?."
+Make a list of everyone with whom you have lost contact. Those with whom you have not maintained contact. They're your dormant and frail ties, right? Or, at the very least, your inactive network ties. Reach out to them before you need something, otherwise they'll say, "Huh? Isn't it this dude trying to sell me something? Is it Herbalife or Dogecoin?."
 
 It'll just be like sharpening a dull machete, right? You're going to rekindle that connection. You're essentially confessing, "Hey, I moved, and I never really reached out to you again. That was a blunder. I hope you're still running that popular program. I'd appreciate an update. Here's what I'm up to, here's a photo of my child. I truly don't want anything more than to reignite this since you're a highly clever person. I want more individuals like you in my circle."
 
