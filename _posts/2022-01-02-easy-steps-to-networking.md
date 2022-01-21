@@ -29,7 +29,7 @@ So, once you've been in contact with them for a while, you may go back and forth
 
 If you do it on a large enough scale you're building trust. You're rekindling old friendships.
 
-## Reach out to people before you Something
+## Reach out to people before you Need Something
 
 Make a list of everyone with whom you have lost contact. Those with whom you have not maintained contact. They're your dormant and frail ties, right? Or, at the very least, your inactive network ties. Reach out to them before you need something, otherwise they'll say, "Huh? Isn't it Herbalife or Dogecoin?."
 
