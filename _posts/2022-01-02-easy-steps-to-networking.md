@@ -47,7 +47,7 @@ Let's go ahead and catch up with them right now. Catch up with the person you me
 
 Assume that half of them do not respond. Or they say something like, "Who is this?" And it's no longer the same person's phone. You have the option to remove them. However, two or three of the four persons who say, "Oh my God, it's been a lifetime. I haven't heard from you in a long time. What exactly is going on? I sell bicycles in Nigeria. To hell with the media, I reasoned. Tell me what you're up to."
 
-You're also re-engaging those folks. And if you do it every day, say five days a week, that's four individuals every day. That's 20 individuals a week, 80 people a month that you're re-engaging, assuming a 50% response rate for the sake of math. That will very certainly be higher. That's a lot of folks for whom you are currently top of mind. And they're in your thoughts right now.
+You're also re-engaging those folks. And if you do it every day, say five days a week, that's four individuals every day. That's 20 individuals a week, 80 people a month that you're re-engaging, assuming a 50% response rate for the sake of math. That will very certainly be higher. That's a lot of folks for whom you are currently top of mind. And you'll be top of their mind also.
 
 So you know that this individual has recently launched a legal firm and may benefit from some immigration law clients. They are aware that you are hosting a graphic design workshop, thus they will keep you in mind. And I guarantee you that every week or close to it, an opportunity from your phone will present itself as a result of this re-engaging.
 
