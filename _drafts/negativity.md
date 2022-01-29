@@ -1,11 +1,11 @@
 ---
 title: Negativity
-date: 2021-08-11 22:35:00 +00
-categories: [Conversations, Communication]
-tags: [communication, difficult, resolution]     # TAG names should always be lowercase
+date: 2022-01-29 19:35:00 +00
+categories: [Relationships, Negativity]
+tags: [people, negativity, cirle, energy, vibe, social, relationships]     # TAG names should always be lowercase
 ---
 
-![networking](/assets/img/Networking.jpg)
+![networking](/assets/img/negativity.jpg)
 
 ## Negativity
 
