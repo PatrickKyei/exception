@@ -2,7 +2,7 @@
 title: Negativity
 date: 2022-01-29 19:35:00 +00
 categories: [Relationships, Negativity]
-tags: [people, negativity, cirle, energy, vibe, social, relationships]     # TAG names should always be lowercase
+tags: [people, negativity, cirle, energy, vibe, social, connections, relationships]     # TAG names should always be lowercase
 ---
 
 ![networking](/assets/img/negativity.jpg)
