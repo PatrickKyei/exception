@@ -7,14 +7,16 @@ tags: [people, negativity, cirle, energy, vibe, social, connections, relationshi
 
 ![networking](/assets/img/negativity.jpg)
 
-## Happiness effect
 
 > Scientifically happiness can be a choice. 
 
+## Positivity effect
+
 We have the choice to be happy in our lives.
 
-After you've made that decision, it turns out to be a huge advantage in terms of our relationships, since positive people are viewed as more beautiful by the other sex.
-In social circumstances, they are seen to be more trustworthy. They are more likely to receive loyal clients who buy from them in the trade business. We discovered that they are really more likely to live longer lives. 
+After you've made that decision to be happy and stay positive in your life, it turns out to be a huge advantage in terms of our relationships, since positive people are viewed as more beautiful by the other sex.
+
+In social circumstances people who exhibit a level positive energy are seen to be more trustworthy. They are more likely to receive loyal clients who buy from them in the trade business. We discovered that they are really more likely to live longer lives. 
 
 
 It turns out that when people make that choice, the influence extends not just to them, but also to everyone around them, leading them to be happy as well.
@@ -35,7 +37,7 @@ The research discovered that if you have 15 strangers waiting for a plane and th
 
 Which demonstrates that emotional contagion has a biological basis. That even if you are a really positive person, you might take up on the negativity of others around you, much like anything else. Because it's not only smiles and yawns that spread, but it turns out that if you're surrounded by individuals who are always focused on the negative, nervous, or depressed, even if you're an optimist, you'll pick up on it.
  
-![bad company](/assets/img/negative-company.png)
+![bad company](/assets/img/negative-compa.png)
 
 When you inform others about this, they instantly begin to eliminate toxic people from their life. But I believe that this research is far more powerful for you and the people reading this because it shows that when we choose to become more positive, when we create a positive habit in our lives and buffer ourselves against the negative, we can actually seamlessly change the brains of those around us, causing them to become more positive and outdoing the negative effect.
 
