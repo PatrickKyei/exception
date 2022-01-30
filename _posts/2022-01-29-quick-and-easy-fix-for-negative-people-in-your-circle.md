@@ -37,13 +37,8 @@ You may genuinely pick up on other people's bad moods.
 The research discovered that if you have 15 strangers waiting for a plane and they have no idea they're part of an experiment and you have an undercover researcher come near them and just act anxious; they tap their foot on the floor, move side to side, look at their watch repeatedly with a frown on their face and within two minutes, we found that seven to twelve of the 15 individuals were unconsciously moving nervously in place.
 
 Which demonstrates that emotional contagion has a biological basis. That even if you are a really positive person, you might take up on the negativity of others around you, much like anything else. Because it's not only smiles and yawns that spread, but it turns out that if you're surrounded by individuals who are always focused on the negative, nervous, or depressed, even if you're an optimist, you'll pick up on it.
-<<<<<<< HEAD
- 
-![bad company](/assets/img/negative-compa.png)
-=======
 
 ![bad company](/assets/img/negative-company.png)
->>>>>>> 9e988fe3060d1c744d6dba1fb937a99c316b3b02
 
 When you inform others about this, they instantly begin to eliminate toxic people from their life. But I believe that this research is far more powerful for you and the people reading this because it shows that when we choose to become more positive, when we create a positive habit in our lives and buffer ourselves against the negative, we can actually seamlessly change the brains of those around us, causing them to become more positive and outdoing the negative effect.
 
@@ -55,7 +50,7 @@ Based on this research, I believe a much better technique would be to carefully 
 
 ## Key TakeAways
 
-- I've got a win win proposition for you today. I'm gonna make you more persuasive, I'm gonna make you happier and I'm gonna start a social movement in your heart in a tiny little way that's gonna make you take actions towards your life goals today.
+- I've got a win win proposition for you today. I'm gonna make you more persuasive, I'm gonna make you happier and I'm gonna start a social movement in your heart in a tiny little way that's gonna make you take actions towards your relationships and the kind of people you keep in your circle today.
 
 - You have to make sure you are surrounded by people who exhibit positive energy and have positive influence.
 
