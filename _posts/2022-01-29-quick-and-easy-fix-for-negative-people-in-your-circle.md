@@ -23,7 +23,9 @@ It turns out that when people make that choice, the influence extends not just t
 
 Mirror neurons are found in the human brain. We just recently identified them in the human brain, but basically, if you see someone yawn and then other individuals in the room start yawning, that is your mirror neuron acting on your brain. There's a biological explanation behind this. 
 
-[Mirror Neurons](https://youtu.be/5Th0aOoX4EM)
+You may watch the research on the effects of the brain mirror neurons on the human brain.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Th0aOoX4EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 When you watch people around you yawn or grin, specific regions of your brain light up. As a result, they light up and demonstrate activity in your brain, indicating you that you're the one yawning and smiling. You may also pick up on the stress of someone sitting across the room.
 
