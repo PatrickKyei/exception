@@ -14,9 +14,9 @@ tags: [people, negativity, cirle, energy, vibe, social, connections, relationshi
 
 We have the choice to be happy in our lives.
 
-After you've made that decision to be happy and stay positive in your life, it turns out to be a huge advantage in terms of our relationships, since positive people are viewed as more beautiful by the other sex.
+After you've made that decision to be happy and stay positive in your life, it turns out to be a huge advantage in terms of our relationships, since positive people are viewed as more attractive by the other sex.
 
-In social circumstances people who exhibit a level positive energy are seen to be more trustworthy. They are more likely to receive loyal clients who buy from them in the trade business. We discovered that they are really more likely to live longer lives.
+In social circumstances people who exhibit a level of positive energy are seen to be more trustworthy. They are more likely to receive loyal clients who buy from them in the trade business. We discovered that they are really more likely to live longer lives.
 
 It turns out that when people make that choice, the influence extends not just to them, but also to everyone around them, leading them to be happy as well.
 
