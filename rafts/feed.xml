@@ -1,0 +1,253 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://patrickkyei.com/</id>
+  <title>Patrick Baffour</title>
+  <subtitle>I create digital products,that are driven by user experience</subtitle>
+  <updated>2022-02-07T22:43:07+00:00</updated>
+  <author>
+    <name>Patrick</name>
+    <uri>https://patrickkyei.com/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://patrickkyei.com/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://patrickkyei.com/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
+  <rights> © 2022 Patrick </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Your First Github Action</title>
+    <link href="https://patrickkyei.com/posts/github-actions/" rel="alternate" type="text/html" title="Your First Github Action" />
+    <published>2022-02-06T22:35:00+00:00</published>
+  
+    <updated>2022-02-06T22:35:00+00:00</updated>
+  
+    <id>https://patrickkyei.com/posts/github-actions/</id>
+    <content src="https://patrickkyei.com/posts/github-actions/" />
+    <author>
+      <name>Patrick</name>
+    </author>
+
+  
+    
+    <category term="Github" />
+    
+    <category term="Flows" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Actions and Workflows
+
+There are two components to using GitHub Actions that we’ll cover:
+
+the action itself
+
+a workflow that uses action(s)
+
+A workflow can contain many actions. Each action has its own purpose. We’ll put the files relating to the action in their own directories.
+
+Types of Actions
+
+Actions come in two types: container actions and JavaScript actions.
+
+Docker container actions al...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Just Some Useful Links</title>
+    <link href="https://patrickkyei.com/posts/devlinks/" rel="alternate" type="text/html" title="Just Some Useful Links" />
+    <published>2022-02-06T22:35:00+00:00</published>
+  
+    <updated>2022-02-06T22:35:00+00:00</updated>
+  
+    <id>https://patrickkyei.com/posts/devlinks/</id>
+    <content src="https://patrickkyei.com/posts/devlinks/" />
+    <author>
+      <name>Patrick</name>
+    </author>
+
+  
+    
+    <category term="Github" />
+    
+    <category term="Flows" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Links to some of the resources you might just find helpful.
+
+It just happens that:
+
+
+  If you can find answers to every where`, you can find a solution to any how.
+
+
+For Product Designers
+
+
+  
+    All In One Design Resources
+  
+  
+    Free photos
+  
+  
+    Create Prototypes
+  
+  
+    Material Design - Google
+  
+  
+    Human Interface Guidelines - Apple
+  
+  
+    Atlassian Design System - Atlass...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>The Internet And Computers</title>
+    <link href="https://patrickkyei.com/posts/the-internet-and-computers/" rel="alternate" type="text/html" title="The Internet And Computers" />
+    <published>2022-02-06T22:35:00+00:00</published>
+  
+    <updated>2022-02-06T22:35:00+00:00</updated>
+  
+    <id>https://patrickkyei.com/posts/the-internet-and-computers/</id>
+    <content src="https://patrickkyei.com/posts/the-internet-and-computers/" />
+    <author>
+      <name>Patrick</name>
+    </author>
+
+  
+    
+    <category term="Github" />
+    
+    <category term="Flows" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Maybe you’ve not even thought about what the internet is, how it came about or how you are able to send an email to a family member or make a Whatsapp call to a friend. The interesting thing is, many years ago you couldn’t do any of these. Wih the power of the Internet now you are able to do so many amazing things.
+
+So what is the internet?
+
+Most people have little clue how the internet came ab...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Semantic HTML</title>
+    <link href="https://patrickkyei.com/posts/semantic-html/" rel="alternate" type="text/html" title="Semantic HTML" />
+    <published>2022-02-06T22:35:00+00:00</published>
+  
+    <updated>2022-02-06T22:35:00+00:00</updated>
+  
+    <id>https://patrickkyei.com/posts/semantic-html/</id>
+    <content src="https://patrickkyei.com/posts/semantic-html/" />
+    <author>
+      <name>Patrick</name>
+    </author>
+
+  
+    
+    <category term="Github" />
+    
+    <category term="Flows" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      HTML is the standard markup language for Web pages. With HTML you can create your own Website.
+
+HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page’s appearance/presentation (CSS) or functionality/behavior (JavaScript).
+
+What I Learnt from the ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>How Does Design Solve Problems?</title>
+    <link href="https://patrickkyei.com/posts/product-design-journey/" rel="alternate" type="text/html" title="How Does Design Solve Problems?" />
+    <published>2022-02-06T22:35:00+00:00</published>
+  
+    <updated>2022-02-06T22:35:00+00:00</updated>
+  
+    <id>https://patrickkyei.com/posts/product-design-journey/</id>
+    <content src="https://patrickkyei.com/posts/product-design-journey/" />
+    <author>
+      <name>Patrick</name>
+    </author>
+
+  
+    
+    <category term="Github" />
+    
+    <category term="Flows" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
