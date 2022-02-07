@@ -11,4 +11,4 @@ If you say to people don't come up with something entirely new, instead look at 
 
 
 
-We're going to keep getting bigger. I'm going to keep sharing the experiences and the wisdom in the books, and that's just what I did. And I'm excited to see the response from my new book. 
+We're going to keep getting bigger. I'm going to keep sharing the experiences and the wisdom in the books, and that's just what I did. And I'm excited to see the response from my new book.

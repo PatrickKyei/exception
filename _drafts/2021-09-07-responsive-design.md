@@ -59,6 +59,7 @@ rems update the size of an element with respect to root element, which is either
 ```css
 body { width: 30vw; }
 ```
+
 ### CSS Flexbox
 
 Placing the CSS property display: flex; on an element allows you to use other flex properties to build a responsive page.
@@ -209,6 +210,7 @@ The repeat function comes with an option called auto-fill. This allows you to au
 ```css
 repeat(auto-fill, minmax(60px, 1fr));
 ```
+
 When the container changes size, this setup keeps inserting 60px columns and stretching them until it can insert another one. Note: If your container can't fit all your items on one row, it will move them down to a new one.
 
 **auto-fit** works almost identically to auto-fill. The only difference is that when the container's size exceeds the size of all the items combined, auto-fill keeps inserting empty rows or columns and pushes your items to the side, while auto-fit collapses those empty rows or columns and stretches your items to fit the size of the container.
