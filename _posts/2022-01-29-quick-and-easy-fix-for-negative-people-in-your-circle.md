@@ -7,7 +7,6 @@ tags: [people, negativity, cirle, energy, vibe, social, connections, relationshi
 
 ![networking](/assets/img/negativity.jpg)
 
-
 > Scientifically happiness can be a choice.
 
 ## Positivity effect
