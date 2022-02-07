@@ -1,13 +1,9 @@
 ---
-layout: post
-title:  "Mastering Git and Github"
-author: patrick
-categories: [Git, Github]
-image: assets/images/git-and-github.jpg
-beforetoc: "Fork? but it adds many of its own features"
-toc: false
+title: Mastering Git and Github
+date: 2022-02-06 22:35:00 +00
+categories: [Github, Flows]
+tags: [github, git, technical]     # TAG names should always be lowercase
 ---
-
 If you are a software developer, [github](https://github.com) helps you build all sort of great things. Things that help people, things that could land you a job, things that could change the world and some things that might not. Github is one place that can help you tell the world about all the great things that you are building.
 
 Not bill boards or Inmails, these days you could build a website and there are a lot of options out there.

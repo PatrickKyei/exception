@@ -1,13 +1,9 @@
 ---
-layout: post
-title:  "Coding Challenges"
-author: patrick
-categories: [Programming, Challenges]
-image: assets/images/coding.jpg
-beforetoc: ""
-toc: 
+title: Coding Challenges
+date: 2022-02-06 22:35:00 +00
+categories: [Github, Flows]
+tags: [github, git, technical]     # TAG names should always be lowercase
 ---
-
 ## CSS
 
 * When elements have a specified position, such as fixed or relative, the CSS offset properties **right**, **left**, **top**, and **bottom** can be used in animation rules to create movement.

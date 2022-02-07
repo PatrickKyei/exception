@@ -1,13 +1,9 @@
 ---
-layout: post
-title:  "The Internet And Computers"
-author: patrick
-categories: [Internet, Technology]
-image: assets/images/the-internet-and-computers.jpg
-beforetoc: "Most people have little clue how the internet came about. Different people have different opinions about what the internet is about.. "
-toc: false
+title: The Internet And Computers
+date: 2022-02-06 22:35:00 +00
+categories: [Github, Flows]
+tags: [github, git, technical]     # TAG names should always be lowercase
 ---
-
 Maybe you've not even thought about what the internet is, how it came about or how you are able to send an email to a family member or make a Whatsapp call to a friend. The interesting thing is, many years ago you couldn't do any of these. Wih the power of the Internet now you are able to do so many amazing things.
 
 ### So what is the internet?

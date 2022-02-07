@@ -1,13 +1,9 @@
 ---
-layout: post
-title:  "Responsive Design"
-author: patrick
-categories: [Responsiveness, Web]
-image: assets/images/responsive.jpg
-beforetoc: "Responsive Design"
-toc: true
+title: Responsive Design
+date: 2022-02-06 22:35:00 +00
+categories: [Github, Flows]
+tags: [github, git, technical]     # TAG names should always be lowercase
 ---
-
 ## Resonspive Design with Media Queries
 
 Media Queries are a new technique introduced in CSS3 that change the presentation of content based on different viewport sizes. The viewport is a user's visible area of a web page, and is different depending on the device used to access the site.
