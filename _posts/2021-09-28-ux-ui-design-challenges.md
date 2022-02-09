@@ -11,7 +11,7 @@ As the usage of technology grows by the day, so does the demand for user experie
 
 Explore figma use cases
 
-![explore figma](../assets/images/ux/explore-ideas-thumbnail.png)
+![explore figma](../assets/img/explore-ideas-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/77OOsodMeRR5v2jWava5XS/Explore-Ideas?node-id=7%3A53&viewport=241%2C48%2C0.78&scaling=scale-down&page-id=7%3A52&starting-point-node-id=7%3A53)
 
@@ -19,7 +19,7 @@ Explore figma use cases
 
 Express creative thought
 
-![explore figma](../assets/images/ux/try-design-thumbnail.png)
+![explore figma](../assets/img/try-design-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/Yu59kYFKqrhHKheOJMXEok/trydesignlab?node-id=6%3A79&viewport=241%2C48%2C0.31&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
 
