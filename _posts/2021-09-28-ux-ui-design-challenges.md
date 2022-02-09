@@ -11,7 +11,7 @@ As the usage of technology grows by the day, so does the demand for user experie
 
 Explore figma use cases
 
-![explore figma](../assets/img/explore-ideas-thumbnail.png)
+![explore figma](/assets/img/explore-ideas-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/77OOsodMeRR5v2jWava5XS/Explore-Ideas?node-id=7%3A53&viewport=241%2C48%2C0.78&scaling=scale-down&page-id=7%3A52&starting-point-node-id=7%3A53)
 
@@ -19,7 +19,7 @@ Explore figma use cases
 
 Express creative thought
 
-![explore figma](../assets/img/try-design-thumbnail.png)
+![explore figma](/assets/img/try-design-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/Yu59kYFKqrhHKheOJMXEok/trydesignlab?node-id=6%3A79&viewport=241%2C48%2C0.31&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
 
@@ -31,7 +31,7 @@ Create a sign up page, modal, form, or app screen related to signing up for
 something. It could be for a volunteer event, contest registration, a giveaway, or
 anything you can image.
 
-![day one](../assets/images/ux/sign-up-thumbnail.png)
+![day one](/assets/img/sign-up-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/epNwbRzfjz3YaW6U3ejsYa/Daily-UI-::-001?node-id=4%3A27&viewport=241%2C48%2C1&scaling=scale-down&page-id=0%3A1%3Ffuid%3D901914268454600757)
 
@@ -41,7 +41,7 @@ Design Hint...
 
 Design a credit card checkout form or page. Don't forget the important elements such as the numbers, dates, security numbers, etc.
 
-![day two](../assets/images/ux/credit-card-thumbnail.png)
+![day two](/assets/img/credit-card-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/hysPrmu6ODKCRYRfJwTaJt/Daily-UI-::-002?node-id=12%3A27&viewport=241%2C48%2C1&scaling=scale-down&page-id=0%3A1%3Ffuid%3D901914268454600757)
 
@@ -51,7 +51,7 @@ Design Hint...
 
 What's the main focus? Is it for a book, an album, a mobile app, a product? Consider important landing page elements (call-to-actions, clarity, etc.)
 
-![day three](../assets/images/ux/landing-page-thumbnail.png)
+![day three](/assets/img/landing-page-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/seRcwT8zDtyeE2XmGehxzc/Daily-UI-::-003?node-id=5%3A17&viewport=241%2C48%2C0.4&scaling=min-zoom&page-id=0%3A1%3Ffuid%3D901914268454600757)
 
@@ -61,7 +61,7 @@ Design Hint...
 
 Design a calculator. Standard, scientific, or specialty calculator for something such as a mortgage? Is it for a phone, a tablet, a web app?
 
-![day four](../assets/images/ux/calculator-thumbnail.png)
+![day four](/assets/img/calculator-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/9v1RHwmqOnTJPihWDypGFb/Daily-UI-::-004?node-id=1%3A2&viewport=241%2C48%2C1&scaling=scale-down&page-id=0%3A1%3Ffuid%3D901914268454600757)
 
@@ -71,7 +71,7 @@ Design Hint...
 
 Design an app icon. What best represents the brand or product? Or is it incredibly unique? Does it look great at a distance and does it stand out when put on your home screen alongside other apps?
 
-![day five](../assets/images/ux/app-icon-thumbnail.png)
+![day five](/assets/img/app-icon-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/b3BBFaRQ3HSA9ZwI2ITGR0/Daily-UI-%3A%3A-005?node-id=8%3A42&viewport=241%2C48%2C0.74&scaling=contain&page-id=0%3A1%3Ffuid%3D901914268454600757)
 
