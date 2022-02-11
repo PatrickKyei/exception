@@ -53,7 +53,7 @@ sh -c "echo Hello world my name is $INPUT_MY_NAME"
 ## Step 3: Add an action metadata file
 
 Create a file titled action-a/action.yml
-
+```shell
 name: "Hello Actions"
 description: "Greet someone"
 author: "octocat@github.com"
@@ -71,6 +71,7 @@ runs:
 branding:
   icon: "mic"
   color: "purple"
+```
 
 ## Step 4: Start your workflow file
 
@@ -87,6 +88,7 @@ on: push
 
 Edit .github/workflows/main.yml to append the following content:
 
+```shell
 jobs:
   build:
     name: Hello world action
@@ -98,6 +100,7 @@ jobs:
           MY_NAME: "YourName"
 
           jobs: is the base component of a workflow run
+```
 build: is the identifier we're attaching to this job
 name: is the name of the job, this is displayed on GitHub when the workflow is running
 runs-on: defines the type of machine to run the job on. The machine can be either a GitHub-hosted runner or a self-hosted runner.
