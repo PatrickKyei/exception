@@ -8,6 +8,11 @@ order: 4
 > that are driven by  
 > user experience
 
-[What Am I Learning?](https://dev-path.github.io/jekyll-theme-memoirs/)
+
+I am a young, passionate individual who has always been involved with initiatives that seek to upskill people from all walks of life with the ability to use technology to better themselves in the way that they live and work.
+
+I have spoken at several tech conferences and had the opportunity to interact with [creative minds](https://youtube.com/channel/UCsAjtT-RYQRtMngsTGLxS2Q) in the tech industry to share their knowledge to impact the tech ecosystem.
+
+> Here are my thoughts on a few crucial things about life ...[read more](https://patrickkyei.com/posts/who-is-me/)
 
 Would love to hear from you. [Want to have a chat? Schedule a call](https://calendly.com/patrickbaffour/coffeechat)
