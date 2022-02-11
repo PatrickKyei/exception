@@ -1,8 +1,8 @@
 ---
 title: Responsive Design
-date: 2022-02-06 22:35:00 +00
-categories: [Github, Flows]
-tags: [github, git, technical]     # TAG names should always be lowercase
+date: 2021-09-07 22:35:00 +00
+categories: [Responsiveness, Design]
+tags: [responive, design, html, css, technical]     # TAG names should always be lowercase
 ---
 ## Resonspive Design with Media Queries
 

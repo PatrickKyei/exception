@@ -1,6 +1,6 @@
 ---
 title: Mastering Git and Github
-date: 2022-02-06 22:35:00 +00
+date: 2021-08-24 22:35:00 +00
 categories: [Github, Flows]
 tags: [github, git, technical]     # TAG names should always be lowercase
 ---
