@@ -4,10 +4,11 @@ icon: fas fa-info
 order: 4
 ---
 
+Hey I'm glad you are here. My name is Patrick. 
+
 > I create digital products
 > that are driven by  
 > user experience
-
 
 I am a young, passionate individual who has always been involved with initiatives that seek to upskill people from all walks of life with the ability to use technology to better themselves in the way that they live and work.
 
