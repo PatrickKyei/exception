@@ -4,7 +4,7 @@ icon: fas fa-info
 order: 4
 ---
 
-Hey I'm glad you are here. My name is Patrick. 
+Hey I'm glad you are here. My name is Patrick.
 
 > I create digital products
 > that are driven by  
