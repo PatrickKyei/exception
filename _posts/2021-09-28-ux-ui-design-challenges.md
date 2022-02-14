@@ -81,7 +81,7 @@ Design Hint...
 
 Design a user profile and be mindful of the most important data, names, imagery, placement, etc. Is it for a serious profile? A social profile?
 
-![day six](../assets/images/ux/user-profile-thumbnail.png)
+![day six](/assets/img/user-profile-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/R2PqHmGr5EQQuVzT1Wgnok/Daily-UI-%3A%3A-006?node-id=1%3A2&viewport=241%2C48%2C1&scaling=scale-down&page-id=0%3A1%3Ffuid%3D901914268454600757)
 
@@ -91,7 +91,7 @@ Design Hint...
 
 Design settings for something. Is it for security or privacy settings? Game settings? What is it and what's important?
 
-![day seven](../assets/images/ux/settings-thumbnail.png)
+![day seven](/assets/img/settings-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/RfPmgbbeOzwhGgdLtxESIg/Daily-UI-%3A%3A-007?node-id=20%3A37&viewport=241%2C48%2C1&scaling=min-zoom&page-id=0%3A1%3Ffuid%3D901914268454600757)
 
@@ -101,7 +101,7 @@ Design Hint...
 
 Design a 404 page. Does it suit the brand's style? Is it user-friendly? It might sound mundane, but not evertyhing can be flash or glamorous. Every day millions of people will be landing on 404 pages. You have an opportunity to help them in a way that's useful and asthetically pleasing.
 
-![day eight](../assets/images/ux/error-404-thumbnail.png)
+![day eight](/assets/img/error-404-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/Vdi5PzPEBmkjpX0eaFTsF9/Daily-UI-%3A%3A-008?node-id=8%3A56&viewport=241%2C48%2C1&scaling=scale-down&page-id=0%3A1%3Ffuid%3D901914268454600757)
 
@@ -111,7 +111,7 @@ Design Hint...
 
 Design a music player. Consider the controls, placements, imagery such as the artist or album cover, etc. Also, consider the device type that's playing the music. A dashboard in a tourbus, a smartwatch, or via a web browser. Each device type will have different requirements, features, and restrictions to consider.
 
-![day nine](../assets/images/ux/music-player-thumbnail.png)
+![day nine](/assets/img/music-player-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/MWmmqYDMUMFboVXyzHgdJn/Daily-UI-%3A%3A-009?node-id=2%3A2&viewport=241%2C48%2C1&scaling=scale-down&page-id=0%3A1%3Ffuid%3D901914268454600757)
 
@@ -121,7 +121,7 @@ Design Hint...
 
 Design a social share button/icon and be mindful of the size, imagery, placement, and purpose for sharing.
 
-![day ten](../assets/images/ux/social-share-thumbnail.png)
+![day ten](/assets/img/social-share-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/NKwvmYSIwV8sggoSJ1406W/Daily-UI-%3A%3A-010?node-id=2%3A255&viewport=241%2C48%2C1&scaling=min-zoom&page-id=0%3A1%3Ffuid%3D901914268454600757)
 
@@ -131,6 +131,6 @@ Design Hint...
 
 Design a Flash Message with both the outcome for an error and success. Is it for a sign up form? A download/upload message?
 
-![day ten](../assets/images/ux/flash-message-thumbnail.png)
+![day ten](/assets/img/flash-message-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/NKwvmYSIwV8sggoSJ1406W/Daily-UI-%3A%3A-010?node-id=2%3A255&viewport=241%2C48%2C1&scaling=min-zoom&page-id=0%3A1%3Ffuid%3D901914268454600757)
