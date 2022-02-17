@@ -53,6 +53,7 @@ sh -c "echo Hello world my name is $INPUT_MY_NAME"
 ## Step 3: Add an action metadata file
 
 Create a file titled action-a/action.yml
+
 ```shell
 name: "Hello Actions"
 description: "Greet someone"
