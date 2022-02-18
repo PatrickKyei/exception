@@ -5,7 +5,7 @@ categories: [Relationships, Life]
 tags: [relationship, love, life, choice]     # TAG names should always be lowercase
 ---
 
-Oh man this is a tough one. Either way you face some pretty significant trade offs, no free lunch. I think this is what's so intense about life. A lot of the time there's rarely one clear path where you get everything you want. You're just constantly making choices that involve giving something up but what's cool about these forks in the road is that they're also a chance to check in with yourself and get clear on what you really really want. 
+Oh man this is a tough one. Either way you face some pretty significant trade offs, no free lunch. I think this is what's so intense about life. A lot of the time there's rarely one clear path where you get everything you want. You're just constantly making choices that involve giving something up but what's cool about these forks in the road is that they're also a chance to check in with yourself and get clear on what you really really want.
 
 What really matters to you stressful I know but it's also exciting So obviously we can't tell you what to do here We can only tell you how to make this choice and how you make this choice is you sit down for a few hours or you go for a hike or a run or wherever you can go to be alone with yourself and you look at your two options what are the upsides what are the downsides. Which things matter most to you is it less money and fulfillment or is it more money and your relationship as it stands now. 
 
@@ -13,7 +13,7 @@ And I don't just mean what matters most to you intellectually that can be tricky
 
 The other thing I would encourage you to do is figure out which pieces of this equation are truly fixed and which are flexible or which ones you could make flexible. For example you'll make 40 grand less if you take this new job objectively less money definitely a hit.
 
-If you get creative, if you invest in your relationships when you get there and sniff out cool opportunities around your new role you might be able to make up for this drop in the salar. Who knows maybe even make more money. And the same thing applies to your girlfriend. 
+If you get creative, if you invest in your relationships when you get there and sniff out cool opportunities around your new role you might be able to make up for this drop in the salar. Who knows maybe even make more money. And the same thing applies to your girlfriend.
 
 The way you framed it she's either happy to stay where you guys are or so resent you if you move. Is that 100% true. If you guys talk this out and treated it like an adventure could she maybe be happy in Colorado? Could you guys make a commitment to do a trip every couple months to other states so she doesn't feel too isolated? Do you work in this role for a few years and then negotiate going remotes to the cheek and then go to DC and you can support her career goals? All of these things are possible if you open up the aperture a little bit.
 
