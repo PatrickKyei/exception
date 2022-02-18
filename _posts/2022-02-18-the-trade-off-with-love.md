@@ -19,30 +19,29 @@ It is especially painful and feels like a burden when it put upon you to make th
 
 Have you loved someone so much it feels like you two know everything about each other, you understand each other so well even in your silence but it ends up you guys can't be together or see each other because of religious difference, career opportunity, education, tribe, status in a group or merely based on some principles and one of you have to give up on these things?
 
-Oh man this is a tough one. Either way you face some pretty significant trade offs, no free lunch. I think this is what's so intense about life. 
+Oh man this is a tough one. Either way you face some pretty significant trade offs, no free lunch. I think this is what's so intense about life.
 
 A lot of the time there's rarely one clear path where you get everything you want. You're just constantly making choices that involve giving something up. But what's cool about these stumps in the road is that they're also a chance to check in with yourself and get clear on what you really really want.
 
-
 So obviously I can't tell you what to do here. We can only deliberate on how to make this choice. And how you make this choice is you sit down for a few hours or you go for a hike or a run or wherever you can go to be alone with yourself and you look at your two options. What are the upsides and what are the downsides. Which things matter most to you.
 
-Is it your commitment to your relationship, career etc and it's fulfillment or is it your relationship as it stands now. 
+Is it your commitment to your relationship, career etc and it's fulfillment or is it your relationship as it stands now.
 
 And I don't just mean what matters most to you because that can be tricky. Your brain could keep you stuck because the brain wants everything. It's terrible with trade-offs and it can argue both sides of a decision till the cows come home.
 
 What really lights you up in life? Which job would make you excited to get up in the morning? How do you want to grow? What kind of community do you want to be a part of? Does your fulfillment come primarily from your belief or from your relationship? Those are important questions too. Probably more important than the practicals and logistics to be honest.
 
-The other thing I would encourage you to do is figure out which pieces of this equation are truly fixed and which are flexible or which ones you could make flexible. 
+The other thing I would encourage you to do is figure out which pieces of this equation are truly fixed and which are flexible or which ones you could make flexible.
 
-If you guys talk this out and treated it like an adventure could she maybe be happy in Colorado? Could you guys make a commitment to do a trip every couple months to other states so she doesn't feel too isolated? 
+If you guys talk this out and treated it like an adventure could she maybe be happy in Colorado? Could you guys make a commitment to do a trip every couple months to other states so she doesn't feel too isolated?
 
 Do you work in this role for a few years and then negotiate going remotes to the cheek and then go to DC and you can support her career goals? All of these things are possible if you open up the aperture a little bit.
 
-So take some time to get clear on your priorities but also find ways to bend the situation to your benefit as much as you can. 
+So take some time to get clear on your priorities but also find ways to bend the situation to your benefit as much as you can.
 
 Life is rarely is fixed as we think it is there are always hidden opportunities unexpected benefits and different versions of events and you won't be able to see all of them at once. 
 
-You might have to take a leap of faith but if you stay alert, if you really put in the time to be great at what you do, if you build meaningful relationships with people they'll almost always reveal themselves. That's been my experience. 
+You might have to take a leap of faith but if you stay alert, if you really put in the time to be great at what you do, if you build meaningful relationships with people they'll almost always reveal themselves. That's been my experience.
 
 That said it is possible that you'll have to give up one or two things in this decision. I know but it is life. If you really want this job and your girlfriend doesn't fit into those plans then you might have to part ways and at least for a little while maybe you find your way back to each other or maybe you don't and you meet a girl in Colorado who wants to run 5ks with you every Sunday and that's your path.
 
