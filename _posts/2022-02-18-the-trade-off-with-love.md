@@ -5,6 +5,8 @@ categories: [Relationships, Life]
 tags: [relationship, love, life, choice]     # TAG names should always be lowercase
 ---
 
+![love-trade-off](/assests/img/love-trade-off.jpg)
+
 Oh man this is a tough one. Either way you face some pretty significant trade offs, no free lunch. I think this is what's so intense about life. A lot of the time there's rarely one clear path where you get everything you want. You're just constantly making choices that involve giving something up but what's cool about these forks in the road is that they're also a chance to check in with yourself and get clear on what you really really want.
 
 What really matters to you stressful I know but it's also exciting So obviously we can't tell you what to do here We can only tell you how to make this choice and how you make this choice is you sit down for a few hours or you go for a hike or a run or wherever you can go to be alone with yourself and you look at your two options what are the upsides what are the downsides. Which things matter most to you is it less money and fulfillment or is it more money and your relationship as it stands now. 
