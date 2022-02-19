@@ -1,5 +1,5 @@
 ---
-title: In 6 Minutes, Lets Review The Truth About LOVE TRADE OFF
+title: In 6 Minutes, Lets Review The Truth About LOVE TRADE OFFS
 date: 2022-02-18 20:35:00 +00
 categories: [Relationships, Life]
 tags: [relationship, love, life, choice]     # TAG names should always be lowercase
