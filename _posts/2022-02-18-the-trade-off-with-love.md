@@ -9,35 +9,48 @@ tags: [relationship, love, life, choice]     # TAG names should always be lowerc
 
 > Love is a broad and delicate subject that is contested all around the world. Many of us have tasted its bitter or sweet side in one way or another.
 
+## The Effects of Separation
+
 Life throws us into a lot of unexpected situations, and we occasionally have to deal with things we weren't expecting.
 
-One example is suddenly having to end a relationship with someone you adored and held so dear. It's difficult and hurtful at times. You may feel as if you've lost everything and that the world is collapsing around you. Physical pain accounts for the pain and scars that love leaves.
 
-It's not very helpful when someone you care about asks you to sacrifice a lot in order to be with them or stay together. It's not always them; sometimes it's just the way things are.
+One example is suddenly having to end a relationship with someone you adored and held so dear. It's difficult and hurtful at times. You may feel as if you've lost everything and that the world is collapsing around you. The pain you may feel after a separation or break up from a loved is equalled to physical pain.
 
-It is especially painful and feels like a burden when it put upon you to make this big decision.
+It's not very helpful when someone you care about asks you to sacrifice a lot in order to be with them or stay together. It's not always them; sometimes it's just the way things are. It is especially painful and feels like a burden when it is put upon you to make this big decision. When you are compelled to make this major decision, it is very unpleasant and burdensome.
 
-When you are compelled to make this major decision, it is very unpleasant and burdensome.
+## The Bitter Scenario
 
-Have you ever loved someone so much that it feels like you two know everything there is to know about each other, that you can understand each other even in silence, but you can't be together or see each other because of religious differences, career opportunities, education, tribe, group status, or simply because of some principles, and one of you has to give up on these things?
+Have you ever loved someone so much that it feels like you two know everything there is to know about each other, that you can understand each other even in silence? But you can't be together or see each other anymore because of religious differences, career opportunities, education, tribe, status in the community, or simply because of some principles, and one of you has to sacrifice one of these things?
 
-Oh, man, this is a difficult one. In either case, there are some important trade-offs to be made; there is no such thing as a free lunch. This, I believe, is what makes life so intense.
+Oh, man, this is a difficult one. In either case, there are some important trade-offs to be made; there is no such thing as an easy choice here. This, I believe, is what makes life so intense.
+
+## Life is all about Choices
 
 There is rarely a single clear road that leads to all you desire. You're continually making decisions that require you to give something up. But the nice thing about these roadblocks is that they give you an opportunity to check in with yourself and figure out what you actually want.
 
-So, obviously, I'm not in a position to tell you what to do. We can only think about how to make this decision. And you make this decision by sitting down for a few hours, going for a stroll or a run, or going somewhere else where you can be alone with yourself, and weighing your two possibilities. What are the advantages and disadvantages? What are the things that are most important to you?
+So, obviously, I'm not in a position to tell you to give up your values or let everything be and go with your relationship . We can only think about how to make this decision and help you make the one that will help your future self. And you make this decision by sitting down for a few hours, going for a stroll or a run, or going somewhere else where you can be alone with yourself, and weighing your two possibilities. What are the advantages and disadvantages? What are the things that are most important to you?
 
-Is it your devotion to your relationship, job, or other endeavors and their fulfillment, or is it your current relationship?
+Is it your commitment to your job, belief, education or other endeavors and their fulfillment, or is it your devotion to your current relationship?
 
-And I don't just mean what matters most to you because that can be tricky. Your brain could keep you stuck because the brain wants everything. It's terrible with trade-offs and it can argue both sides of a decision till the cows come home.
+And I don't just mean everything that matters most to you because that can be tricky. Your brain could keep you stuck because the brain wants everything. It's terrible with trade-offs and it can argue both sides of a decision till the cock crows.
 
-What brings you the most joy in life? Which job would motivate you to get out of bed in the morning? What kind of growth do you wish to achieve? What kind of community would you like to join? Is it your faith or your relationship that gives you the most satisfaction? Those are also vital questions. To be honest, it's probably more significant than the practicals and logistics.
+## Bring Your Own Decision to the Scene
+
+What brings you the most joy in life? Which job would motivate you to get out of bed in the morning? What kind of growth do you wish to achieve? What kind of community would you like to join? Is it your education or your relationship that gives you the most satisfaction? Those are also vital questions to ask yourself. To be honest, it's probably more significant than the practicals and logistics.
+
+## Can you bend the situation?
 
 Another thing I would recommend is determining which parts of this equation are genuinely fixed and which are flexible or might be made flexible.
 
-Could she be happy in Colorado if you guys talked it out and treated it like an adventure? Could you guys commit to taking a trip to another state every couple of months so she doesn't feel so isolated?
+If it's about your education, could she/he be happy if you took 3yrs to get your masters or your degree? Could you guys commit to a relationship for a year and then get married whiles you are still in college? Maybe you don't have completely sacrifice the opportunity to pursue your education at all.
 
-Do you work in this role for a few years and then negotiate going remotes to the cheek and then go to DC and you can support her career goals? All of these things are possible if you open up the aperture a little bit.
+
+If its about your job taking you to another place do you work in this role for a few years and then negotiate going remote so that you could go back to be with him/her? Is it possible to agree to visit each other twice or once a month? Maybe plan a vacation trip together once every three month? 
+
+All of these things are possible if you open up the aperture a little bit.
+
+
+## Clarify Your Priorities
 
 So take some time to clarify your priorities, but also look for ways to manage the circumstance to your advantage as much as possible.
 
@@ -48,3 +61,9 @@ You may have to take a leap of faith, but if you stay aware, put in the effort t
 Having said that, it is conceivable that you may have to give up one or two items as a result of this decision. I understand, but that's life. If you truly want this career and your girlfriend doesn't fit into your plans, you might have to part ways for a time and maybe you'll find your way back to each other, or maybe you won't and you meet a lady in Colorado who wants to run 5ks with you every Sunday and that's your road.
 
 I'm not sure, guy, life may be chaotic, but whatever you do, take this as an opportunity to reconnect with yourself. What do you desire? Who do you want to spend it with? What do you care about? Speak with others you trust to acquire further opinions. Communicate with your partner. You can't go wrong if you follow what thrills you beyond money, prestige, and practicalities. So good luck, man, it's not an easy decision.
+
+## KEY TAKEAWAYS
+
+Life is all about trade-off. Making opportunity costs, making some very difficult decisions to give one thing whiles you hold on to the other. In the essence, it's all boils down to your priorities and thinking about what will best suit your life. You may have to give up sacrifice something very important to you if you want to pursue love. If it will make you happy and fulfilled if you take the way of love do it. But always do it wit both your head and your heart, not one only. 
+
+And most importantly, consult the opinion of some very important and knowledgeable people in your life; your parents, counselor, a pastor etc. It will ease the burden and give a clear picture of the situation where your thoughts seems clouded.
