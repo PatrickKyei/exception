@@ -66,7 +66,7 @@ You may have to take a leap of faith, but if you stay aware, put in the effort t
 
 ## The Trade-Off
 
-Having said that, it is conceivable that you may have to give up one or two items as a result of this decision. I understand, but that's life. If you truly want this career and your girlfriend doesn't fit into your plans, you might have to part ways for a time and maybe you'll find your way back to each other, or maybe you won't and you meet a lady in your new chapter of your life who wants to run climb the career ladder with you all the way up.
+Having said that, it is conceivable that you may have to give up one or two items as a result of this decision. I understand, but that's life. If you truly want this career and your pursuit of love doesn't fit into your plans, you might have to part ways for a time and maybe you'll find your way back to each other, or maybe you won't and you find a new love in your new chapter of your life who wants to run climb the career ladder with you all the way up.
 
 ## Connect With Your Self
 
