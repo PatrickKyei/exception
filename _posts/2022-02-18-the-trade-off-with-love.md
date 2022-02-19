@@ -20,7 +20,7 @@ So it's not very helpful when someone you care about asks you to sacrifice a lot
 
 ## The Bitter Scenario
 
-Have you ever loved someone so much that it feels like you two know everything there is to know about each other, that you can understand each other even in silence? But you can't be together or see each other anymore because of religious differences, career opportunities, education, tribe, status in the community, or simply because of some principles, and one of you has to sacrifice one of these things?
+Have you ever loved someone so much that it feels like you two know everything there is to know about each other, that you can understand each other even in silence? But you can't be together or see each other anymore because of religious differences, career opportunities, education, tribe, status in the community, or simply because of some principles, and one of you has to sacrifice one of these things in order to stay togethet?
 
 Oh, man, this is a difficult one. In either case, there are some important trade-offs to be made; there is no such thing as an easy choice here. This, I believe, is what makes life so intense.
 
