@@ -70,10 +70,12 @@ Having said that, it is conceivable that you may have to give up one or two item
 
 ## Connect With Your Self
 
-I'm not sure, guy, life may be chaotic, but whatever you do, take this as an opportunity to reconnect with yourself. What do you desire? Who do you want to spend it with? What do you care about? Speak with others you trust to acquire further opinions. Communicate with your partner. You can't go wrong if you follow what thrills you beyond money, prestige, and practicalities. So good luck, man, it's not an easy decision.
+I'm not sure, guy, life may be chaotic, but whatever you do, take this as an opportunity to reconnect with yourself. What do you desire? Who do you want to spend the rest of your life with? What do you care about? Speak with others you trust to acquire further opinions. Communicate with your partner. You can't go wrong if you follow what thrills you beyond money, prestige, and practicalities. So good luck, man, it's not an easy decision.
 
 ## KEY TAKEAWAYS
 
-Life is all about making decisions and making trade-offs. Making opportunity costs and difficult decisions to surrender one thing while keeping the other is what life is all about. In essence, it comes down to your priorities and considering what would be best for your future life. If you want to pursue love, you may have to give up or sacrifice something extremely essential to you. Take the path of love if it would make you happy and content. But do it with both your intellect and your heart, not just one.
+Life is all about making decisions and making trade-offs. Making opportunity costs and difficult decisions to surrender one thing while keeping the other is what life is all about. 
 
-Most essential, seek the advice of some extremely significant and knowledgeable individuals in your life, such as your parents, a counselor, a pastor, and so on. It will lighten your load and provide a clear picture of the issue where your ideas appear obscured.
+In essence, it comes down to your priorities and considering what would be best for your future life. If you want to pursue love, you may have to give up or sacrifice something extremely essential to you. Take the path of love if it would make you happy and content. But do it with both your intellect and your heart, not just one.
+
+Most importantly, seek the advice of some extremely significant and knowledgeable individuals in your life, such as your parents, a counselor, a pastor, and so on. It will lighten your load and provide a clear picture of the issue where your opinion appear obscured.
