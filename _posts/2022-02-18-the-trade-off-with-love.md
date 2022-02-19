@@ -30,7 +30,9 @@ There is rarely a single clear road that leads to all you desire. You're continu
 
 ![home-career](/assets/img/home-career.jpg)
 
-So, obviously, I'm not in a position to tell you to give up your values or let everything be and go with your relationship . We can only think about how to make this decision and help you make the one that will help your future self. And you make this decision by sitting down for a few hours, going for a stroll or a run, or going somewhere else where you can be alone with yourself, and weighing your two possibilities. What are the advantages and disadvantages? What are the things that are most important to you?
+So, obviously, I'm not in a position to tell you to give up your values or let everything go and go with your relationship . We can only think about how to make this decision and help you make the one that will help your future self. 
+
+And you make this decision by sitting down for a few hours, going for a stroll or a run, or going somewhere else where you can be alone with yourself, and weighing your two possibilities. What are the advantages and disadvantages? What are the things that are most important to you?
 
 Is it your commitment to your job, belief, education or other endeavors and their fulfillment, or is it your devotion to your current relationship?
 
@@ -44,7 +46,7 @@ What brings you the most joy in life? Which job would motivate you to get out of
 
 Another thing I would recommend is determining which parts of this equation are genuinely fixed and which are flexible or might be made flexible.
 
-**If it's about your education,** could she/he be happy if you took 3yrs to get your masters or your degree? Could you guys commit to a relationship for a year and then get married whiles you are still in college? Maybe you don't have completely sacrifice the opportunity to pursue your education at all.
+**If it's about your education,** could she/he be happy if you took 3yrs to get your masters or your degree? Could you guys commit to a relationship for a year and then get married whiles you are still in college? Maybe you don't have to completely sacrifice the opportunity to pursue your education at all.
 
 
 **If its about your job taking you to another place,** do you work in this role for a few years and then negotiate going remote so that you could go back to be with him/her? Is it possible to agree to visit each other twice or once a month? Maybe plan a vacation trip together once every three month? 
