@@ -28,6 +28,8 @@ Oh, man, this is a difficult one. In either case, there are some important trade
 
 There is rarely a single clear road that leads to all you desire. You're continually making decisions that require you to give something up. But the nice thing about these roadblocks is that they give you an opportunity to check in with yourself and figure out what you actually want.
 
+![home-career](/assets/img/home-career.jpg)
+
 So, obviously, I'm not in a position to tell you to give up your values or let everything be and go with your relationship . We can only think about how to make this decision and help you make the one that will help your future self. And you make this decision by sitting down for a few hours, going for a stroll or a run, or going somewhere else where you can be alone with yourself, and weighing your two possibilities. What are the advantages and disadvantages? What are the things that are most important to you?
 
 Is it your commitment to your job, belief, education or other endeavors and their fulfillment, or is it your devotion to your current relationship?
@@ -42,10 +44,10 @@ What brings you the most joy in life? Which job would motivate you to get out of
 
 Another thing I would recommend is determining which parts of this equation are genuinely fixed and which are flexible or might be made flexible.
 
-If it's about your education, could she/he be happy if you took 3yrs to get your masters or your degree? Could you guys commit to a relationship for a year and then get married whiles you are still in college? Maybe you don't have completely sacrifice the opportunity to pursue your education at all.
+**If it's about your education,** could she/he be happy if you took 3yrs to get your masters or your degree? Could you guys commit to a relationship for a year and then get married whiles you are still in college? Maybe you don't have completely sacrifice the opportunity to pursue your education at all.
 
 
-If its about your job taking you to another place do you work in this role for a few years and then negotiate going remote so that you could go back to be with him/her? Is it possible to agree to visit each other twice or once a month? Maybe plan a vacation trip together once every three month? 
+**If its about your job taking you to another place,** do you work in this role for a few years and then negotiate going remote so that you could go back to be with him/her? Is it possible to agree to visit each other twice or once a month? Maybe plan a vacation trip together once every three month? 
 
 All of these things are possible if you open up the aperture a little bit.
 
@@ -54,16 +56,22 @@ All of these things are possible if you open up the aperture a little bit.
 
 So take some time to clarify your priorities, but also look for ways to manage the circumstance to your advantage as much as possible.
 
+![clarify-priorities](/assets/img/clarify-priorities.jpg)
+
 Life is rarely as fixed as we believe it to be; there are always hidden chances, unexpected rewards, and multiple interpretations of events, and you will never be able to perceive them all at once.
 
 You may have to take a leap of faith, but if you stay aware, put in the effort to be outstanding at what you do, and cultivate meaningful relationships with others, they will almost always present themselves. That's what I've noticed.
 
-Having said that, it is conceivable that you may have to give up one or two items as a result of this decision. I understand, but that's life. If you truly want this career and your girlfriend doesn't fit into your plans, you might have to part ways for a time and maybe you'll find your way back to each other, or maybe you won't and you meet a lady in Colorado who wants to run 5ks with you every Sunday and that's your road.
+## The Trade-Off
+
+Having said that, it is conceivable that you may have to give up one or two items as a result of this decision. I understand, but that's life. If you truly want this career and your girlfriend doesn't fit into your plans, you might have to part ways for a time and maybe you'll find your way back to each other, or maybe you won't and you meet a lady in your new chapter of your life who wants to run climb the career ladder with you all the way up.
+
+## Connect With Your Self
 
 I'm not sure, guy, life may be chaotic, but whatever you do, take this as an opportunity to reconnect with yourself. What do you desire? Who do you want to spend it with? What do you care about? Speak with others you trust to acquire further opinions. Communicate with your partner. You can't go wrong if you follow what thrills you beyond money, prestige, and practicalities. So good luck, man, it's not an easy decision.
 
 ## KEY TAKEAWAYS
 
-Life is all about trade-off. Making opportunity costs, making some very difficult decisions to give one thing whiles you hold on to the other. In the essence, it's all boils down to your priorities and thinking about what will best suit your life. You may have to give up sacrifice something very important to you if you want to pursue love. If it will make you happy and fulfilled if you take the way of love do it. But always do it wit both your head and your heart, not one only. 
+Life is all about making decisions and making trade-offs. Making opportunity costs and difficult decisions to surrender one thing while keeping the other is what life is all about. In essence, it comes down to your priorities and considering what would be best for your future life. If you want to pursue love, you may have to give up or sacrifice something extremely essential to you. Take the path of love if it would make you happy and content. But do it with both your intellect and your heart, not just one.
 
-And most importantly, consult the opinion of some very important and knowledgeable people in your life; your parents, counselor, a pastor etc. It will ease the burden and give a clear picture of the situation where your thoughts seems clouded.
+Most essential, seek the advice of some extremely significant and knowledgeable individuals in your life, such as your parents, a counselor, a pastor, and so on. It will lighten your load and provide a clear picture of the issue where your ideas appear obscured.
