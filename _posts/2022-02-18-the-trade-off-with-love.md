@@ -16,7 +16,7 @@ Life throws us into a lot of unexpected situations, and we occasionally have to 
 
 One example is suddenly having to end a relationship with someone you adored and held so dear. It's difficult and hurtful at times. You may feel as if you've lost everything and that the world is collapsing around you. The pain you may feel after a separation or break up from a loved one is equalled to physical pain.
 
-So it's not very helpful when someone you care about asks you to sacrifice a lot in order to be with them or stay together. It's not always them; sometimes it's just the way things are. It is especially painful and feels like a burden when it is put upon you to make this big decision. When you are compelled to make this major decision, it is very unpleasant and burdensome.
+So it's not very helpful when someone you care about asks you to sacrifice a lot in order to be with them or stay together — It's not always them; sometimes it's just the way things are. It is especially painful and feels like a burden when it is put upon you to make this big decision. When you are compelled to make this major decision, it is very unpleasant and burdensome.
 
 ## The Bitter Scenario
 
