@@ -31,7 +31,7 @@ It just happens that:
 
 * [Colors from Adobe](https://color.adobe.com)
 
-* [happyhues.co - color hues](happyhues.co)
+* [happyhues.co - color hues](https://happyhues.co)
 
 * [Find Color Gradients](https://grabient.com/)
 
@@ -43,7 +43,7 @@ It just happens that:
 
 * [Duotones](https://duotones.co/)
 
-* [Cool colors](https://www.culrs.com/#/)
+* [Cool colors](https://culrs.com/#/)
 
 * [Coolors](https://coolors.co/)
 
@@ -63,23 +63,23 @@ It just happens that:
 
 * [Site Palette](https://palette.site/)
 
-* [Huesnap](https://www.huesnap.com/)
+* [Huesnap](https://huesnap.com/)
 
 * [Colorwise](https://colorwise.io/)
 
 * [iconfinder](https://iconfinder.com)
 
-* [EdWordle](http://www.edwordle.net)
+* [EdWordle](http://edwordle.net)
 
-* [PNG to ICO converter](https://www.convertico.com)
+* [PNG to ICO converter](https://convertico.com)
 
 * [Free Logos for any Project](https://logoipsum.com/)
 
-* [Free Photos](https://www.pixeden.com/)
+* [Free Photos](https://pixeden.com/)
 
-* [Pxfuel photos](https://www.pxfuel.com/)
+* [Pxfuel photos](https://pxfuel.com/)
 
-* [Free photos](https://www.pexels.com/)
+* [Free photos](https://pexels.com/)
 
 * [Icon, Illustrations for Designers](https://streamlinehq.com/)
 
@@ -91,27 +91,27 @@ It just happens that:
 
 * [Free Design Resource](https://freedesignresources.net/)
 
-* [Font Brief](https://www.fontbrief.com/)
+* [Font Brief](https://fontbrief.com/)
 
-* [Find Screen Size](https://www.screensizes.app/)
+* [Find Screen Size](https://screensizes.app/)
 
 * [Pattern Monster](https://pattern.monster/)
 
 * [Eva Design System](https://eva.design/)
 
-* [color fonts](https://www.fontspace.com/)
+* [color fonts](https://fontspace.com/)
 
 * [Peppertype.ai content creator](https://app.peppertype.ai/)
 
-* [Greenkeeper Decision-support tool](https://www.greenkeeperapp.com/marketing/)
+* [Greenkeeper Decision-support tool](https://greenkeeperapp.com/marketing/)
 
-* [Sell design stuff](https://www.etsy.com/)
+* [Sell design stuff](https://etsy.com/)
 
-* [Daily UI challenges: Become a better designer in 100 days](https://www.dailyui.co/)
+* [Daily UI challenges: Become a better designer in 100 days](https://dailyui.co/)
 
 * [Illustrations](https://undraw.co/illustrations)
 
-* [Beautiful free illustrations](https://www.drawkit.io/)
+* [Beautiful free illustrations](https://drawkit.io/)
 
 * [Absurd Illustrations](https://absurd.design)
 
@@ -137,23 +137,23 @@ It just happens that:
 
 * [Fashion and Design](https://artsandculture.google.com/partner/fidm-museum)
 
-* [Free Vector Illustration](https://www.pixeltrue.com/)
+* [Free Vector Illustration](https://pixeltrue.com/)
 
 * [Free Mockup](https://previewed.app/)
 
 * [Open source Icon](https://remixicon.com/)
 
-* [Remove Background](https://www.remove.bg/)
+* [Remove Background](https://remove.bg/)
 
 * [UI Templates](https://uigarage.net/)
 
 * [Designers' Secret Source](https://muz.li/)
 
-* [Latest Design Trends](https://www.siteinspire.com/)
+* [Latest Design Trends](https://siteinspire.com/)
 
-* [Design Files](https://www.uplabs.com/)
+* [Design Files](https://uplabs.com/)
 
-* [Landing pages store](https://www.lapa.ninja/)
+* [Landing pages store](https://lapa.ninja/)
 
 * [Wireframes and mockups](https://uibundle.com)
 
@@ -183,31 +183,31 @@ It just happens that:
 
 * [Free videos](https://coverr.co/)
 
-* [DeviantArt](https://www.deviantart.com/)
+* [DeviantArt](https://deviantart.com/)
 
 * [Ello Art Gallery](https://ello.co/)
 
-* [ArtStation](https://www.artstation.com/)
+* [ArtStation](https://artstation.com/)
 
-* [Free Design ideas](https://www.awwwards.com/)
+* [Free Design ideas](https://awwwards.com/)
 
-* [Create questionare form](https://www.typeform.com/)
+* [Create questionare form](https://typeform.com/)
 
 * [Build without code](https://webflow.com/)
 
-* [Free 3D shapes](https://www.shapefest.com/#browse)
+* [Free 3D shapes](https://shapefest.com/#browse)
 
 * [Shapes, Illustrations and Icons](https://shape.so/)
 
-* [Download Adinkra Icons](https://www.adinkraicons.dev/)
+* [Download Adinkra Icons](https://adinkraicons.dev/)
 
 * [Pattern Generator- Pattern Monster](https://pattern.monster/)
 
-* [Free Illustration+scene](stubborn.fun)
+* [Free Illustration+scene](https://stubborn.fun)
 
 * [Feather Icons](https://feathericons.com/)
 
-* [Royalty Free Vectors](https://www.vecteezy.com/)
+* [Royalty Free Vectors](https://vecteezy.com/)
 
 * [SVG Graphics](https://app.haikei.app/)
 
@@ -215,9 +215,9 @@ It just happens that:
 
 * [App Screenshots](https://scrnshts.club/)
 
-* [User Onboarding](https://www.useronboard.com/user-onboarding-teardowns/)
+* [User Onboarding](https://useronboard.com/user-onboarding-teardowns/)
 
-* [Online photo editor](https://www.photopea.com)
+* [Online photo editor](https://photopea.com)
 
 * [Customize Animate & Download free Illustrations](https://storyset.com/)
 
@@ -225,7 +225,7 @@ It just happens that:
 
 * [font pairing](https://www.fontpair.co/)
 
-* Present Design with Mockups: [3D Studio](https://previewed.app/), [Artboard](https://artboard.studio/), [Mockup Frames](https://www.mokupframes.com/), [Smartmockups](https://smartmockups.com/), [Mockuphone](https://mockuphone.com/), [Mockuuuup Studio](https://mockuuups.studio/), [Magic Mockups](https://magicmockups.com/)
+* Present Design with Mockups: [3D Studio](https://previewed.app/), [Artboard](https://artboard.studio/), [Mockup Frames](https://mokupframes.com/), [Smartmockups](https://smartmockups.com/), [Mockuphone](https://mockuphone.com/), [Mockuuuup Studio](https://mockuuups.studio/), [Magic Mockups](https://magicmockups.com/)
 
 * [UI Design Challenges](https://app.crowwwn.com/)
 
@@ -237,7 +237,7 @@ It just happens that:
 
 * [Online Vector Editor](https://editor.method.ac/)
 
-* [Ben Sounds](https://www.bensound.com/)
+* [Ben Sounds](https://bensound.com/)
 
 ## For Software Developers
 
