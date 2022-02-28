@@ -229,7 +229,13 @@ It just happens that:
 
 * [UI Design Challenges](https://app.crowwwn.com/)
 
-* [Learn Pen Tricks](https://boolean.method.ac/)
+* [Learn Shape Tricks](https://boolean.method.ac/)
+
+* [Learn Alignment](https://www.supremo.co.uk/designers-eye/)
+
+* [Learn Typography](https://betterwebtype.com/triangle/)
+
+* [Learn Pen Tricks](https://bezier.method.ac/)
 
 * [Learn Typeface](https://type.method.ac/)
 
