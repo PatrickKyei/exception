@@ -1,6 +1,6 @@
 ---
-title: Break Barriers
-date: 2022-03-02 20:35:00 +00
+title: CONFIDENCE Is Essential For Your Success. Read This To Find Out Why
+date: 2022-01-02 20:35:00 +00
 categories: [Confidence, Life]
 tags: [life, confidence, action]     # TAG names should always be lowercase
 ---
