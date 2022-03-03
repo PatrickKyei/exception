@@ -5,18 +5,22 @@ categories: [Confidence, Life]
 tags: [life, confidence, action]     # TAG names should always be lowercase
 ---
 
-In the part of the world where I grew up, it is a general misconcepption that you will not do well in life if people are aware of what you are up to.
+In the part of the world where I grew up, there is a widespread misconception that if people know what you are up to, you will not fare well in life.
 
-Many people have believed this misconception and it has affected many aspect of their lives. So many people have lost very important qualities like confidence, ability to connect with other human beingns, and the ability to be open to new ideas because of some of these old beliefs.
+Many people have believed this myth, and it has had a negative impact on many aspects of their lives. Because of some of these old beliefs, many people have lost crucial qualities such as confidence, the ability to connect with other humans, and the ability to be open to new ideas.
 
-Although it is not healthy to go about, especially on social media platfroms like facebook, instagram etc to broadcast very sensitive details about your life, there's a good reason to keep your close niche up to date with some relevant milestones in your life, especially when it comes to your career, education, spiritual growth etc.
+Although it is not healthy to go about, especially on social media platforms like Facebook and Instagram, broadcasting very sensitive details about your life, there is a good reason to keep your close niche up to date with some relevant milestones in your life, particularly when it comes to your career, education, spiritual growth, and so on.
 
-If you begin telling people who you want to be and who you're striving to be and it's a lot more honest first, you can then make decisions here and now that are intentional towards that goal vs just by doing everthing behind the stage curtain.
+If you start telling people who you want to be and who you're striving to be, which is a lot more honest first, you can then make decisions here and now that are intentional toward that goal rather than just doing everything behind the stage curtain.
 
-You need to get on the stage. The world needs to recognize your potential and difference you are making. Value yourself, your voice, your body, your opinions, your dreams, your pride, your ego. You have a RIGHT to take up space..
+You must take your place on the stage. The world needs to recognize your potential and the difference you are making. Value yourself, your voice, your body, your thoughts, your dreams, your pride, and your ego. You have the RIGHT to take up space.
 
-But also then, when you begin framing the story of who you want to become but have not become this person yet, then you can say, “I'm not quite there yet but eventually I'm gonna get there.”  
+But, when you start telling the story of who you want to be but haven't yet become that person, you can say, "I'm not quite there yet, but I'm going to get there."
 
-What you end up doing is you create a better feedback loop in your environment where people can actually watch you in real-time becoming who you said you're going to be. Because they're hearing you say it and obviously you'll be able to cut away from the people who are not going to encourage your goals. 
+What you end up doing is creating a better feedback loop in your environment where people can actually watch you in real-time becoming who you said you'd be. Because they're hearing you say it, and you'll be able to avoid those who aren't going to support your goals.
 
-But also if we don't tell people where we're going they won't see any change in us. They will just assume, for the most part though, you're the same guy. So it becomes very important to begin telling people your new narratives because then ultimately you start to become consistent with the future version of you versus just being consistent with the former version of you.
+However, if we don't tell people where we're going, they won't notice any difference in us. They'll just assume, for the most part, that you're the same person. So it's crucial to start telling people your new narratives because you'll eventually start to become consistent with the future version of yourself rather than just been the former version of yourself.
+
+##KEY TAKEWAY
+
+Coming soon ...
