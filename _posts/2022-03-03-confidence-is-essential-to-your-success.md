@@ -54,6 +54,8 @@ _If you want to learn more about the importance of promoting yourself, take up t
 
 We think that extreme modesty, reserve, and allowing others to "discover my abilities" is the way to go. I learnt the hard way that it is our responsibility to inform people about what we have done and what we can do in the future. Being unable to promote oneself restricts opportunities, money, and your network. Make others aware of how outstanding you are in your position.
 
+## Be Fearless
+
 Please don't attempt to be as little, silent, accommodating, and handy as possible in your daily life. Even if your voice shakes, express your self-worth and personality. Don't commit to extreme types of modesty; instead, claim your beauty, intelligence, and passion. Always be fearless and unapologetic.
 
 ## KEY TAKEWAY
