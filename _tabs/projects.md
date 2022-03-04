@@ -1,6 +1,6 @@
 ---
 title: Projects
-icon: fas fa-tags
+icon: fas fa-briefcase
 order: 5
 ---
 
