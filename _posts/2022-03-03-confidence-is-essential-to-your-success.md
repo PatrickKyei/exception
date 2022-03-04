@@ -5,7 +5,9 @@ categories: [Confidence, Life]
 tags: [life, confidence, action]     # TAG names should always be lowercase
 ---
 
-> Ghanaians miscontrue confidence with arrogance.
+![confidence](/assets/img/confidence.jpg)
+
+> Many people miscontrue confidence with arrogance.
 
 In the part of the world where I grew up, there is a widespread misconception that if people know what you are up to, you will not fare well in life.
 
@@ -15,12 +17,16 @@ Many people have believed this misconception, and it has had a negative impact o
 
 Although it is not healthy to go about, especially on social media platforms like Facebook and Instagram, broadcasting very sensitive details about your life, there is a good reason to keep your close niche up to date with some relevant milestones in your life, particularly when it comes to your career, education, spiritual growth, and so on.
 
+![promote](/assets/img/dont-promote.jpg)
+
 If you start telling people who you want to be and who you're striving to be, which is a lot more honest first, you can then make decisions here and now that are intentional toward that goal rather than just doing everything behind the stage curtain.
 
 ## Live In The Lime Light
 
 When you're in the lime light of your life, you can be confident that you are not going to be alone.
 You must take your place on the stage. The world needs to recognize your potential and the difference you are making. Value yourself, your voice, your body, your thoughts, your dreams, your pride, and your ego. You have the RIGHT to take up space.
+
+![self-worth](/assets/img/self-worth.jpg)
 
 What you end up doing is creating a better feedback loop in your environment where people can actually watch you in real-time becoming who you said you'd be. Because they're hearing you say it, and you'll be able to avoid those who aren't going to support your goals.
 
@@ -46,7 +52,7 @@ _If you want to learn more about the importance of promoting yourself, take up t
 
 ## The Misconceptions About Self-Worth
 
-We think that extreme modesty, reserve, and allowing others to "discover" my abilities is the way to go. I learnt the hard way that it is our responsibility to inform people about what we have done and what we can do in the future. Being unable to promote oneself restricts opportunities, money, and your network. Make others aware of how outstanding you are in your position.
+We think that extreme modesty, reserve, and allowing others to "discover my abilities" is the way to go. I learnt the hard way that it is our responsibility to inform people about what we have done and what we can do in the future. Being unable to promote oneself restricts opportunities, money, and your network. Make others aware of how outstanding you are in your position.
 
 Please don't attempt to be as little, silent, accommodating, and handy as possible in your daily life. Even if your voice shakes, express your self-worth and personality. Don't commit to extreme types of modesty; instead, claim your beauty, intelligence, and passion. Always be fearless and unapologetic.
 
