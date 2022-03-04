@@ -21,6 +21,6 @@ What you end up doing is creating a better feedback loop in your environment whe
 
 However, if we don't tell people where we're going, they won't notice any difference in us. They'll just assume, for the most part, that you're the same person. So it's crucial to start telling people your new narratives because you'll eventually start to become consistent with the future version of yourself rather than just been the former version of yourself.
 
-##KEY TAKEWAY
+## KEY TAKEWAY
 
 Coming soon ...
