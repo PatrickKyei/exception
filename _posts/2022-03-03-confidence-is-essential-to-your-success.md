@@ -58,6 +58,6 @@ We think that extreme modesty, reserve, and allowing others to "discover my abil
 
 Please don't attempt to be as little, silent, accommodating, and handy as possible in your daily life. Even if your voice shakes, express your self-worth and personality. Don't commit to extreme types of modesty; instead, claim your beauty, intelligence, and passion. Always be fearless and unapologetic.
 
-## KEY TAKEWAY
+## KEY TAKEWAYS
 
 Coming soon ...
