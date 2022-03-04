@@ -14,7 +14,7 @@ Are you merely wasting your time, or are you genuinely using the time you have t
 
 To me, life is like an arena or a practice field.
 
-You believe you know everything there is to know and are unwilling to use your time wisely when you have the opportunity. 
+You believe you know everything there is to know and are unwilling to use your time wisely when you have the opportunity.
 
 What we must realize is that life as a whole is a process. The time we have is like that cold, beautiful breeze that we never get back once we miss it. 
 
