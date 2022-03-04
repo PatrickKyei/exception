@@ -16,13 +16,13 @@ To me, life is like an arena or a practice field.
 
 You believe you know everything there is to know and are unwilling to use your time wisely when you have the opportunity.
 
-What we must realize is that life as a whole is a process. The time we have is like that cold, beautiful breeze that we never get back once we miss it. 
+What we must realize is that life as a whole is a process. The time we have is like that cold, beautiful breeze that we never get back once we miss it.
 
 There are no refunds for unused time. I chose to live my life as though the next moment may be my last, so time is not mine. If you behave as if the next thing is going to kill you and then practice it again and over until we can beat that thing, we know how to cope with it, and you do a lot better job at every chance that comes your way.
 
 When you're young, you believe you have a lot of time, but the fact is that we don't. It's frightening, and you should be.
 
-People should have a sense of urgency about their time, in my opinion, since having a sense of urgency keeps you alert and allows you to make crucial decisions quickly. 
+People should have a sense of urgency about their time, in my opinion, since having a sense of urgency keeps you alert and allows you to make crucial decisions quickly.
 
 You understand what I mean? Living in fear of the amount of time you have left gives you a feeling of purpose.
 

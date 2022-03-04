@@ -13,7 +13,6 @@ tags: [relationship, love, life, choice]     # TAG names should always be lowerc
 
 Life throws us into a lot of unexpected situations, and we occasionally have to deal with things we weren't expecting.
 
-
 One example is suddenly having to end a relationship with someone you adored and held so dear. It's difficult and hurtful at times. You may feel as if you've lost everything and that the world is collapsing around you. The pain you may feel after a separation or break up from a loved one is equalled to physical pain.
 
 So it's not very helpful when someone you care about asks you to sacrifice a lot in order to be with them or stay together — It's not always them; sometimes it's just the way things are. It is especially painful and feels like a burden when it is put upon you to make this big decision. When you are compelled to make this major decision, it is very unpleasant and burdensome.
@@ -30,7 +29,7 @@ There is rarely a single clear road that leads to all you desire. You're continu
 
 ![home-career](/assets/img/home-career.jpg)
 
-So, obviously, I'm not in a position to tell you to give up your values or let everything go and go with your relationship . We can only think about how to make this decision and help you make the one that will help your future self. 
+So, obviously, I'm not in a position to tell you to give up your values or let everything go and go with your relationship . We can only think about how to make this decision and help you make the one that will help your future self.
 
 And you make this decision by sitting down for a few hours, going for a stroll or a run, or going somewhere else where you can be alone with yourself, and weighing your two possibilities. What are the advantages and disadvantages? What are the things that are most important to you?
 
@@ -48,11 +47,9 @@ Another thing I would recommend is determining which parts of this equation are 
 
 **If it's about your education,** could she/he be happy if you took 3yrs to get your masters or your degree? Could you guys commit to a relationship for a year and then get married whiles you are still in college? Maybe you don't have to completely sacrifice the opportunity to pursue your education at all.
 
-
-**If its about your job taking you to another place,** do you work in this role for a few years and then negotiate going remote so that you could go back to be with him/her? Is it possible to agree to visit each other twice or once a month? Maybe plan a vacation trip together once every three month? 
+**If its about your job taking you to another place,** do you work in this role for a few years and then negotiate going remote so that you could go back to be with him/her? Is it possible to agree to visit each other twice or once a month? Maybe plan a vacation trip together once every three month?
 
 All of these things are possible if you open up the aperture a little bit.
-
 
 ## Clarify Your Priorities
 
@@ -74,7 +71,7 @@ I'm not sure, guy, life may be chaotic, but whatever you do, take this as an opp
 
 ## KEY TAKEAWAYS
 
-Life is all about making decisions and making trade-offs. Making opportunity costs and difficult decisions to surrender one thing while keeping the other is what life is all about. 
+Life is all about making decisions and making trade-offs. Making opportunity costs and difficult decisions to surrender one thing while keeping the other is what life is all about.
 
 In essence, it comes down to your priorities and considering what would be best for your future life. If you want to pursue love, you may have to give up or sacrifice something extremely essential to you. Take the path of love if it would make you happy and content. But do it with both your intellect and your heart, not just one.
 
