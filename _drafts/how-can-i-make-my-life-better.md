@@ -6,42 +6,42 @@ tags: [app delivery, product design, portfolio]     # TAG names should always be
 ---
 
 
-If you are in a toxic, abusive relationship, leave.
+## Own your reality, not someone else’s
 
-Own your reality, not someone else’s.
+## Cut all toxic people out of your life
 
-Cut all toxic people out of your life.
+## Get in some form of exercise 30 mins a day
 
-Get in some form of exercise 30 mins a day.
+## Drink plenty of water
 
-Drink plenty of water.
+## If you binge drink, quit or limit your drinking
 
-If you binge drink, quit or limit your drinking.
+## Learn how to calm yourself with breath(meditation)
 
-Learn how to calm yourself with breath(meditation)
+## Stop procrastinating
 
-Stop procrastinating.
+## Find a job you love, not one that just pays the bills
 
-Find a job you love, not one that just pays the bills.
+## We are mediocre at many things, find one thing you are GREAT at and “double down” on that
 
-We are mediocre at many things, find one thing you are GREAT at and “double down” on that!
+## Rid yourself of negative self talk
 
-Rid yourself of negative self talk
+## Surround yourself with like minded people
 
-Surround yourself with like minded people.
+## Get outside at least 20 mins a day
 
-Get outside at least 20 mins a day.
+## Read on a topic that interest you that you don’t know much about
 
-Read on a topic that interest you that you don’t know much about.
+## If you have the time and resources get a pet
 
-If you have the time and resources get a pet.
+## Drastically reduce your time on social media
 
-Drastically reduce your time on social media.
+## Quit comparing yourself to others
 
-Quit comparing yourself to others.
+## Cut out processed food as much as possible
 
-Cut out processed food as much as possible.
+## Starting changing slowly, take baby steps. Slow but steady progress
 
-Starting changing slowly, take baby steps. Slow but steady progress.
+## Quit trying to find love, do the above and love will find you
 
-Quit trying to find love, do the above and love will find you.
+## If you are in a toxic, abusive relationship, leave
