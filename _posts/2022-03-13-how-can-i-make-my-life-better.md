@@ -1,12 +1,13 @@
 ---
 title: How can I make my life better?
-date: 2022-03-11 22:35:00 +00
+date: 2022-03-13 15:35:00 +00
 categories: [Life, Choices]
 tags: [life, ]     # TAG names should always be lowercase
 ---
 
 
 ## Own your reality, not someone else’s
+
 
 
 ## Cut all toxic people out of your life
