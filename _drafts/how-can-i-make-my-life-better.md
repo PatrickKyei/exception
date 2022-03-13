@@ -1,12 +1,13 @@
 ---
 title: How can I make my life better?
 date: 2022-03-11 22:35:00 +00
-categories: [Design, Portfolio]
-tags: [app delivery, product design, portfolio]     # TAG names should always be lowercase
+categories: [Life, Choices]
+tags: [life, ]     # TAG names should always be lowercase
 ---
 
 
 ## Own your reality, not someone else’s
+
 
 ## Cut all toxic people out of your life
 
@@ -39,7 +40,6 @@ tags: [app delivery, product design, portfolio]     # TAG names should always be
 ## Quit comparing yourself to others
 
 ## Cut out processed food as much as possible
-
 ## Starting changing slowly, take baby steps. Slow but steady progress
 
 ## Quit trying to find love, do the above and love will find you
