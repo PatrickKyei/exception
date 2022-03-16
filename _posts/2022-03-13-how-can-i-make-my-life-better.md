@@ -26,6 +26,7 @@ We are all likely to face some form of difficult situation in our lives and how 
 
 The thing is that you keep saying you'll start from tomorrow, but if you really wanted it, you'd start now. Set goals, form habits, and pursue them, and you will make history.
 
+Procrastination leads to stagnation when it comes to your personal and professional relationships. Don't put it off, and don't do it later. You will stagnate if you procrastinate.
 
 
 ## Find a job you love, not one that just pays the bills
@@ -34,6 +35,7 @@ When the love for mankind (service) and the passion for a product (solution) com
 
 ## We are mediocre at many things, find one thing you are GREAT at and “double down” on that
 
+Find out what you are excellent at and what genuinely excites you. Take small steps toward it every day, and set aside the larger vision for a time. For the time being, follow your curiosity; if you do this regularly, it will gradually prod you towards your purpose.
 ## Rid yourself of negative self talk
 
 Take charge of who you are and what you want for yourself. Stop downplaying what you care about and your hopes. Take control of your desires, ideas, and perceptions. Own your fire.Own your no-saying and yes-saying. Take charge of your emotions and mood. Take charge of your plans, your path, and your success. Almost every successful person begins with two convictions: the future can be better than the present, and I have the ability to make it so.
@@ -48,19 +50,21 @@ Creativity is sparked by adventure. Get outside and live life. Speak to someone,
 
 ## Read on a topic that interest you that you don’t know much about.
 
-GEORGE R.R. MARTIN once said, "I have lived a thousand lives and I have loved a thousand loves. I've walked on distant worlds and seen the end of time.
+George R.R. Martin once said, "I have lived a thousand lives and I have loved a thousand loves. I've walked on distant worlds and seen the end of time. Because I read."
 
-Because I read."
+It is enjoyable, inexpensive, and beneficial to read books. A single large book will keep you entertained for several hours, as well as prompt you to analyze and reassess certain aspects of the world around you. And, what's more, you can get that one book for almost nothing.
 
 ## If you have the time and resources get a pet
 
 ## Drastically reduce your time on social media
 
+We are unaware of many mental processes that occur when we spend time on social media. What is genuine and truthful in our story becomes clouded. We don't consciously think about it, yet it happens all the time. It may mostly influence our confidence and self-worth, especially if we start comparing our lives to those we see on social media, which are frequently not as they appear.
 
+Spend more time with family and friends, and embark on adventures. Those are the approaches to live a genuine life.
 
 ## Quit comparing yourself to others
 
-DON'T COMPARE YOUR BEGINNING TO SOMEONE ELSE'S MIDDLE. Don't compare your chapter 1 to someone else's chapter 20.nEveryone started somewhere, so get out there & start.
+Don't compare your beginning to the middle of someone else's life. Don't compare your first chapter to someone else's 20th. Everyone began somewhere, so get out there and begin.
 
 ## If you are in a toxic, abusive relationship, leave.
 
@@ -68,8 +72,9 @@ A toxic relationship leaves you feeling unsupported, misunderstood, disparaged, 
 
 ## Starting changing slowly, take baby steps. Slow but steady progress
 
-There's nothing more attractive than someone who knows exactly what they want and are dedicated to get it. Make this shift I mean I make this change and I said simply instead of trying to get I'm going to see if there's not opportunity to give if you can make this adjustment it will change your life for the good If you're a mechanic you may think you'll get paid to fix vehicles but if you can make this s*** you will recognize you help people reach the desire destination that will put your alarm clock out of business My senses are on a lot of people out there still hitting the snooze button 
+There's nothing more attractive than someone who knows exactly what they want and are dedicated to get it. Make this shift in your life. Start with baby steps as you grow into the person you want to become. 
 
+Just as the saying goes, "Dream big and Start small."
 ## Quit trying to find love, do the above and love will find you
 
 The goose chase for love is crazy and never ending. 
