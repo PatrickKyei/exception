@@ -8,6 +8,8 @@ Jekyll is a static site generator. Written in Ruby by Tom Preston-Werner, GitHub
 
 [Learn markdown](https://www.markdowntutorial.com/)
 
+[Liuid language for Ruby](https://shopify.github.io/liquid)
+
 #### HTML
 
 ```html
