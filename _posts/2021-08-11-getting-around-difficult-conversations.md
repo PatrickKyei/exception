@@ -3,7 +3,6 @@ title: Getting Around Difficult Conversations
 date: 2021-08-11 22:35:00 +00
 categories: [Conversations, Communication]
 tags: [communication, difficult, resolution]     # TAG names should always be lowercase
-pin: true
 ---
 
 ![networking](/assets/img/Networking.jpg)
