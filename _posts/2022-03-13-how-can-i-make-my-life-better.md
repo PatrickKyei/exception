@@ -42,11 +42,15 @@ Take charge of who you are and what you want for yourself. Stop downplaying what
 
 A lot of things also come down to identity, right? Our identity is often wrapped up in beliefs and you want to let a few things into your identity as possible if you want to be able to think as clearly as possible. Therefore 
 
-## Get outside at least 20 mins a day
+## Get outside at least 20 mins a day.
 
-Creativity is sparked by adventure. 
+Creativity is sparked by adventure. Get outside and live life. Speak to someone, open yourself to new asventures and you'd be surprise the good things that can come out of it.
 
-## Read on a topic that interest you that you don’t know much about
+## Read on a topic that interest you that you don’t know much about.
+
+GEORGE R.R. MARTIN once said, "I have lived a thousand lives and I have loved a thousand loves. I've walked on distant worlds and seen the end of time.
+
+Because I read."
 
 ## If you have the time and resources get a pet
 
@@ -56,9 +60,15 @@ Creativity is sparked by adventure.
 
 ## Quit comparing yourself to others
 
-## If you are in a toxic, abusive relationship, leave
+DON'T COMPARE YOUR BEGINNING TO SOMEONE ELSE'S MIDDLE. Don't compare your chapter 1 to someone else's chapter 20.nEveryone started somewhere, so get out there & start.
+
+## If you are in a toxic, abusive relationship, leave.
+
+A toxic relationship leaves you feeling unsupported, misunderstood, disparaged, or abused. On the most basic level, any relationship that makes you feel worse rather than better over time can become toxic. Toxic relationships can exist in a variety of settings, from the schoolyard to the workplace to the bedroom.
 
 ## Starting changing slowly, take baby steps. Slow but steady progress
+
+There's nothing more attractive than someone who knows exactly what they want and are dedicated to get it. Make this shift I mean I make this change and I said simply instead of trying to get I'm going to see if there's not opportunity to give if you can make this adjustment it will change your life for the good If you're a mechanic you may think you'll get paid to fix vehicles but if you can make this s*** you will recognize you help people reach the desire destination that will put your alarm clock out of business My senses are on a lot of people out there still hitting the snooze button 
 
 ## Quit trying to find love, do the above and love will find you
 
