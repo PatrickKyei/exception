@@ -5,6 +5,8 @@ categories: [Life, Choices]
 tags: [life, change, choices]     # TAG names should always be lowercase
 ---
 
+![better-life](/assets/img/better-life.jpg)
+
 We all go through life learning very valuable lessons. We learn, relearn and unlearn things. And there are ways we could do things better if we had a second chance. Here goes a few:
 
 If you have any suggestion to the list pls post it in the comment section below and we will update the list.
@@ -59,6 +61,7 @@ It is enjoyable, inexpensive, and beneficial to read books. A single large book 
 
 ## If you have the time and resources get a pet
 
+![pet-animals](/assets/img/pet-animals.jpg)
 ## Drastically reduce your time on social media
 
 We are unaware of many mental processes that occur when we spend time on social media. What is genuine and truthful in our story becomes clouded. We don't consciously think about it, yet it happens all the time. It may mostly influence our confidence and self-worth, especially if we start comparing our lives to those we see on social media, which are frequently not as they appear.
