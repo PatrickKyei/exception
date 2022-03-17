@@ -71,7 +71,9 @@ Don't compare your beginning to the middle of someone else's life. Don't compare
 
 ## If you are in a toxic, abusive relationship, leave.
 
-A toxic relationship leaves you feeling unsupported, misunderstood, disparaged, or abused. On the most basic level, any relationship that makes you feel worse rather than better over time can become toxic. Toxic relationships can exist in a variety of settings, from the schoolyard to the workplace to the bedroom.
+A toxic relationship leaves you feeling unsupported, misunderstood, disparaged, or abused. On the most basic level, any relationship that makes you feel worse rather than better over time can become toxic. Toxic relationships can exist in a variety of settings, from the schoolyard to the workplace to the bedroom. 
+
+It is not job to fix an abuser, it not your job to love someone who doesn't want to be loved and it is not your job to change anyone who is not ready for change. Remove yourself from any relationship that doesn't make you feel valued.
 
 ## Starting changing slowly, take baby steps. Slow but steady progress
 
