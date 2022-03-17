@@ -5,6 +5,8 @@ categories: [Life, Choices]
 tags: [life, change, choices]     # TAG names should always be lowercase
 ---
 
+![better life](/assets/img/better-life.jpg)
+
 We all go through life learning very valuable lessons. We learn, relearn and unlearn things. And there are ways we could do things better if we had a second chance. Here goes a few:
 
 If you have any suggestion to the list pls post it in the comment section below and we will update the list.
@@ -58,6 +60,8 @@ George R.R. Martin once said, "I have lived a thousand lives and I have loved a 
 It is enjoyable, inexpensive, and beneficial to read books. A single large book will keep you entertained for several hours, as well as prompt you to analyze and reassess certain aspects of the world around you. And, what's more, you can get that one book for almost nothing.
 
 ## If you have the time and resources get a pet
+
+![pet animals](/assets/img/pet-animals.jpg)
 
 ## Drastically reduce your time on social media
 
