@@ -82,5 +82,5 @@ There's nothing more attractive than someone who knows exactly what they want an
 Just as the saying goes, "Dream big and Start small."
 ## Quit trying to find love, do the above and love will find you
 
-The goose chase for love is crazy and never ending. 
+The goose chase for love is crazy and never ending. Live your best life, be yourself and you will meet someone who can connect with the true you.
 
