@@ -17,9 +17,9 @@ I'm a firm believer in seeing things as they truly are, and I'm not going to lie
 
 Do not welcome toxic people back into your life, no matter how lonely you get on your path. Engaging with toxic people saps your motivation, passion, purpose, and sense of meaning in life.
 
-## Get in some form of exercise 30 mins a day
+## Get in some form of exercise every day
 
-There is now widespread agreement on the value of physical activity. From elementary school to university, we were taught the importance of exercise. And sometimes you don't just need it for your body; you also need it to cleanse your thoughts. Get a gym membership, or make it a habit to jog, walk, perform yoga, or conduct your own aerobic exercise at home on a regular basis. Maintain the health of your body and mind.
+There is now widespread agreement on the value of physical exercise. From elementary school to university, we were taught the importance of exercise. And sometimes you don't just need it for your body; you also need it to cleanse your thoughts. Get a gym membership, or make it a habit to jog, walk, perform yoga, or conduct your own aerobic exercise at home on a regular basis. Maintain the health of your body and mind.
 
 ## Learn how to calm yourself in tough situations
 
