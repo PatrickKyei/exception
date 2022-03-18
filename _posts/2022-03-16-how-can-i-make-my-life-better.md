@@ -47,11 +47,11 @@ Take charge of who you are and what you want for yourself. Stop downplaying what
 
 ## Surround yourself with like minded people
 
-A lot of things also come down to identity, right? Our identity is often wrapped up in beliefs and you want to let a few things into your identity as possible if you want to be able to think as clearly as possible. Therefore make sure the people you move with share similar visions and goals with you. If not you will lose sense of purpose and get distracted towards your goals and journey to a better version of yourself. 
+A lot of things also come down to identity, right? Our identity is often wrapped up in beliefs and you want to let a few things into your identity if you want to be able to think as clearly as possible. Therefore make sure the people you move with share similar visions and goals with you. Otherwise you will lose your sense of purpose and get distracted towards your goals and journey to a better version of yourself. 
 
 ## Get outside at least 20 mins a day.
 
-Creativity is sparked by adventure. Get outside and live life. Speak to someone, open yourself to new asventures and you'd be surprise the good things that can come out of it.
+Creativity is sparked by adventure. Get outside and live life. Speak to someone, open yourself to new adventures and you'd be surprise the good things that can come out of it.
 
 ## Read on a topic that interest you that you don’t know much about.
 
