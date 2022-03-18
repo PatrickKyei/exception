@@ -63,6 +63,7 @@ It is enjoyable, inexpensive, and beneficial to read books. A single large book 
 
 ![pet-animals](/assets/img/pet-animals.jpg)
 
+Dogs are often referred to as man's best friend, but they aren't the only creatures who have a special place in humanity's heart. Having a pet may help you deal with loneliness, decrease stress, enhance your mental health, and provide you with a chance to meet new people. If you are someone who is thinking of having or raising your own family, that's one way to start from.
 ## Drastically reduce your time on social media
 
 We are unaware of many mental processes that occur when we spend time on social media. What is genuine and truthful in our story becomes clouded. We don't consciously think about it, yet it happens all the time. It may mostly influence our confidence and self-worth, especially if we start comparing our lives to those we see on social media, which are frequently not as they appear.
