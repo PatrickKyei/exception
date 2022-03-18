@@ -9,8 +9,6 @@ tags: [life, change, choices, advice]     # TAG names should always be lowercase
 
 We all go through life learning very valuable lessons. We learn, relearn and unlearn things. And there are ways we could do things better if we had a second chance. Here goes a few:
 
-If you have any suggestion to the list pls post it in the comment section below and we will update the list.
-
 ## Own your reality, not the reality of others
 
 I'm a firm believer in seeing things as they truly are, and I'm not going to lie to you: you're going to be confused by life at times. You'll attempt to compare your life to others', or people will try to persuade you to live the way they do. You must find your own route, your own method of doing things that works for you. If we listen to the voices that contradict who we want to be, we may never be able to settle.
