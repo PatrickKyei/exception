@@ -1,5 +1,5 @@
 ---
-title: Project Management Project Career
+title: Project Management Career Path
 date: 2022-03-11 22:35:00 +00
 categories: [PM, Project]
 mermaid: true
