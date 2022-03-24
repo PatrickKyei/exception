@@ -60,6 +60,6 @@ Please don't attempt to be as little, silent, accommodating, and handy as possib
 
 ## KEY TAKEWAYS
 
-- You have to cultivate the habit of slef promotion.
+- You have to cultivate the habit of self promotion.
 - Confidence is a learned skill. It improves with practice.
-- You will face opposing views when you start to express your convictions. Stand your grounds, change makes people uneasy and you should expect that a lot.
+- You will face opposing views when you start to express your convictions. Stand your grounds; change makes people uneasy and you should expect that a lot.
