@@ -10,21 +10,27 @@ Our everyday lives are shaped by the decisions we make. We may choose to live a 
 So, without further ado, here are some modest daily habits to include into your routine.
 ## 1. Fill your mind with relevant facts
 
-![mind information](/assets/img/mind-information.jpg)
-
 The information you feed your brain has an impact on how you think and how you see life in general. As technology advances and information becomes more readily available, it is becoming more common to encounter bad and biased news. Continuous and excessive exposure to negative and skewed information will have an impact on your decision-making process and the quality of your decisions.
+
+![mind information](/assets/img/mind-information.jpg)
 
 As a result, it's critical to filter the news you get and how you absorb information. At the very least, you should have more than three news sources from which to choose your news. This might assist you in double-checking the facts in your newsfeed so that you can make an informed decision if the various news sources contradict one other.
 
 ## 2. Improve your focus each morning by asking yourself, "What is the ONE thing I am dedicated to learning today?"
 
-This habit simplifies things, improves brain focus, encourages you to prioritize your goals, and streamlines your task so you don't easily become overwhelmed by a thousand things you "have" to complete. Put it on a piece of paper in huge, strong characters and put it on your bedroom or bathroom wall? Save it to your to-do list or set a reminder for it? While brushing your teeth or getting ready, read it aloud and come up with a answer on the spot. Then, while you go about your day, keep it in mind as a reminder of what you've committed to accomplish.
+This habit simplifies things, improves brain focus, encourages you to prioritize your goals, and streamlines your task so you don't easily become overwhelmed by a thousand things you "have" to complete. 
+
+![focus](/assets/img/focus.jpg)
+
+Put it on a piece of paper in huge, strong characters and put it on your bedroom or bathroom wall? Save it to your to-do list or set a reminder for it? While brushing your teeth or getting ready, read it aloud and come up with a answer on the spot. Then, while you go about your day, keep it in mind as a reminder of what you've committed to accomplish.
 
 ## 3. Early on, engage your most important tasks.
 
 Any type of analytical thinking that demands the maximum focus, such as reading, writing, analyzing, or problem solving, is considered deep work. It necessitates a different type of attention than other more tactical tasks we perform on a daily basis, such as cleaning dishes or setting our alarm clock before going to bed. Spend the first 2-4 hours after waking up maximizing your brain's optimal performance time. If you get up at 7:00 a.m., your peak hours are between 9:00 and 11:00 a.m.
 
 ## 4. Do a short 20–30 minute cardio workout.
+
+![woman jog](/assets/img/woman-jog.jpg)
 
 Being physically active helps both your physical and mental well-being, and breaking a sweat releases endorphins (happy hormones). Instead of setting lofty goals ("I have to spend two hours at the gym!"), start with a quick workout, either before your daily commute or after you've finished work or school. 
 
