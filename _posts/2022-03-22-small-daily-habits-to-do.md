@@ -1,11 +1,9 @@
 ---
-title: Small daily habits
+title: What You Can Learn From Small daily habits
 date: 2022-03-24 08:35:00 +00
 categories: [Habits, Life]
 tags: [life, choice, habit]     # TAG names should always be lowercase
 ---
-
-Daily habit 
 
 ## 1. Fill your mind with relevant facts
 
