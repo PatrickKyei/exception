@@ -5,6 +5,9 @@ categories: [Habits, Life]
 tags: [life, choice, habit]     # TAG names should always be lowercase
 ---
 
+Our everyday lives are shaped by the decisions we make. We may choose to live a happier and more successful life if we turn our decisions into little daily habits and techniques that we can put into practice. Motivation alone is insufficient for me. It's a waste of my time if I have to read a whole book, article, post etc. without learning a single technique or system.
+
+So, without further ado, here are some modest daily habits to include into your routine.
 ## 1. Fill your mind with relevant facts
 
 The information you feed your brain has an impact on how you think and how you see life in general. As technology advances and information becomes more readily available, it is becoming more common to encounter bad and biased news. Continuous and excessive exposure to negative and skewed information will have an impact on your decision-making process and the quality of your decisions.
