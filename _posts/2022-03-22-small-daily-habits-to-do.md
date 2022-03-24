@@ -42,4 +42,6 @@ Did you know that reading enhances brain connections and improves brain function
 
 ## 7. Develop a growth mindset.
 
+![growth mindset](/assets/img/growth-mindset.jpg)
+
 Think again if you believe that a mentality is something you are born with. Unlike having a fixed mindset (where you believe you were born with a set of skills and abilities that are in your "nature"), cultivating a growth mindset requires you to push yourself outside of your comfort zone, challenge beliefs about what you can and cannot (or "should not") do, and re-program your mind so you can develop your core qualities and skills through consistent efforts.
