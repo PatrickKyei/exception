@@ -1,6 +1,6 @@
 ---
 title: What You Can Learn From Small daily habits
-date: 2022-03-24 08:35:00 +00
+date: 2022-03-24 20:35:00 +00
 categories: [Habits, Life]
 tags: [life, choice, habit]     # TAG names should always be lowercase
 ---
@@ -9,6 +9,8 @@ Our everyday lives are shaped by the decisions we make. We may choose to live a 
 
 So, without further ado, here are some modest daily habits to include into your routine.
 ## 1. Fill your mind with relevant facts
+
+![mind information](/assets/img/mind-information.jpg)
 
 The information you feed your brain has an impact on how you think and how you see life in general. As technology advances and information becomes more readily available, it is becoming more common to encounter bad and biased news. Continuous and excessive exposure to negative and skewed information will have an impact on your decision-making process and the quality of your decisions.
 
