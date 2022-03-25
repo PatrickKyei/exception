@@ -23,7 +23,7 @@ This habit simplifies things, improves brain focus, encourages you to prioritize
 
 ![focus](/assets/img/focus.jpg)
 
-Put it on a piece of paper in huge, strong characters and put it on your bedroom or bathroom wall? Save it to your to-do list or set a reminder for it? While brushing your teeth or getting ready, read it aloud and come up with a answer on the spot. Then, while you go about your day, keep it in mind as a reminder of what you've committed to accomplish.
+Put it on a piece of paper in huge, strong characters and put it on your bedroom or bathroom wall? Save it to your to-do list or set a reminder for it? While brushing your teeth or getting ready, read it aloud and come up with an answer on the spot. Then, while you go about your day, keep it in mind as a reminder of what you've committed to accomplish.
 
 ## 3. Early on, engage your most important tasks
 
@@ -35,7 +35,7 @@ Any type of analytical thinking that demands the maximum focus, such as reading,
 
 Being physically active helps both your physical and mental well-being, and breaking a sweat releases endorphins (happy hormones). Instead of setting lofty goals ("I have to spend two hours at the gym!"), start with a quick workout, either before your daily commute or after you've finished work or school.
 
-Choose a 15-minute exercise, a series of cardio and squats, a power walk, bike ride, or a brisk sprint around the neighborhood as a shorter activity that pushes your body to move. If you're looking for a new challenge, you've come to the right place Make it a daily habit to exercise for [10 minutes every day!](https://youtu.be/3sEeVJEXTfY) It's the one I prefer.
+Choose a 15-minute exercise, a series of cardio and squats, a power walk, bike ride, or a brisk sprint around the neighborhood as a shorter activity that pushes your body to move. If you're looking for a new challenge, you are here!. Make it a daily habit to exercise for [10 minutes every day!](https://youtu.be/3sEeVJEXTfY) It's the one I prefer.
 
 ## 5. Meditation might help you to relax your racing thoughts
 
