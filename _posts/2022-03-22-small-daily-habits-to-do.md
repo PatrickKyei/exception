@@ -5,7 +5,7 @@ categories: [Habits, Life]
 tags: [life, choice, habit]     # TAG names should always be lowercase
 ---
 
-Our everyday lives are shaped by the decisions we make. We may choose to live a happier and more successful life if we turn our decisions into little daily habits and techniques that we can put into practice. Motivation alone is insufficient for me. It's a waste of my time if I have to read a whole book, article, post etc. without learning a single technique or system.
+Our everyday lives are shaped by the decisions we make. We may choose to live a happier and more successful life if we turn our decisions into little daily habits and techniques that we can put into practice. Motivation alone is insufficient for me. It's a waste of my time if I have to read a whole book, article, post etc. without learning a single technique or habit.
 
 So, without further ado, here are some modest daily habits to include into your routine.
 ## 1. Fill your mind with relevant facts
@@ -14,7 +14,7 @@ The information you feed your brain has an impact on how you think and how you s
 
 ![mind information](/assets/img/mind-information.jpg)
 
-As a result, it's critical to filter the news you get and how you absorb information. At the very least, you should have more than three news sources from which to choose your news. This might assist you in double-checking the facts in your newsfeed so that you can make an informed decision if the various news sources contradict one other.
+As a result, it's critical to filter the news you get and how you absorb information. At the very least, you should have more than three news sources from which to choose your news. This might assist you in double-checking the facts in your newsfeed so that you can make an informed decision if the various news sources contradict one another.
 
 ## 2. Improve your focus each morning by asking yourself, "What is the ONE thing I am dedicated to learning today?"
 
@@ -39,6 +39,10 @@ Choose a 15-minute exercise, a series of cardio and squats, a power walk, bike r
 ## 5. Meditation might help you to relax your racing thoughts
 
 If you frequently feel overwhelmed and anxious, a simple 10-minute meditation practice can help you clear your mind of all those racing thoughts. 
+
+We have the ability to transform our thoughts by taking responsibility for our own minds. We become happy when we learn to focus our attention on the most essential things in our life and decrease all of the distractions in our lives.
+
+Limit your screen time, particularly your time spent on social media and other online activities. Make better use of your internet time. Instead, read a book, take piano lessons, or join a singing club. All of these things can help us enhance our psychological well-being.
 
 ## 6. Read at least one chapter a day.
 
