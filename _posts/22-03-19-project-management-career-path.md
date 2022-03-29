@@ -53,4 +53,14 @@ In this section, I discuss the thought process, skills, and experience I gained 
 
 ## Overview
 
+Sauce and Spoon, a small restaurant company, is trying to reach its annual expansion and growth targets. They've chosen to undertake a trial project to see how well new tabletop menu tablets will help them achieve these objectives. The new menu tablets will help Sauce and Spoon fulfill its business goals by allowing the restaurant to serve more clients in less time. They will also provide useful statistics.
+
+I was just hired as the company's first in-house project manager to handle the tablet rollout at two of the five restaurants in the company. Throughout you'll see how I lead the team through the process of planning and completing project deliverables.
+
+You'll be able to follow the project throughout its life cycle as I learn about the restaurant industry, establish project goals, negotiate with stakeholders, and much more.
+
+You'll see how I learned what works and what doesn't, as well as how to problem solve my way through the project, practice key project management concepts like analyzing materials to identify project requirements, solve problems, and manage stakeholders, using important negotiation and influencing techniques, listening with empathy when working with a team, and practicing stakeholder communication skills.
+
+Are you ready? Let's go.
+
 Documenting ...
