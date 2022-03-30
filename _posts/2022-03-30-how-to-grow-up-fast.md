@@ -37,7 +37,7 @@ Build a team with the same dreams. Make friends with people who are significantl
 
 Wherever you are be present, stay present, drag your future into your present.
 
-## Stay away from any blame games.
+## Stay away from any blame games
 
 You owe no one an explanation for your failures and mistakes, so why should you blame others for your life's difficulties?
 
