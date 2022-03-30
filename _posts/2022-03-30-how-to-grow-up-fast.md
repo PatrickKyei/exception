@@ -11,7 +11,7 @@ Nothing can teach us more than our own personal experiences.
 
 ![independent woman](/assets/img/independent-woman.png)
 
-It doesn't matter how big your new apartment is, move out of your parents' house and start living alone. The point is that living alone forces you to take charge of your own future. Strive for the transition from "freedom from" to "freedom to".
+It doesn't matter how big your family apartment is, move out of your parents' house and start living alone. The point is that living alone forces you to take charge of your own future. Strive for the transition from "freedom from" to "freedom to".
 
 ## Be Responsible
 
