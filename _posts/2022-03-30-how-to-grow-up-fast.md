@@ -15,7 +15,7 @@ It doesn't matter how big your new apartment is, move out of your parents' house
 
 ## Be Responsible
 
-[be Responsible](/assets/img/be-responsible.png)
+[be Responsible](/assets/img/be-responsible.jpg)
 
 Being responsible has different connotations depending on your culture, but my greatest definition of responsibility is the ability to respond to whatever obstacles that come your way. You mature as a result of overcoming obstacles.
 
