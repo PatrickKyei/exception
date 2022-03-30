@@ -9,9 +9,13 @@ tags: [growth, choice, life]     # TAG names should always be lowercase
 
 Nothing can teach us more than our own personal experiences.
 
+[independent woman](/assets/img/independent-woman.png)
+
 It doesn't matter how big your new apartment is, move out of your parents' house and start living alone. The point is that living alone forces you to take charge of your own future. Strive for the transition from "freedom from" to "freedom to".
 
 ## Be Responsible
+
+[be Responsible](/assets/img/be-responsible.png)
 
 Being responsible has different connotations depending on your culture, but my greatest definition of responsibility is the ability to respond to whatever obstacles that come your way. You mature as a result of overcoming obstacles.
 
