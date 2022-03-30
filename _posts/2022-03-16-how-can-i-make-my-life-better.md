@@ -78,7 +78,7 @@ A toxic relationship leaves you feeling unsupported, misunderstood, disparaged, 
 
 It is not your job to fix an abuser, it not your job to love someone who doesn't want to be loved and it is not your job to change anyone who is not ready for change. Remove yourself from any relationship that doesn't make you feel valued.
 
-## Starting changing slowly, take baby steps. Slow but steady progress
+## Start changing slowly, take baby steps. Slow but steady progress
 
 There's nothing more attractive than someone who knows exactly what they want and are dedicated to get it. Make this shift in your life. Start with baby steps as you grow into the person you want to become.
 
