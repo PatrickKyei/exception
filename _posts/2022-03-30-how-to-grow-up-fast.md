@@ -21,11 +21,15 @@ Being responsible has different connotations depending on your culture, but my g
 
 ## Take Risks Now
 
+![tak risk](/assets/img/take-risk.jpg)
+
 Every day, think to yourself, "I have nothing to lose." You don't get up every day playing it safe; instead, you work hard and think strategically. The biggest Risk is not taking any Risk.
 
 ## Fail Fast, Fail Forward
 
 Life isn't supposed to be comfortable. Congratulations if you try and fail. The majority of people will not even try it.
+
+![fail forward](/assets/img/fail-forward.jpg)
 
 Fail quickly and quickly learn from your mistakes. When you fail quickly and learn from it, you progress, but if you dodge failure and play safe, you stay the same.
 
@@ -44,6 +48,8 @@ You owe no one an explanation for your failures and mistakes, so why should you 
 This life is 100% your responsibility. Remain tough!
 
 ## Keep The Forward Movement
+
+![forward movement](/assets/img/forward-movement.jpg)
 
 Make a plan to keep you moving in life. This is why you should meditate, journal, establish plans, and stick to them.
 
