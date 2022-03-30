@@ -1,6 +1,6 @@
 ---
 title: What is the best way to mature?
-date: 2022-03-30 19:35:00 +00
+date: 2022-03-30 08:35:00 +00
 categories: [Growth, Choice]
 tags: [growth, choice, life]     # TAG names should always be lowercase
 ---
