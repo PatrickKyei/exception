@@ -15,11 +15,9 @@ We have to understand these about ourselves so that we are not taken advantage o
 
 ### Poking into the Human Behavior
 
-We are flawed individuals. We all evolve from the same roots and we can't control who we are to a larger extend. Sometimes we feel very powerful emotions and we may act stupid based on these emotions and often this is very human. Some people like to exempt themselves. They even go about to say, "I am never aggressive", "I am not a narcissist it is the other person", "I am just so sweet, it is the other people who are aggressive", so on and so forth. But this is who we are. It is not to be depressing. This is actually what human behavior is. Everybody wants to think they can
+We are flawed individuals. We all evolve from the same roots and we can't control who we are to a larger extend. Sometimes we feel very powerful emotions and we may act stupid based on these emotions and often this is very human. Some people like to exempt themselves. They even go about to say, "I am never aggressive", "I am not a narcissist it is the other person", "I am just so sweet, it is the other people who are aggressive", so on and so forth. But this is who we are. It is not to be depressing. This is actually what human behavior is. Everybody wants to think they can change themselves, that is why self-help books sell so well. But if you don't have self awareness, you can't possibly change yourself.
 
-change themselves, that is why self-help books sell so well. But if you don't have self awareness, you can't possibly change yourself.
-
-The human behavior is not all negative. We have some positive traits.
+> The human behavior is not all negative. We have some positive traits.
 
 When you have the awareness that you are capable of been angry, aggressive, envious, been irrational at times, then you can actually start to change yourself. Instead of going around in circles or deluding yourself that you are changing when in fact you are not.The Liberating fact
 
@@ -29,7 +27,7 @@ People are wrapped up in their own emotions, traumas, even living things from th
 
 ### Humans are Social Animals
 
-Now the things is, we are social animals to the core. We are molded by people; parents, teachers, spouses, friends. So we are not really individuals. We are built by other people by been social. We kind of are a mold of all these other interactions and relationships. And so we are really generally bad at that aspect of life because we don't understand other people. We take it like a set of simple snapshot of people. They are nice, they are not nice. They are pleasant, they not pleasant. They are smart, they are not smart. But people are infinitely complicated complex. They have a wealth of emotions, they are going through things that you are not even beginning to see. And if you can begin to pierce their mask and get inside their psychology and understand where they are coming from, suddenly the whole game changes. And what you say and how you act with them changes as well and you will find your relationships are much more smoother. Your bonds with people will be much more deeper and you will be able to deal with those ugly toxic types that inevitably cross your path.
+Now the thing is, we are social animals to the core. We are molded by people; parents, teachers, spouses, friends. So we are not really individuals. We are built by other people by been social. We kind of are a mold of all these other interactions and relationships. And so we are really generally bad at that aspect of life because we don't understand other people. We take it like a set of simple snapshot of people. They are nice, they are not nice. They are pleasant, they not pleasant. They are smart, they are not smart. But people are infinitely complicated complex. They have a wealth of emotions, they are going through things that you are not even beginning to see. And if you can begin to pierce their mask and get inside their psychology and understand where they are coming from, suddenly the whole game changes. And what you say and how you act with them changes as well and you will find your relationships are much more smoother. Your bonds with people will be much more deeper and you will be able to deal with those ugly toxic types that inevitably cross your path.
 
 ### Our Default Position in Life
 
