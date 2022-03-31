@@ -56,4 +56,3 @@ Make a plan to keep you moving in life. This is why you should meditate, journal
 ## Act on Time
 
 Finishing your unfinished task "First thing first" is the most effective approach of not wasting time.
-
