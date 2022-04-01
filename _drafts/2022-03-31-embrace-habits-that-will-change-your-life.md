@@ -1,5 +1,5 @@
 ---
-title: Habits That will Change Your Life
+title: Habits to Adopt That Will Transform Your Life
 date: 2022-03-31 02:16:00 +00
 categories: [Habits, Life]
 tags: [hatis, change]     # TAG names should always be lowercase
