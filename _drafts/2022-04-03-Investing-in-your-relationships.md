@@ -5,18 +5,18 @@ categories: [Relationships, Choices]
 tags: [choice, life, relationships]     # TAG names should always be lowercase
 ---
 
-If you're deliberately thinking about your relationships long before anybody you are on the right way. At the age  when you're 16 - 25, most people aren't being thoughtful about who they spend time with or how often they reach out or how they can consciously go deep in their connections.
+You're on the correct track if you're thinking about your relationships far before anyone else. Most people between the ages of 16 and 25 aren't thinking about who they spend time with, how often they reach out, or how they may actively go deeper in their relationships.
 
-I certainly wasn't. Like most young adults, they're just defaulting to their existing ties; settling for people and goals that present themselves rather than seeking out the ones they really want. And that's fine, we all go through that phase. I went through that phase, it's just part of being a kid.
+I certainly wasn't. They, like most young adults, are simply reverting to their existing ties, settling for people and goals that present themselves rather than seeking out the ones they truly desire. That's fine; we all go through it. That was a phase I went through; it's just a part of growing up.
 
-But your way ahead now, you have to change the game. You have to be deliberate who you connect with, who you spend time around, taking it seriously those that you allow in your social space. 
+But you have to adjust the game today if you want to get ahead. You must be careful in who you connect with and spend time with, and you must take seriously those whom you allow into your social zone.
 
-So my advice is this; keep staying in touch with people. Don't give up on them entirely. But also have some patience while those in your friends zone catch up. They probably haven't woken up to the power of great relationships. 
+So, here's my advice: Stay in touch with people. Don't completely give up on them. However, be patient as individuals in your friend zone catch up. They haven't yet realized the value of great relationships.
 
-And by the way this isn't a teenage problem. There are people in their 40s and 50s who don't understand these stuff are important. You'll always encounter people who just don't understand that relationships are everything. So while you keep up your relationships, prioritize the people who reciprocate your investment. Follow the good vibes, if 9 out of 10 people your age don't really engage but one of them does and you feel a connection that's a win, stick with that person. 
+By the way, this isn't only a teen issue. There are people in their 40s and 50s who don't realize how critical these issues are. You'll always come across people who don't appreciate the importance of connections. So, while maintaining your relationships, give priority to those who return your investment. Follow the good vibes Keep with the positive vibrations; if 9 out of 10 people your age don't engage, but one of them does and you sense a connection, it's a victory; stick with that person.
 
-A handful of close meaningful relationships is always better than a hundred weak ones. And if I were you I  would start focusing on people who are older than my age. Older smart people who get it, they love hearing from curious hard working young people like you.
+A few close and meaningful relationships are always better to a hundred weak ones. And, if I were you, I'd start paying attention to those who are older than me. Older, wiser individuals who get it enjoy hearing from young people like you who are curious and hardworking.
 
-For the next 5 or 10 years you might have more luck with older people which is actually a huge asset when it comes time to look for a job or launch a project or plan a cool trip or whatever, those people will be clutch and you have a lot to offer them too. 
+For the next 5 to 10 years, you might have more luck with older people, which is a huge benefit when it comes time to hunt for a career, start a project, arrange a fun trip, or whatever; those individuals will be clutch, and you have a lot to ofer them as well.
 
-If you are reading this it is not too soon to start building your relationship seriously. Whether you're 16, 26, 36 doesn't matter. It is never too early, it is never too late. Just start. It's so easy.
+If you're reading this, it's not too late to get serious about your relationships. It doesn't matter if you're 16, 26, or 36 years old. It's never too early or too late to start. Simply begin. It's that easy.
