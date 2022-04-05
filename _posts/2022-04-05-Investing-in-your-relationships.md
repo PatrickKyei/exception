@@ -17,6 +17,6 @@ By the way, this isn't only a teen issue. There are people in their 40s and 50s 
 
 A few close and meaningful relationships are always better to a hundred weak ones. And, if I were you, I'd start paying attention to those who are older than me. Older, wiser individuals who get it enjoy hearing from young people like you who are curious and hardworking.
 
-For the next 5 to 10 years, you might have more luck with older people, which is a huge benefit when it comes time to hunt for a career, start a project, arrange a fun trip, or whatever; those individuals will be clutch, and you have a lot to ofer them as well.
+For the next 5 to 10 years, you might have more luck with older people, which is a huge benefit when it comes time to hunt for a career, start a project, arrange a fun trip, or whatever; those individuals will be clutch, and you have a lot to offer them as well.
 
 If you're reading this, it's not too late to get serious about your relationships. It doesn't matter if you're 16, 26, or 36 years old. It's never too early or too late to start. Simply begin. It's that easy.
