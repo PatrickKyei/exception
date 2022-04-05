@@ -13,7 +13,7 @@ But you have to adjust the game today if you want to get ahead. You must be care
 
 So, here's my advice: Stay in touch with people. Don't completely give up on them. However, be patient as individuals in your friend zone catch up. They haven't yet realized the value of great relationships.
 
-By the way, this isn't only a teen issue. There are people in their 40s and 50s who don't realize how critical these issues are. You'll always come across people who don't appreciate the importance of connections. So, while maintaining your relationships, give priority to those who return your investment. Follow the good vibes Keep with the positive vibrations; if 9 out of 10 people your age don't engage, but one of them does and you sense a connection, it's a victory; stick with that person.
+By the way, this isn't only a teen issue. There are people in their 40s and 50s who don't realize how critical these issues are. You'll always come across people who don't appreciate the importance of connections. So, while maintaining your relationships, give priority to those who return your investment. Follow the good vibes; if 9 out of 10 people your age don't engage, but one of them does and you sense a connection, it's a victory; stick with that person.
 
 A few close and meaningful relationships are always better to a hundred weak ones. And, if I were you, I'd start paying attention to those who are older than me. Older, wiser individuals who get it enjoy hearing from young people like you who are curious and hardworking.
 
