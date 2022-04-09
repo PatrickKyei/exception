@@ -1,8 +1,8 @@
 ---
 title: What Common Habits Keep People From Success
 date: 2021-08-13 02:16:00 +00
-categories: [Habits, Success]
-tags: [human, law, natue, understanding, life, behavior, undesirable]     # TAG names should always be lowercase
+categories: [Habit, Success]
+tags: [understanding, life, behavior]     # TAG names should always be lowercase
 ---
 
 ## No willpower

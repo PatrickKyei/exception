@@ -1,7 +1,7 @@
 ---
 title: Are U Investing in your RELATIONSHIPS?
 date: 2022-04-05 19:35:00 +00
-categories: [Relationships, Choices]
+categories: [Relationship, Choice]
 tags: [choice, life, relationships]     # TAG names should always be lowercase
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: What You Can Learn From Small daily habits
 date: 2022-03-24 20:35:00 +00
-categories: [Habits, Life]
+categories: [Habit, Life]
 tags: [life, choice, habit]     # TAG names should always be lowercase
 ---
 

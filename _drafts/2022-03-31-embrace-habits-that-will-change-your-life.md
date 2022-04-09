@@ -1,7 +1,7 @@
 ---
 title: Habits to Adopt That Will Transform Your Life
 date: 2022-03-31 02:16:00 +00
-categories: [Habits, Life]
+categories: [Habit, Life]
 tags: [hatis, change]     # TAG names should always be lowercase
 ---
 
