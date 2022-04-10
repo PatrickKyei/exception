@@ -7,7 +7,7 @@ tags: [choice, life, love]     # TAG names should always be lowercase
 
 ![kind love](/assets/img/kind-love.jpg){: .shadow }
 
-> **4** Love is patient, love is kind. It does not envy, it does not boast, it is not proud. **5** It does not dishnor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. **6** Love does not delight in evil but rejoices with the truth. **7** It always protects, always trust, always hopes, always perseveres.
+> **4** Love is patient, love is kind. It does not envy, it does not boast, it is not proud. **5** It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. **6** Love does not delight in evil but rejoices with the truth. **7** It always protects, always trust, always hopes, always perseveres.
 
 Love comes with a lot of promises. You go into it hearing many promises and giving a lot of promises of your own without knowing exactly what to expect in return. So yeah, from the onset, you start giving something without knowing what to get in return.
 
@@ -34,3 +34,4 @@ Yes, it is just as it sounds; become better losers. Since we've gotten to know w
 One cannot keep pouring from an empty cup. You eventually become dry and weary. In every relationship you must have a sense of when you are losing too much of yourself. A point where you have to make an awakening call to your partner to invest in the relationship. 
 
 You have to know when even too much can become unhealthy for your relationship. Just like how the sea can have an overflow and destroy valuable things, one person receiving too much of everything in a relationship can be toxic. Your partner may become callous, indifferrent, proud etc.
+
