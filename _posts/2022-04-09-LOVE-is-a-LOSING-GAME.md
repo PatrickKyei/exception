@@ -27,11 +27,18 @@ So I come back to the main point:
 
 ## How do we become better losers?
 
-Yes, it is just as it sounds; become better losers. Since we've gotten to know we don't enter into a love relationship expecting to gain everything but rather losing ourselves the question is; how much of ourselves can we lose?
+Yes, it is just as it sounds; to become better losers. Since we've gotten to know we don't enter into a love relationship expecting to gain everything but rather losing ourselves, then the question is; how much of ourselves can we lose?
 
 ![raging seas](/assets/img/raging-love.jpg){: .shadow }
 
 One cannot keep pouring from an empty cup. You eventually become dry and weary. In every relationship you must have a sense of when you are losing too much of yourself. A point where you have to make an awakening call to your partner to invest in the relationship. 
 
-You have to know when even too much can become unhealthy for your relationship. Just like how the sea can have an overflow and destroy valuable things, one person receiving too much of everything in a relationship can be toxic. Your partner may become callous, indifferrent, proud etc.
+You have to know when even too much can become unhealthy for your relationship. Just like how the sea can have an overflow and destroy valuable things, one person receiving too much of everything in a relationship can be toxic. Your partner may become callous, indifferrent, proud, unloving etc.
+
+So it remains that on each us to protect the what is invested in the relationship. If you feel too much is been taken out of it and it can affect the relationship negatively, it is time to talk to your partner. 
+
+A conversation about how you feel is not supposed to end in an argument. All things should be done towards the growth of the love invested in the relationship and to the benefit of the individuals involved.
+
+Remember:
+> Love is not self-seeking.
 
