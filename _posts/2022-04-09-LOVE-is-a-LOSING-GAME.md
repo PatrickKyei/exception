@@ -35,7 +35,7 @@ One cannot keep pouring from an empty cup. You eventually become dry and weary. 
 
 You have to know when even too much can become unhealthy for your relationship. Just like how the sea can have an overflow and destroy valuable things, one person receiving too much of everything in a relationship can be toxic. Your partner may become callous, indifferrent, proud, unloving etc.
 
-So it remains that on each us to protect the what is invested in the relationship. If you feel too much is been taken out of it and it can affect the relationship negatively, it is time to talk to your partner. 
+So it remains on each us then to protect what is invested in the relationship. If you feel too much is been taken out of it and it can affect the relationship negatively, it is time to talk to your partner. 
 
 A conversation about how you feel is not supposed to end in an argument. All things should be done towards the growth of the love invested in the relationship and to the benefit of the individuals involved.
 
