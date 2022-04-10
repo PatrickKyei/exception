@@ -27,7 +27,7 @@ So I come back to the main point:
 
 ## How do we become better losers?
 
-Yes, it is just as it sounds; to become better losers. Since we've gotten to know we don't enter into a love relationship expecting to gain everything but rather losing ourselves, then the question is; how much of ourselves can we lose?
+Yes, it is just as it sounds; become better losers. Since we've gotten to know we don't enter into a love relationship expecting to gain everything but rather losing ourselves, then the question is; how much of ourselves can we lose?
 
 ![raging seas](/assets/img/raging-love.jpg){: .shadow }
 
