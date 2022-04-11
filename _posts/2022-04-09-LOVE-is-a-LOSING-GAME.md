@@ -34,3 +34,5 @@ Yes, it is just as it sounds; become better losers. Since we've gotten to know w
 One cannot keep pouring from an empty cup. You eventually become dry and weary. In every relationship you must have a sense of when you are losing too much of yourself. A point where you have to make an awakening call to your partner to invest in the relationship. 
 
 You have to know when even too much can become unhealthy for your relationship. Just like how the sea can have an overflow and destroy valuable things, one person receiving too much of everything in a relationship can be toxic. Your partner may become callous, indifferrent, proud etc.
+
+
