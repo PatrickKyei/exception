@@ -268,7 +268,7 @@ These are not exhausted list of some interesting questions and topics to spike y
 
 For the most part, these should save you from not having anything at all to say. But as you go out and meet people regularly, you will develop the strategy that works best for you. Good luck in desire to build new and healthy relationships. Go out and have fun!
 
-## Intimate questions
+<!-- ## Intimate questions
 
 1. Given the choice of anyone in the world, whom would you want as a dinner guest?
 
@@ -340,4 +340,4 @@ For the most part, these should save you from not having anything at all to say.
 
 35. Of all the people in your family, whose death would you find most disturbing? Why?
 
-36. Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.
+36. Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen. -->
