@@ -9,6 +9,8 @@ tags: [choices, willpower, behavior]     # TAG names should always be lowercase
 
 Many people aspire to be successful, yet lack the motivation to pursue their goals. Willpower is the inner strength that allows you to not only choose but also follow through on your decisions.
 
+![willpower](/assets/img/willpower.jpg)
+
 Wishes are fine to have; they stimulate your mind and instill a desire in your heart. But nothing gets accomplished until those aspirations are pursued. To be able to live the life one has always desired, one must develop the ability to pursue one's dreams.
 
 ## Instant gratification
@@ -20,6 +22,8 @@ And the reason you haven't accomplished anything significant is that you simply 
 ## Fear
 
 On the other side of fear is everything you desire. Many people lack the confidence to follow through on their commitments that will lead to success. Many dreams have died as a result of fear.
+
+![fear](/assets/img/fear-try.jpg)
 
 Growth requires the bravery to start, to navigate lonely roads, and to embark on unpredictable journeys. We don't grow by doing solely what makes us feel good all of the time. We develop through taking on difficult tasks that we are committed to overcome.
 
