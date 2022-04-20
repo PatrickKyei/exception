@@ -11,7 +11,7 @@ Many people aspire to be successful, yet lack the motivation to pursue their goa
 
 Wishes are fine to have; they stimulate your mind and instill a desire in your heart. But nothing gets accomplished until those aspirations are pursued. To be able to live the life one has always desired, one must develop the ability to pursue one's dreams.
 
-## Instant gratification Vs Delayed gratification
+## Instant gratification
 
 So many people are incapable of enduring even minor discomfort in order to pursue their own particular goals on this planet. They prefer chasing short-term goals to pursuing long-term ambitions. Unfortunately, success isn't something that can be achieved in a single day. It takes perseverance and hard work.
 
