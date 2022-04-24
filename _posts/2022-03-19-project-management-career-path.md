@@ -95,7 +95,6 @@ The planning phase of a project involves the schedule, the budget, risk manageme
 
 [Request Access to View](https://docs.google.com/spreadsheets/d/1ah_RDH6w-i_x6dIoaOBxULTzNB8XjU7obxqiFu-uBhU/edit?usp=sharing&resourcekey=0-tt6gND6JhoxCJuPGMgb52w)
 
-
 ### Survey Questions
 
 Peta has created evaluation questions and indicators to measure customer satisfaction during the test launch
@@ -127,10 +126,9 @@ The Executive Summary summarizes the purpose and outcome of the tablet project.
 
 [Request Access to View](https://docs.google.com/presentation/d/1Oh_4SQiFDjsuw6Tm_bPYZeYy68uisLwMcG0FFr6g2d0/edit?usp=sharing)
 
-
 ## Conclusion
 
-Some of the core competencies I build during this program includes: 
+Some of the core competencies I build during this program includes:
 
 - Contract management
 - Risk planning
