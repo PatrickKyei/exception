@@ -22,8 +22,6 @@ The application of information, skills, tools, and strategies to meet project re
 
 Project managers oversee projects from inception to end and act as guides for their teams, relying on their exceptional organizational and interpersonal skills at all times.
 
-According to Google, students who have completed a training or course Google Career Certificate in project management in the United States have reported a 75% improvement in their career trajectory.
-
 I made the decision to embark on a 6-month intensive learning journey on Project Management.
 
 I finished the course after 13 weeks of hard effort and perseverance. I struggled with depression on several occasions but never gave up. Upon the many challenges that I faced - light offs, procastination, slow internet connectivity, and many more, I am happy to pronounce a successful completion of the tranining.
@@ -55,7 +53,7 @@ In this section, I discuss the thought process, skills, and experience I gained 
 
 Sauce and Spoon, a small restaurant company, is trying to reach its annual expansion and growth targets. They've chosen to undertake a trial project to see how well new tabletop menu tablets will help them achieve these objectives. The new menu tablets will help Sauce and Spoon fulfill its business goals by allowing the restaurant to serve more clients in less time. They will also provide useful statistics.
 
-I was just hired as the company's first in-house project manager to handle the tablet rollout at two of the five restaurants in the company. Throughout you'll see how I lead the team through the process of planning and completing project deliverables.
+As the company's first in-house project manager, I was tasked to handle the tablet rollout at two of the five restaurants in the company. Throughout you'll see how I lead the team through the process of planning and completing project deliverables.
 
 You'll be able to follow the project throughout its life cycle as I learn about the restaurant industry, establish project goals, negotiate with stakeholders, and much more.
 
@@ -65,17 +63,25 @@ Are you ready? Let's go.
 
 ### Project Charter
 
-A formal document that clearly defines the project and outlines the necessary details to reach the project's goals.
+A project charter is a formal document that clearly defines the project and outlines the necessary details to reach the project's goals.
+
+Part of my roles was to draw a project charter.
+
+The project charter contains the project scope, costs, and benefits to the project. This will later help me identify aspects of the project as being out-of-scope and add it to the charter.
+
+The charter helps to lay out project goals, highlight benefits, and help keep stakeholders aligned.
+
+I completed the project charter for my peers to review the completed project charter and provide feedback on each section.
 
 ![Project Charter](/assets/img/project-charter.png)
 
-[Request Access](https://docs.google.com/document/d/1r7pQvLhsMWIVXqDKd_7Ye9MHJtQTU60dGTweY3vKefk/edit?usp=sharing)
+[Request Access to View](https://docs.google.com/document/d/1r7pQvLhsMWIVXqDKd_7Ye9MHJtQTU60dGTweY3vKefk/edit?usp=sharing)
 
 ### Influential Email
 
 ![Email Coalition](/assets/img/email-coalition.png)
 
-[Request Acces](https://docs.google.com/document/d/1do4buT-AdSQ7VLdgGDhRpA7Jb2pNVP6aU3hkdQkT5lQ/edit?usp=sharing)
+[Request Access to View](https://docs.google.com/document/d/1do4buT-AdSQ7VLdgGDhRpA7Jb2pNVP6aU3hkdQkT5lQ/edit?usp=sharing)
 
 ### Project Plan
 
@@ -109,4 +115,4 @@ A formal document that clearly defines the project and outlines the necessary de
 [Request Access](https://docs.google.com/presentation/d/1Oh_4SQiFDjsuw6Tm_bPYZeYy68uisLwMcG0FFr6g2d0/edit?usp=sharing)
 
 
-### Conclusion
+## Conclusion
