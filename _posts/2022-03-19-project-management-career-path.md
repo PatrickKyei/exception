@@ -47,7 +47,7 @@ Every mentor in the course is fantastic; I learnt a lot from them. I am grateful
 
 ## Capstone Project
 
-In this section, I discuss the thought process, skills, and experience I gained while working on my Capstone project. The Captsone project gives you the opportunity to put your project management knowledge and skills to the test in a real-world simulation.
+In this section, I discuss the thought process, skills, and experience I gained while working on my Capstone project. The Captsone project gives you the opportunity to put your project management knowledge and skills to the test in a real-world simulation. I will be Peta, the Project Manager for this project.
 
 ## Overview
 
@@ -79,11 +79,17 @@ I completed the project charter for my peers to review the completed project cha
 
 ### Influential Email
 
+A coalition is a temporary alliance or partnering of individuals or groups in order to achieve a common purpose or to engage in a joint activity.
+
+Omar, the owner of Sauce & Spoon, has requested that we expand the tablet rollout to include all dining sections, not just the bar. Deanna expects Peta to do what she can to accommodate an expansion, but Peta feels it is outside the scope of the project. However, because Omar is the owner and a senior stakeholder, Peta decides to get input from other team members. She hopes to identify at least two team members who will support her position on keeping the rollout confined to the bar area. Peta meets with Gilly, Alex, Larissa, Zane, Seydou, and Carter to discuss the pros and cons of expanding the tablet rollout.
+
 ![Email Coalition](/assets/img/email-coalition.png)
 
 [Request Access to View](https://docs.google.com/document/d/1do4buT-AdSQ7VLdgGDhRpA7Jb2pNVP6aU3hkdQkT5lQ/edit?usp=sharing)
 
 ### Project Plan
+
+The planning phase of a project involves the schedule, the budget, risk management.
 
 ![Project Plan](/assets/img/project-plan.png)
 
