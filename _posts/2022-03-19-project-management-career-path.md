@@ -98,11 +98,15 @@ The planning phase of a project involves the schedule, the budget, risk manageme
 
 ### Survey Questions
 
+Peta has created evaluation questions and indicators to measure customer satisfaction during the test launch
+
 ![Survey Questions](/assets/img/survey-questions.png)
 
 [Request Access](https://docs.google.com/spreadsheets/d/1ah_RDH6w-i_x6dIoaOBxULTzNB8XjU7obxqiFu-uBhU/edit?usp=sharing&resourcekey=0-tt6gND6JhoxCJuPGMgb52w)
 
 ### Project Evaluation and Findings
+
+The test launch is complete and the team has compiled the survey results. Peta’s next task is to identify key data points from the survey responses and prepare a presentation. Her presentation should tell the story of the test launch, including what worked, what didn’t, and recommendations for next steps. She will present her findings to Omar, the CEO, Deanna, the Director of Operations, and several potential investors for the next tablet rollout project at the remaining Sauce & Spoon locations.
 
 ![Project Evaluation and Findings](/assets/img/evaluation-findings.png)
 
@@ -110,11 +114,14 @@ The planning phase of a project involves the schedule, the budget, risk manageme
 
 ### Email to Senior Stakeholers
 
+Peta just found out that there has been an update to the tablet contract that affects the project budget. Based on this new information, Peta needs to explain the situation to Deanna and ask for specific guidance on how to proceed. Although Peta has interacted regularly with Deanna throughout the project, she is still a senior stakeholder who expects Peta to deliver the project goals on time and within budget. Peta keeps these facts in mind as she composes an email to Deanna.
 ![Email to Senior Stakeholders](/assets/img/email-to-senior-stakeholders.png)
 
 [Request Access](https://docs.google.com/document/d/1_XNaeos3HQTbY4NHQ1fRErUbe_JiolKWGApTeSog54c/edit?usp=sharing)
 
 ### Executive Summary
+
+The Executive Summary summarizes the purpose and outcome of the tablet project.
 
 ![Executive Summary](/assets/img/executive-summary.png)
 
