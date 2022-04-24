@@ -34,14 +34,14 @@ I finished the course after 13 weeks of hard effort and perseverance. I struggle
 journey
     title Course timeline
     section First Month
-      Project Foundations: December 10
-      Project Initiation: January 25 
+      Project Foundations: 1: December 10
+      Project Initiation: 2: January 25 
     section Second Month
-      Project Planning: February 22
-      Project Execution: February 25
+      Project Planning: 3: February 22
+      Project Execution: 4: February 25
     section Third Month
-      Agile Project Management: February 27
-      Applying Project Management: March 9
+      Agile Project Management: 5: February 27
+      Applying Project Management: 6: March 9
                
 ```
 
