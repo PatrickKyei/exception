@@ -129,3 +129,14 @@ The Executive Summary summarizes the purpose and outcome of the tablet project.
 
 
 ## Conclusion
+
+Some of the core competencies I build during this program includes: 
+
+- Contract management
+- Risk planning
+- Project scoping and planning
+- Process improvement
+- Proficient in work management software and digital tools
+- Team management
+- Effective stakeholder communication
+- Budgeting and cost analysis
