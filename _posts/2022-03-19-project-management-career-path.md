@@ -63,4 +63,50 @@ You'll see how I learned what works and what doesn't, as well as how to problem 
 
 Are you ready? Let's go.
 
-Documenting ...
+### Project Charter
+
+A formal document that clearly defines the project and outlines the necessary details to reach the project's goals.
+
+![Project Charter](/assets/img/project-charter.png)
+
+[Request Access](https://docs.google.com/document/d/1r7pQvLhsMWIVXqDKd_7Ye9MHJtQTU60dGTweY3vKefk/edit?usp=sharing)
+
+### Influential Email
+
+![Email Coalition](/assets/img/email-coalition.png)
+
+[Request Acces](https://docs.google.com/document/d/1do4buT-AdSQ7VLdgGDhRpA7Jb2pNVP6aU3hkdQkT5lQ/edit?usp=sharing)
+
+### Project Plan
+
+![Project Plan](/assets/img/project-plan.png)
+
+[Request Access](https://docs.google.com/spreadsheets/d/1ah_RDH6w-i_x6dIoaOBxULTzNB8XjU7obxqiFu-uBhU/edit?usp=sharing&resourcekey=0-tt6gND6JhoxCJuPGMgb52w)
+
+
+### Survey Questions
+
+![Survey Questions](/assets/img/survey-questions.png)
+
+[Request Access](https://docs.google.com/spreadsheets/d/1ah_RDH6w-i_x6dIoaOBxULTzNB8XjU7obxqiFu-uBhU/edit?usp=sharing&resourcekey=0-tt6gND6JhoxCJuPGMgb52w)
+
+### Project Evaluation and Findings
+
+![Project Evaluation and Findings](/assets/img/evaluation-findings.png)
+
+[Requestion Access](https://docs.google.com/presentation/d/1upWT9ggQZKE5Kad7LwMU5mhrLphjEO1AGIx3cgmgQnw/edit?usp=sharing)
+
+### Email to Senior Stakeholers
+
+![Email to Senior Stakeholders](/assets/img/email-to-senior-stakeholders.png)
+
+[Request Access](https://docs.google.com/document/d/1_XNaeos3HQTbY4NHQ1fRErUbe_JiolKWGApTeSog54c/edit?usp=sharing)
+
+### Executive Summary
+
+![Executive Summary](/assets/img/executive-summary.png)
+
+[Request Access](https://docs.google.com/presentation/d/1Oh_4SQiFDjsuw6Tm_bPYZeYy68uisLwMcG0FFr6g2d0/edit?usp=sharing)
+
+
+### Conclusion
