@@ -34,15 +34,15 @@ I finished the course after 13 weeks of hard effort and perseverance. I struggle
 journey
     title Course timeline
     section First Month
-      Make tea: 5: High
-      Go upstairs: 3: High
-      Do work: 1: Me, Low
+      Project Foundations: December 10
+      Project Initiation: January 25 
     section Second Month
-      Go downstairs: 5: Low
-      Sit down: 5: High
+      Project Planning: February 22
+      Project Execution: February 25
     section Third Month
-      Go downstairs: 5: Low
-      Sit down: 5: High          
+      Agile Project Management: February 27
+      Applying Project Management: March 9
+               
 ```
 
 Every mentor in the course is fantastic; I learnt a lot from them. I am grateful to those who reviewed each of my assignments and provided helpful comments on my mistakes so that I could improve my project management abilities for them. Overall, thank you to everyone and please pray for me so that I can be successful with project management. Thanks.
