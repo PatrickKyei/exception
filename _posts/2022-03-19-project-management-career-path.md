@@ -93,7 +93,7 @@ The planning phase of a project involves the schedule, the budget, risk manageme
 
 ![Project Plan](/assets/img/project-plan.png)
 
-[Request Access](https://docs.google.com/spreadsheets/d/1ah_RDH6w-i_x6dIoaOBxULTzNB8XjU7obxqiFu-uBhU/edit?usp=sharing&resourcekey=0-tt6gND6JhoxCJuPGMgb52w)
+[Request Access to View](https://docs.google.com/spreadsheets/d/1ah_RDH6w-i_x6dIoaOBxULTzNB8XjU7obxqiFu-uBhU/edit?usp=sharing&resourcekey=0-tt6gND6JhoxCJuPGMgb52w)
 
 
 ### Survey Questions
@@ -102,7 +102,7 @@ Peta has created evaluation questions and indicators to measure customer satisfa
 
 ![Survey Questions](/assets/img/survey-questions.png)
 
-[Request Access](https://docs.google.com/spreadsheets/d/1ah_RDH6w-i_x6dIoaOBxULTzNB8XjU7obxqiFu-uBhU/edit?usp=sharing&resourcekey=0-tt6gND6JhoxCJuPGMgb52w)
+[Request Access to View](https://docs.google.com/spreadsheets/d/1ah_RDH6w-i_x6dIoaOBxULTzNB8XjU7obxqiFu-uBhU/edit?usp=sharing&resourcekey=0-tt6gND6JhoxCJuPGMgb52w)
 
 ### Project Evaluation and Findings
 
@@ -110,14 +110,14 @@ The test launch is complete and the team has compiled the survey results. Petaâ€
 
 ![Project Evaluation and Findings](/assets/img/evaluation-findings.png)
 
-[Requestion Access](https://docs.google.com/presentation/d/1upWT9ggQZKE5Kad7LwMU5mhrLphjEO1AGIx3cgmgQnw/edit?usp=sharing)
+[Request Access to View](https://docs.google.com/presentation/d/1upWT9ggQZKE5Kad7LwMU5mhrLphjEO1AGIx3cgmgQnw/edit?usp=sharing)
 
 ### Email to Senior Stakeholers
 
 Peta just found out that there has been an update to the tablet contract that affects the project budget. Based on this new information, Peta needs to explain the situation to Deanna and ask for specific guidance on how to proceed. Although Peta has interacted regularly with Deanna throughout the project, she is still a senior stakeholder who expects Peta to deliver the project goals on time and within budget. Peta keeps these facts in mind as she composes an email to Deanna.
 ![Email to Senior Stakeholders](/assets/img/email-to-senior-stakeholders.png)
 
-[Request Access](https://docs.google.com/document/d/1_XNaeos3HQTbY4NHQ1fRErUbe_JiolKWGApTeSog54c/edit?usp=sharing)
+[Request Access to View](https://docs.google.com/document/d/1_XNaeos3HQTbY4NHQ1fRErUbe_JiolKWGApTeSog54c/edit?usp=sharing)
 
 ### Executive Summary
 
@@ -125,7 +125,7 @@ The Executive Summary summarizes the purpose and outcome of the tablet project.
 
 ![Executive Summary](/assets/img/executive-summary.png)
 
-[Request Access](https://docs.google.com/presentation/d/1Oh_4SQiFDjsuw6Tm_bPYZeYy68uisLwMcG0FFr6g2d0/edit?usp=sharing)
+[Request Access to View](https://docs.google.com/presentation/d/1Oh_4SQiFDjsuw6Tm_bPYZeYy68uisLwMcG0FFr6g2d0/edit?usp=sharing)
 
 
 ## Conclusion
