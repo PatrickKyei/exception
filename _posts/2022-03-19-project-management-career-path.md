@@ -4,7 +4,7 @@ date: 2022-03-11 22:35:00 +00
 categories: [PM, Project]
 mermaid: true
 math: true
-tags: [project, pm, technical, IT, career]     # TAG names should always be lowercase
+tags: [project, pm, career]     # TAG names should always be lowercase
 ---
 
 ## The Learning Experience
