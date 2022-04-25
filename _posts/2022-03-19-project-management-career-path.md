@@ -40,7 +40,7 @@ journey
     section Third Month
       Agile Project Management: 5: February 27
       Applying Project Management: 6: March 9
-               
+
 ```
 
 Every mentor in the course is fantastic; I learnt a lot from them. I am grateful to those who reviewed each of my assignments and provided helpful comments on my mistakes so that I could improve my project management abilities for them. Overall, thank you to everyone and please pray for me so that I can be successful with project management. Thanks.
@@ -126,9 +126,13 @@ The Executive Summary summarizes the purpose and outcome of the tablet project.
 
 [Request Access to View](https://docs.google.com/presentation/d/1Oh_4SQiFDjsuw6Tm_bPYZeYy68uisLwMcG0FFr6g2d0/edit?usp=sharing)
 
+There are many introductory-level positions one can explore traditional project management roles such as **Project Manager**, **Project Analyst**, **Project Leader/Director**, **Project Controller**, **Technical Project Manager**, **Project Management Office(PMO) Analyst**. Other names for Project Manager inlcudes Operations Manager, Program Manager, Operations Associate, Project Assistant.
+
+[View my Credentials](https://www.credly.com/badges/6234bb3c-c69c-436e-a0b1-d454f394cf07?source=linked_in_profile). You can connect with me on [Linkedin](https://www.linkedin.com/in/patrickbaffour/)
+
 ## Conclusion
 
-Some of the core competencies I build during this program includes:
+Some of the core competencies I developed during this program includes:
 
 - Contract management
 - Risk planning
