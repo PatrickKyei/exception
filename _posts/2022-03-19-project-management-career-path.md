@@ -43,11 +43,11 @@ journey
 
 ```
 
-Every mentor in the course is fantastic; I learnt a lot from them. I am grateful to those who reviewed each of my assignments and provided helpful comments on my mistakes so that I could improve my project management abilities for them. Overall, thank you to everyone and please pray for me so that I can be successful with project management. Thanks.
+Every mentor in the course is fantastic; I learnt a lot from them. I am grateful to those who reviewed each of my assignments and provided helpful comments on my mistakes so that I could improve my project management skillsets. Overall, thank you to everyone.
 
 ## Capstone Project
 
-In this section, I discuss the thought process, skills, and experience I gained while working on my Capstone project. The Captsone project gives you the opportunity to put your project management knowledge and skills to the test in a real-world simulation. I will be Peta, the Project Manager for this project.
+In this section, I discuss the thought process, skills, and experience I gained while working on my Capstone project. The Captsone project gives one the opportunity to put their project management knowledge and skills to the test in a real-world simulation. I will be Peta, the Project Manager for this project.
 
 ## Overview
 
