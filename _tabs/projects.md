@@ -4,4 +4,4 @@ icon: fas fa-briefcase
 order: 5
 ---
 
-Coming soon ...
+- [Project Management : Sauce and Spoon](https://patrickkyei.com/posts/project-management-career-path/)
