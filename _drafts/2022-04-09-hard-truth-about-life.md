@@ -11,11 +11,11 @@ tags: [choice, life, relationships]     # TAG names should always be lowercase
 
 - If you don’t have money, you will lose your friends and even respect too.
 
-- If you don’t spend time to upgrade yourself, you will lost your job or business same like Nokia.
+- If you don’t spend time to upgrade yourself, you will lose your job or business same like Nokia.
 
-- Heath is everything, if have any health problems, you can’t feel good even though you have lots of wealth.
+- Health is everything, if you have any health problems, you can’t feel good even though you have lots of wealth.
 
-- Don’t complain too much because people don’t like it, instead it try to find out a way.
+- Don’t complain too much because people don’t like it, instead try to find out a way.
 
 - Maturity is not for everyone.
 
