@@ -79,4 +79,9 @@ Yeah for sure so time to start feeling. I know you don't want to but it's your o
 
 ## KEY TAKEAWAYS
 
-- 
+- Don't be shy to express the way you feel to another human.
+- Feelings are what makes us human. They are those things that separate us from plants :)
+- Others can easily connect with you if you are genuine about your feelings and are able to express them
+- Having a conversation about how you feel should not end in an argument
+- When you are genuine with people about the way you feel, you are able to know those who genuinely care about you. And those who are trying to use you and then you can stay far away from them.
+- People are able to offer real support to you if they can understand how you feel. It is hard for anybody to offer you emotional support when you say you are happy or ok when in fact you are sad.
