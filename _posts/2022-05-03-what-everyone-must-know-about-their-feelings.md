@@ -50,7 +50,7 @@ It's telling you where you feel powerless.
 
 It's telling you that something in your life is off-balance.
 
-**Your fear?*
+**Your fear?**
 
 It's telling you what you care about.
 
@@ -60,7 +60,7 @@ It's telling you where you're overextended and burnt out.
 
 > Your feelings aren't random, they are messengers. And if you want to get anywhere, you need to be able to let them speak to you, and tell you what you really need.
 
-## Learn to understand your emotions instead of supressing them
+## Learn to understand your emotions instead of suppressing them
 
 The thing about emotions is that the harder you try to control them the more they actually control you. So if you're going to work on yourself it won't be by suppressing or hiding from your feelings, it'll be by giving them more air time in your life and your close relationships and definitely in some therapy.
 
@@ -68,7 +68,9 @@ You're never going to get rid of your emotions but you can change your relations
 
 You're going to have to start talking and you're going to have to start feeling definitely. You think emotions make you weak which so many of us do right? but really all they do is make you human.
 
-There's only the meaning we ascribe to those feelings. And that's a pretty important reminder for you.
+> There's only the meaning we ascribe to those feelings. 
+
+And that's a pretty important reminder for you.
 
 Yeah for sure so time to start feeling. I know you don't want to but it's your only option.
 
