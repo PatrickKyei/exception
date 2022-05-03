@@ -13,11 +13,13 @@ Do you try to hide or suppress the way you feel because you've been told many ti
 
 Well I'm here to tell you quite the opposite.
 
-I have learnt to express my feelings in the right way and I have understood that the way I feel is just a way my body communicates to me. Therefore I don't have to be shy or afraid to admit I am sad, angry, confused or miss another someone. Your feelings or your emotions make you human.
+I have learnt to express my feelings in the right way and I have understood that the way I feel is just a way my body communicates to me. Therefore I don't have to be shy or afraid to admit I am sad, angry, confused or miss someone. Your feelings or your emotions make you human.
 
 ![just feelings](/assets/img/just-feelings.png)
 
-Feeling is what it is. It's neither good nor bad, it's just a feeling. And we get to decide what to make of it, what to do with it exactly, plus stuffing down your emotions all the time that takes a ton of energy. It's exhausting and you can be probably drained from all of the suppression.
+Feeling is what it is. It's neither good nor bad, it's just a feeling. And we get to decide what to make of it, what to do with it exactly, plus stuffing down your emotions all the time, that takes a ton of energy. It's exhausting and you can be probably drained from all of the suppression.
+
+![/assets/img/need-relationships.jpg]
 
 *So what am I saying?*
 
