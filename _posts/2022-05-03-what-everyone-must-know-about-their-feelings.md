@@ -1,5 +1,5 @@
 ---
-title: Have Communication with Your Feelings
+title: What Everyone Must Know About Their FEELINGS - Hard Truths I bet You Didn't Consider
 date: 2022-05-03 07:35:00 +00
 categories: [Feelings, Choices]
 tags: [emotions, relationships]     # TAG names should always be lowercase
@@ -58,3 +58,8 @@ You're going to have to start talking and you're going to have to start feeling 
 There's only the meaning we ascribe to those feelings. And that's a pretty important reminder for you.
 
 Yeah for sure so time to start feeling. I know you don't want to but it's your only option.
+
+
+## KEY TAKEAWAYS
+
+- 
