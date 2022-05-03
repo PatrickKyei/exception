@@ -9,41 +9,41 @@ tags: [emotions, relationships]     # TAG names should always be lowercase
 
 What is your relationship with your feelings?
 
-Do you try to hide or suppress the way you feel because you've been told many times that your emotions make you weak? Or shamed about them? Or probably as a man you've been told your emotions make you less of a man because admitting your emotions make you a weak person?
+Do you try to hide or suppress how you feel because you've been told many times that your emotions make you weak? Or you are shamed about them? Or, as a man, you've probably been told that your emotions make you less of a man because admitting your emotions makes you a weak person?
 
 Well I'm here to tell you quite the opposite.
 
-I have learnt to express my feelings in the right way and I have understood that the way I feel is just a way my body communicates to me. Therefore I don't have to be shy or afraid to admit I am sad, angry, confused or miss someone. Your feelings or your emotions make you human.
+I've learned how to express my emotions correctly, and I've realized that the way I feel is simply a way for my body to communicate with me. As a result, I don't have to be embarrassed or afraid to admit that I am sad, angry, confused, or miss someone. I have quite understood that our feelings or emotions are what make us human.
 
 ![just feelings](/assets/img/just-feelings.png)
 
-Feeling is what it is. It's neither good nor bad, it's just a feeling. And we get to decide what to make of it, what to do with it exactly, plus stuffing down your emotions all the time, that takes a ton of energy. It's exhausting and you can be probably drained from all of the suppression.
+It is what it is. It's neither good nor bad; it's just a feeling. And we get to decide what to make of it, what to do with it exactly, plus stuffing your emotions all the time takes a lot of energy. It's exhausting, and you're probably exhausted from all of the suppression.
 
 ![what am I saying](/assets/img/need-relationships.jpg)
 
 *So what am I saying?*
 
-Acknowledging this stuff and exploring it with somebody you trust; that's going to be way easier than spending a lot of energy suppressing them. It might be scary but it'll be liberating and it'll open up a whole new world for you plus it'll save you a ton of time you waste on hiding them.
+Recognizing and exploring this stuff with someone you trust is going to be much easier than spending a lot of energy suppressing it. It may be frightening, but it will be liberating, and it will open up a whole new world for you, as well as save you a lot of time spent on hiding them.
 
 ## Accept The Way You Feel
 
-So you get angry or sad about something and then you interpret it as bad which means you should stuff that feeling down because it's somehow not right. No!
+So you get angry or sad about something, and you interpret it as bad, which means you should suppress that emotion because it's not right. No!
 
-Your feelings are really not something to fix. Emotions aren't something that you need to get rid of. In fact it's the opposite.
+Your emotions are not something that can be fixed. Emotions aren't something you should get rid of. In fact it's the opposite.
 
 ## Explore the basis of the fear and shame
 
-Explore what you learned about emotions. Growing up maybe somewhere along the line you were judged for your feelings, maybe punished for them or perhaps blamed for them in some way or just grew up in a house where you weren't allowed a lot of those feelings. 
+Investigate what you've learned about emotions. Growing up, maybe you were judged for your feelings, maybe you were punished for them, maybe you were blamed for them in some way, or maybe you just grew up in a house where you weren't allowed to have a lot of those feelings.
 
 ![bullied](/assets/img/verbal-abuse.png)
 
-That will do it too or maybe you were bullied because of them. That will do a number on you and you learned how to shut down those feelings as a way to survive or maybe you soaked up some cultural stuff about how you know, men are supposed to deal with their feelings; “Just stuff them down and then they're not an issue.” 
+That will do it as well, or you may have been bullied as a result of them. That will do a number on you, and you learned how to shut down those feelings in order to survive, or perhaps you absorbed some cultural information about how, you know, men are supposed to deal with their feelings; "Just stuff them down and they won't be an issue."
 
-All of these things are very common but these are the early formative experiences that lead somebody to not have this relationship with their feelings. That's what I would dig into.
+All of these things are common, but they are the early formative experiences that lead to someone not having a relationship with their feelings. That's what I'd look into.
 
 ## Your Feelings Are Messages To You
 
-These feelings you're avoiding they're not quite as bad as you think. I get that they feel so intense but the judgment, the self-loving that's causing so much more suffering than just the baseline feelings. So if you want relief here there's really only one option. **Start Feeling**
+These feelings you're trying to avoid aren't as bad as you think. I understand how intense they feel, but it's the judgment, the self-loving that is causing so much more suffering than just the baseline feelings. So, if you're looking for relief in this situation, you really only have one choice. **Start Feeling**
 
 **Your anger?**
 
@@ -64,11 +64,11 @@ It's telling you where you're overextended and burnt out.
 
 ## Learn to understand your emotions instead of suppressing them
 
-The thing about emotions is that the harder you try to control them the more they actually control you. So if you're going to work on yourself it won't be by suppressing or hiding from your feelings, it'll be by giving them more air time in your life and your close relationships and definitely in some therapy.
+The problem with emotions is that the more you try to control them, the more they control you. So, if you're going to work on yourself, you won't do so by suppressing or hiding your feelings; instead, you'll give them more space in your life and close relationships, as well as in some therapy.
 
-You're never going to get rid of your emotions but you can change your relationship with your emotions so you can process them differently so they won't control your life in the way that they probably do right now.
+You will never be able to get rid of your emotions, but you can change your relationship with them so that you can process them differently and they will no longer control your life in the way that they most likely do right now.
 
-You're going to have to start talking and you're going to have to start feeling definitely. You think emotions make you weak which so many of us do right? but really all they do is make you human.
+You'll have to start talking, and you'll have to start feeling confident about how you feel. You believe that emotions make you weak, as so many of us do, right? But all they really do is make you human.
 
 > There's only the meaning we ascribe to those feelings. 
 
