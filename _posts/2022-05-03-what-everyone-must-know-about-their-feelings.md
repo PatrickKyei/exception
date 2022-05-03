@@ -58,11 +58,13 @@ It's telling you where you're overextended and burnt out.
 
 > Your feelings aren't random, they are messengers. And if you want to get anywhere, you need to be able to let them speak to you, and tell you what you really need.
 
+## Learn to understand your emotions instead of supressing them
+
 The thing about emotions is that the harder you try to control them the more they actually control you. So if you're going to work on yourself it won't be by suppressing or hiding from your feelings, it'll be by giving them more air time in your life and your close relationships and definitely in some therapy.
 
 You're never going to get rid of your emotions but you can change your relationship with your emotions so you can process them differently so they won't control your life in the way that they probably do right now.
 
-You're going to have to start talking and you're going to have to start feeling definitely. This guy thinks emotions make you weak which so many men do right? but really all they do is make you human. and but not only are these feelings perfectly normal but there's also no such thing as a good or bad feeling.
+You're going to have to start talking and you're going to have to start feeling definitely. You think emotions make you weak which so many of us do right? but really all they do is make you human.
 
 There's only the meaning we ascribe to those feelings. And that's a pretty important reminder for you.
 
