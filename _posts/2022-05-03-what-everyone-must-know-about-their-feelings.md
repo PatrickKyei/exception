@@ -21,13 +21,15 @@ Feeling is what it is. It's neither good nor bad, it's just a feeling. And we ge
 
 *So what am I saying?*
 
-Acknowledging this stuff and exploring it with somebody you trust; that's going to be way easier than spending a lot of energy suppressing them. It might be scary but it'll be liberating and it'll open up a whole new world for you plus it'll save you a ton of time wasting on hiding them.
+Acknowledging this stuff and exploring it with somebody you trust; that's going to be way easier than spending a lot of energy suppressing them. It might be scary but it'll be liberating and it'll open up a whole new world for you plus it'll save you a ton of time you waste on hiding them.
+
+## Accept The Way You Feel
 
 So you get angry or sad about something and then you interpret it as bad which means you should stuff that feeling down because it's somehow not right. No!
 
 Your feelings are really not something to fix. Emotions aren't something that you need to get rid of. In fact it's the opposite.
 
-## Explore the basis of fear and shame
+## Explore the basis of the fear and shame
 
 Explore what you learned about emotions. Growing up maybe somewhere along the line you were judged for your feelings, maybe punished for them or perhaps blamed for them in some way or just grew up in a house where you weren't allowed a lot of those feelings. 
 
