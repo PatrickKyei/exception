@@ -19,7 +19,7 @@ I have learnt to express my feelings in the right way and I have understood that
 
 Feeling is what it is. It's neither good nor bad, it's just a feeling. And we get to decide what to make of it, what to do with it exactly, plus stuffing down your emotions all the time, that takes a ton of energy. It's exhausting and you can be probably drained from all of the suppression.
 
-![/assets/img/need-relationships.jpg]
+![what am I saying](/assets/img/need-relationships.jpg)
 
 *So what am I saying?*
 
@@ -34,6 +34,8 @@ Your feelings are really not something to fix. Emotions aren't something that yo
 ## Explore the basis of the fear and shame
 
 Explore what you learned about emotions. Growing up maybe somewhere along the line you were judged for your feelings, maybe punished for them or perhaps blamed for them in some way or just grew up in a house where you weren't allowed a lot of those feelings. 
+
+![bullied](/assets/img/verbal-abuse.png)
 
 That will do it too or maybe you were bullied because of them. That will do a number on you and you learned how to shut down those feelings as a way to survive or maybe you soaked up some cultural stuff about how you know, men are supposed to deal with their feelings; “Just stuff them down and then they're not an issue.” 
 
