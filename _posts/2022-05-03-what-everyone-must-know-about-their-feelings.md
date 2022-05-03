@@ -5,6 +5,8 @@ categories: [Feelings, Choices]
 tags: [emotions, relationships]     # TAG names should always be lowercase
 ---
 
+![feelings](/assets/img/feelings-emotions.png)
+
 What is your relationship with your feelings?
 
 Do you try to hide or suppress the way you feel because you've been told many times that your emotions make you weak? Or shamed about them? Or probably as a man you've been told your emotions make you less of a man because admitting your emotions make you a weak person?
