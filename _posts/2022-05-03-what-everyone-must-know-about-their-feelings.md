@@ -33,23 +33,26 @@ That will do it too or maybe you were bullied because of them. That will do a nu
 
 All of these things are very common but these are the early formative experiences that lead somebody to not have this relationship with their feelings. That's what I would dig into.
 
-These feelings you're avoiding they're not quite as bad as you think. I get that they feel so intense but the judgment, the self-loving that's causing so much more suffering than just the baseline feelings. So if you want relief here there's really only one option.
+## Your Feelings Are Messages To You
 
-Your anger?
+These feelings you're avoiding they're not quite as bad as you think. I get that they feel so intense but the judgment, the self-loving that's causing so much more suffering than just the baseline feelings. So if you want relief here there's really only one option. **Start Feeling**
 
-It's telling you where you feel powerless. Your anxiety?
+**Your anger?**
+
+It's telling you where you feel powerless. 
+**Your anxiety?**
 
 It's telling you that something in your life is off-balance.
 
-Your fear?
+**Your fear?*
 
 It's telling you what you care about.
 
-Your apathy?
+**Your apathy?**
 
 It's telling you where you're overextended and burnt out.
 
-Your feelings aren't random, they are messengers. And if you want to get anywhere, you need to be able to let them speak to you, and tell you what you really need.
+> Your feelings aren't random, they are messengers. And if you want to get anywhere, you need to be able to let them speak to you, and tell you what you really need.
 
 The thing about emotions is that the harder you try to control them the more they actually control you. So if you're going to work on yourself it won't be by suppressing or hiding from your feelings, it'll be by giving them more air time in your life and your close relationships and definitely in some therapy.
 
