@@ -23,9 +23,7 @@ Life has a history of throwing us into challenging situations. Those circumstanc
 
 - The will to live is stronger than the most difficult circumstances. If you're desperate and on the edge of giving up, the best method to keep going is to find a worthwhile reason to live. Find a good reason to live for the sake of others.
 
-- Staying active is the best way to keep positive during difficult circumstances. Simply take action. Take action. Don't be passive; do something. Use your creativity. Imagine yourself at a track field and jog around your cell if you're in prison. If you're in a lockdown, get some exercise. Consider yourself in a gym. Strike the air. Never let oneself get stagnant. Maintain your concentration. Before and after each exercise session, take a deep breath in and out.
-
-- Create a morning, afternoon, and nighttime routine. Allowing yourself to get stagnant is a bad idea. Make sure you're always growing. Life's ups and downs are inevitable, so don't let them hold you back.
+- Staying active is the best way to keep positive during difficult circumstances. Simply take action. Don't be passive; do something. Use your creativity. Maintain your concentration. Don't be a passive observer whiles you wallow in the deepshit of the situation. Life's ups and downs are inevitable, so don't let them hold you back.
 
 - Don't turn a molehill into a mountain. What you are afraid of will never happen. The majority of your fears are merely your imagination. What you concentrate on the most expands in your thoughts. And what you focus on less becomes smaller.
 
