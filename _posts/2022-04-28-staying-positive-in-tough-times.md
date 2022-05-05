@@ -28,3 +28,5 @@ Life has a history of throwing us into challenging situations. Those circumstanc
 - Don't turn a molehill into a mountain. What you are afraid of will never happen. The majority of your fears are merely your imagination. What you concentrate on the most expands in your thoughts. And what you focus on less becomes smaller.
 
 - Finally, staying connected to someone who is positive and close to you is the best way to stay positive during difficult circumstances. Two persons are preferable to one. Even better are three. Don't die yet if you don't have anyone. Someone has already been sent to you with your name in mind.
+
+> Stay close to anything that makes you glad you are alive.
