@@ -1,5 +1,5 @@
 ---
-title: Staying Positive In Tough Times
+title: Winning Tactics To Stay POSITIVE In Tough Times
 date: 2022-05-05 18:35:00 +00
 categories: [Life, Choices]
 tags: [positive, life]     # TAG names should always be lowercase
