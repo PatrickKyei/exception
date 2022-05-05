@@ -13,11 +13,11 @@ Life has a history of throwing us into challenging situations. Those circumstanc
 
 - Tough times do not come to destroy you; rather, they come to bring out your best qualities. When things get tough, **don't just** focus on survival or ways to get out; otherwise, you'll miss the big picture. Open your mind and look for opportunities. Allow hard times to be your greatest teachers. Get the lesson out of them.
 
-- Even when all doors are locked, there is always a way out. Don't give up hope. Continue looking. Continue your search. Continue to knock. Somebody will arrive on the scene who is impacted by the constant noise of your knockings.
+- Even when all doors are closed, there is always a way out. Don't give up hope. Continue looking. Continue your search. Continue to knock. Somebody will arrive on the scene who is impacted by the constant noise of your knockings.
 
-- Tough times don't last, but tough people do. How will you know if you're tough unless you've been put through the ringer? Diamonds cannot be formed unless they are subjected to pressure and heat.
+- Tough times don't last, but tough people do. How will you know if you're tough unless you've been put through the ringer? Diamonds cannot be formed unless they are subjected to pressure and heat. Don't easily give in to the magnitude of the situation. Every lock has it's key. Keep searching.
 
-- Even the most terrible events can be overcome by maintaining a positive mental attitude. Even the hardest man or woman will be broken by negativity. When it comes to the battle of thought vs. matter, the mind always prevails.
+- Even the most terrible events can be overcome by maintaining a positive mental attitude. Even the hardest man or woman will be broken by negativity. When it comes to the battle of thought vs. matter, the mind always prevails. Your mind has tremendous power. Your life will begin to change once you fill it with positive thoughts.
 
 - Hope cuts through despair like a candlelight shining through darkness, or a laser cutting through metal, or a hot knife cutting through butter. No amount of darkness, no matter how intense, can extinguish the candlelight. History is littered with hopeful men and women who overcome immense difficulties, as well as desperate men and women who gave up hope.
 
