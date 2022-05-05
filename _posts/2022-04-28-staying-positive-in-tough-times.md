@@ -19,7 +19,7 @@ Life has a history of throwing us into challenging situations. Those circumstanc
 
 - Even the most terrible events can be overcome by maintaining a positive mental attitude. Even the hardest man or woman will be broken by negativity. When it comes to the battle of thought vs. matter, the mind always prevails. Your mind has tremendous power. Your life will begin to change once you fill it with positive thoughts.
 
-- Hope cuts through despair like a candlelight shining through darkness, or a laser cutting through metal, or a hot knife cutting through butter. No amount of darkness, no matter how intense, can extinguish the candlelight. History is littered with hopeful men and women who overcome immense difficulties, as well as desperate men and women who gave up hope.
+- Hope cuts through despair like a candlelight shining through darkness, or a laser cutting through metal, or a hot knife cutting through butter. No amount of darkness, no matter how intense, can extinguish the candlelight. Look forward with hope, not backwards with regret.
 
 - The will to live is stronger than the most difficult circumstances. If you're desperate and on the edge of giving up, the best method to keep going is to find a worthwhile reason to live. Find a good reason to live for the sake of others.
 
