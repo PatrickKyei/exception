@@ -11,9 +11,7 @@ Life has a history of throwing us into challenging situations. Those circumstanc
 
 - Spend no more than 5 minutes worrying about something that will not matter in 5 years. No amount of adversity can destroy you. Instead of worrying about what you can't control, shift your energy to what you can create.
 
-- The same chemicals in the brain (neurotransmitters) that cause happiness and joy—dopamine, oxytocin, serotonin, and endorphins—can be deliberately used to increase positivity. The good news is that the brain is unconcerned about whether you are happy or sad. It only responds to stimuli that cause it to be happy or sad, and it starts responding immediately by releasing the corresponding chemicals.
-
-- Tough times do not come to destroy you; rather, they come to bring out your best qualities. When things get tough, don't just focus on survival or ways to get out; otherwise, you'll miss the big picture. Open your mind and look for opportunities.
+- Tough times do not come to destroy you; rather, they come to bring out your best qualities. When things get tough, **don't just** focus on survival or ways to get out; otherwise, you'll miss the big picture. Open your mind and look for opportunities. Allow hard times to be your greatest teachers. Get the lesson out of them.
 
 - Even when all doors are locked, there is always a way out. Don't give up hope. Continue looking. Continue your search. Continue to knock. Somebody will arrive on the scene who is impacted by the constant noise of your knockings.
 
