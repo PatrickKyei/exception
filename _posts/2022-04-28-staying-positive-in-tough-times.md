@@ -5,7 +5,9 @@ categories: [Life, Choices]
 tags: [positive, life]     # TAG names should always be lowercase
 ---
 
-- Everything begins with how you perceive yourself. Consider yourself worthy. Feel unique. Feel as if you are deserving of the best in life. Those who appear to have it all are no different than you. You can also feel different if you believe you are deserving of the best.
+Life has a history of throwing us into challenging situations. Those circumstances can appear to be out of our control at times. What can we do to keep our cool as we consider the best course of action in those situations?
+
+- Everything begins with how you perceive yourself. Consider yourself worthy. Feel as if you are deserving of the best in life. In stressful circumstances, feeling undeserving can steal your joy. It will make your problem appear to be larger than you or any feasible solution. Those who appear to have it all are no different than you. You can also feel different if you believe you are deserving of the best.
 
 - Spend no more than 5 minutes worrying about something that will not matter in 5 years. No amount of adversity can destroy you. Worry about what’s gonna happen in the 5 years that matter.
 
