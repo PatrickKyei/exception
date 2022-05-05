@@ -9,7 +9,7 @@ Life has a history of throwing us into challenging situations. Those circumstanc
 
 - Everything begins with how you perceive yourself. Consider yourself worthy. Feel as if you are deserving of the best in life. In stressful circumstances, feeling undeserving can steal your joy. It will make your problem appear to be larger than you or any feasible solution. Those who appear to have it all are no different than you. You can also feel different if you believe you are deserving of the best.
 
-- Spend no more than 5 minutes worrying about something that will not matter in 5 years. No amount of adversity can destroy you. Worry about what’s gonna happen in the 5 years that matter.
+- Spend no more than 5 minutes worrying about something that will not matter in 5 years. No amount of adversity can destroy you. Instead of worrying about what you can't control, shift your energy to what you can create.
 
 - The same chemicals in the brain (neurotransmitters) that cause happiness and joy—dopamine, oxytocin, serotonin, and endorphins—can be deliberately used to increase positivity. The good news is that the brain is unconcerned about whether you are happy or sad. It only responds to stimuli that cause it to be happy or sad, and it starts responding immediately by releasing the corresponding chemicals.
 
