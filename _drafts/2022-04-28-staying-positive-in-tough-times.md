@@ -5,19 +5,19 @@ categories: [Life, Choices]
 tags: [positive, life]     # TAG names should always be lowercase
 ---
 
-Everything starts with how you feel about yourself. Feel worthy. Feel special. Feel deserving of the best in life. Those who seem to have the best in life are no different than you. And you can also feel different by believing yourself to be deserving of the best.
+Everything begins with how you perceive yourself. Consider yourself worthy. Feel unique. Feel as if you are deserving of the best in life. Those who appear to have it all are no different than you. You can also feel different if you believe you are deserving of the best.
 
-If your present situation won’t matter in 5 years, don’t spend more than 5 minutes worrying about it. No amount of discouragement can destroy you. Worry about what’s gonna happen in the 5 years that matter.
+Spend no more than 5 minutes worrying about something that will not matter in 5 years. No amount of adversity can destroy you. Worry about what’s gonna happen in the 5 years that matter.
 
-Positivity can be deliberately triggered by the same chemicals in the brain (neurotransmitters) that trigger happiness and joy—dopamine, oxytocin, serotonin, and endorphins. The good news is that the brain doesn’t care whether you’re happy or sad. All it responds to is the stimuli to be happy or sad, and it begins to respond immediately by releasing the corresponding chemicals.
+The same chemicals in the brain (neurotransmitters) that cause happiness and joy—dopamine, oxytocin, serotonin, and endorphins—can be deliberately used to increase positivity. The good news is that the brain is unconcerned about whether you are happy or sad. It only responds to stimuli that cause it to be happy or sad, and it starts responding immediately by releasing the corresponding chemicals.
 
 2020 is not the worst year of your life. It is the year when nature re-asserts itself as an authority over humans. In fact, it could be the best year yet, because it awakened humanity to the realities of life and challenged our mental faculties to the effect that nature is still the least understood phenomenon in our universe.
 
-Tough times don’t come to destroy you—they come to bring out the best in you. When tough times come, don’t just concentrate on survival or ways to escape, otherwise you’ll miss the big picture. Open your mind and look for ways to take advantage.
+Tough times do not come to destroy you; rather, they come to bring out your best qualities. When things get tough, don't just focus on survival or ways to get out; otherwise, you'll miss the big picture. Open your mind and look for opportunities.
 
-Even when all doors are closed, there’s always an escape plan. Don’t give up. Keep looking. Keep searching. Keep knocking. Someone will come to the scene, who doesn’t like the persistent noise of your knockings.
+Even when all doors are locked, there is always a way out. Don't give up hope. Continue looking. Continue your search. Continue to knock. Somebody will arrive on the scene who is impacted by the constant noise of your knockings.
 
-Tough times don’t last but tough people do. How will know you’re tough unless you’ve been tried and tested through fire? How can diamonds be made unless they’re subjected to pressure and heat?
+Tough times don't last, but tough people do. How will you know if you're tough unless you've been put through the ringer? Diamonds cannot be formed unless they are subjected to pressure and heat.
 
 Maintaining a positive mental attitude can defeat the most cruel of situations. Negativity will definitely break the toughest man or woman. When it comes to mind over matter, mind always wins.
 

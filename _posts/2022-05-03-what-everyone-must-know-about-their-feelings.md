@@ -7,7 +7,7 @@ tags: [emotions, relationships]     # TAG names should always be lowercase
 
 ![feelings](/assets/img/feelings-emotions.png)
 
-What is your relationship with your feelings?
+**What is your relationship with your feelings?**
 
 Do you try to hide or suppress how you feel because you've been told many times that your emotions make you weak? Or you are shamed about them? Or, as a man, you've probably been told that your emotions make you less of a man because admitting your emotions makes you a weak person?
 
