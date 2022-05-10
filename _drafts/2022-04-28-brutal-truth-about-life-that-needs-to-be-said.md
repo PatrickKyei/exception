@@ -11,11 +11,15 @@ It is not your duty to spend all your time and effort on such people. Spend time
 
 2. Quitters never win and winners never quit.
 
+No one who remembers the man that came last. When you get tired learn to rest, but never quit. Quiting never gets you what you want. Be a fierce fighther and go for what you want. Keep trying until you succeed.
+
 3. Sometimes the only person who can help you, is YOU.
 
 PUSH yourself because no one is going to do it with for you. People are often willing to push you only when you start the pushing. Your life is fully your responsibility, whatever you wish for yourself go for it. You are the only one who knows how badly you want it.
 
 4. You are both of light and the dark. You don’t have to deny any aspects of who you are.
+
+Those who try to be nice and kind are those who are trying to live their best good self. Goodness and evil live in all of us. If you are trying your best to be a good person, you are living your best life.
 
 5. Control your ANGER because it’s just one letter away from ‘D’ANGER.
 Anger is an emotion  and it supposed to be a message to us about what is going on in our body. But if we do not learn how to handle that message, it can be a great destroyer.
@@ -30,4 +34,4 @@ Our thoughts have a lot of influence over our lives. There's a quote that says, 
 
 7. Life is supposed to be difficult, but it doesn’t need to be painful.
 
-No matter how good your life is, you will one day face the realities of it; the hard part. 
+The more you dwell on the negative side of your problem, the more you magnify the pain. If the people around you care enough to help, allow it. A problem shared is half solved. 
