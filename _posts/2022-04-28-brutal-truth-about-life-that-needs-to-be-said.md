@@ -1,13 +1,13 @@
 ---
-title: Brutal Truth about Life that Needs to be Said
-date: 2022-04-28 07:35:00 +00
+title: Who Else Wants To Know Brutal Truth about Life that Needs to be Said?
+date: 2022-05-10 20:35:00 +00
 categories: [Life, Choices]
 tags: [positive, life]     # TAG names should always be lowercase
 ---
 
 1. Some people die at 25. We just bury them at 75. 
 
-You will come certain people who have completely lost it to life. No matter how much hope you try to instill in them, no matter how many times you try to wake up them and they are not ready to respond to any call to life.
+You will come across certain people who have completely lost it to life. No matter how much hope you try to instill in them, no matter how many times you try to wake up them and they are not ready to respond to any call to life.
 
 It is not your duty to spend all your time and effort on such people. Spend time on those who respond to your call and waste time on those who are ready to be helped
 
