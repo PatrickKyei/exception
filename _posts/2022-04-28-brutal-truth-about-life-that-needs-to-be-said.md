@@ -5,9 +5,11 @@ categories: [Life, Choices]
 tags: [positive, life]     # TAG names should always be lowercase
 ---
 
-1. Some people die at 25. We just bury them at 75. You will come certain people who have completely lost it to life. No matter how much hope you try to instill in them, no matter how many times you try to wake up them and they are not ready to respond to any call to life.
+1. Some people die at 25. We just bury them at 75. 
 
-It is not your duty to spend all your time and effort on such people. Spend time on those who respond to your call and waste time on those who are ready to be helped.
+You will come certain people who have completely lost it to life. No matter how much hope you try to instill in them, no matter how many times you try to wake up them and they are not ready to respond to any call to life.
+
+It is not your duty to spend all your time and effort on such people. Spend time on those who respond to your call and waste time on those who are ready to be helped
 
 2. Quitters never win and winners never quit.
 
@@ -22,6 +24,7 @@ PUSH yourself because no one is going to do it with for you. People are often wi
 Those who try to be nice and kind are those who are trying to live their best good self. Goodness and evil live in all of us. If you are trying your best to be a good person, you are living your best life.
 
 5. Control your ANGER because it’s just one letter away from ‘D’ANGER.
+
 Anger is an emotion  and it supposed to be a message to us about what is going on in our body. But if we do not learn how to handle that message, it can be a great destroyer.
 
 Don't let your emotions make the decisions. Try not to let your emotions get the best of you.
@@ -34,4 +37,4 @@ Our thoughts have a lot of influence over our lives. There's a quote that says, 
 
 7. Life is supposed to be difficult, but it doesn’t need to be painful.
 
-The more you dwell on the negative side of your problem, the more you magnify the pain. If the people around you care enough to help, allow it. A problem shared is half solved. 
+The more you dwell on the negative side of your problem, the more you magnify the pain. If the people around you care enough to help, allow it. A problem shared is half solved.
