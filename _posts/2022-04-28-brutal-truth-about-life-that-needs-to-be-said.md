@@ -7,34 +7,34 @@ tags: [reality, life]     # TAG names should always be lowercase
 
 1. Some people die at 25. We just bury them at 75. 
 
-You will come across certain people who have completely lost it to life. No matter how much hope you try to instill in them, no matter how many times you try to wake them up they are not ready to respond to any call to life.
+You'll run upon people who have entirely lost touch with reality. They are not ready to answer to any call to life, no matter how much hope you try to build in them.
 
-It is not your duty to spend all your time and effort on such people. Spend time on those who respond to your call and waste time on those who are ready to be helped
+It is not your responsibility to devote all of your time and energy to such folks. Spend time with those who respond to your appeal and avail themselve to your support.
 
 2. Quitters never win and winners never quit.
 
-No one who remembers the man that came last. When you get tired learn to rest, but never quit. Quiting never gets you what you want. Be a fierce fighther and go for what you want. Keep trying until you succeed.
+Nobody recalls the man who arrived last. Learn to relax when you're tired, but never quit. Quitting never gets you anywhere. Be a fearless fighter who goes after what she wants. Continue to try until you succeed.
 
 3. Sometimes the only person who can help you, is YOU.
 
-PUSH yourself because no one is going to do it with for you. People are often willing to push you only when you start the pushing. Your life is fully your responsibility, whatever you wish for yourself go for it. You are the only one who knows how badly you want it.
+People are more likely to push you if you initiate the push. Your life is entirely your responsibility; whatever you wish for yourself go for it. You are the only one who understands how much you desire it.
 
 4. You are both of light and the dark. You don’t have to deny any aspects of who you are.
 
-Those who try to be nice and kind are those who are trying to live their best good self. Goodness and evil live in all of us. If you are trying your best to be a good person, you are living your best life.
+Those who make an effort to be polite and friendly are attempting to live their best lives. We all have both good and bad in us. You are living your best life if you are doing your best to be a good person.
 
 5. Control your ANGER because it’s just one letter away from ‘D’ANGER.
 
-Anger is an emotion  and it is supposed to be a message to us about what is going on in our body. But if we do not learn how to handle that message, it can be a great destroyer.
+Anger is a feeling that is meant to inform us about what is going on in our bodies. However, if we do not learn how to deal with that message, it has the potential to be a huge destroyer.
 
-Don't let your emotions make the decisions. Try not to let your emotions get the best of you.
+Don't make decisions based on your emotions. Make an effort not to allow your emotions control you.
 
 6. You will always recycle your experiences until you change your thinking.
 
-Our thoughts have a lot of influence over our lives. There's a quote that says, “A man is shaped by his thoughts” and I agree with that. You have to develop the habit of thinking positively and filtering out negative thoughts.
+Our thoughts have a significant impact on our life. "A man is shaped by his thoughts," according to one quote, and I agree. You must train yourself to think positively and filter out negative thoughts.
 
 > "You are a living magnet. What you attract into your life is in harmony with your dominant thoughts" - BRIAN TRACY
 
 7. Life is supposed to be difficult, but it doesn’t need to be painful.
 
-The more you dwell on the negative side of your problems, the more you magnify the pain. If the people around you care enough to help, allow it. A problem shared is half solved.
+The more you focus on the bad aspects of your problems, the worse the pain becomes. Allow it if the people around you are willing to assist. A shared problem is half solved.
