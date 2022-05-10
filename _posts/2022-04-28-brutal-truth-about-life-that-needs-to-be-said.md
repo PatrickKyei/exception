@@ -5,9 +5,9 @@ categories: [Life, Truth]
 tags: [reality, life]     # TAG names should always be lowercase
 ---
 
-1. Some people die at 25. We just bury them at 75. 
+1. Some people die at 25. We just bury them at 75.
 
-You'll run upon people who have entirely lost touch with reality. They are not ready to answer to any call to life, no matter how much hope you try to build in them.
+You'll run upon people who have entirely lost touch with reality. They are not ready to answer to any call to life, no matter how much hope you try to build in them. 
 
 It is not your responsibility to devote all of your time and energy to such folks. Spend time with those who respond to your appeal and avail themselve to your support.
 
