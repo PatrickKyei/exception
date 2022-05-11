@@ -1,8 +1,8 @@
 ---
 title: How can you ensure you’re constant improving
-date: 2022-03-22 08:35:00 +00
-categories: [Influence, Choice]
-tags: [secret, creativity, thinking, life]     # TAG names should always be lowercase
+date: 2022-05-11 22:35:00 +00
+categories: [Goals, Decisions]
+tags: [goals, life]     # TAG names should always be lowercase
 ---
 ## Have a goal
 
