@@ -14,7 +14,7 @@ A person without goals is like a ship at sea without a course; they will never a
 
 ## Motivation
 
-Why do you desire what you desire? You will be more motivated to develop your talents and attain your objectives if you can answer this question clearly. Your bad day should motivate you to work better days.
+Why do you desire what you desire? You will be more motivated to develop your talents and attain your objectives if you can answer this question clearly. Your bad day should motivate you to work for better days.
 
 ## Analyze your mistakes
 
