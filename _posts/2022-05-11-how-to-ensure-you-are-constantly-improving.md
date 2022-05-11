@@ -18,7 +18,7 @@ Why do you desire what you desire? You will be more motivated to develop your ta
 
 ## Analyze your mistakes
 
-There are many people in the world who desire to improve their skills. But they're not doing anything about it. Analyzing your mistakes will get you closer to your goals. But don't overthink it. One thing that has helped me is to solicit positive feedback from those close to me on some of the decisions I make. It is helpful to conduct a self-evaluation of your life on a regular basis.
+There are many people in the world who desire to improve their life. But they're not doing anything about it. Analyzing your mistakes will get you closer to your goals. But don't overthink it. One thing that has helped me is to solicit positive feedback from those close to me on some of the decisions I make. It is helpful to conduct a self-evaluation of your life on a regular basis.
 
 ## Have a success journal
 
