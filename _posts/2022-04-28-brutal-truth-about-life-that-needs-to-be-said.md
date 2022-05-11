@@ -13,7 +13,7 @@ It is not your responsibility to devote all of your time and energy to such folk
 
 ## Quitters never win and winners never quit.
 
-Nobody recalls the man who arrived last. Learn to relax when you're tired, but never quit. Quitting never gets you anywhere. Be a fearless fighter who goes after what she wants. Continue to try until you succeed.
+Nobody recalls the man who came last. Learn to relax when you're tired, but never quit. Quitting never gets you anywhere. Be a fearless fighter who goes after what she wants. Continue to try until you succeed.
 
 ## Sometimes the only person who can help you, is YOU.
 
