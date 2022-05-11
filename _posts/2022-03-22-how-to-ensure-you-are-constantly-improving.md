@@ -1,5 +1,5 @@
 ---
-title: How can you ensure you’re constant improving
+title: At Last, The Secret To IMPROVE YOUR LIFE Is Revealed
 date: 2022-05-11 22:35:00 +00
 categories: [Goals, Decisions]
 tags: [goals, life]     # TAG names should always be lowercase
