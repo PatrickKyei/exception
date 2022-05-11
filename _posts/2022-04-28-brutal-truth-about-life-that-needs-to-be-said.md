@@ -35,6 +35,6 @@ Our thoughts have a significant impact on our life. "A man is shaped by his thou
 
 > "You are a living magnet. What you attract into your life is in harmony with your dominant thoughts" - BRIAN TRACY
 
-7. Life is supposed to be difficult, but it doesn’t need to be painful.
+## Life is supposed to be difficult, but it doesn’t need to be painful.
 
 The more you focus on the bad aspects of your problems, the worse the pain becomes. Allow it if the people around you are willing to assist. A shared problem is half solved.
