@@ -4,45 +4,38 @@ date: 2022-03-22 08:35:00 +00
 categories: [Influence, Choice]
 tags: [secret, creativity, thinking, life]     # TAG names should always be lowercase
 ---
-
-## Renew your goals with a daily reminder
-
-
-
 ## Have a goal
 
-No matter what you want to get better at, you need to have a clear vision of what it is you want to accomplish.
+I cannot emphasize how critical this issue is. Whatever it is that you want to improve in, you must have a clear idea of what you want to achieve.
 
-Once I was in a bookstore and decided to get a unique writing pad. I kept looking and didn’t like anything I saw. Then I realized that I was looking for a writing pad without knowing what kind I actually wanted.
+I was once in a bookstore and decided to get a one-of-a-kind writing pad. I kept looking, but nothing I saw appealed to me. Then I realized I was shopping for a writing pad but had no idea what sort I wanted.
 
-A person with no goals is like a ship with no direction in the sea; it will never reach its destination.
+A person without goals is like a ship at sea without a course; they will never arrive at their destination.
 
 ## Motivation
 
-Why do you want what you want? The clearer you can answer this question, the more driven you will be to improve your skills and achieve your goals.
+Why do you desire what you desire? You will be more motivated to develop your talents and attain your objectives if you can answer this question clearly. Your bad day should motivate you to work better days.
 
 ## Analyze your mistakes
 
-The world is full of people who want to get better at something. But they aren’t doing anything for that. Analyzing your mistakes is a shortcut to your goals. Don’t overanalyze, though
+There are many people in the world who desire to improve their skills. But they're not doing anything about it. Analyzing your mistakes will get you closer to your goals. But don't overthink it. One thing that has helped me is to solicit positive feedback from those close to me on some of the decisions I make. It is helpful to conduct a self-evaluation of your life on a regular basis.
 
 ## Have a success journal
 
-
-Seeing your accomplishments (no matter how small) in written form will inspire you and boost your confidence.
+In difficult times and when life seems to move slowly, your past successes will serve as a motivator to keep you focused on your future objectives and keep you from giving up. Seeing your successes (however minor) in writing can excite you and increase your confidence.
 
 ## Find experts
 
-Would you ask an engineer how to make better pizza? Would you ask a car mechanic for advice on investing? Sadly, this is what many do: asking advice from non-experts.
-
-Ask someone who has walked your path and succeeded. Surround yourself with people smarter than you.
+You're attempting to sort things out on your own? You don't want to talk to a coach, a mentor, or anybody who has the expertise you need to advance? You don't have to fail again if someone else has already failed. Wherever you have been in life somewhere has been so why struggle? Find wonderful individuals from whom you may acquire vital life lessons and who can lead you through the hardest times.
 
 ## Observe
 
-Want to become a better basketball player? Watch more skilled players play. How do they play so good? How do they get better? Pick up their traits.
+Take some time to research how the great guys you admire made key life decisions. What was the consequence of how they approached this situation? Pay attention to the little things in life that matter. This is how you may avoid making several mistakes and enhance your decision-making skills.
 
 ## Act
 
+Above everything, take action!
 
-You can spend years learning how to fly. But if you’ve never flown a plane, you’ll never become a pilot.
+It takes years to learn how to fly. However, you will never be a pilot if you have never flown a plane.
 
-Implement your knowledge
+Apply what you've learned.
