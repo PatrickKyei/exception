@@ -30,7 +30,7 @@ You're attempting to sort things out on your own? You don't want to talk to a co
 
 ## Observe
 
-Take some time to research how the great guys you admire made key life decisions. What was the consequence of how they approached this situation? Pay attention to the little things in life that matter. This is how you may avoid making several mistakes and enhance your decision-making ability.
+Take some time to find out how the great guys you admire made key life decisions. What was the consequence of how they approached this situation? Pay attention to the little things in life that matter. This is how you may avoid making several mistakes and enhance your decision-making ability.
 
 ## Act
 
