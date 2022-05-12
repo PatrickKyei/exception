@@ -26,7 +26,7 @@ In difficult times and when life seems to move slowly, your past successes will 
 
 ## Find experts
 
-You're attempting to sort things out on your own? You don't want to talk to a coach, a mentor, or anybody who has the expertise you need to advance? You don't have to fail again if someone else has already failed. Wherever you have been in life somewhere has been so why struggle? Find wonderful individuals from whom you may acquire vital life lessons and who can lead you through the hardest times.
+You're attempting to sort things out on your own? You don't want to talk to a coach, a mentor, or anybody who has the expertise you need to advance? You don't have to fail again if someone else has already failed where you are going. Wherever you have been in life somewhere has been so why struggle? Find wonderful individuals from whom you may acquire vital life lessons and who can lead you through the hardest times.
 
 ## Observe
 
