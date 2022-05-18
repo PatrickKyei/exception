@@ -9,11 +9,12 @@ Every man's life is influenced by change. We can't live without it. It ensures t
 
 Accepting the change agent and embracing the process required for our transformation is all that is expected of us. Even though this is the case, it is not easy to achieve. Change can be a difficult thing to deal with. This is because, in order to give us something better, it occasionally takes away something we hold dear or valuable.
 
-Because of this many people are not able to change. They are not able to change because they are not willing to change.
+As a result, many people are unable to change. Because they are unwilling to change, they are unable to change.
 
-They are **still** the same all the time. And you can call them **"Still People"**.
+They are **still** the same all the time. 
+They are what we call **"Still People"**.
 
-Walking with still people can have a negative impact on our lives. And that is because they would do anything to talk you out of any change that will help improve your life. They will rub their fear of change on you.
+Our lives can be negatively impacted by walking among still people. That's because they'll go to any length to persuade you not to make any changes that will benefit your life. They'll rub their fear of change all over you.
 
 One of the best things you can do is to **stay away from them**.
 
