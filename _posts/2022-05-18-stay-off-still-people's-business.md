@@ -65,3 +65,5 @@ However, other people have fully abandoned their lives. They appear to be lifele
 > Stay away from those people who try to disparage your ambitions. Small minds will do that, but great minds will give you a feeling that you can become great too. - Mark Twain
 
 Mediocore is not a title, but rather a label for anyone who refuses to improve; it is your responsibility to ensure that you do not wear this badge.
+
+Don't remain **STILL**. Always strive to grow, see a brighter future, rejoice in the achievement of others, and be a better version of yourself.
