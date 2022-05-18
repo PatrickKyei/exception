@@ -48,7 +48,11 @@ Anyone who relies on you all of the time because they claim they are financially
 
 ## Still Hating
 
-Hate is a powerful feeling that should be handled with care. If handled with care it can restore order and calm. Anybody who doesn't like something you are doing and comes forward to let you know is helping you make positive changes in your life.
+Hate is a strong emotion that should be treated with caution. It can restore order and calm if handled carefully. Anyone who comes out to tell you that they don't like what you're doing is assisting you in making positive adjustments in your life.
+
+The same feeling, if fueled continuously against you, can wreak trouble in your life. Someone who continues to despise your life despite your greatest efforts to overcome your flaws will cost you your happiness.
+
+Nobody is perfect. People you don't need to spend your life with are those who can't forgive you for your faults and constantly remind you of them or use them against you.
 
 ## Still Nowhere
 
@@ -56,7 +60,7 @@ I'm sure your dreams and ambitions have changed since you were younger. You now 
 
 It's not the same where you used to be. And that's because you're continuously making decisions and taking measures to go to your desired destination.
 
-But there are certain people who have completely given up in life. It is like they are dead within.
+However, other people have fully abandoned their lives. They appear to be lifeless inside. No matter how hard you try to inspire them, they have no hope for the future.
 
 > Stay away from those people who try to disparage your ambitions. Small minds will do that, but great minds will give you a feeling that you can become great too. - Mark Twain
 
