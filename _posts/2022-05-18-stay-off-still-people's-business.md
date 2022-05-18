@@ -5,9 +5,9 @@ categories: [People, Choices]
 tags: [choices, relationships]     # TAG names should always be lowercase
 ---
 
-Change is an important thing in the life of every man. It is something we cannot do without. It ensures renewal and growth in our lives by replacing everything old, unproductive, unhelpful, stagnant or weak with a new thing. It is what ensures that we continue to grow and progress.
+Every man's life is influenced by change. We can't live without it. It ensures that our lives are renewed and grown by replacing everything old, unproductive, unhelpful, stagnant, or weak with something new. It's what keeps us moving forward.
 
-What is required of us is to accept the change agent and embrace the process that is required for our transformation. Even though this is the truth, it does not happen easily. Change can be a difficult process to go through. This is because sometimes in order to give us something greater, it takes what we hold to be dear or precious away from us.
+Accepting the change agent and embracing the process required for our transformation is all that is expected of us. Even though this is the case, it is not easy to achieve. Change can be a difficult thing to deal with. This is because, in order to give us something better, it occasionally takes away something we hold dear or valuable.
 
 Because of this many people are not able to change. They are not able to change because they are not willing to change.
 
