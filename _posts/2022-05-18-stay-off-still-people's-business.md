@@ -11,7 +11,7 @@ Accepting the change agent and embracing the process required for our transforma
 
 As a result, many people are unable to change. Because they are unwilling to change, they are unable to change.
 
-They are **still** the same all the time. 
+They are **still** the same all the time.
 They are what we call **"Still People"**.
 
 Our lives can be negatively impacted by walking among still people. That's because they'll go to any length to persuade you not to make any changes that will benefit your life. They'll rub their fear of change all over you.
@@ -46,23 +46,18 @@ Anyone who relies on you all of the time because they claim they are financially
 
 > Being broke is not a dollar amount. It's your lack of ambition and vision.
 
-
 ## Still Hating
 
-Hate is a powerful feeling that should be handled with care. If handled with care it can restore order and calm. Anybody who doesn't like something you are doing and comes forward to let you know is helping you make positive changes in your life. 
-
-
+Hate is a powerful feeling that should be handled with care. If handled with care it can restore order and calm. Anybody who doesn't like something you are doing and comes forward to let you know is helping you make positive changes in your life.
 
 ## Still Nowhere
 
-I am certain the dreams and aspirations you had when you were younger might have probably changed. You have adult aspirations now. 
+I'm sure your dreams and ambitions have changed since you were younger. You now have adult ambitions.
 
-Where you used to be isn't the same as today. And that it because you are constantly making decisions and taking steps that will see that you get to where you want to be.
+It's not the same where you used to be. And that's because you're continuously making decisions and taking measures to go to your desired destination.
 
-But there are certain people who have completely given up in life. It is like they are dead within. 
-
-
+But there are certain people who have completely given up in life. It is like they are dead within.
 
 > Stay away from those people who try to disparage your ambitions. Small minds will do that, but great minds will give you a feeling that you can become great too. - Mark Twain
 
-Mediocore is not a title, rather a designation for anyone who fails to get better, your job is to ensure that you do not carry such emblem.
+Mediocore is not a title, but rather a label for anyone who refuses to improve; it is your responsibility to ensure that you do not wear this badge.
