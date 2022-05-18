@@ -33,8 +33,15 @@ Always blaming their problems on something or someone. And the funny part they w
 
 ## Still Broke
 
-> If you are not willing to work for it, then don't complaing about not having it.
+> If you are not willing to work for it, then don't complain about not having it.
 
+It is said that money isn't everything, which may be true in certain situations. But we can't argue out that in this our world money solves 95% of our problems. We need money for virtually everything. If we can truly know what comfort means in life, we need money. 
+
+Any person in your life who always complains they are still broke but doesn't do anything about their situation would be hard to deal with.
+
+One of the benefits of friendship or any kind of intimate relationship is that the other person would be able to come through for us in times of our need. This is not something we think about, but we expect it.
+
+Any person in your life who depends on you all the time because they complain they are still broke would at point feel a sense of entitlement to your resources. This is very dangerous for your relationship.
 
 
 ## Still Hating
