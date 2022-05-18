@@ -1,17 +1,17 @@
 ---
-title: Still People - Stay Away From Them
-date: 2022-04-28 07:35:00 +00
-categories: [Life, Choices]
-tags: [positive, life]     # TAG names should always be lowercase
+title: Why It IS GOOD To Stay Off STILL People Business
+date: 2022-05-18 21:15:00 +00
+categories: [People, Choices]
+tags: [choices, relationships]     # TAG names should always be lowercase
 ---
 
-Change is an important thing in the life of man. It is something we cannot do without. It ensures renewal and growth in our lives. By replacing everything old, unproductive, unhelpful, stagnant or weak with a new thing. It is what ensures that we continue to grow and progress.
+Change is an important thing in the life of every man. It is something we cannot do without. It ensures renewal and growth in our lives by replacing everything old, unproductive, unhelpful, stagnant or weak with a new thing. It is what ensures that we continue to grow and progress.
 
 What is required of us is to accept the change agent and embrace the process that is required for our transformation. Even though this is the truth, it does not happen easily. Change can be a difficult process to go through. This is because sometimes in order to give us something greater, it takes what we hold to be dear or precious away from us.
 
 Because of this many people are not able to change. They are not able to change because they are not willing to change.
 
-They are **still** the same all the time. And I call them **"Still People"**.
+They are **still** the same all the time. And you can call them **"Still People"**.
 
 Walking with still people can have a negative impact on our lives. And that is because they would do anything to talk you out of any change that will help improve your life. They will rub their fear of change on you.
 
@@ -41,9 +41,27 @@ Any person in your life who always complains they are still broke but doesn't do
 
 One of the benefits of friendship or any kind of intimate relationship is that the other person would be able to come through for us in times of our need. This is not something we think about, but we expect it.
 
-Any person in your life who depends on you all the time because they complain they are still broke would at point feel a sense of entitlement to your resources. This is very dangerous for your relationship.
+Any person in your life who depends on you all the time because they complain they are still broke would at point feel a sense of entitlement to your resources. This is very dangerous for any kind of relationship.
+
+> Being broke is not a dollar amount. It's your lack of ambition and vision.
 
 
 ## Still Hating
 
+Hate is a powerful feeling that should be handled with care. If handled with care it can restore order and calm. Anybody who doesn't like something you are doing and comes forward to let you know is helping you make positive changes in your life. 
+
+
+
 ## Still Nowhere
+
+I am certain the dreams and aspirations you had when you were younger might have probably changed. You probably have adult aspirations now. 
+
+Where you used to be isn't the same as today. And that it because you are constantly making decisions and taking steps that will see that you get to where you want to be.
+
+But there are certain people who 
+
+
+
+> Stay away from those people who try to disparage your ambitions. Small minds will do that, but great minds will give you a feeling that you can become great too. - Mark Twain
+
+Mediocore is not a title, rather a designation for anyone who fails to get better, your job is to ensure that you do not carry such emblem.
