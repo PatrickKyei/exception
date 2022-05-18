@@ -36,13 +36,13 @@ They are always blaming something or someone for their issues. And the irony is 
 
 > If you are not willing to work for it, then don't complain about not having it.
 
-It is said that money isn't everything, which may be true in certain situations. But we can't argue out that in this our world money solves 95% of our problems. We need money for virtually everything. If we can truly know what comfort means in life, we need money. 
+Money isn't everything, as the saying goes, and this may be true in some cases. However, we cannot deny that money solves 95% of our problems in our world. Money is required for almost everything. We need money to properly understand what it means to be comfortable in life.
 
-Any person in your life who always complains they are still broke but doesn't do anything about their situation would be hard to deal with.
+Anyone in your life who constantly complains about how broke they are yet does nothing to improve their condition would be be hard to deal with.
 
-One of the benefits of friendship or any kind of intimate relationship is that the other person would be able to come through for us in times of our need. This is not something we think about, but we expect it.
+One of the advantages of friendship or any other type of personal relationship is that the other person will be able to help us when we are in need. We don't think about it, but it's something we anticipate.
 
-Any person in your life who depends on you all the time because they complain they are still broke would at point feel a sense of entitlement to your resources. This is very dangerous for any kind of relationship.
+Anyone who relies on you all of the time because they claim they are financially broke will eventually feel entitled to your resources. This is particularly toxic to any relationship.
 
 > Being broke is not a dollar amount. It's your lack of ambition and vision.
 
