@@ -22,7 +22,7 @@ These are some of the remaining behaviors that will assist you in identifying th
 
 ## Still Complaining
 
-> Complains won't change the outcome.
+> Complaints won't change the outcome.
 
 Life is full of challenges. They resemble a life staircase. You must be willing to climb them if you want to move higher.
 
