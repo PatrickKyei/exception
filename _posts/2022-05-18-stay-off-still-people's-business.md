@@ -18,19 +18,19 @@ Our lives can be negatively impacted by walking among still people. That's becau
 
 One of the best things you can do is to **stay away from them**.
 
-These are some of the still behaviors that will help you identify these type of people:
+These are some of the remaining behaviors that will assist you in identifying these people:
 
 ## Still Complaining
 
 > Complains won't change the outcome.
 
-Challenges in life are inevitable. They are like staircase of life. If you want to go higher you must be willing to climb them. 
+Life is full of challenges. They resemble a life staircase. You must be willing to climb them if you want to move higher.
 
-Some people are not willing to deal with these challenges but expect change in their life. When things are not going on well for them instead of identifying the problem and looking out for ways to fix it, they will complain.
+Some people are unwilling to face these difficulties, but they do expect their lives to change. When things aren't going well for them, they will whine rather instead of addressing the issue and seeking solutions.
 
-Yesterday they complained, today they are complaining and tomorrow they will complain again. If you ask them about what they are doing to alleviate the problem, they are not going to be able to tell anything useful. Instead they will play blame games. 
+They grumbled yesterday, they moaned today, and they will complain again tomorrow. If you ask them what they are doing to solve the problem, they will be unable to provide any relevant information. They will instead engage in blame games.
 
-Always blaming their problems on something or someone. And the funny part they will not look out for help but instead stay there and expect things to change. 
+They are always blaming something or someone for their issues. And the irony is that instead of asking help, they will remain at the same place and expect things to change.
 
 ## Still Broke
 
@@ -55,11 +55,11 @@ Hate is a powerful feeling that should be handled with care. If handled with car
 
 ## Still Nowhere
 
-I am certain the dreams and aspirations you had when you were younger might have probably changed. You probably have adult aspirations now. 
+I am certain the dreams and aspirations you had when you were younger might have probably changed. You have adult aspirations now. 
 
 Where you used to be isn't the same as today. And that it because you are constantly making decisions and taking steps that will see that you get to where you want to be.
 
-But there are certain people who 
+But there are certain people who have completely given up in life. It is like they are dead within. 
 
 
 
