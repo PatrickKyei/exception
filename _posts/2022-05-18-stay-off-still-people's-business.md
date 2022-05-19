@@ -66,4 +66,6 @@ However, other people have fully abandoned their lives. They appear to be lifele
 
 Mediocore is not a title, but rather a label for anyone who refuses to improve; it is your responsibility to ensure that you do not wear this badge.
 
+## CONCLUSION
+
 Don't remain **STILL**. Always strive to grow, see a brighter future, rejoice in the achievement of others, and be a better version of yourself.
