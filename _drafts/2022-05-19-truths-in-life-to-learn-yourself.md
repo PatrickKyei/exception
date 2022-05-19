@@ -62,3 +62,33 @@ Why do people say “no offense" just before they’re about to offend you?
 The secret of discovery is not in looking for new lands, but in looking at existing land with new eyes.
 
 Being happy doesn’t mean that everything is perfect. It means that you’ve decided to look beyond the imperfections.
+
+1. Nothing can stand the test of time. Eventually, everything must finally, and sadly, come to an abrupt end.
+
+2. To fall in love is awfully simple, but to fall out of love is simply awful.
+
+3. Never stop learning because life never stops teaching.
+
+4. You will regret the things you didn't do much more than ones you did
+
+5. Your biggest regret will be that you didn’t do what you love (unless it’s not)
+
+“I wish I’d had the courage to live a life true to myself, not the life others expected of me.”
+
+6. Nobody cares how difficult your life is, and you are the author of your life’s story. Stop looking for people to give you sympathy and start creating the life story you want to read.
+
+7. You care more about what other people think than about what you think--and it's destroying your confidence.
+
+8. You blame other people for your problems so that you can feel better about your own shortcomings.
+
+9. A book only gives you a piece of information but life experience gives you long-lasting lessons.
+
+10. Truth is simple, but the moment you try to explain it, it becomes difficult.
+
+11. Someone else will always have more.
+
+12. You cannot make everyone happy. Learn to accept that you cannot make everyone like you, just be yourself, and let the one come into your life who is ready to accept you just the way you are.
+
+13. Sometimes there’s no right choice, sometimes the outcome will be bad no matter what you choose to do, but you still have to choose.
+
+14. “It is possible to commit no mistakes and still lose. That is not a weakness, that is life.” – Captain Jean-Luc Picard

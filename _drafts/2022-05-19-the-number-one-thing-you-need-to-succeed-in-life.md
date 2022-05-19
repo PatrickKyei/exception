@@ -23,7 +23,6 @@ This quality is perseverance!
 
 It is the key to success. The difference between someone who will succeed in life and someone who will not could be summed up in this image :
 
-
 The loser will fail 99 times and then give up.
 
 The winner will fail 99 times, then try again, and that's when he will succeed.
