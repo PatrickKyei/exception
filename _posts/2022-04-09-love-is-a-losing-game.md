@@ -12,7 +12,7 @@ tags: [choice, life, love]     # TAG names should always be lowercase
 
 Love comes with a lot of promises. You go into it hearing many promises and giving a lot of promises of your own without knowing exactly what to expect in return. So yeah, from the onset, you start giving something without knowing what to get in return.
 
-What are your beliefs, principles, values in a relationship? You go in compromising and losing a lot of them. Maybe that's how it's designed to be? I can't really tell.
+What are your beliefs, principles, values in a relationship? You go in compromising and giving up a lot of them. Maybe that's how it's designed to be? I can't really tell.
 
 ## You Lose everything in Love
 
@@ -38,7 +38,7 @@ One cannot keep pouring from an empty cup. You eventually become dry and weary. 
 
 You have to know when even too much can become unhealthy for your relationship. Just like how the sea can have an overflow and destroy valuable things, one person receiving too much of everything in a relationship can be toxic. Your partner may become callous, indifferrent, proud, unloving etc.
 
-So it remains on each us then to protect what is invested in the relationship. If you feel too much is been taken out of it and it can affect the relationship negatively, it is time to talk to your partner. 
+So it remains on each of us then, to protect what is invested in the relationship. If you feel too much is been taken out of it and it can affect the relationship negatively, it is time to talk to your partner. 
 
 A conversation about how you feel is not supposed to end in an argument. All things should be done towards the growth of the love invested in the relationship and to the benefit of the individuals involved.
 
