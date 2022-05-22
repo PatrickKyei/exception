@@ -51,6 +51,7 @@ Sharing my own experience, I remember a couple of years ago I had to do some con
 You just completed your Uni or your NSS and been crying about money but there's this job opportunity around your area but you think you beyond it just because you are a graduate?
 
 Don't continue in your brokeness.
+
 ## Still Hating
 
 Hate is a strong emotion that should be treated with caution. It can restore order and calm if handled carefully. Anyone who comes out to tell you that they don't like what you're doing is assisting you in making positive adjustments in your life.
