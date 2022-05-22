@@ -46,6 +46,11 @@ Anyone who relies on you all of the time because they claim they are financially
 
 > Being broke is not a dollar amount. It's your lack of ambition and vision.
 
+Sharing my own experience, I remember a couple of years ago I had to do some construction work just to keep me going during some hard time. It was something that was completely of my field and experience - the pay was good. If you need to do anything legal to survive and keep going and later focus on what really wanna do, then do it.
+
+You just completed your Uni or your NSS and been crying about money but there's this job opportunity around your area but you think you beyond it just because you are a graduate?
+
+Don't continue in your brokeness.
 ## Still Hating
 
 Hate is a strong emotion that should be treated with caution. It can restore order and calm if handled carefully. Anyone who comes out to tell you that they don't like what you're doing is assisting you in making positive adjustments in your life.
