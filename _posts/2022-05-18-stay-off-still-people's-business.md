@@ -68,7 +68,7 @@ It's not the same where you used to be. And that's because you're continuously m
 
 However, other people have fully abandoned their lives. They appear to be lifeless inside. No matter how hard you try to inspire them, they have no hope for the future.
 
-> Stay away from those people who try to disparage your ambitions. Small minds will do that, but great minds will give you a feeling that you can become great too. - Mark Twain
+> Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great. - Mark Twain
 
 Mediocore is not a title, but rather a label for anyone who refuses to improve; it is your responsibility to ensure that you do not wear this badge.
 
