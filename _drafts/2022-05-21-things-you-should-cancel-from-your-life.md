@@ -37,6 +37,8 @@ The only limits in your life are the ones you put on yourself, so dream big, and
 
 Self doubt kills more dreams than failure does.
 
+> You need to stop the habit of doubting yourself.
+
 Whatever you want do, if it is worth pursuing, start now.
 
 Start where you are. Start with fear. Start with doubt. Start with hands shaking. Start with voice trembling, but start.
