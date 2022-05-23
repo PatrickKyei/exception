@@ -17,8 +17,6 @@ Joy comes from advancement, not comparison.
 
 ## Arguing with others
 
-
-
 You might win the argument, but you won’t change their mind, so what’s the point.
 
 ## Negative news (which is mostly all news)
@@ -46,7 +44,6 @@ Start where you are. Start with fear. Start with doubt. Start with hands shaking
 If you do, you’ll attract reasons to support your claims.
 
 You have what it takes, don't ever doubt.
-
 
 ## Staying on your Smartphone in important conversations
 
