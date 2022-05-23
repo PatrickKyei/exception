@@ -43,7 +43,7 @@ All of these things are common, but they are the early formative experiences tha
 
 ## Your Feelings Are Messages To You
 
-These feelings you're trying to avoid aren't as bad as you think. I understand how intense they feel, but it's the judgment, the self-loving that is causing so much more suffering than just the baseline feelings. So, if you're looking for relief in this situation, you really only have one choice. **Start Feeling**
+These feelings you're trying to avoid aren't as bad as you think. I understand how intense they feel, but it's the judgment, the self-unloving that is causing so much more suffering than just the baseline feelings. So, if you're looking for relief in this situation, you really only have one choice. **Start Feeling**
 
 **Your anger?**
 
