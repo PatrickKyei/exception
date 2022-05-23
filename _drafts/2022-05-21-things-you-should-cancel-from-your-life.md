@@ -29,10 +29,6 @@ Unless you’re going to do something about it, you’re only polluting your min
 
 It only leads to misery. But if you act, you shine. And if you act consistently, you’ll be unstoppable.
 
-## Settling. Never settle
-
-The only limits in your life are the ones you put on yourself, so dream big, and be bold.
-
 ## Doubting yourself
 
 Self doubt kills more dreams than failure does.
@@ -46,6 +42,14 @@ Start where you are. Start with fear. Start with doubt. Start with hands shaking
 If you do, you’ll attract reasons to support your claims.
 
 You have what it takes, don't ever doubt.
+
+> Imagine what's possible once you stop doubting yourself.
+
+## Settling for Less
+
+> All limitations are self imposed.
+
+The only limits in your life are the ones you put on yourself, so dream big, and be bold.
 
 ## Staying on your Smartphone in important conversations
 
