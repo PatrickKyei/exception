@@ -1,5 +1,5 @@
 ---
-title: Could This Be The Difinitive Behavior Behaviors You Need to Cancel From Your Life?
+title: Could This Be The Difinitive Behaviors You Need to Cancel From Your Life?
 date: 2022-05-24 11:35:00 +00
 categories: [Life, Behaviors]
 tags: [life, choices, behaviors]     # TAG names should always be lowercase
@@ -11,17 +11,22 @@ tags: [life, choices, behaviors]     # TAG names should always be lowercase
 
 Stop comparing yourself to people who started ten years ago before you. Focus own your joureny.
 
-There's nothing wrong if you have to draw inspiration from the journey of those successfull people in your life. But do not bug your thoughts around why they are doing better than you or have what you don't have. Focus on improving yourself and becoming better instead.
+There's nothing wrong with drawing inspiration from the lives of others who have achieved success in their lives. But don't obsess on why they're performing better or possessing something you don't.
 
-Joy comes from advancement, not comparison.
+You may learn a lot from the choices they made and the actions they took to get to that point in their lives Focus on improving yourself and becoming better.
+
+Progress, not comparison, brings happiness.
 
 ## Arguing with others
 
-You might win the argument, but you won’t change their mind, so what’s the point.
+Before you start arguing with someone, consider whether or not they are cognitively mature enough to understand alternative points of view. Otherwise, there is no point.
 
-## Negative news (which is mostly all news)
+> You might win the argument, but you won’t change their mind, so what’s the point.
 
-Unless you’re going to do something about it, you’re only polluting your mind. And if you share the news with others, you’re polluting theirs too.
+In any circumstance, your goal should be to understand the nature of the problem rather than to win the argument or to feel right. As a result, all sides will feel heard and understood.
+## Negative news
+
+You're merely polluting your thoughts unless you're willing to do something about it. And if you share the news with others, you’re polluting theirs too.
 
 ## People who like to complain, blame, condemn, and criticize
 
