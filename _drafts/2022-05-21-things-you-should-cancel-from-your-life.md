@@ -53,6 +53,12 @@ The only limits in your life are the ones you put on yourself, so dream big, and
 
 ## Staying on your Smartphone in important conversations
 
+It is a bad habit to stay on your smartphone in important conversations. It shows a sign of not paying attention even when you think you are listening to the other person. 
+
 ## Aimless social media browsing
 
 ## Working without breaks
+
+Good work is good, but so is good rest.
+
+Overworking your body will cost you some great deal of health, if not now some day. Take a break and take care of your body.
