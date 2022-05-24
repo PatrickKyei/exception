@@ -24,6 +24,7 @@ Before you start arguing with someone, consider whether or not they are cognitiv
 > You might win the argument, but you won’t change their mind, so what’s the point?
 
 In any circumstance, your goal should be to understand the nature of the problem rather than to win the argument or to feel right. As a result, all sides will feel heard and understood.
+
 ## Negative news
 
 You're merely polluting your thoughts unless you're willing to do something about it. And if you share the news with others, you’re polluting theirs too.
@@ -62,7 +63,11 @@ Create the life you wish to have and deserve. **I'm not talking about being reck
 
 ## Staying on your Smartphone in important conversations
 
-It is a bad habit to stay on your smartphone in meetings or when having important conversations. It shows a sign of not paying attention even when you think you are listening to the other person.
+Staying on your smartphone during meetings or crucial discussions is a bad habit. Even when you think you're paying attention to the other person, it demonstrates that you're not.
+
+It sends the message to the other person that anything they're saying is unimportant. And this has the potential to damage your relationships.
+
+Everything has its own time. Learn to approach each moment in the same way.
 
 ## Aimless social media browsing
 
