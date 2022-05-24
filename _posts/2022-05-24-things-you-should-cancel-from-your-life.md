@@ -21,18 +21,18 @@ Progress, not comparison, brings happiness.
 
 Before you start arguing with someone, consider whether or not they are cognitively mature enough to understand alternative points of view. Otherwise, there is no point.
 
-> You might win the argument, but you won’t change their mind, so what’s the point.
+> You might win the argument, but you won’t change their mind, so what’s the point?
 
 In any circumstance, your goal should be to understand the nature of the problem rather than to win the argument or to feel right. As a result, all sides will feel heard and understood.
 ## Negative news
 
 You're merely polluting your thoughts unless you're willing to do something about it. And if you share the news with others, you’re polluting theirs too.
 
-## People who like to complain, blame, condemn, and criticize
-
 ## Procrastination
 
-It only leads to misery. But if you act, you shine. And if you act consistently, you’ll be unstoppable.
+Another person has already saved enough for 3 years for themselves and their family while you've been procrastinating for 10 minutes.
+
+Procrastination simply makes things worse. Acting, on the other hand, makes you shine. And if you act consistently, you'll be unstoppable.
 
 ## Doubting yourself
 
