@@ -66,9 +66,9 @@ It is a bad habit to stay on your smartphone in meetings or when having importan
 
 ## Aimless social media browsing
 
-There are a lot good things that the internet and social media offers. These days are a lot of ways one coudl promote their businesses on social media platforms like facebook, tiktok and linkedin.
+The internet and social media have a lot of positive aspects. There are numerous strategies to market a business on social media sites such as Facebook, Tictok, and LinkedIn these days.
 
-But spending your time aimlessly browsing social media does no good to you . If you are not building connections, selling a product, promoting your business, learning a skill or selling your talents out there then spend less time on social media.
+However, wasting time idly exploring social media is detrimental to your health. Spend less time on social media if you are not building connections, selling a product, marketing your business, learning a skill, or selling your talents.
 
 Don't become a victim of social media.
 
@@ -76,4 +76,4 @@ Don't become a victim of social media.
 
 Good work is good, but so is good rest.
 
-Overworking your body will cost you some great deal of health issues, if not now some day. Take a break and take care of your body.
+Overworking your body will cost you a lot of health problems in the future, if not now. Take a break and take care of your body.
