@@ -51,14 +51,24 @@ You have what it takes, don't ever doubt.
 
 The only limits in your life are the ones you put on yourself, so dream big, and be bold.
 
+Create the life you wish to have and deserve. **I'm not talking about being reckless**. I'm asking you to LIVE abundantly, know your worth and Love your life. Don't waste it by liveing less than what you were meant for.
+
+> There is no passion to be found in settling for a life less than the one you are capable of living. - Nelson Mandela
+
 ## Staying on your Smartphone in important conversations
 
-It is a bad habit to stay on your smartphone in important conversations. It shows a sign of not paying attention even when you think you are listening to the other person. 
+It is a bad habit to stay on your smartphone in meetings or when having important conversations. It shows a sign of not paying attention even when you think you are listening to the other person.
 
 ## Aimless social media browsing
+
+There are a lot good things that the internet and social media offers. These days are a lot of ways one coudl promote their businesses on social media platforms like facebook, tiktok and linkedin.
+
+But spending your time aimlessly browsing social media does no good to you . If you are not building connections, selling a product, promoting your business, learning a skill or selling your talents out there then spend less time on social media.
+
+Don't become a victim of social media.
 
 ## Working without breaks
 
 Good work is good, but so is good rest.
 
-Overworking your body will cost you some great deal of health, if not now some day. Take a break and take care of your body.
+Overworking your body will cost you some great deal of health issues, if not now some day. Take a break and take care of your body.
