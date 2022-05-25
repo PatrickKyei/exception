@@ -15,7 +15,7 @@ Others may argue that working hard is crucial, but working smart is even more so
 
 Some would advise you that in order to succeed, you must surround yourself with the right people.
 
-And I will always advise you that you must continue to learn new things throughout your life.
+And I always advise that you must continue to learn new things throughout your life.
 
 I'll end here, but you get the picture. Because you have people constantly offering you this kind of advise, you've grasped it all the better.
 
