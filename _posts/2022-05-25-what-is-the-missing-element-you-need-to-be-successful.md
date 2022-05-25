@@ -27,7 +27,7 @@ This fundamental quality has made Elon Musk the world's richest man and a space 
 
 It is necessary for success. This image captures the difference between someone who will succeed in life and someone who will not:
 
-![perseverance-success](/assets/img/perseverance-success.jpg)
+![perseverance success](/assets/img/perseverance-success.jpg)
 
 The loser will try 99 times and give up.
 
