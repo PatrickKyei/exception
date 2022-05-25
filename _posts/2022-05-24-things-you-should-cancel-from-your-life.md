@@ -9,17 +9,17 @@ tags: [life, choices, behaviors]     # TAG names should always be lowercase
 
 > Comparison destroys character.
 
-Stop comparing yourself to people who started ten years ago before you. Focus own your joureny.
+Stop comparing yourself to people who started 10 years ago before you. Focus on your own journey.
 
-There's nothing wrong with drawing inspiration from the lives of others who have achieved success in their lives. But don't obsess on why they're performing better or possessing something you don't.
+There's nothing wrong with drawing inspiration from the lives of others who have become successful in their lives. But don't obsess on why they're performing better or possessing something you don't.
 
-You may learn a lot from the choices they made and the actions they took to get to that point in their lives Focus on improving yourself and becoming better.
+You may learn a lot from the choices they made and the actions they took to get to that point in their lives. But let the focus be on improving yourself and becoming better.
 
 Progress, not comparison, brings happiness.
 
 ## Arguing with others
 
-Before you start arguing with someone, consider whether or not they are cognitively mature enough to understand alternative points of view. Otherwise, there is no point.
+Before you start arguing with someone, consider whether or not they are mentally mature enough to understand alternative points of view. Otherwise, there is no point.
 
 > You might win the argument, but you won’t change their mind, so what’s the point?
 
@@ -41,11 +41,11 @@ Self doubt kills more dreams than failure does.
 
 > You need to stop the habit of doubting yourself.
 
-Whatever you want do, if it is worth pursuing, start now.
+Whatever you want to do, if it is worth pursuing, start now.
 
 Start where you are. Start with fear. Start with doubt. Start with hands shaking. Start with voice trembling, but start.
 
-If you do, you’ll attract reasons to support your claims.
+If you do, you’ll attract reasons to support your assertion.
 
 You have what it takes, don't ever doubt.
 
@@ -71,7 +71,7 @@ Everything has its own time. Learn to approach each moment in the same way.
 
 ## Aimless social media browsing
 
-The internet and social media have a lot of positive aspects. There are numerous strategies to market a business on social media sites such as Facebook, Tictok, and LinkedIn these days.
+The internet and social media have a lot of positive aspects. There are numerous strategies to market a business on social media sites such as Facebook, Tiktok, and LinkedIn these days.
 
 However, wasting time idly exploring social media is detrimental to your health. Spend less time on social media if you are not building connections, selling a product, marketing your business, learning a skill, or selling your talents.
 
