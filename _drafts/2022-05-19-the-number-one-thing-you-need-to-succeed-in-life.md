@@ -5,6 +5,10 @@ categories: [Perseverance, Success]
 tags: [success, perseverance, choices]     # TAG names should always be lowercase
 ---
 
+We talk about success everyday. We probably hear about success stories all the time. Many times what surprises us what make successful people successful. Because we often think what they did to become successful is no different than what we do.
+
+Get up, go to work and work hard. Right?
+
 Many will tell you that you have to work hard.
 
 Others will tell you that working hard is important, but working smart is even more important.
