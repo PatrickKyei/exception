@@ -5,38 +5,40 @@ categories: [Perseverance, Success]
 tags: [success, perseverance, choices]     # TAG names should always be lowercase
 ---
 
-We talk about success everyday. We probably hear about success stories all the time. Many times what surprises us what make successful people successful. Because we often think what they did to become successful is no different than what we do.
+Every day, we talk about success. We frequently hear success stories. What makes successful people successful often surprises us. Because we often believe that what they did to achieve success is similar to what we do.
 
-Get up, go to work and work hard. Right?
+Get up, go to work, and put in long hours. Right?
 
-Many will tell you that you have to work hard.
+Many people will tell you that you must work hard in order to succeed.
 
-Others will tell you that working hard is important, but working smart is even more important.
+Others may argue that working hard is crucial, but working smart is even more so.
 
-Some will tell you that you need to surround yourself with the right people to succeed.
+Some would advise you that in order to succeed, you must surround yourself with the right people.
 
-Others will tell you that you need to constantly increase your knowledge throughout your life.
+And I will always advise you that you must continue to learn new things throughout your life.
 
-I'll stop there, but you get the idea. You've grasped it all the better because you have people constantly giving you this kind of advice.
+I'll end here, but you get the picture. Because you have people constantly offering you this kind of advise, you've grasped it all the better.
 
-It's good advice, but even if you apply it to the letter, you won't be able to succeed without this essential thing I'm going to talk about.
+It's sound advice, but even if you follow it to the letter, you won't be able to succeed until you pay attention to what we are going to discuss.
 
-This essential quality made Thomas Edison one of the greatest inventors in history. His inventions revolutionized humanity and are still changing our daily lives today.
+This fundamental quality has made Elon Musk the world's richest man and a space and automobile industry revolutionist. His innovations have changed the world and continue to do so even now.
 
-This quality is perseverance!
+**This quality is perseverance!**
 
-It is the key to success. The difference between someone who will succeed in life and someone who will not could be summed up in this image :
+It is necessary for success. This image captures the difference between someone who will succeed in life and someone who will not:
 
-The loser will fail 99 times and then give up.
+![illustration](/src/img/perseverance.jpg)
 
-The winner will fail 99 times, then try again, and that's when he will succeed.
+The loser will try 99 times and give up.
 
-To succeed, you must be patient and never give up. You must always learn from your failures, adapt, and move on.
+The winner will fail 99 times before trying again and finally succeeding.
 
-Are your goals important enough for you to be able to pursue them for 5 years, 10 years, 20 years?
+You must be patient and never give up in order to succeed. Always learn from your mistakes, evolve, and march on.
 
-This is the only question you need to ask yourself. If the answer is no, you are probably not targeting the right goals. By not targeting the goals that will make you want to surpass yourself for as long as you need to, you are leaving with a handicap.
+**Are your goals important enough for you to be able to pursue them for 3 years, 10 years, 15 years?**
+
+You merely need to ask yourself this question. If you answered no, you're probably not pursuing the right goals. You'll be handicapped if you don't set goals that will motivate you to push yourself for as long as you need to.
 
 So the first thing you need to do is to set goals that really motivate you.
 
-Once this is done, you will be able to keep trying year after year despite the countless failures that will mark your journey. If you do it with the same intensity each time, you will eventually become successful. Sooner or later.
+Once you've accomplished this, you'll be able to keep trying year after year, despite the numerous failures that will occur along the way. You will eventually succeed if you do it with the same zeal each time. Eventually, it will happen.
