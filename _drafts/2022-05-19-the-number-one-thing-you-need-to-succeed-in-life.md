@@ -35,4 +35,4 @@ This is the only question you need to ask yourself. If the answer is no, you are
 
 So the first thing you need to do is to set goals that really motivate you.
 
-Once this is done, you will be able to keep trying year after year despite the countless failures that will mark your journey. If you do it with the same intensity each time, you will necessarily achieve success. Sooner or later.
+Once this is done, you will be able to keep trying year after year despite the countless failures that will mark your journey. If you do it with the same intensity each time, you will eventually become successful. Sooner or later.
