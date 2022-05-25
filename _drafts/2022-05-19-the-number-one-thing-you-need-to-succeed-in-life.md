@@ -1,6 +1,6 @@
 ---
-title: If You've Got It All Right What Do You NEEED to Be Successful?
-date: 2022-05-18 21:15:00 +00
+title: If You've Got It All Right Then What Do You NEEED to Be Successful?
+date: 2022-05-26 12:15:00 +00
 categories: [Perseverance, Success]
 tags: [success, perseverance, choices]     # TAG names should always be lowercase
 ---
