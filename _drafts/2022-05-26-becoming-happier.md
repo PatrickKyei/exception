@@ -24,4 +24,3 @@ Treat yourself with respect — take care of your health, style, etc.
 Kill the need to please people, be yourself — it will take a while.
 
 Never stop doing uncomfortable things — get in the habit of being spontaneous.
-
