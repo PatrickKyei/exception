@@ -37,3 +37,5 @@ If it possible, take your time, consult a second opinion to ensure your decision
 - Be yourself - Get rid of the pressure to please others. It will take a while.
 
 - Never stop doing things that make you uncomfortable - make it a habit to be creative.
+
+...updating
