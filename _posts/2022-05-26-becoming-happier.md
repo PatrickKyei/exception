@@ -38,4 +38,4 @@ If it possible, take your time, consult a second opinion to ensure your decision
 
 - Never stop doing things that make you uncomfortable - make it a habit to be creative.
 
-...updating (off to bed now lol)
+...updating [off to bed now :)]
