@@ -1,26 +1,26 @@
 ---
-title: How can one become a happier person?
-date: 2022-05-26 08:35:00 +00
-categories: [Creativity, Hack]
-tags: [secret, creativity, thinking, life]     # TAG names should always be lowercase
+title: Open The Gates For HAPPINESS By Using These Simple Tips
+date: 2022-05-26 18:35:00 +00
+categories: [Happiness, Choice]
+tags: [happiness, ]     # TAG names should always be lowercase
 ---
 
-Take bold action towards your intuition — uncomfortable yet so fulfilling.
+Take daring steps in the direction of your intuition - it'll feel uncomfortable at first, but it'll be so worth it in the end.
 
-Talk to people you find interesting — drop the “I am an introvert” label.
+Drop the "I'm an introvert" label and talk to people you find interesting.
 
-When something bad happens — don’t react but decide a specific action step you will take to better it.
+When something negative occurs, don't **react**; instead, plan a concrete action step to improve the situation.
 
-Whatever you are doing in life — accept failure as part of the process. It’s not a disappointment.
+Accept failure as a part of the process in anything you undertake in life. It isn't a letdown in any way.
 
-Have something meaningful to work towards — get that delayed gratification for focused work.
+Have a goal to strive for – gain that delayed satisfaction for deliberate practice.
 
-Use your attention wisely — don’t give it to negative content.
+Don't waste your time focusing on negative information.
 
-Cut out people that drain your energy — you aren’t obligated to do anything.
+Remove people from your life who sap your energy; you are not compelled to do anything.
 
-Treat yourself with respect — take care of your health, style, etc.
+Treat yourself with respect — 
 
-Kill the need to please people, be yourself — it will take a while.
+Be yourself - Get rid of the pressure to please others. It will take a while.
 
-Never stop doing uncomfortable things — get in the habit of being spontaneous.
+Never stop doing things that make you uncomfortable - make it a habit to be creative.
