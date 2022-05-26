@@ -2,10 +2,13 @@
 title: Open The DOORS For HAPPINESS By Using These Simple Tips
 date: 2022-05-26 18:35:00 +00
 categories: [Happiness, Choice]
-tags: [happiness, ]     # TAG names should always be lowercase
+tags: [happiness, choices, life]     # TAG names should always be lowercase
 ---
 
-- Take daring steps in the direction of your intuition - it'll feel uncomfortable at first, but it'll be so worth it in the end.
+- Take daring steps in the direction of your intuition - it'll feel uncomfortable at first, but it'll be so worth it in the end. 
+
+Daring to do something you've always wanted to do brings a new a energy into your life and awaken your happiness. It removes boredom and the feeling of sameness which that makes life dull.
+
 
 - Drop the "I'm an introvert" label and talk to people you find interesting.
 
