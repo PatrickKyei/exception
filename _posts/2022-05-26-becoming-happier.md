@@ -1,5 +1,5 @@
 ---
-title: Open The Gates For HAPPINESS By Using These Simple Tips
+title: Open The DOORS For HAPPINESS By Using These Simple Tips
 date: 2022-05-26 18:35:00 +00
 categories: [Happiness, Choice]
 tags: [happiness, ]     # TAG names should always be lowercase
@@ -19,7 +19,7 @@ tags: [happiness, ]     # TAG names should always be lowercase
 
 - Remove people from your life who sap your energy; you are not compelled to do anything.
 
-- Treat yourself with respect — 
+- Treat yourself with respect —
 
 - Be yourself - Get rid of the pressure to please others. It will take a while.
 
