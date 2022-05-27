@@ -1,5 +1,5 @@
 ---
-title: Mistakes That Cost Me My Sunshine
+title: What Do You Do When Rains Show Up In Your Sunshine?
 date: 2022-05-27 22:35:00 +00
 categories: [Life, Lesson]
 tags: [life, lesson, mistakes]     # TAG names should always be lowercase
@@ -13,17 +13,19 @@ Growth requires freedom to make mistakes. Only that those mistakes can sometimes
 
 > Every mistake is an opportunity to grow wiser.
 
-In life, we learn the lessons only after we face the test. Which could be sometimes painful. But we can do is learn from those mistakes we made so that we don't repeat them again when we face the same or a similar one in the future.
+In life, we learn the lessons only after we face the test. Which could be sometimes painful. But what we can do is learn from those mistakes we made so that we don't repeat them again when we face the same or similar ones in the future.
 
 How we can do that is to take the lessons from our own mistakes or learn the lessons other people have discovered from the tests they have faced in life.
 
-I have faced such tests, made some terrible mistakes, and learned from them. I am sharing some lessons from one of these situations with you.
+I have faced such tests, made some terrible mistakes, and learned from them. I am sharing some lessons from this story with you.
 
-I had sunshine and it was one of the beautiful things in my life. Things felt lively and it was evident in many aspect of my life. Tough times were bearable because there was always sunshine to give you the energy to make things grow again.
+## Sunshine 
 
-And then the rains began to show up. I was not prepared for the rain. I feared too much of it going was going to kill everything that has started doing well because of the sunshine I was getting.
+I had sunshine and it was one of the beautiful things in my life. Things felt lively and it was evident in many aspect of my life. Tough times were bearable because there was always some sunshine to give you the energy to make things grow again.
 
-I asked for the rains to go away not knowing I needed it to fall heavily for the sun to keep brighting. But I asked to go away and so the sunshine didn't show up. And then everything started going the southside.
+And then the rains showed up. I was not prepared for the rain. I feared too much of it was going to kill everything that has started doing well fro  the sunshine I was getting.
+
+I asked for the rains to go away. Not knowing I needed it to fall heavily for the sun to keep shining. But I asked it to go away and so the sunshine didn't show up. And then everything started going  southside.
 
 From All of these, these are the lessons I learned:
 
