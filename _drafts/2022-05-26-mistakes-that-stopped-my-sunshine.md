@@ -18,3 +18,27 @@ In life, we learn the lessons only after we face the test. Which could be someti
 How we can do that is to take the lessons from our own mistakes or learn the lessons other people have discovered from the tests they have faced in life.
 
 I have faced such tests, made some terrible mistakes, and learned from them. I am sharing some lessons from one of these situations with you.
+
+I had sunshine and it was one of the beautiful things in my life. Things felt lively and it was evident in many aspect of my life. Tough times were bearable because there was always sunshine to give you the energy to make things grow again.
+
+And then the rains began to show up. I was not prepared for the rain. I feared too much of it going was going to kill everything that has started doing well because of the sunshine I was getting.
+
+I asked for the rains to go away not knowing I needed it to fall heavily for the sun to keep brighting. But I asked to go away and so the sunshine didn't show up. And then everything started going the southside.
+
+From All of these, these are the lessons I learned:
+
+## 1. Don't take decisions in the heat of the moment
+
+## 2. Consult an unbiased opinion in difficult situations
+
+## 3. Never say Never
+
+## 4. There is a positive side in any bad situation
+
+## 5. Learn, Take responsibility and forgive yourself
+
+There is no shame in making mistakes while trying to fo figure things out. The goal is to live a fulfilling life, not a perfect one.
+
+## 6. Grow Wiser
+
+## 7
