@@ -1,6 +1,6 @@
 ---
-title: Mistakes That Stopped My Sunshine
-date: 2022-05-26 08:35:00 +00
+title: Mistakes That Cost Me My Sunshine
+date: 2022-05-27 22:35:00 +00
 categories: [Life, Lesson]
 tags: [life, lesson, mistakes]     # TAG names should always be lowercase
 ---
