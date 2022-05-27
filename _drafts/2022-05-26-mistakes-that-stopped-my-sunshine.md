@@ -17,4 +17,4 @@ In life, we learn the lessons only after we face the test. Which could be someti
 
 How we can do that is to take the lessons from our own mistakes or learn the lessons other people have discovered from the tests they have faced in life.
 
-I have faced such tests, made terrible mistakes, and learned from them. I am sharing some lessons from one of these situations with you.
+I have faced such tests, made some terrible mistakes, and learned from them. I am sharing some lessons from one of these situations with you.
