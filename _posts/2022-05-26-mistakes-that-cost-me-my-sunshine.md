@@ -5,6 +5,8 @@ categories: [Life, Lesson]
 tags: [life, lesson, mistakes]     # TAG names should always be lowercase
 ---
 
+![sunshine-rain](/assets/images/sunshine-rain.jpg)
+
 > Your last miskake is your biggest teacher.
 
 Tell me a man that never made a mistake and I will show you a man that never tried and that never grows.
