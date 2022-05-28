@@ -43,7 +43,7 @@ It will help you see things from different point of view and guide to take less 
 
 ## 4. There is a positive side in any bad situation
 
-I know.. I know.. I know but as cliche as this may sound there is 
+I know.. I know.. I know but as cliche as this may sound there is
 
 ## 5. Learn, Take responsibility and forgive yourself
 
