@@ -31,6 +31,8 @@ From All of these, these are the lessons I learned:
 
 ## 1. Don't take decisions in the heat of the moment
 
+In your state of confusion don't take a decision. If it is possible allow at least two 
+
 ## 2. Consult an unbiased opinion in difficult situations
 
 ## 3. Never say Never
