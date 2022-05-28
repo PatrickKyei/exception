@@ -5,7 +5,7 @@ categories: [Life, Lesson]
 tags: [life, lesson, mistakes]     # TAG names should always be lowercase
 ---
 
-![sunshine-rain](/assets/images/sunshine-rain.jpg)
+![sunshine-rain](/assets/img/sunshine-rain.jpg)
 
 > Your last miskake is your biggest teacher.
 
