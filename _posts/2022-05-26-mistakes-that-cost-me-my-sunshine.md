@@ -1,5 +1,5 @@
 ---
-title: What Do You Do When Rains Show Up In Your Sunshine?
+title: What Do You Do When Rain Show Up In Your Sunshine?
 date: 2022-05-27 22:35:00 +00
 categories: [Life, Lesson]
 tags: [life, lesson, mistakes]     # TAG names should always be lowercase
@@ -55,8 +55,26 @@ You will come out stronger on the other side. I know you will because I did.
 
 There is no shame in making mistakes while trying to figure things out. The goal is to live a fulfilling life, not a perfect one.
 
-After realizing you've a bad decision, take responsibility and accept your faults. Don't try to shift blame to others because of the horrible out
+After realizing you've made a bad decision, take responsibility and accept your faults. Don't try to shift blame to others because of the horrible outcome. You will learn nothing if you do that.
+
+And finally forgive yourself for the mistakes you have made. Understand that everybody, I mean everybody, can make mistakes. Don't wallow in shame. Respond to yourself in a loving way rather than a self-shaming way.
 
 ## 5. Never Say Never
 
+One of the things I noticed is that it's really really difficult to forgive yourself if you fix your mind or what you will never do. If you say you would **"never"** do something and you do that, then it's really hard to forgive yourself. 
+
+Take a gentle approach to life. Know that life has a way of throwing us in tight situations and may not always be able to see right throught to things at first. 
+
+So don't be too hard on yourself.
+
 ## 6. Grow Wiser
+
+Grow. Grow. Grow. Every mistake is an opportunity to grow wiser. 
+
+When you are able to identify what you could have done better, write them down somewhere. Save the lesson as a note or a journal. 
+
+You'd be better equiped with a more mature response to the same or similar situations like that in the future. Not just for yourself but for others.
+
+> Hey why not, I still pray for **Sunshine**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8h--kFui1JA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
