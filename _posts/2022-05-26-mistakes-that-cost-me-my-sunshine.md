@@ -31,49 +31,49 @@ From All of these, these are the lessons I learned:
 
 ## 1. Don't take decisions in the heat of the moment
 
-When dealing with a critical situation and in your state of confusion don't take a decision. If it is possible allow at least 42hrs of thinking time over it before coming to a resolution. If it is not possible and you need to take a decision as soon as possible, then do point 2.
+When faced with a serious situation and in a condition of confusion, avoid making a decision. Allow at least 42 hours of thought time before making a decision if possible. If this is not possible and you must make a decision anyway, proceed to point 2.
 
 ## 2. Consult an unbiased opinion
 
-Two heads are always better than one. When your thoughts are clouded by confusion and you are not able to see clearly the outcome of a decision you are going to take but need to take one anyway, it is better to consult an unbiased opinion from one or two reliable people.
+It's never a bad idea to have a second opinion. When your thoughts are clouded by uncertainty and you can't see the consequence of a decision you're about to make but need to make regardless, it's best to get an unbiased opinion from one or two trustworthy people.
 
-Don't play a victim in your story. If possible, lay out the state of the situation without focusing it on you and then let them lay out the cards of the possible outcomes of the various steps you could take.
+In your story, don't play the victim. If at all possible, present the situation without focusing on yourself, and then let them lay down the cards depicting the many outcomes of the various measures you could take.
 
-It will help you see things from different point of view and guide to take less damaging decisions.
+It will help you in seeing things from multiple perspectives and guiding you to make less harmful decisions.
 
 ## 3. There is a positive side in any bad situation
 
-I know.. I know.. I know but as cliche as this may sound there is some positive side in any bad situation. There is a silver lining in a lot these stuff that we go through. If you slow down and do the two steps above, you are likely going to find the positive side in the situation you find yourself.
+Yes, yes, yes, yes, yes I know, as corny as it may sound, there is always a silver lining to every bad situation. There is a silver lining to a lot of what we go through in life. If you take your time and consider the two points above, you'll most likely see the positive side of whatever circumstance you're in.
 
-I missed to see that a little rainfal would have actually made things more beautiful as would bring some freshness into the scene.
+I failed to see that a little rainfall would have added some freshness to the scene, making it more lovely.
 
-You know your situation better than I do so I will let you decide what these opportunities are. But they are always there. And when you find them you've got to jump on them. Because they always end up been the reason you kind of have to go through shitstorm in the first place.
+I'll let you determine what these opportunities are because you know your situation better than I do. They are, nevertheless, usually present. And once you've discovered them, you must take immediate action. Because they're almost often the reason you had to go through a disaster to begin with.
 
-You will come out stronger on the other side. I know you will because I did.
+On the other hand, you will emerge stronger. Because I did, I'm confident you will.
 
 ## 4. Learn, Take responsibility and forgive yourself
 
-There is no shame in making mistakes while trying to figure things out. The goal is to live a fulfilling life, not a perfect one.
+Making mistakes while attempting to figure things out is perfectly acceptable. The goal is to live a fulfilled life rather than a flawless one.
 
-After realizing you've made a bad decision, take responsibility and accept your faults. Don't try to shift blame to others because of the horrible outcome. You will learn nothing if you do that.
+Accept responsibility and accept your flaws after recognizing you've made a poor choice. Don't try to pass the blame for the bad outcome on to others. If you do that, you will learn nothing.
 
-And finally forgive yourself for the mistakes you have made. Understand that everybody, I mean everybody, can make mistakes. Don't wallow in shame. Respond to yourself in a loving way rather than a self-shaming way.
+Finally, you must forgive yourself for your mistakes. Recognize that anyone, and I mean anyone, can make a mistake. Don't wallow in self-pity. Instead of shaming yourself, respond to yourself with love.
 
 ## 5. Never Say Never
 
-One of the things I noticed is that it's really really difficult to forgive yourself if you fix your mind or what you will never do. If you say you would **"never"** do something and you do that, then it's really hard to forgive yourself. 
+One thing I've discovered is that it's quite difficult to forgive oneself if you fix your mind that you will **never** make bad choices. It's difficult to forgive oneself if you vow you'd never do something and then do it.
 
-Take a gentle approach to life. Know that life has a way of throwing us in tight situations and may not always be able to see right throught to things at first. 
+Take a gentle approach to life. Recognize that life has a habit of putting us in difficult situations, and that we may not always be able to see things clearly at first.
 
 So don't be too hard on yourself.
 
 ## 6. Grow Wiser
 
-Grow. Grow. Grow. Every mistake is an opportunity to grow wiser. 
+Grow. Grow. Grow. Every setback is an opportunity to learn something new.
 
-When you are able to identify what you could have done better, write them down somewhere. Save the lesson as a note or a journal. 
+Make a list of the things you could have done better once you've identified them. Make a note or a journal entry about the lesson learnt.
 
-You'd be better equiped with a more mature response to the same or similar situations like that in the future. Not just for yourself but for others.
+In the future, you'll be better prepared with a mature approach to similar or identical events. Not just for yourself, but also for the sake of others.
 
 > Hey why not, I still pray for **Sunshine**.
 
