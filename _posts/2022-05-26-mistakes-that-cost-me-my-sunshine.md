@@ -41,14 +41,22 @@ Don't play a victim in your story. If possible, lay out the state of the situati
 
 It will help you see things from different point of view and guide to take less damaging decisions.
 
-## 4. There is a positive side in any bad situation
+## 3. There is a positive side in any bad situation
 
-I know.. I know.. I know but as cliche as this may sound there is
+I know.. I know.. I know but as cliche as this may sound there is some positive side in any bad situation. There is a silver lining in a lot these stuff that we go through. If you slow down and do the two steps above, you are likely going to find the positive side in the situation you find yourself.
 
-## 5. Learn, Take responsibility and forgive yourself
+I missed to see that a little rainfal would have actually made things more beautiful as would bring some freshness into the scene.
 
-There is no shame in making mistakes while trying to fo figure things out. The goal is to live a fulfilling life, not a perfect one.
+You know your situation better than I do so I will let you decide what these opportunities are. But they are always there. And when you find them you've got to jump on them. Because they always end up been the reason you kind of have to go through shitstorm in the first place.
+
+You will come out stronger on the other side. I know you will because I did.
+
+## 4. Learn, Take responsibility and forgive yourself
+
+There is no shame in making mistakes while trying to figure things out. The goal is to live a fulfilling life, not a perfect one.
+
+After realizing you've a bad decision, take responsibility and accept your faults. Don't try to shift blame to others because of the horrible out
+
+## 5. Never Say Never
 
 ## 6. Grow Wiser
-
-## 7. Never Say Never
