@@ -57,10 +57,10 @@ Make yourself a priority once in a while. It's not selfish. It's necessary.
 
 ## Be yourself - Get rid of the pressure to please others
 
-It will take a while to learn to do this but it will be worth it. Whatever you are just be a good one.
+Learning to achieve this will take time, but it will be well worth the effort. Whatever you are just be a good one.
 
 ## Never stop doing things that make you uncomfortable
 
-Your success story can start today with one simple step outside of your comfort zone.
+With one easy step outside of your comfort zone, your success story can begin right now.
 
-Make it a habit to be creative and daring.
+Make it a habit to be innovative and daring.
