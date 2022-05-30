@@ -25,7 +25,7 @@ When something negative happens, don't **react**; instead, plan a concrete actio
 
 Making bad decisions during bad situations can make you feel uneasy. In any uncomfortable situation, don't rush in the heat of the moment to make decisions that will make you feel worse later.
 
-If it possible, take your time, consult a second opinion to ensure your decisions are quality. Because quality decisions leads to a happier life.
+If at all feasible, take your time and get a second opinion to ensure that your choices are sound. Because making good judgments results in a happier life.
 
 And that reminds me of the lessons I learnt from a [life experience](https://patrickkyei.com/posts/mistakes-that-cost-me-my-sunshine)
 
