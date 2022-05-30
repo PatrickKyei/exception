@@ -31,29 +31,29 @@ And that reminds me of the lessons I learnt from a [life experience](https://pat
 
 ## Accept failure as a part of the process in anything you undertake in life. It isn't a letdown in any way
 
-Understand that as you are figuring things out and making decisions about your life you are likely to make some bad ones. Which is fine. It's part of life process.
+Recognize that while you're figuring things out and making life decisions, you're bound to make some mistakes. That's OK. It's a natural part of life.
 
-Learn from them and use them as a guide to make better decisions can lead you to your success.
+You can learn from them and use them as a guide to make better decisions, which will help you achieve your goals.
 
 ## Have a goal to strive for – gain that delayed satisfaction for deliberate practice
 
-Don't always expect to get the results you need to day. If you have to make some sacrifices to gain something greater tomorrow do it.
+Expecting to receive the outcomes you require now is not always realistic. If you must make some sacrifices in order to get something greater tomorrow, do so.
 
-Be broake for a while, save some money and invest it, work on your relationship and enjoy it, take time to look after your health and reap the benefits.
+Be broke for a while, save some money, and invest it; work on your relationship and enjoy it; and take time to care for your health and reap the rewards.
 
 ## Don't waste your time focusing on negative information
 
-You cannot control someone's negative behavior but you can control how you react to it. Good things happen when you distance yourself from negativity.
+You have no influence over people who spread negative news, but you do have control over how you react to it. When you keep your distance from negativity, good things happen.
 
 ## Remove people from your life who sap your energy
 
-You are not compelled to do anything or anyone that is targeted at your energy. You can still be a nice person whiles you do it from a distance.
+You are not obligated to do or stay with somebody who is attempting to drain your energy. Even if you're doing it from a distance, you can still be a kind person.
 
 ## Treat yourself with respect
 
-Treat yourself with respect and others will learn to do same.
+Many will learn to respect you if you treat yourself well.
 
-Make yourself a priority once in a while. It's not selfish. It's necessary.
+Once once a while, put yourself first. It isn't a case of being self-centered. It is necessary.
 
 ## Be yourself - Get rid of the pressure to please others
 
