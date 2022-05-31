@@ -1,8 +1,8 @@
 ---
 title: How To More Fearless
 date: 2022-05-18 21:15:00 +00
-categories: [People, Choices]
-tags: [choices, relationships]     # TAG names should always be lowercase
+categories: [Choices, Fear]
+tags: [choices, people, fear]     # TAG names should always be lowercase
 ---
 
 ## Dive into your Fear
