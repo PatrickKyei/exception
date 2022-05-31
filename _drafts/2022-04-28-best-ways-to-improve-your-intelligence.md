@@ -1,8 +1,8 @@
 ---
 title: Best ways to improve your intelligence
 date: 2022-04-28 07:35:00 +00
-categories: [Life, Choices]
-tags: [positive, life]     # TAG names should always be lowercase
+categories: [Intelligence, Learning]
+tags: [life, intelligence, learning]     # TAG names should always be lowercase
 ---
 
 Start by learning how to connect the dots; look for similarities in everything you do.
