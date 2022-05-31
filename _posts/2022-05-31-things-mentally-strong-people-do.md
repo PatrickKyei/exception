@@ -1,8 +1,8 @@
 ---
 title: Things Mentally Strong People Do
-date: 2022-05-18 21:15:00 +00
+date: 2022-05-31 15:15:00 +00
 categories: [People, Choices]
-tags: [choices, relationships]     # TAG names should always be lowercase
+tags: [choices, people, mind]     # TAG names should always be lowercase
 ---
 
 ## They choose to be happy
