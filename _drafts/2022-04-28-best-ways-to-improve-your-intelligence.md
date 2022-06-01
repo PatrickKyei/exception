@@ -9,8 +9,6 @@ tags: [life, intelligence, learning]     # TAG names should always be lowercase
 
 Start by learning how to connect the dots; look for similarities in everything you do.
 
-Memorize more and do point 1
-
 ## Calm Your Mind
 
 Let yourself fall into a state of mind of calmness. It’s the state of mind that allows you to stay sharp and use your full potential.
