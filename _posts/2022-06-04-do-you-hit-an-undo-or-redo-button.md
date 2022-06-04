@@ -7,7 +7,7 @@ tags: [life, choices, mistakes]     # TAG names should always be lowercase
 
 ![undo or redo](/assets/img/undo-redo.jpg)
 
-When we come into an outcome that we don't like, our immediate reaction may be to remove everything and start over. However, this isn't always the best option.
+When we come into an outcome that we don't like, our immediate reaction may be to erase everything and start over. However, this isn't always the best option.
 
 Let's do a **redo** instead of a **undo**.
 
@@ -24,3 +24,4 @@ The fear of not being able to undo one's mistakes after making a poor decision f
 <!-- add doubts here -->
 
 Adopting the mindset that we are not good choice makers and that we may improve our decision-making skills as we make more decisions and learn from them is a good place to start.
+
