@@ -23,5 +23,10 @@ The fear of not being able to undo one's mistakes after making a poor decision f
 
 <!-- add doubts here -->
 
-Adopting the mindset that we are not good choice makers and that we may improve our decision-making skills as we make more decisions and learn from them is a good place to start.
+Adopting the perspective that we are not good choice makers and that we may improve our decision-making skills as we make more decisions and learn from them is a good place to start.
 
+However, simply knowing this is insufficient to boost your confidence and enable you to make the necessary decisions to improve your life.
+
+In the following paragraphs, I'll discuss a few crucial tactics that everyone may use to feel more empowered in the face of fear of making decisions.
+
+- Remove the pressure we put on ourselves about the expectatiions of other people.
