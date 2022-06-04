@@ -7,7 +7,9 @@ tags: [life, choices, mistakes]     # TAG names should always be lowercase
 
 When we run into an outcome that we don't like, our first instinct can be to erase the whole thing and start over. But that's not always the right thing to do. Instead of an **undo**, let's go for a **redo.**
 
-This allows us to make a new decision that factors both learning from the outcome we weren't happy with, plus and deeper understanding of our inner drivers.
+This allows us to make a new decision that factors both learning from the outcome we weren't happy with, plus a deeper understanding of our inner drivers.
 
 > Decisions aren't the end, they are only the beginning.
+
+As we get older we get to see that decisions have consequences. These consequences manifest in different ways depending on who we are and what situations we are in. So even though we know our lives basically evolve around the decisions we make from day to day, decision making is still something most of us struggle with.
 
