@@ -30,3 +30,11 @@ However, simply knowing this is insufficient to boost your confidence and enable
 In the following paragraphs, I'll discuss a few crucial tactics that everyone may use to feel more empowered in the face of fear of making decisions.
 
 - Remove the pressure we put on ourselves about the expectatiions of other people.
+
+- Good decisions come from experience, and experience comes from making bad decisions.
+
+- Remove the thought of "I will never get it right."
+
+- We can't predict the future. The more we get attached to what might happen and what might go wrong, the more we get stuck on making the important decisions.
+
+- Let go of the concept of "Perfection." 
