@@ -1,7 +1,6 @@
 ---
 title: LOVE is a LOSING GAME
 date: 2022-04-09 18:35:00 +00
-pin: true
 categories: [Love, Choice]
 tags: [choice, life, love]     # TAG names should always be lowercase
 ---
