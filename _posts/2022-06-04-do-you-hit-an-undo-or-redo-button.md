@@ -29,18 +29,18 @@ However, simply knowing this is insufficient to boost your confidence and enable
 
 In the following paragraphs, I'll discuss a few crucial tactics that everyone may use to feel more empowered in the face of fear of making decisions.
 
-- Remove the pressure we put on ourselves about the expectations of other people. Don't the internet rush you. No one is posting their failures and is making you think you have to be perfect. You need to make decisions, both the good and the bad so that you will grow beyond your imperfections.
+- **Remove the pressure we put on ourselves about the expectations of other people**. Don't the internet rush you. No one is posting their failures and is making you think you have to be perfect. You need to make decisions, both the good and the bad so that you will grow beyond your imperfections.
 
 > Are we pretending that we are perfect in all ways and are not capable of a good mess?
 
-- Good decisions come from experience, and experience comes from making bad decisions. Hear me when I tell you that a wise man was once an unwise man who learnt the lessons from all the bad decisions he made.
+- **Good decisions come from experience, and experience comes from making bad decisions**. Hear me when I tell you that a wise man was once an unwise man who learnt the lessons from all the bad decisions he made.
 
-- Remove the thought of "I will never get it right." Risking it is better than regretting. Life can change just like that and one day might be your day. So pick it up from where you didn't get it right, stick to the lessons and march forward.
+- **Remove the thought of "I will never get it right."** Risking it is better than regretting. Life can change just like that and one day might be your day. So pick it up from where you didn't get it right, stick to the lessons and march forward.
 
-- We can't predict the future. The more we get attached to what might happen and what might go wrong, the more we get stuck on making the important decisions.
+- **We can't predict the future**. The more we get attached to what might happen and what might go wrong, the more we get stuck on making the important decisions.
 
-- Let go of the concept of "Perfection." Don't wait for everything to be perfect before you decide to make a move. There's no perfect time so just start from where you are. Act with consistency, don't wait for perfection.
+- **Let go of the concept of "Perfection"**. Don't wait for everything to be perfect before you decide to make a move. There's no perfect time so just start from where you are. Act with consistency, don't wait for perfection.
 
-- Embrace an experimentation mindset. There is no shame in making some mistakes while trying to figure things out. The goal is to live a fulfilling life, not a perfect one.
+- **Embrace an experimentation mindset**. There is no shame in making some mistakes while trying to figure things out. The goal is to live a fulfilling life, not a perfect one.
 
-- Mistakes are proof that you are trying. The way up is coupled with insults, frustration, rejection, failure and mistakes. You will make a few ones before you finally get things right.
+- **Mistakes are proof that you are trying**. The way up is coupled with insults, frustration, rejection, failure and mistakes. You will make a few ones before you finally get things right.
