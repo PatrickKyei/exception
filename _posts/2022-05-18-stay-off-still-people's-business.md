@@ -1,7 +1,6 @@
 ---
 title: Why Is It GOOD To Stay Off STILL People Business?
 date: 2022-05-18 21:15:00 +00
-pin: true
 categories: [People, Choices]
 tags: [choices, relationships]     # TAG names should always be lowercase
 ---

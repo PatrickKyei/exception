@@ -1,6 +1,7 @@
 ---
 title: How can I make my life better?
 date: 2022-03-16 15:35:00 +00
+pin: true
 categories: [Life, Choices]
 tags: [life, change, choices, advice]     # TAG names should always be lowercase
 ---
