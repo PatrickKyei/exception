@@ -245,6 +245,16 @@ It just happens that:
 
 * [Ben Sounds](https://bensound.com/)
 
+* [AI Auto Draw Tool](https://www.autodraw.com/)
+
+* [Background Remover](https://www.remove.bg/)
+
+* [AI Fontparing](https://fontjoy.com/)
+
+* [Remote Design Jobs](https://designfromanywhere.web.app/)
+
+* [Bitsize Design Practice](https://befront.io/)
+
 ## For Software Developers
 
 * [Developer Roadmap](https://roadmap.sh/)
