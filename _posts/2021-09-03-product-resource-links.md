@@ -255,6 +255,13 @@ It just happens that:
 
 * [Bitsize Design Practice](https://befront.io/)
 
+* [Design Prompt Generator](https://designercize.com/)
+
+* [Designer Prompt Generator](https://www.briefz.biz/)
+
+
+
+
 ## For Software Developers
 
 * [Developer Roadmap](https://roadmap.sh/)
