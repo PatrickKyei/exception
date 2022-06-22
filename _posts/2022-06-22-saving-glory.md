@@ -23,4 +23,4 @@ Sometimes life is like that. We get bruised, we fail and we fall.
 
 But as long as we have life, we will face this battle and who knows, we might WIN.
 
-And this will be our saving glory
+And this will be our saving glory.
