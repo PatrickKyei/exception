@@ -15,7 +15,7 @@ The internal struggle; **low self esteem**, **imposter syndrome**, battles with 
 
 In the midst of all these is our desire to be successful at life. Sometimes it feels like life is holding you by the neck.
 
-So today I want to cheer you on. If you are still holding on and you are trying your best, you are a CHAMPION 🏆
+So today I want to cheer you on. If you are still holding on and you are trying your best, you are a CHAMPION
 
 **CHAMPIONS** aren't people who don't fall, fail or get bruised. Champions are people who fall and get up, people who fail and still try again, people who bruise but learn to heal and march on.
 
