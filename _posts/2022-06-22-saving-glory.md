@@ -7,7 +7,7 @@ tags: [life, success, glory]     # TAG names should always be lowercase
 
 ![eagle-snake](/assets/img/eagle-snake.png)
 
-Adults are likely aware of the differences between their childhood and adult lives.
+As an adult you are likely aware of the differences between their childhood and adult lives.
 
 You are considerably more worried now about things in your adult life than you were aware of in your childhood days.
 
