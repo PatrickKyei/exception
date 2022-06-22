@@ -2,7 +2,7 @@
 title: Responsive Design
 date: 2021-09-07 22:35:00 +00
 categories: [Responsiveness, Design]
-tags: [responive, design, html, css, technical]     # TAG names should always be lowercase
+tags: [responsive, design, html, css, technical]     # TAG names should always be lowercase
 ---
 ## Resonspive Design with Media Queries
 
