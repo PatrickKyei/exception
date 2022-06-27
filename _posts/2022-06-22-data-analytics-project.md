@@ -15,7 +15,7 @@ Those that engage in farming were informed by weather and seasons.
 
 > Many years ago people had to look up the skies. Today, we look on our phones.
 
-Today, we have so much data which is very close to our reach. Whether you'd need to wear warm clothes or pick an umbrella to work is something you can decide with a weahter app on your phone. You can be informed about what commute you'd use for work by Google Maps.
+Today, we have so much data which is very close to our reach. Whether you'd need to wear warm clothes or pick an umbrella to work is something you can decide with a weather app on your phone. You can be informed about what commute you'd use for work by Google Maps.
 
 These everyday informed decisions helps to make our lives easier.
 
