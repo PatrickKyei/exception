@@ -7,6 +7,8 @@ math: true
 tags: [project, pm, career]     # TAG names should always be lowercase
 ---
 
+> Completing an online course is no simple endeavor. It requires time, dedication, and commitment - Congratulations to myself!
+
 ## The Learning Experience
 
 The application of information, skills, tools, and strategies to meet project requirements and accomplish the desired outcome is known as project management.
