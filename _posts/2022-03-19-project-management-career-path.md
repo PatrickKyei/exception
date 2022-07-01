@@ -6,9 +6,6 @@ mermaid: true
 math: true
 tags: [project, pm, career]     # TAG names should always be lowercase
 ---
-
-> Completing an online course is no simple endeavor. It requires time, dedication, and commitment - Congratulations to myself!
-
 ## The Learning Experience
 
 The application of information, skills, tools, and strategies to meet project requirements and accomplish the desired outcome is known as project management.
@@ -129,6 +126,8 @@ The Executive Summary summarizes the purpose and outcome of the tablet project.
 [Request Access to View](https://docs.google.com/presentation/d/1Oh_4SQiFDjsuw6Tm_bPYZeYy68uisLwMcG0FFr6g2d0/edit?usp=sharing)
 
 There are many introductory-level positions one can explore traditional project management roles such as **Project Manager**, **Project Analyst**, **Project Leader/Director**, **Project Controller**, **Technical Project Manager**, **Project Management Office(PMO) Analyst**. Other names for Project Manager inlcudes Operations Manager, Program Manager, Operations Associate, Project Assistant.
+
+> Completing an online course is no simple endeavor. It requires time, dedication, and commitment - Congratulations to myself!
 
 [View my Credentials](https://www.credly.com/badges/6234bb3c-c69c-436e-a0b1-d454f394cf07?source=linked_in_profile). You can connect with me on [Linkedin](https://www.linkedin.com/in/patrickbaffour/)
 
