@@ -1,7 +1,7 @@
 ---
 title: Where Are The Best MENTALLY STRONG PEOPLE?
 date: 2022-07-03 15:15:00 +00
-categories: [People, Choices]
+categories: [Mind, Choices]
 tags: [choices, people, mind]     # TAG names should always be lowercase
 ---
 
