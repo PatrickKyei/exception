@@ -9,30 +9,30 @@ Hey ...
 
 ... hey!
 
-There is always something about our day, that no matter how hard the day goes or how strong the party is, the sunset will draw the curtain on all forms of human activities.
+There is always something about our day that ensures that no matter how challenging the day is or how spectacular the party, all forms of human activity will come to an end with the sunsets.
 
-That is sometimes to us a room for thought and an opportunity to rest our worn out bodies.
+That serves as a period for reflection and a chance for us to rest our exhausted bodies at times.
 
-You look out for the sunshine when there's something about the next day you greatly anticipate.
+When there is something about the following day that you are eagerly anticipating, you watch for the sunrise.
 
-That is how I have looked out for each day. The Sunshine that brings out a new energy to face whatever the day throws at me. You are that sunshine.
+That is what I have been watching out for every day. The **Sunshine** that renews my spirit and gives me the strength to face whatever the day brings. That sunshine is what you are.
 
-You were a great source of my joy. I always looked forward to a new day to see you, talk to you and feel your presence.
+You were a significant source of my joy. I always eagerly anticipated waking up each day to see you, speak to you, and sense your presence.
 
-But just like how there is a sunshine for each day, there is a sunset for each day. A sunset for us to let go yesterday's pain, replan our steps, rest our stressed bodies and refocus for a new day.
+There is, however, a sunset for every day, just as there is a sunrise. A sunset allows us to let go of the hurt from yesterday, rethink our course of action, unwind our frazzled bodies, and refocus for a new day.
 
-You've always been amazing. I won't trade any of the time that I got to spend with you for anything and I don't regret any of those. People say some sunshines make deserts and some grow forests. You were the sunshine that made things grow young and vibrant.
+You have always been amazing. I don't regret any of the time I got to spend with you and I wouldn't trade it for anything. Some sunshine is said to create deserts, while others nurture forests. You were the sunshine that gave everything a youthful, vivid growth.
 
-All the good days and bad days make up a story of one's life. A life that holds a journey to where we are now and a story of days we don't want to forget. And in all of them we remember the smiling days most. What happened to the days we were not smiling? The days we fought hard, felt pain, stumbled and couldn't stand on our feet? We forget them. We work only to make our days of joy permanent. Our days of sorrow we work to forget them.
+One's life story is made up of all of their happy and terrible days. A life that chronicles our road to get here as well as the events of certain days we'd rather not forget. We all remember the happy days the most from each one of them. The days we didn't smile—what happened to them? the days when we struggled mightily, experienced pain, stumbled, and were unable to stand upright? They slip our minds. We merely put forth effort to extend our happy days. We strive to put our painful days behind us.
 
-All the time, it is the things, people and moments that we cherish most that our hands find to make a mess of. Because the things we don't want we don't keep near. So for every pain, tear and heartbreak I caused you, I hope you forgive me genuinely.
+The things, people, and situations that we value most are always the ones that our hands choose to mess up. The things we don't want we don't keep close. So I hope you will truly forgive me for all the hurt, tears, and heartbreak I caused you.
 
-Humans are not finished products. All of us are work in progress. We wake up each day and do things that make us better than who we used to be. That's part of why we are alive. To make amends for yesterday's mistakes. The finished product are the ones who die.
+People are not finished goods. We are still work in progress. We wake up each day and do things that make us better than who we used to be. We are alive in part because of that. To make amends for yesterday's mistakes. The finished product are the ones who die.
 
-Listen to me carefully. I don't have forever to live. I don't have all it takes but I am that guy who loves to try. If I can put smiles on your face, I will try. If I can rekindle your joy and restore peace where there is pain, I will try. If I can put assurance where there is doubt and uncertainty, I will try. I want to be better and I will try.
+I won't be around forever. Though I don't have what it takes, I am that guy who enjoys giving things an effort. I will try to make you smile if I can. I will make an effort to bring back your joy and bring peace where there is anguish. I'll try to provide assurance where there is doubt and uncertainty. I'll try to improve because I want to.
 
 I look forward to A Brand New Day.
 
-A day with a lot of sunshine and smiles. A day with so much joy in our hearts and laughter in the air.
+A day with a lot of sunshine and smiles. A day filled with so much happiness in our hearts and laughter in the air.
 
-To A 365 days journey with you **Sunshine**.
+To **A 365 days** journey with you, **Sunshine**.
