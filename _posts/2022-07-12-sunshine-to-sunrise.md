@@ -15,7 +15,7 @@ There is always something about our day that ensures that no matter how challeng
 
 That serves as a period for reflection and a chance for us to rest our exhausted bodies at times.
 
-When there is something about the following day that you are eagerly anticipating, you watch for the sunrise.
+When there is something about the following day that you are excited about, you watch for the sunrise.
 
 That is what I have been watching out for every day. The **Sunshine** that renews my spirit and gives me the strength to face whatever the day brings. That sunshine is what you are.
 
@@ -25,16 +25,18 @@ There is, however, a sunset for every day, just as there is a sunrise. A sunset 
 
 You have always been amazing. I don't regret any of the time I got to spend with you and I wouldn't trade it for anything. Some sunshine is said to create deserts, while others nurture forests. You were the sunshine that gave everything a youthful, vivid growth.
 
-One's life story is made up of all of their happy and terrible days. A life that chronicles our road to get here as well as the events of certain days we'd rather not forget. We all remember the happy days the most from each one of them. The days we didn't smile—what happened to them? the days when we struggled mightily, experienced pain, stumbled, and were unable to stand upright? They slip our minds. We merely put forth effort to extend our happy days. We strive to put our painful days behind us.
+One's life story is made up of all of their happy and terrible days. A life that tells the story of our road to where we are as well as the events of certain days we'd rather not forget. We all remember the happy days the most from each one of them. The days we didn't smile—what happened to them? the days when we struggled, experienced pain, stumbled, and were unable to stand on feet? They slip our minds. We merely put forth effort to remember our happy days. We strive to put our painful days behind us.
 
 The things, people, and situations that we value most are always the ones that our hands choose to mess up. The things we don't want we don't keep close. So I hope you will truly forgive me for all the hurt, tears, and heartbreak I caused you.
 
 People are not finished goods. We are still work in progress. We wake up each day and do things that make us better than who we used to be. We are alive in part because of that. To make amends for yesterday's mistakes. The finished product are the ones who die.
 
-I won't be around forever. Though I don't have what it takes, I am that guy who enjoys giving things an effort. I will try to make you smile if I can. I will make an effort to bring back your joy and bring peace where there is anguish. I'll try to provide assurance where there is doubt and uncertainty. I'll try to improve because I want to.
+I won't be around forever. Though I don't have all it takes, I am that guy who enjoys giving things an effort. I will try to make you smile if I can. I will make an effort to bring back your joy and bring peace where there is anguish. I'll try to provide assurance where there is doubt and uncertainty. I'll try to improve because I want to.
 
 I look forward to A Brand New Day.
 
 A day with a lot of sunshine and smiles. A day filled with so much happiness in our hearts and laughter in the air.
+
+A day we can all leave the past behind, look forward to a brand new day and live a beautiful life.
 
 To **A 365 days** journey with you, **Sunshine**.
