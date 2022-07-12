@@ -9,7 +9,7 @@ tags: [life, sunshine, new]     # TAG names should always be lowercase
 
 Hey ...
 
-... hey!
+... hi!
 
 There is always something about our day that ensures that no matter how challenging the day is or how spectacular the party, all forms of human activity will come to an end with the sunsets.
 
@@ -37,6 +37,6 @@ I look forward to A Brand New Day.
 
 A day with a lot of sunshine and smiles. A day filled with so much happiness in our hearts and laughter in the air.
 
-A day we can all leave the past behind, look forward to a brand new day and live a beautiful life.
+A day we can all leave the past behind, look forward to a brand new day and be truly fulfilled.
 
 To **A 365 days** journey with you, **Sunshine**.
