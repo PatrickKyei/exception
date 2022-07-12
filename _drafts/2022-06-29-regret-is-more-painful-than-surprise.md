@@ -27,4 +27,4 @@ So maybe you might even be overqualified for the job but you'd be rejected and t
 
 You might be the one who is right and yet still your apology would not be considered. That would be a big shock to you. Nevertheless don't stop trying to fix any broken communication or relationship. Surprise is always better than regret. So many people here with us today but somehow they all keep disappearing. And one day we wouldn't have the chance to have those good times with them. We'd wish we fixed what was broken before they left us.
 
-> Regret is more painful than surprise. That is why the dead receive more flowers than the living.
+> Regret is more painful than surprise. That is why dead people receive more flowers than the living.
