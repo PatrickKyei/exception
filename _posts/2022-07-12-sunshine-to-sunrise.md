@@ -31,7 +31,7 @@ The things, people, and situations that we value most are always the ones that o
 
 People are not finished goods. We are still work in progress. We wake up each day and do things that make us better than who we used to be. We are alive in part because of that. To make amends for yesterday's mistakes. The finished product are the ones who die.
 
-I won't be around forever. Though I don't have all it takes, I am that guy who enjoys giving things an effort. I will try to make you smile if I can. I will make an effort to bring back your joy and bring peace where there is anguish. I'll try to provide assurance where there is doubt and uncertainty. I'll try to improve because I want to.
+I won't be around forever. Though I don't have all it takes, I am that guy who enjoys giving things an effort. I will try to make you smile if I can. I will make an effort to revive the joy I knew in you and bring peace where there is anguish. I'll try to provide assurance where there is doubt and uncertainty. I'll try to improve because I want to.
 
 I look forward to A Brand New Day.
 
