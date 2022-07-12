@@ -25,7 +25,7 @@ There is, however, a sunset for every day, just as there is a sunrise. A sunset 
 
 You have always been amazing. I don't regret any of the time I got to spend with you and I wouldn't trade it for anything. Some sunshine is said to create deserts, while others nurture forests. You were the sunshine that gave everything a youthful, vivid growth.
 
-One's life story is made up of all of their happy and terrible days. A life that tells the story of our road to where we are as well as the events of certain days we'd rather not forget. We all remember the happy days the most from each one of them. The days we didn't smile—what happened to them? the days when we struggled, experienced pain, stumbled, and were unable to stand on feet? They slip our minds. We merely put forth effort to remember our happy days. We strive to put our painful days behind us.
+One's life story is made up of all of their happy and terrible days. A life that tells the story of our road to where we are as well as the events of certain days we'd rather not forget. We all remember the happy days the most from each one of them. The days we didn't smile—what happened to them? the days when we struggled, experienced pain, stumbled, and were unable to stand on our feet? They slip our minds. We merely put forth effort to remember our happy days. We strive to put our painful days behind us.
 
 The things, people, and situations that we value most are always the ones that our hands choose to mess up. The things we don't want we don't keep close. So I hope you will truly forgive me for all the hurt, tears, and heartbreak I caused you.
 
