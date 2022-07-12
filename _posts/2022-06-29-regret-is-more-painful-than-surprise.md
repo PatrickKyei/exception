@@ -5,6 +5,8 @@ categories: [Life, Regret]
 tags: [life, regret, surprise]     # TAG names should always be lowercase
 ---
 
+![office-relax](/assets/img/office-relax.jpg)
+
 Normally I would read a few courses after I'd close from work to stay up to date before settling down and decide what to eat and then sleep.
 
 Today was different. I shut my pc off, turn down the lid. I shuffled through the thoughts that flashed through my mind when I started my day.
