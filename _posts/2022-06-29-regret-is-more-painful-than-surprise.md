@@ -5,9 +5,7 @@ categories: [Life, Regret]
 tags: [life, regret, surprise]     # TAG names should always be lowercase
 ---
 
-![office-relax](/assets/img/office-relax.jpg)
-
-Normally I would read a few courses after I'd close from work to stay up to date before settling down and decide what to eat and then sleep.
+Normally I would read a few courses after I'd close from work before settling down and decide what to eat and then sleep.
 
 Today was different. I shut my pc off, turn down the lid. I shuffled through the thoughts that flashed through my mind when I started my day.
 
@@ -17,7 +15,7 @@ But from all indications that thought didn't really leave my mind completely bec
 
 I decided to shift the whole conversation to the end of the day.
 
-So when closed closed from work I decided to entertain that thought and commit the rest of the time I had left to it before I went to sleep.
+So when I closed from work I decided to entertain that thought and commit the rest of the time I had left to it before I went to sleep.
 
 I hope many will identify with this but a lot of the time our regrets come from a place of fear and ego. Sometimes fear, surprise, and the shock after the decisions we have to make cause us to miss great opportunities and later we regret not making that decision.
 
