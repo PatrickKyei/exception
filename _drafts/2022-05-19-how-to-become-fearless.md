@@ -1,5 +1,5 @@
 ---
-title: How To More Fearless
+title: How To Be More Fearless
 date: 2022-05-18 21:15:00 +00
 categories: [Choices, Fear]
 tags: [choices, people, fear]     # TAG names should always be lowercase
