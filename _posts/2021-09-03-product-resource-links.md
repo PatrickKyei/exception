@@ -468,6 +468,8 @@ It just happens that:
 
 * [Codewell Challenges](https://www.codewell.cc/challenges)
 
+* [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)
+
 ## For Product Managers
 
 * Email Marketing Tools: [MailChimp](https://mailchimp.com/), [Constant Contact](https://www.constantcontact.com/global/home-page), [Emma](https://myemma.com/), [Email Octopus](https://emailoctopus.com)
