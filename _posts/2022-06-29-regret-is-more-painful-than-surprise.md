@@ -5,9 +5,7 @@ categories: [Life, Regret]
 tags: [life, regret, surprise]     # TAG names should always be lowercase
 ---
 
-![office-relax](/assets/img/office-relax.jpg)
-
-Normally I would read a few courses after I'd close from work to stay up to date before settling down and decide what to eat and then sleep.
+Normally I would read a few courses after I'd close from work before settling down and decide what to eat and then sleep.
 
 Today was different. I shut my pc off, turn down the lid. I shuffled through the thoughts that flashed through my mind when I started my day.
 
@@ -17,11 +15,11 @@ But from all indications that thought didn't really leave my mind completely bec
 
 I decided to shift the whole conversation to the end of the day.
 
-So when closed closed from work I decided to entertain that thought and commit the rest of the time I had left to it before I went to sleep.
+So when I closed from work I decided to entertain that thought and commit the rest of the time I had left to it before I went to sleep.
 
 I hope many will identify with this but a lot of the time our regrets come from a place of fear and ego. Sometimes fear, surprise, and the shock after the decisions we have to make cause us to miss great opportunities and later we regret not making that decision.
 
-Our own ego also comes between us and great opportunities in life. Maybe you just had to say sorry to fix what was broken. But because of ego you miss out on the chance of building something beautiful with someone dear in your life.
+Our own ego also comes between us and great opportunities in life. Maybe you just had to say sorry to fix what was broken. But because of ego you miss out on the chance of building something beautiful with someone important in your life.
 
 There are times that we just needed to go for what we wanted. Fear has stopped many of us from getting what we want out of life. You liked that person or something about them, but fear of rejection has always but you in a corner where you can't have what you want.
 
