@@ -3,6 +3,7 @@
 source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 5.1", ">= 5.2.1"
+gem 'video_player'
 
 group :test do
   gem "html-proofer", "~> 3.18"
