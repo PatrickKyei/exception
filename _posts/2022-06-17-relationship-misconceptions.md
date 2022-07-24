@@ -16,3 +16,5 @@ You can grow up to be a well educated person and yet without the facts in them i
 ## Misconception 2: Our strong ties are the most valuable
 
 ## Misconception 3: Relationships should form naturally
+
+
