@@ -542,7 +542,7 @@ It just happens that:
 
 * [Free Email Signature](https://www.hubspot.com/email-signature-generator)
 
-* [Title Generator](https://www.title-generator.com/)
+* [Title Generator](https://tweakyourbiz.com/title-generator/)
 
 * [Hand-drawn Slide Deck](https://app.excalideck.com/)
 
