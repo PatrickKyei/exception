@@ -30,4 +30,3 @@ What is happiness? City life? Bright lights? Maybe it is, maybe not! Is the vill
 
 We cannot account for all that we have as happiness and discount other people as unhappy because we think they lack what we have.
 
-

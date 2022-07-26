@@ -42,3 +42,9 @@ A day we can all leave the past behind, look forward to a brand new day and be t
 To **A 365 days** journey with you, **Sunshine**.
 
 Love You Sunshine.
+
+<audio autoplay controls>
+<source src ='/assets/audio/adventure.mp3'
+type='audio/mp3'>
+Your browser does not support the audio element
+<audio/>
