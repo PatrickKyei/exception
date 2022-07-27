@@ -6,6 +6,8 @@ tags: [happiness, life, world]     # TAG names should always be lowercase
 ---
 ![each-happiness](/assets/img/each-happiness.jpg)
 
+> Happiness is found when you stop comparing yourself to other people.
+
 People have a different world view due to our different experiences of life. What each of us derive meaning and value from varies.
 
 Therefore we experience happiness and express it in different ways.
