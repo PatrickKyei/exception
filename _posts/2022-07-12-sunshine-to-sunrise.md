@@ -43,7 +43,7 @@ To **A 365 days** journey with you, **Sunshine**.
 
 Love You Sunshine.
 
-<audio controls>
+<audio autoplay controls>
 <source src ='/assets/audio/adventure.mp3'
 type='audio/mp3'>
 Your browser does not support the audio element. Copyright @Bensound.
