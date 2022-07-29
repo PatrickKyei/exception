@@ -8,27 +8,26 @@ tags: [happiness, life, world]     # TAG names should always be lowercase
 
 > Happiness is found when you stop comparing yourself to other people.
 
-People have a different world view due to our different experiences of life. What each of us derive meaning and value from varies.
+Due to our varied life experiences, everyone has a unique perspective on the world. Each of us derives meaning and value from different things.
 
-Therefore we experience happiness and express it in different ways.
+As a result, we all experience happiness and express it in different ways.
 
-As we grow up, we begin to see different lifestyles that people live. Sometimes we wish these for ourselves because we think that these people are living a happy life.
+As we get older, we start to notice people living a variety of lifestyles. Sometimes we wish for these things for ourselves because we believe that these folks are happy with their lives.
 
-Our definition of happiness become what we see more than what we are. What we end up doing is that we define our own happiness based on the life that other people are living.
+We tend to define happiness more in terms of what we see than in terms of who we are. In the end, we define our own happiness in terms of how other people live their lives.
 
-Now it doesn't end there, we go further to define other people's happiness based on the standard we have come to accept as a happy life.
+It doesn't stop there, though; we go farther and define other people's happiness in terms of what we have come to accept as a good life.
 
-So this is what we end up doing, we begin to judge wether someone is happy or not based on what we see, forgeting that happiness is an individual state.
+So what happens is that we start judging someone's happiness based solely on what we see, forgetting that happiness is a condition that is unique to each individual.
 
-There are people who have little and are happy, there are those who have plenty but are not happy.
+While some people have little and are happy, others have a lot and are unhappy.
 
 Abundance creates comfort and not necessarily happiness.
 
 > Let us be thankful that what is most needful and useful, generally is most cheap and common. Though men value very highly their gold and silver, and the luxuries which are counted the best fruits of every land, yet in a time of famine they willingly barter them for bread.
 
 
-
-What is happiness? City life? Bright lights? Maybe it is, maybe not! Is the village boy who strived to leave the village behind for the bright city life happy? Or is it the city boy who finds love in the dull slow paced village that finds happiness? Who is to judge if not the very person that strives for his own definition of happiness?
+What is happiness? City life? Bright lights? Perhaps it is, perhaps not! Is the village boy who strived to leave the village behind for the bright city life happy? Or is it the city boy who finds love in the dull slow paced village that finds happiness? Who is to judge if not the very person that strives for his own definition of happiness?
 
 We cannot account for all that we have as happiness and discount other people as unhappy because we think they lack what we have.
 
