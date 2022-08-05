@@ -30,4 +30,4 @@ What is happiness? City life? Bright lights? Perhaps it is, perhaps not! Is the 
 
 We cannot account for all that we have as happiness and discount other people as unhappy because we think they lack what we have.
 
-However, just because you don't require much to be happy doesn't mean you should settle for the absolute minimum.  Live life to the fullest and always seek to improve yourself.
+However, just because you don't require much to be happy doesn't mean you should settle for the absolute minimum. Live life to the fullest and always seek to improve yourself.
