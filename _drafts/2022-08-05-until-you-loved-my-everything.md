@@ -10,9 +10,6 @@ _Your heart is going crazy..._
 
 ..._that's because it's scary dammit_
 
-When we go through disappointments in a relationship we build a strong wall around our hearts as a form of self defense.
-
-At some point we despise anything that has to do with love, relationships, commitment, friendship and family.
 
 I was fine before you walked right through that door. And now I'm something more than I ever imagined.
 

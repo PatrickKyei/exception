@@ -19,7 +19,7 @@ When there is something about the following day that you are excited about, you 
 
 That is what I have been watching out for every day. The **Sunshine** that renews my spirit and gives me the strength to face whatever the day brings. That sunshine is what you are.
 
-You were a significant source of my joy. I always eagerly anticipated waking up each day to see you, speak to you, and sense your presence.
+You've been a significant source of my joy. I always eagerly anticipated waking up each day to see you, speak to you, and sense your presence.
 
 There is, however, a sunset for every day, just as there is a sunrise. A sunset allows us to let go of the hurt from yesterday, rethink our course of action, unwind our frazzled bodies, and refocus for a new day.
 
