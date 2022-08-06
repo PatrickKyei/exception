@@ -6,7 +6,7 @@ categories: [Work, Management]
 tags: [work, leader, management]     # TAG names should always be lowercase
 ---
 
-![leader-manager](/assets/img/full-year.jpg)
+![leader-manager](/assets/img/leader-manager.jpg)
 
 In a 1:1 a few years ago, a new manager on my team saved time to ask one big question: “What’s the secret to being a good manager?”
 
