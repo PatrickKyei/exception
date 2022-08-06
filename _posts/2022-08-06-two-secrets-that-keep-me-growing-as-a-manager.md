@@ -1,7 +1,7 @@
 ---
 title: Two Secrets That Keep Me Growing As A Manager
 author: Ami Vora 
-date: 2022-08-21 18:43:00 +00
+date: 2022-08-06 18:43:00 +00
 categories: [Work, Management]
 tags: [work, leader, management]     # TAG names should always be lowercase
 ---
