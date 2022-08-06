@@ -32,4 +32,6 @@ It’s helped me to remember that all these feelings are *normal*. None of us is
 
 There are a bunch of tactics to good management — and those are learnable. (I’m sharing the ones that worked best for me in this series of notes.)  
 
-But so far I’ve found that the key underlying requirements are that **1) I have to care**, and **2) like anything that’s hard**, it takes work — and occasional missteps — in order to be successful.
+But so far I’ve found that the key underlying requirements are that 
+- **1) I have to care**, and 
+- **2) like anything that’s hard**, it takes work — and occasional missteps — in order to be successful.
