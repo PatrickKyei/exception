@@ -28,6 +28,9 @@ It just happens that:
 * [Carbon Design System - IBM](https://www.carbondesignsystem.com/)
 
 * Check List For Any Design: [Checklist](https://www.checklist.design/), [UX Archive](https://uxarchive.com/), [Mobbin](https://mobbin.design/browse/ios/apps), [Really Good UX](https://www.reallygoodux.io/)
+* 
+
+* [UX/UI products for career journey](https://designerassets.in/ui-ux-design/)
 
 * [Colors from Adobe](https://color.adobe.com)
 
