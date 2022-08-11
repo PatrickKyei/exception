@@ -1,7 +1,7 @@
 ---
 title: Pivot Don't Quit
 author: unknown
-date: 2022-08-11 07:40:00 +00
+date: 2022-08-10 07:40:00 +00
 categories: [Progress, Management]
 tags: [business, entrepreneur, management]     # TAG names should always be lowercase
 ---
