@@ -13,11 +13,11 @@ Hey ...
 
 There is always something about our day that ensures that no matter how challenging the day is or how spectacular the party, all forms of human activity will come to an end with the sunsets.
 
-That serves as a period for reflection and a chance for us to rest our exhausted bodies at times.
+That serves as a period for reflection and a chance for us to rest our exhausted bodies.
 
 When there is something about the following day that you are excited about, you watch for the sunrise.
 
-That is what I have been watching out for every day. The **Sunshine** that inspires my growth to take up on the world and face whatever. That sunshine is what you are.
+That is what I have been watching out for every day. The **Sunshine** that inspires growth to take up on the world and face whatever. That sunshine is what you are.
 
 You were a significant source of my joy. I always eagerly anticipated waking up each day to see you, speak to you, and sense your presence.
 
@@ -27,7 +27,7 @@ You have always been amazing. I don't regret any of the time I got to spend with
 
 One's life story is made up of all of their happy and terrible days. A life that tells the story of our road to where we are as well as the events of certain days we'd rather not forget. We all remember the happy days the most from each one of them. The days we didn't smile—what happened to them? the days when we struggled, experienced pain, stumbled, and were unable to stand on our feet? They slip our minds. We merely put forth effort to remember our happy days. We strive to put our painful days behind us.
 
-The things, people, and situations that we value most are always the ones that our hands choose to mess up. The things we don't want we don't keep close. So I hope you will truly forgive me for all the hurt, tears, and heartbreak I caused you.
+The things, people, and situations that we value most are mostly the ones that we unfortunately mess up. The things we don't want we don't keep close. So I hope you will truly forgive me for all the hurt, tears, and heartbreak I caused you.
 
 People are not finished goods. We are still work in progress. We wake up each day and do things that make us better than who we used to be. We are alive in part because of that. To make amends for yesterday's mistakes. The finished product are the ones who die.
 

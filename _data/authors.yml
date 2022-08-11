@@ -2,3 +2,13 @@ ami:
   name: Ami Vora
   twitter: 
   url: https://www.linkedin.com/in/amvora/
+
+unknown:
+  name: Unknown User
+  twitter: 
+  url: https://google.com
+  
+anonymous:
+  name: Anonymous
+  twitter: 
+  url: https://google.com
