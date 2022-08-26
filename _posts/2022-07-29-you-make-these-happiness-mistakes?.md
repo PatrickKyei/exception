@@ -4,6 +4,7 @@ date: 2022-07-29 07:40:00 +00
 categories: [Happiness, Life]
 tags: [happiness, life, world]     # TAG names should always be lowercase
 ---
+
 ![each-happiness](/assets/img/each-happiness.jpg)
 
 > Happiness is found when you stop comparing yourself to other people.
