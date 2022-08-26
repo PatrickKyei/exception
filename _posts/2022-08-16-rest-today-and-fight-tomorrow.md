@@ -7,7 +7,7 @@ tags: [battle, life, progress]     # TAG names should always be lowercase
 
 Life itself is a battle, at least that's how I can see it. We are on a battlefield against so many things that threatens our survival.
 
-Family matters, work issues, hearbreaks, setbacks in life and many others. As we grow older and become exposed to life we see more of these coming at us. They get us confused and question so many things about life. 
+Family matters, work issues, hearbreaks, setbacks in life and many others. As we grow older and become exposed to life, we see more of these coming at us. They get us confused and question so many things about life. 
 
 The thing about the battles we will face in our lives is that they are lifetime. Every stage of our life and the troubles it brings. Sometimes we win, sometimes we lose. And each one is a lesson if we can consider it as so.
 
