@@ -15,7 +15,7 @@ Without experience we try to fight all of these battles at once and many times w
 
 We can prioritize our battles and face them in order of importance so that have the strength for another day. 
 
-Fix the issue with work before you relationships. Fix the problems in your relationship before you consider a family. When we try to do all at once we invite chaos. 
+Fix the issue with work before your relationships. Fix the problems in your relationship before you consider a family. When we try to do all at once we invite chaos. 
 
 However we can rest and face our battles the next day. On a battlefield sometimes you have to retreat, restrategize and come again even stronger.
 
