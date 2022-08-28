@@ -14,7 +14,7 @@ Now matter.
 
 I’ve come to appreciate  
 That those who anger me control me  
-And so I no longer give them permission to disturb my joy    
+And so I no longer give them permission to disturb my joy
 Or disrupt my wellbeing  
 And am more readily able to let go of what once triggered, burdened and upset me  
 In order to preserve my peace.

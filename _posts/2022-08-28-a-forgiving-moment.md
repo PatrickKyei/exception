@@ -40,7 +40,7 @@ To take away your inner peace.
 
 Drop the need to be right.  
 Embrace the need to be free.  
-Come out of the story of 'my life.   
+Come out of the story of 'my life.
 Reclaim the moment.
 
 Be here, in your new life.  
