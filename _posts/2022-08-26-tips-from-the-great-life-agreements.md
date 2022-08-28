@@ -1,18 +1,18 @@
 ---
-title: Tips From The Great Life Agreements 
+title: Tips From General Life Truths 
 author: unknown 
 date: 2022-08-16 15:30:00 +00
 categories: [Life, Truth]
 tags: [truth, life, tips]     # TAG names should always be lowercase
 ---
 
-## 1. Be Impeccable With Your Word Speak with integrity
+## 1. Be Impeccable With Your Word
 
-Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love.
+Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love.
 
-## 2. Don't Take Anything Personally Nothing others do is because of you
+## 2. Don't Take Anything Personally
 
-What others say and do is a projection of their own reality, their own dream. When you are immune to the opinions and actions of others, you won't be the victim of needless suffering.
+ Nothing others do is because of you. What others say and do is a projection of their own reality, their own dream. When you are immune to the opinions and actions of others, you won't be the victim of needless suffering.
 
 ## 3. Don't Make Assumptions
 
@@ -20,4 +20,4 @@ Find the courage to ask questions and to express what you really want. Communica
 
 ## 4. Always Do Your Best
 
-Your best is going to change from moment to moment; it will be different when you are healthy as opposed to sick. Under any circumstance, simply do your best, and you will avoid self-judgment, self-abuse and regret."
+Your best is going to change from moment to moment; it will be different when you are healthy as opposed to sick. Under any circumstance, simply do your best, and you will avoid self-judgment, self-abuse and regret.
