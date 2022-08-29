@@ -6,8 +6,6 @@ categories: [Growth, Life]
 tags: [life, growth, change]     # TAG names should always be lowercase
 ---
 
-
-
 As I’ve grown older  
 Less of the things that once mattered to me  
 Now matter.
