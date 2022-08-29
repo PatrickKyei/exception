@@ -8,7 +8,7 @@ tags: [lessons, life, people]     # TAG names should always be lowercase
 
 ## 1. Everything Is Temporary
 
-Everything in life is temporary. Beauty , money , happiness and everything is temporary. No matter how much we want something to last forever, it will eventually end.
+Everything in life is temporary. Beauty, money , happiness and everything is temporary. No matter how much we want something to last forever, it will eventually end.
 
 ## 2. Remember To Enjoy Life
 
