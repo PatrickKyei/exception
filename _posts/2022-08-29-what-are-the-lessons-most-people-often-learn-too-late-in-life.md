@@ -28,7 +28,7 @@ When we are young, our friends mean the world to us. We would rather ditch famil
 
 ## 6. Money Can’t Buy Happiness
 
-“Money can’t buy happiness” is an old phrase that you have probably heard before. Money can help with a lot of things in life. There are plenty of problems that would be solved if you only had enough money to throw at the issue. However, money cannot buy love.
+“Money can’t buy happiness” is an old phrase that you have probably heard before. Money can help with a lot of things in life. There are plenty of problems that would be solved if you only had enough money to throw at the issue. However, money cannot buy love. And love is happiness.
 
 ## 7. Don’t Try to Change Other People
 
@@ -48,6 +48,6 @@ Last, and certainly not least, is that life is unfortunately not as long as we t
 
 Sometimes , people don't understand what we want to say . Then, they think that we are bad . But actually we are not .
 
-We should be tell everything clearly.
+We should be ready to tell everything clearly.
 
 Thanks for reading!
