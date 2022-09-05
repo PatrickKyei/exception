@@ -22,7 +22,7 @@ This isn’t to say that relationships don’t take work or that you don’t go 
 
 They’re simply terrified of being alone.
 
-## 2. You Are Not Your Partners Psychotherapist!
+## 2. You Are Not Your Partners Psychotherapist
 
 If your partner doesn’t love themselves, handle their own problems and care for themselves (especially if you do) the relationship is severely imbalanced which will lead to an eventual break up.
 
@@ -112,6 +112,4 @@ End of story.
 
 Hope this helps you on your journey.
 
-Stay Grounded,
-
-_- Anonymous_
+Stay Grounded _- Anonymous_

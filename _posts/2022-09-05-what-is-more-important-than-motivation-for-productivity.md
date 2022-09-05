@@ -8,7 +8,7 @@ tags: [habit, motivation, discipline]     # TAG names should always be lowercase
 
 > “Don't expect to be motivated every day to get out there and make things happen. You won't be. Don't count on motivation. Count on discipline.” - _Anonymous_
 
-There’s something very reassuring in these words, and I agree with this point of view.   
+There’s something very reassuring in these words, and I agree with this point of view.  
 Ideally of course, it would be nice to have both motivation and discipline in your life. But it’s not necessary to always have motivation to get things done. I’ll explain why.
 
 **Motivation** is a drive, need, or reason to take action and move towards a goal. It derives from the word motive — a need that requires to be satisfied. Motivation can be extrinsic (inspired by outside forces) or intrinsic (inspired by the individual). But the problem is that motivation changes over time, therefore it is not a constant. We can be super motivated to start a new project one day, and by the end of the week we don’t feel like doing it any more.
