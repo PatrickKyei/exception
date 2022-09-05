@@ -1,5 +1,5 @@
 ---
-title: What Are Hard Truths
+title: What Are Some Hard Facts Of Life
 author: unknown 
 date: 2022-08-29 18:20:00 +00
 categories: [Truth, Life]
