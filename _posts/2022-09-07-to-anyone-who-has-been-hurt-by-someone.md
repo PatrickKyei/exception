@@ -1,7 +1,7 @@
 ---
 title: To Anyone Who Has Been Hurt By Someone
 author: unknown
-date: 2022-09-09 10:35:00 +00
+date: 2022-09-07 10:35:00 +00
 categories: [Pain, Life]
 tags: [life, pain, hurt]     # TAG names should always be lowercase
 ---
