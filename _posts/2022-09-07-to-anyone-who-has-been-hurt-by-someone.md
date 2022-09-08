@@ -6,7 +6,7 @@ categories: [Pain, Life]
 tags: [life, pain, hurt]     # TAG names should always be lowercase
 ---
 
-Hurt people hurt people.
+Broken people hurt people.
 
 Their words and actions wound
 
