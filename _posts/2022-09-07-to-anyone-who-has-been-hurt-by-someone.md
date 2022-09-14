@@ -39,10 +39,10 @@ You may refuse to allow their words
 
 To be a reflection of your worth
 
-And allow your healing 
+And allow your healing
 To be greater than their unresolved pain and trauma
 
-Allow your compassion 
+Allow your compassion
 To be greater than their cruelty
 
 Allow your self-love  

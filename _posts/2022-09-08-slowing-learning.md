@@ -1,5 +1,5 @@
 ---
-title: I Am Slowy Learning
+title: I Am Slowly Learning
 author: unknown
 date: 2022-09-08 08:35:00 +00
 categories: [Learning, Life]
