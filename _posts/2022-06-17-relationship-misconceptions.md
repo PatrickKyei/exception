@@ -9,7 +9,7 @@ Many times we grow up to believe certain things and consider them as facts witho
 
 In the same way, there are some misconceptions about relationships that have been generalized as the truth. But if you think about them carefully, you will find out there are the other truths.
 
-You can grow up to be a well educated person and yet lack the facts into these things if you have not asked or thought deeper about it.
+You can grow up to be a well educated person yet lack the facts into these things if you have not asked or thought deeper about it.
 
 ## Misconception 1: Networks are inherently self serving
 
