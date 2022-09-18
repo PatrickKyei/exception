@@ -5,11 +5,11 @@ categories: [Relationships, Truth]
 tags: [life, relationships, misconceptions]     # TAG names should always be lowercase
 ---
 
-Many times we grow up to believe certain things and consider them as facts without investigating the truth in them. We slouch about thinking about them deeper because we think many people believe the same thing.
+Many times we grow up to believe certain things and consider them as facts without investigating the truth in them. We slouch about thinking deeper into them because we believe many people think the same.
 
-In the same way, there are some misconceptions about relationships that have been generalized as the truth. But if you think about them carefully, you will find out there are not the truth and that there are other interpretations for them.
+In the same way, there are some misconceptions about relationships that have been generalized as the truth. But if you think about them carefully, you will find out there are the other truths.
 
-You can grow up to be a well educated person and yet without the facts in them if you have not asked or thought deeper about them.
+You can grow up to be a well educated person and yet lack the facts into these things if you have not asked or thought deeper about it.
 
 ## Misconception 1: Networks are inherently self serving
 
