@@ -6,6 +6,8 @@ categories: [Success, Light]
 tags: [light, darkness, success]     # TAG names should always be lowercase
 ---
 
+![you are a light](/assets/img/you-are-a-light.jpg)
+
 Your light does not come from your successes.  
 Your light is not ignited by perfection  
 Or achievement or body shape.
