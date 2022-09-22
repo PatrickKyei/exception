@@ -6,6 +6,8 @@ categories: [Pain, Life]
 tags: [life, pain, hurt]     # TAG names should always be lowercase
 ---
 
+![anyone-who-has-been-broken](/assets/img/anyone-who-has-been-broken.jpg)
+
 Broken people hurt people.
 
 Their words and actions wound
