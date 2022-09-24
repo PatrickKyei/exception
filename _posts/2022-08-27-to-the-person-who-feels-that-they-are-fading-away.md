@@ -6,6 +6,8 @@ categories: [Life, Feeling]
 tags: [feeling, people, life]     # TAG names should always be lowercase
 ---
 
+![fading-away](/assets/img/fading-away.jpg)
+
 To the person who feels that they are fading away  
 And losing passion and motivation for living:
 
