@@ -14,6 +14,8 @@ I am a young, passionate individual who has always been involved with initiative
 
 I have spoken at several tech conferences and had the opportunity to interact with [creative minds](https://youtube.com/channel/UCsAjtT-RYQRtMngsTGLxS2Q) in the tech industry to share their knowledge to impact the tech ecosystem.
 
+I jot down my thoughts. Those are my own initiatives. It's more of a communal celebration of learning. And if I can play some role in your life to help you go to a new place, I'd be happy, honored, and fortunate to do so. And if I ever stop being successful at it, I'll try something new.
+
 > Here are my thoughts on a few crucial things about life ...[find here](https://patrickkyei.com/posts/who-is-me/)
 
 Would love to hear from you. [Want to have a chat? Schedule a call](https://calendly.com/patrickbaffour/coffeechat)
