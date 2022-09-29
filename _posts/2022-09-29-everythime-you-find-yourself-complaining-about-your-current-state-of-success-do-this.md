@@ -48,7 +48,7 @@ To answer your question, let’s go to step four…
 
 “But… but… I don’t have the money.”
 
->> Yes, excuses will ALWAYS be your shortcut to your comfort zone.
+> Yes, excuses will ALWAYS be your shortcut to your comfort zone.
 
 Every time you find yourself complaining about your current lack of “success” in life… go back to your worksheet and revisit step three and four.
 
