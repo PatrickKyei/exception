@@ -12,20 +12,23 @@ Follow these steps anytime you find yourself complaining about your current stat
 
 **STEP 1**: Take a piece of paper and make two columns and write down answers to these questions below:
 
-Who you are today.
-Who do you want to become.
+Who you are today?  
+Who do you want to become?
 
 Here are a few examples:
 
 **Health:**  
 Today I’m fat and sick.  
-I see myself strong and healthy.  
+I see myself strong and healthy. 
+
 **Work:**   
-Today I hate my job.
+Today I hate my job.  
 I see myself in my dream job.  
+
 **Education:**  
 Today I’m not learning anything.  
-I see myself reading two books a month.  
+I see myself reading two books a month. 
+ 
 **Finances:**  
 Today I’m stuck with debt.  
 I see myself debt free.
