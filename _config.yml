@@ -43,11 +43,11 @@ social:
   email: pkyei804@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/_patrickbaffour     # change to your twitter homepage
-    - https://github.com/PatrickKyei       # change to your github homepage
+    - https://web.facebook.com/patrickbaffour2    # change to your twitter homepage
+    # - https://github.com/PatrickKyei       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    - https://linkedin.com/in/patrickbaffour
+     - https://www.facebook.com/username
+    # - https://linkedin.com/in/patrickbaffour
 
 google_site_verification: #google-site-verification=HF25M9k_MrtzBP9ODIMc_Y2liss1uABb7hsL9Q6xpZI # change to your verification string
 
