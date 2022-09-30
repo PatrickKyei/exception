@@ -49,7 +49,7 @@ Every mentor in the course is fantastic; I learnt a lot from them. I am grateful
 
 In this section, I discuss the thought process, skills, and experience I gained while working on my Capstone project. The Captsone project gives one the opportunity to put their project management knowledge and skills to the test in a real-world simulation. I will be Peta, the Project Manager for this project.
 
-## Overview
+<!-- ## Overview -->
 
 Sauce and Spoon, a small restaurant company, is trying to reach its annual expansion and growth targets. They've chosen to undertake a trial project to see how well new tabletop menu tablets will help them achieve these objectives. The new menu tablets will help Sauce and Spoon fulfill its business goals by allowing the restaurant to serve more clients in less time. They will also provide useful statistics.
 
