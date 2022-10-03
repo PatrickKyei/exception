@@ -6,6 +6,8 @@ categories: [Mindfulness, Humanity]
 tags: [uniqueness, life, love]     # TAG names should always be lowercase
 ---
 
+![my uniqueness](/assets/img/discovered-my-uniqueness.jpg)
+
 I found my uniqueness  
 And embraced it  
 
