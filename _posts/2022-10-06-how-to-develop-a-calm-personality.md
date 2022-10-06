@@ -18,7 +18,7 @@ I no longer let problems sit within me. I am dealing with all of them and from n
 
 For me it is about taking the rough with the smooth. Life is full of ups and downs, nothing can change that. You can sit and complain or you can deal with them.
 
-3. ## Don't allow others to bring you down.
+## 3. Don't allow others to bring you down.
 
 This is a big one. Other people will always be there to try and kick you down. Either intentionally or unintentionally. I simply let it wash over me. I'm not saying it's as simple as just letting it go. This may be one of the last parts you develop. As you find your calm confidence, you will find it easier to cope with the dramas other people are responsible for.
 
