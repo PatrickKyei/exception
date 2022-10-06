@@ -11,10 +11,13 @@ How quickly and slowly love come and goes nobody know.
 How deeply love can cut and hurt nobody knows.
 
 The loneliness I felt and the lies I was told nobody knows.  
-I could only keep a short smile
-Because even when I tried to smile more, it hurts the deeper.  
+I could only keep a short smile  
+Because even when I tried to smile more  
+It hurts the deeper.  
 Nobody knows.
 
 How I longed to be happy in someone else's arms  
 How I wanted to be in someone else's thought  
 Nobody knows.
+
+
