@@ -12,7 +12,7 @@ tags: [emotions, management, personality]     # TAG names should always be lower
 
 Suppressing your emotions is the reason you're experiencing this in the first place. Be brave enough to let your emotions out.
 
-## Ask for help.
+## 2. Ask for help.
 
 Emotional strength comes from vulnerability. Whether it’s a professional or friend, talk to someone.
 
