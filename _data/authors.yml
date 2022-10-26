@@ -4,7 +4,7 @@ ami:
   url: https://www.linkedin.com/in/amvora/
 
 unknown:
-  name: Unknown
+  name: Unknown Author
   twitter: 
   url: https://google.com
   
@@ -15,5 +15,10 @@ anonymous:
 
 kahn:
   name: Zain Kahn
+  twitter: https://twitter.com/heykahn
+  url:
+
+  missing:
+  name: Missing Id
   twitter: https://twitter.com/heykahn
   url:
