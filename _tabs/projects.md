@@ -8,10 +8,10 @@ order: 5
 
 - [Data Analytics - Bike Riding Company](https://patrickkyei.com/posts/data-analytics-project/)
 
-- [Skill Embassy](https://patrickkyei.com/projects/)
+- [Skill Embassy](https://skillembassy.com/)
 
-- [Adehye Special Home](https://patrickkyei.com/projects/)
+- [Adehye Special Home](https://web.facebook.com/adehyespecialhome)
 
-- [TS Collections](https://patrickkyei.com/projects/)
+- [TS Collections](https://sites.google.com/view/tscollections/)
 
 - [Agric Project](https://patrickkyei.com/projects/)
