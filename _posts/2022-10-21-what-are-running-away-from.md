@@ -13,7 +13,7 @@ And so it paralysed me
 Unitl I learned to feel it  
 And not let it suffocate me  
 But rather to allow it to gently flow through me  
-So that I may transform it into passion, purpose and meaning
+So that I may transform it into **passion**, **purpose** and **meaning.**
 
 I once ran from grief  
 Until I realised  
@@ -41,7 +41,7 @@ About how I chose to see myself
 And giving them the power to shape  
 How I felt about myself and my reality  
 
-I once ran failure  
+I once ran from failure  
 Until I realised  
 That it was my greatest teacher  
 And that pain need not stem from it  
