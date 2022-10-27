@@ -3,6 +3,7 @@ title: Project Management Career Path
 date: 2022-03-11 22:35:00 +00
 categories: [PM, Project]
 mermaid: true
+math: true
 tags: [project, technical, career]     # TAG names should always be lowercase
 ---
 
