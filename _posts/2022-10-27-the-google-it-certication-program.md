@@ -11,7 +11,7 @@ tags: [project, technical, career]     # TAG names should always be lowercase
 
 ## Introduction
 
-I'm often excited about learning new things and exploring areas of learning that tinker my curiosity.
+> I'm often excited about learning new things and exploring areas of learning that tinker my curiosity.
 
 I can still remember my early years when I had the passion of becoming an IT Man(when we didn't even have the different roles in the Tech field). It was just a dream back then because I didn't have a computer at home or of my own. I could still remember anytime we went to the ICT lab I was very excited and always performed very well on the tasks we were given and even had my colleagues calling me to help them.
 
