@@ -32,7 +32,7 @@ I finished the course after 13 weeks of hard effort and perseverance. I struggle
 
 ``````mermaid
 journey
-    title Course timeline
+    title Study Timeline
     section First Month
       Project Foundations: 1: December 10
       Project Initiation: 2: January 25 
