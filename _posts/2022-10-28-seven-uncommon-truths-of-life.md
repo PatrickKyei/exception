@@ -1,10 +1,12 @@
 ---
 title: 7 Uncommon Truths Of Life
-date: 2022-10-26 17:43:00 +00
+date: 2022-10-28 17:00:00 +00
 categories: [Life, Truths]
 authour: unknown
 tags: [life, uncommon, truths]     # TAG names should always be lowercase
 ---
+
+![uncommon life truths](/assets/img/uncommon-life-truths.jpg "ilovedoodle.com")
 
 ## 1. Everything you say should be true but not everything true should be said
 
