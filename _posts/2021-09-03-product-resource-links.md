@@ -476,6 +476,7 @@ It just happens that:
 
 * [IBM Skillbuild Resource Center](https://skills.yourlearning.ibm.com/)
 
+* [Learn With Microsoft](https://learn.microsoft.com/en-us/training/ "Microsoft Learning Garage")
 
 
 ## For Product Managers
