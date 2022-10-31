@@ -12,7 +12,7 @@ Something in the way you say my name tells me you are not coming back.
 She has a special voice  
 It's the first thing I wanted to hear each day.
 
-Her smile was unique  
+Her smile is unique  
 One that can bring a grin to a sad person's face.
 
 Her presence was like the sunshine coming over the highlands from the opposite direction.
