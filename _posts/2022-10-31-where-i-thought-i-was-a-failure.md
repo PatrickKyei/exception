@@ -39,7 +39,7 @@ Where I thought I lacked purpose and meaning
 I was simply in need of focusing on things greater than myself  
 And how I may use my abilities and talents to best serve and uplift humanity  
 
-And where I thought I was a failure  
+**And where I thought I was a failure**  
 I was simply in need of shifting my focus and perspective  
 From all of my past regrets, failures and mistakes  
 To all of my learning, growth and progress  
