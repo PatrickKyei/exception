@@ -8,7 +8,7 @@ order: 5
 
 - [Data Analytics - Bike Riding Company](https://patrickkyei.com/posts/data-analytics-project/)
 
-- [Skill Embassy](https://skillembassy.com/)
+- [Skill Embassy - Product School](https://skillembassy.com/)
 
 - [Adehye Special Home](https://web.facebook.com/adehyespecialhome)
 
