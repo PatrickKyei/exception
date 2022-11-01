@@ -12,6 +12,6 @@ order: 5
 
 - [Adehye Special Home](https://web.facebook.com/adehyespecialhome)
 
-- [TS Collections](https://sites.google.com/view/tscollections/)
+- [TS Collections - Sneaker Store](https://sites.google.com/view/tscollections/)
 
 - [Agric Project](https://patrickkyei.com/projects/)

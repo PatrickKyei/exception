@@ -13,6 +13,8 @@ tags: [project, technical, career]     # TAG names should always be lowercase
 
 > I'm often excited about learning new things and exploring areas of learning that pique my curiosity.
 
+Before we start, I should tell you a little bit about myself;
+
 Even though we didn't even know about the many professions in the tech area at the time, I can still clearly recall my early years when I was passionate about being an IT person. 
 
 Because I didn't have a computer at home or on my own at the time, it was just a dream. I still have vivid memories of how happy I was whenever we went to the ICT lab. I always did well on the assignments assigned to us, and occasionally my friends would call me for assistance.
