@@ -4,6 +4,8 @@ icon: fas fa-briefcase
 order: 5
 ---
 
+Projects I worked on directly or worked on together with other team members.
+
 - [Project Management : Sauce and Spoon](https://patrickkyei.com/posts/project-management-career-path/)
 
 - [Data Analytics - Bike Riding Company](https://patrickkyei.com/posts/data-analytics-project/)
