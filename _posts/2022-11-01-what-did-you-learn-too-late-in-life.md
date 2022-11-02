@@ -38,9 +38,9 @@ So, be with someone who is good for your mental health. Meditate. Feed your mind
 
 Don’t trust just anyone. Doubt others, and doubt yourself. Then, re-evaluate your actions and adjust them to better suit your aspirations, dreams, and goals. If you can’t find a leader who inspires you, be the leader you wish you had.
 
-## 8. Respecting yourself enough to.
+## 8. Respecting yourself enough.
 
-Create your life in a way that makes you feel good. A job you don’t like? Life is short - quit. People stepping all over you? Start being unapologetically yourself. Don’t have time to get important things done? Be the first one up. Oh yeah, and please, always use a condom.
+Create your life in a way that makes you feel good. A job you don’t like? Life is short - quit. People stepping all over you? Start being unapologetically yourself. Don’t have time to get important things done? Be the first one up. <!--Oh yeah, and please, always use a condom.-->
 
 ## 9. Freedom is incredibly scary to people.
 
@@ -52,4 +52,4 @@ Stop giving fucks about everything and everyone. That is, about what people are 
 
 ## 11. You will mostly find interests, not friends.
 
-And people, waiting to stab a knife in your back. Only your family supports you unconditionally (except for when they don’t.) Most everyone will back off when you ask for help, unless they are favored in some way.
+And people, waiting to stab a knife in your back. Only your family supports you unconditionally (except for when they don’t.) Mostly everyone will back off when you ask for help, unless they are favored in some way.
