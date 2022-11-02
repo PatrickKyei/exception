@@ -2,7 +2,7 @@
 title: What Is The Biggest Lesson You Learned That No One Teaches
 date: 2022-11-01 05:00:00 +00
 categories: [Life, Lesson]
-authour: unknown
+author: unknown
 tags: [life, lessons, truths]     # TAG names should always be lowercase
 ---
 
