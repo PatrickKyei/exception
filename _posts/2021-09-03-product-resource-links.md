@@ -85,7 +85,7 @@ It just happens that:
 
 * [Free photos](https://pexels.com/)
 
-* [Icon, Illustrations for Designers](https://streamlinehq.com/)
+* [Flat Icon](https://www.flaticon.com/)
 
 * [Brand Resource](https://niice.co/)
 
@@ -113,15 +113,22 @@ It just happens that:
 
 * [Daily UI challenges: Become a better designer in 100 days](https://dailyui.co/)
 
-* [Illustrations](https://undraw.co/illustrations)
+* [Illustrations - Undraw](https://undraw.co/illustrations)
 
-* [Beautiful free illustrations](https://drawkit.io/)
+* [Icon, Illustrations for Designers](https://streamlinehq.com/)
 
-* [Absurd Illustrations](https://absurd.design)
+* [Illustrations - Flexiple](https://2.flexiple.com/scale/all-illustrations)
+
+* [Illustrations - Draw Kit](https://drawkit.io/)
+
+* [Illustrations - Absurd](https://absurd.design)
+
+* [Illustration - Free Vector](https://pixeltrue.com/)
+
+* [Illustrations - Many Pixels](https://www.manypixels.co/gallery)
 
 * [Graphic Resources for Everyone](https://freepik.com)
 
-* [Illustrations](https://2.flexiple.com/scale/all-illustrations)
 
 * [Build Sites with Google](https://sites.google.com/)
 
@@ -140,8 +147,6 @@ It just happens that:
 * [Street Art](https://artsandculture.google.com/project/street-art)
 
 * [Fashion and Design](https://artsandculture.google.com/partner/fidm-museum)
-
-* [Free Vector Illustration](https://pixeltrue.com/)
 
 * [Free Mockup](https://previewed.app/)
 
@@ -180,8 +185,6 @@ It just happens that:
 * [IDEO tools/case studies](https://www.ideo.com)
 
 * [Make Giphy](https://giphy.com)
-
-* [Many Pixels Illustrations](https://www.manypixels.co/gallery)
 
 * [Online vector art editor](https://vectr.com)
 
