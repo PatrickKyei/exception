@@ -269,7 +269,7 @@ It just happens that:
 
 
 
-## For Software Developers
+## For Developers
 
 * [Developer Roadmap](https://roadmap.sh/)
 
@@ -346,6 +346,8 @@ It just happens that:
 * [GitHub Profile ReadMe Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 * [Learn React](https://scrimba.com/g/glearnreact)
+
+* [Learn Sql with Practice](https://www.sql-practice.com/)
 
 * [Create documentation pages](https://docsify.js.org/#/?id=docsify)
 
