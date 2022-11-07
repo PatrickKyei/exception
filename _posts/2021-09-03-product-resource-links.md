@@ -563,3 +563,11 @@ It just happens that:
 * [Calendar Booking Software](https://cal.com)
 
 * [Google Interview Prep](https://grow.google/certificates/interview-warmup/)
+
+* [Upwork - Fleelnancing](https://upwork.com)
+
+* [Freelancer - Freelancing](https://www.freelancer.com/)
+
+* [Fiverr - Freelancing](https://www.fiverr.com/)
+
+* [FAANG Interview Preps](https://faangpath.com/blog/)
