@@ -5,7 +5,7 @@ categories: [Life, Compassion]
 tags: [life, compassion, empathy]     # TAG names should always be lowercase
 ---
 
-![midst of struggle](/assets/img/in-the-midst-of-struggle.jpg.crdownload)
+![midst of struggle](/assets/img/in-the-midst-of-struggle.jpg)
 
 There is a lot of judgement that goes on around us and in the midst of the communities we live.
 
