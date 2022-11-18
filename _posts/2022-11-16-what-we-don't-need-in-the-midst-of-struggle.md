@@ -22,14 +22,14 @@ You ponder whether you are the only one experiencing this struggle and deserving
 
 **But here is the truth.**
 
-Each of us is going through or has gone through a struggle.
-The time in their lives when they were at their lowest point.
+Each of us is going through or has gone through a struggle.  
+The time in their lives when they were at their lowest point.  
 Whether due to tragedy, unavoidable circumstances, or a cause of a decision they made.
 
 Everybody has experienced feeling inadequate, powerless, and life-overwhelmed.
 
 This is how life is right now.
-That is how it feels to be a human.
+That is how it feels to be a human.  
 The joy comes in overcoming the tragedies, challenging circumstances, learning to make better decisions.
 
 Due to the fact that we have all experienced a comparable situation, we don't need to use slurs or point fingers.
