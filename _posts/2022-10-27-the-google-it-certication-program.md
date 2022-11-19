@@ -27,3 +27,5 @@ Then, I was able to purchase my own laptop, which I utilized to learn a variety 
 Thanks to the scholarship sponsors, many people now have the confidence and knowledge necessary to pursue the careers they've always wanted.
 
 ## Into The Program
+
+Still documenting ...
