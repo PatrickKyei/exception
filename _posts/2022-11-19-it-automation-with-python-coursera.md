@@ -4,7 +4,7 @@ date: 2022-11-16 11:27:00 +00
 categories: [Technical, Automation]
 tags: [technical, it automation, projects]     # TAG names should always be lowercase
 ---
-> I will document this properly in the proper time.
+> I will document this properly in the appropriate time.
 
 *[Documentation repo](https://github.com/PatrickKyei/google-it-automation-module)*
 
@@ -40,7 +40,7 @@ def write_report(dictionary, report_file):
       f.write(str(k)+':'+str(dictionary[k])+'\n')
     f.close()
 
-employee_list = read_employees('/home/student-00-ca5becea69ed/data/employees.csv')
+employee_list = read_employees('/home/<student-lab-id>/data/employees.csv')
 
 def process_data(employee_list):
 
@@ -61,7 +61,7 @@ def write_report(dictionary, report_file):
       f.write(str(k)+':'+str(dictionary[k])+'\n')
     f.close()
 
-write_report(dictionary, '/home/student-00-ca5becea69ed/test_report.txt')
+write_report(dictionary, '/home/<student-lab-id>/test_report.txt')
 ```
 
 ![handling-files-qwiklabs](/assets/img/handling-files-qwiklabs.png)
@@ -96,8 +96,8 @@ def replace_domain(address, old_domain, new_domain):
 def main():
   """Processes the list of emails, replacing any instances of the old domain with the new domain."""
   old_domain, new_domain = 'abc.edu', 'xyz.edu'
-  csv_file_location = '/home/student-00-ca5becea69ed/data/user_emails.csv'
-  report_file = '/home/student-00-ca5becea69ed/data' + '/updated_user_emails.csv'
+  csv_file_location = '/home/<student-lab-id>/data/user_emails.csv'
+  report_file = '/home/<student-lab-id>/data' + '/updated_user_emails.csv'
   user_email_list = []
   old_domain_email_list = []
   new_domain_email_list = []
