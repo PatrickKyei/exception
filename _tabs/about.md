@@ -19,5 +19,3 @@ I jot down my thoughts. Those are my own initiatives. It's more of a communal ce
 > Here are my thoughts on a few crucial things about life ...[find here](https://patrickkyei.com/posts/who-is-me/)
 
 Would love to hear from you. [Want to have a chat? Schedule a call](https://calendly.com/patrickbaffour/coffeechat)
-
-<iframe src="https://calendar.google.com/calendar/embed?src=pkyei804%40gmail.com&ctz=Etc%2FGMT" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
