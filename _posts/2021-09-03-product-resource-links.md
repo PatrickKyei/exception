@@ -483,6 +483,7 @@ It just happens that:
 
 * [Learn With Microsoft](https://learn.microsoft.com/en-us/training/ "Microsoft Learning Garage")
 
+* [Shield Pixel-perfect](https://shields.io/)
 
 ## For Product Managers
 
