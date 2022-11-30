@@ -34,7 +34,7 @@ github:
   username: PatrickKyei             # change to your github username
 
 twitter:
-  username: _patrickbaffour            # change to your twitter username
+  # username: _patrickbaffour            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -82,7 +82,7 @@ theme_mode:   #[select a default]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/circle.jpg
+avatar: /assets/img/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
