@@ -5,7 +5,7 @@ categories: [Product Design, Business]
 tags: [app delivery, design thinking, business]     # TAG names should always be lowercase
 ---
 
-! [VanMoof-Bike-Box](/assets/img/VanMoof-Bike-Box-Header.jpg "copyrigh: Vanmoof")
+![VanMoof-Bike-Box](/assets/img/VanMoof-Bike-Box-Header.jpg "copyrigh: Vanmoof")
 
 It was a simple idea. But it exploded.
 
