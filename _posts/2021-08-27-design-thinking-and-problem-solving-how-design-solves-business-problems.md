@@ -1,7 +1,7 @@
 ---
 title: How Does Design Solve Problems?
 date: 2022-02-06 22:35:00 +00
-categories: [Product Design, Business]
+categories: [Product Design, Business Solution]
 tags: [app delivery, design thinking, business]     # TAG names should always be lowercase
 ---
 
@@ -25,5 +25,5 @@ A good example of using design thinking to solve a business problem.
 
 They shared the history of their "TV" box in an incredible blog post.
 
-[You can the whole blog post here](https://vanmoof.com/blog/en/tv-bike-box)
+[You can read the whole blog post here](https://vanmoof.com/blog/en/tv-bike-box)
 
