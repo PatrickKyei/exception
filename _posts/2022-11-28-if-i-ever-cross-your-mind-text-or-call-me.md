@@ -7,7 +7,7 @@ tags: [kindness, relationships, remembrance]     # TAG names should always be lo
 
 I cannot remember the number of times I emphasize the need to build and maintain your relationships. 
 
-Yes. So I might end up been the doing it the most. Maybe reaching out all the time. 
+Yes. So I might end up been the one doing it the most. Maybe reaching out all the time. 
 
 I enjoy doing it and find satisfaction when I have the conviction that my favorite people are doing very well in life. 
 
