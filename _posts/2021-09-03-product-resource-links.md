@@ -566,3 +566,5 @@ It just happens that:
 * [Google Interview Prep](https://grow.google/certificates/interview-warmup/)
 
 * [Job Offer Evaluator](https://communications.fidelity.com/pi/calculators/changing-job/)
+
+* [Learn Touch Typing](https://monkeytype.com/), (https://www.typingclub.com/)

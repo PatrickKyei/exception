@@ -5,6 +5,15 @@ categories: [Kindness, Remembrance]
 tags: [kindness, relationships, remembrance]     # TAG names should always be lowercase
 ---
 
+I cannot remember the number of times I emphasize the need to build and maintain your relationships. 
+
+Yes. So I might end up been the doing it the most. Maybe reaching out all the time. 
+
+I enjoy doing it and find satisfaction when I have the conviction that my favorite people are doing very well in life. 
+
+But that doesn't cancel the fact that I would wish the same care for myself.
+
+It is a good feeling when you know you are in the good thoughts of another person. And they care about you so much that they go forward to show it. 
 
 
 > Remembrance is an act of love.
