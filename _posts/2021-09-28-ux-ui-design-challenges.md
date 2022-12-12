@@ -134,3 +134,5 @@ Design a Flash Message with both the outcome for an error and success. Is it for
 ![day ten](/assets/img/flash-message-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/NKwvmYSIwV8sggoSJ1406W/Daily-UI-%3A%3A-010?node-id=2%3A255&viewport=241%2C48%2C1&scaling=min-zoom&page-id=0%3A1%3Ffuid%3D901914268454600757)
+
+### Working towards my certification, I will resume once done. Thank you!!

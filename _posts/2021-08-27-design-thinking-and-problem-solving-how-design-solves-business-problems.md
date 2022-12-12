@@ -26,4 +26,3 @@ A good example of using design thinking to solve a business problem.
 They shared the history of their "TV" box in an incredible blog post.
 
 [You can read the whole blog post here](https://vanmoof.com/blog/en/tv-bike-box)
-

@@ -19,3 +19,22 @@ I jot down my thoughts. Those are my own initiatives. It's more of a communal ce
 > Here are my thoughts on a few crucial things about life ...[find here](https://patrickkyei.com/posts/who-is-me/)
 
 Would love to hear from you. [Want to have a chat? Schedule a call](https://calendly.com/patrickbaffour/coffeechat)
+
+
+<hr>
+
+## Growth Marketer, Skill Embassy
+
+*(Jan 2019 - Jan Present)*
+
+Got to work on growing Skill Embassy through various traction channels.
+
+What I worked on:
+
+- Product market fit analysis
+- Influencer marketing
+- Viral Marketing Programs
+- Instagram Page Promotions
+- Facebook Ads
+- Pitching VCs
+- Ad Creative Designing
