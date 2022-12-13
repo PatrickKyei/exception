@@ -25,7 +25,7 @@ Would love to hear from you. [Want to have a chat? Schedule a call](https://cale
 
 ## Growth Marketer, Skill Embassy
 
-*(Jan 2019 - Jan Present)*
+*(Jan 2019 - Present)*
 
 Got to work on growing Skill Embassy through various traction channels.
 
@@ -34,7 +34,25 @@ What I worked on:
 - Product market fit analysis
 - Influencer marketing
 - Viral Marketing Programs
-- Instagram Page Promotions
+- Linkedin Page Promotions
 - Facebook Ads
 - Pitching VCs
 - Ad Creative Designing
+- Youtube Content Creation
+- Podcast Hosting and Webinars
+
+## Co-Founder, [TS Collections](https://sites.google.com/view/tscollections/)
+
+*(Feb 2019 - Present)*
+
+I started TS Collections with my cousin in the start of 2019. 
+
+Learn more about TS Collections [here](https://web.facebook.com/trustedcollectionsstore)
+
+## Career Tech Booster
+
+*(July 2021 - Present)*
+
+I have taken over 100 professional certifications and have mentored individuals to improve their tech skills. I have helped some of these people to land different jobs. We continue to grow our focused community. I invite as a learner or a mentor, you small contribution can go far to help some. 
+
+Join [Careers In Tech](https://chat.whatsapp.com/BoW8Qj9NuLT7FQh8rWFnFz) and become a digital trailblazer

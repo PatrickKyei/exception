@@ -5,7 +5,7 @@ categories: [Kindness, Remembrance]
 tags: [kindness, relationships, remembrance]     # TAG names should always be lowercase
 ---
 
-![]()
+![creativity](/assets/img/creativity-spectrum.jpg "pexels.com")
 
 > Creativity exists on a spectrum. Some of us are visionaries, some of us are technical masters.
 
