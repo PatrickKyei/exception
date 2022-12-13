@@ -28,7 +28,8 @@ It just happens that:
 * [Carbon Design System - IBM](https://www.carbondesignsystem.com/)
 
 * Check List For Any Design: [Checklist](https://www.checklist.design/), [UX Archive](https://uxarchive.com/), [Mobbin](https://mobbin.design/browse/ios/apps), [Really Good UX](https://www.reallygoodux.io/)
-* 
+
+* [The Beginner's Guide to UX/UI Design](https://www.notion.so/The-Beginner-s-Guide-to-UI-UX-Design-6c0ff9e6afe84a35b2090dfde1ebed89)
 
 * [UX/UI products for career journey](https://designerassets.in/ui-ux-design/)
 
@@ -84,7 +85,7 @@ It just happens that:
 
 * [Free photos](https://pexels.com/)
 
-* [Icon, Illustrations for Designers](https://streamlinehq.com/)
+* [Flat Icon](https://www.flaticon.com/)
 
 * [Brand Resource](https://niice.co/)
 
@@ -112,15 +113,22 @@ It just happens that:
 
 * [Daily UI challenges: Become a better designer in 100 days](https://dailyui.co/)
 
-* [Illustrations](https://undraw.co/illustrations)
+* [Illustrations - Undraw](https://undraw.co/illustrations)
 
-* [Beautiful free illustrations](https://drawkit.io/)
+* [Icon, Illustrations for Designers](https://streamlinehq.com/)
 
-* [Absurd Illustrations](https://absurd.design)
+* [Illustrations - Flexiple](https://2.flexiple.com/scale/all-illustrations)
+
+* [Illustrations - Draw Kit](https://drawkit.io/)
+
+* [Illustrations - Absurd](https://absurd.design)
+
+* [Illustration - Free Vector](https://pixeltrue.com/)
+
+* [Illustrations - Many Pixels](https://www.manypixels.co/gallery)
 
 * [Graphic Resources for Everyone](https://freepik.com)
 
-* [Illustrations](https://2.flexiple.com/scale/all-illustrations)
 
 * [Build Sites with Google](https://sites.google.com/)
 
@@ -139,8 +147,6 @@ It just happens that:
 * [Street Art](https://artsandculture.google.com/project/street-art)
 
 * [Fashion and Design](https://artsandculture.google.com/partner/fidm-museum)
-
-* [Free Vector Illustration](https://pixeltrue.com/)
 
 * [Free Mockup](https://previewed.app/)
 
@@ -179,8 +185,6 @@ It just happens that:
 * [IDEO tools/case studies](https://www.ideo.com)
 
 * [Make Giphy](https://giphy.com)
-
-* [Many Pixels Illustrations](https://www.manypixels.co/gallery)
 
 * [Online vector art editor](https://vectr.com)
 
@@ -265,7 +269,7 @@ It just happens that:
 
 
 
-## For Software Developers
+## For Developers
 
 * [Developer Roadmap](https://roadmap.sh/)
 
@@ -342,6 +346,8 @@ It just happens that:
 * [GitHub Profile ReadMe Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 * [Learn React](https://scrimba.com/g/glearnreact)
+
+* [Learn Sql with Practice](https://www.sql-practice.com/)
 
 * [Create documentation pages](https://docsify.js.org/#/?id=docsify)
 
@@ -475,7 +481,9 @@ It just happens that:
 
 * [IBM Skillbuild Resource Center](https://skills.yourlearning.ibm.com/)
 
+* [Learn With Microsoft](https://learn.microsoft.com/en-us/training/ "Microsoft Learning Garage")
 
+* [Shield Pixel-perfect](https://shields.io/)
 
 ## For Product Managers
 
@@ -556,3 +564,7 @@ It just happens that:
 * [Calendar Booking Software](https://cal.com)
 
 * [Google Interview Prep](https://grow.google/certificates/interview-warmup/)
+
+* [Job Offer Evaluator](https://communications.fidelity.com/pi/calculators/changing-job/)
+
+* [Learn Touch Typing](https://monkeytype.com/), (https://www.typingclub.com/)

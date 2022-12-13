@@ -6,6 +6,8 @@ categories: [Lesson, Pain]
 tags: [life, learning, pain]     # TAG names should always be lowercase
 ---
 
+![lessons-from-pain](/assets/img/lesson-from-pain.jpg)
+
 Pain makes you very alert  
 Pain makes you very compassionate  
 and pain makes you sensitive to other's pains too.

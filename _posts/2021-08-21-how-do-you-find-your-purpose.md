@@ -1,5 +1,5 @@
 ---
-title: How Do You Find Your Own Pursose?
+title: How Do You Find Your Own Purpose?
 date: 2021-08-21 09:08:0 +00
 categories: [Purpose, Passion]
 tags: [destiny, meaning, purpose, desire, passion, explore, life]     # TAG names should always be lowercase

@@ -6,6 +6,8 @@ categories: [Growth, Life]
 tags: [career, growth, life]     # TAG names should always be lowercase
 ---
 
+![soft-skills](/assets/img/soft-skills.jpg)
+
 Here are 11 Soft Skills for your personal and professional development
 
 1. Communication

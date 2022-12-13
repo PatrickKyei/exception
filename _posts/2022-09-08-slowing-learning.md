@@ -6,6 +6,8 @@ categories: [Learning, Life]
 tags: [life, learning, growth]     # TAG names should always be lowercase
 ---
 
+![slowly-learning](/assets/img/slowly-learning.jpg)
+
 I am slowly learning
 
 That in life Many things occur in slow motion

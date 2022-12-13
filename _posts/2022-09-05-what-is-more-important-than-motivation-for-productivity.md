@@ -6,6 +6,8 @@ categories: [Motivation, Discipline]
 tags: [habit, motivation, discipline]     # TAG names should always be lowercase
 ---
 
+![motivation-or-discipline](/assets/img/motivation-or-discipline.jpg)
+
 > “Don't expect to be motivated every day to get out there and make things happen. You won't be. Don't count on motivation. Count on discipline.” - _Anonymous_
 
 There’s something very reassuring in these words, and I agree with this point of view.  
