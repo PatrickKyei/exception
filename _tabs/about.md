@@ -55,4 +55,4 @@ Learn more about TS Collections [here](https://web.facebook.com/trustedcollectio
 
 I have taken over 100 professional certifications and have mentored individuals to improve their tech skills. I have helped some of these people to land different jobs. We continue to grow our focused community. I invite as a learner or a mentor, you small contribution can go far to help some. 
 
-Join [Careers In Tech](https://chat.whatsapp.com/BoW8Qj9NuLT7FQh8rWFnFz) and become a digital trailblazer
+Join [Careers In Tech](https://chat.whatsapp.com/BoW8Qj9NuIT7FQh8rWFnFz) and become a digital trailblazer
