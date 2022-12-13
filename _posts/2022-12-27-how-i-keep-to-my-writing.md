@@ -1,6 +1,6 @@
 ---
 title: Remembrance Is An Act Of Love
-date: 2022-11-28 15:00:00 +00
+date: 2022-12-27 15:00:00 +00
 categories: [Kindness, Remembrance]
 tags: [kindness, relationships, remembrance]     # TAG names should always be lowercase
 ---
