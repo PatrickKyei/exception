@@ -1,8 +1,8 @@
 ---
-title: Remembrance Is An Act Of Love
+title: How I Keep To My Writing
 date: 2022-12-27 15:00:00 +00
-categories: [Kindness, Remembrance]
-tags: [kindness, relationships, remembrance]     # TAG names should always be lowercase
+categories: [Journal, Creativity]
+tags: [writing, skill, talent]     # TAG names should always be lowercase
 ---
 
 ![creativity](/assets/img/creativity-spectrum.jpg "pexels.com")
