@@ -17,4 +17,4 @@ I wish I could explain to you how much you mean to me and how much I value our f
 
 But until that day comes, I'll just have to hold on to the hope that we'll be able to reconnect and talk about what happened. Until then, I'll continue to send good thoughts your way and hope for the best.
 
-                                                     Your Friend
+<p style="text-align: right">Your Friend<p>
