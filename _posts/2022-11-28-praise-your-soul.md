@@ -7,4 +7,4 @@ tags: [praies, happiness, contentment]     # TAG names should always be lowercas
 
 ## Connect your sound system and just enjoy some good soul music
 
-<iframe src="https://www.youtube.com/embed/Kmb4qUhTcJk" title="Gospel Drill" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kmb4qUhTcJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
