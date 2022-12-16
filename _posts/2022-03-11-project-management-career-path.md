@@ -148,7 +148,8 @@ There are many introductory-level positions one can explore traditional project 
 - Job location
 
 > _Correct_  
-The job description indicates that the job matches your skill set and experience. {: .prompt-tip}
+The job description indicates that the job matches your skill set and experience. 
+{: .prompt-tip}
 
 2. Which of the following might be part of a job description for an entry-level project manager role?
 
@@ -179,7 +180,8 @@ The term “Junior” typically refers to a newer role that requires less projec
 - Project manager to portfolio manager to program manager
 
 > _Correct_  
-While you may encounter a different title progression in your career, this is a typical progression. All project managers lead projects from start to finish and serve as guides for their team. However, program managers are responsible for managing many projects at the same time, and portfolio managers are responsible for portfolios of projects or programs for one client. {: .prompt-tip }
+While you may encounter a different title progression in your career, this is a typical progression. All project managers lead projects from start to finish and serve as guides for their team. However, program managers are responsible for managing many projects at the same time, and portfolio managers are responsible for portfolios of projects or programs for one client. 
+{: .prompt-tip }
 
 
 4. What three types of information can be helpful to include in your search for project management roles?
@@ -188,12 +190,14 @@ While you may encounter a different title progression in your career, this is a 
 - + [x] Skills you’ve acquired in your current or previous position
 
 > _Correct_  
-Including skills you’ve previously acquired in your job search can help you find jobs that match your experience. {: .prompt-tip }
+Including skills you’ve previously acquired in your job search can help you find jobs that match your experience. 
+{: .prompt-tip }
 
 - + [x] Common project management-related buzzwords like “process improvement” and “risk management”
 
 > _Correct_  
-Using common project management buzzwords in your job search can help you find both project management and project management-related roles, even if those roles do not include “project manager” in the title. {: .promt-tip }
+Using common project management buzzwords in your job search can help you find both project management and project management-related roles, even if those roles do not include “project manager” in the title. 
+{: .promt-tip }
 
 - Training you may gain later in your project management career
 
@@ -201,9 +205,10 @@ Using common project management buzzwords in your job search can help you find b
 - + [x] Essential project management skills like coordination, organization, and leadership
 
  > _Correct_  
-Using skills that are essential for all project managers in your job search can help you find both project management and project management-related roles, even if those roles do not include “project manager” in the title {: .prompt-tip }
+Using skills that are essential for all project managers in your job search can help you find both project management and project management-related roles, even if those roles do not include “project manager” in the title 
+{: .prompt-tip }
 
-> [**View all results**](https://github.com/PatrickKyei/google-project-management-module)
+> [**View all quiz results**](https://github.com/PatrickKyei/google-project-management-module)
 
 ## Conclusion
 
