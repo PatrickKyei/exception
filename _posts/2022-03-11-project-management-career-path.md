@@ -130,6 +130,81 @@ There are many introductory-level positions one can explore traditional project 
 
 [View my Credentials](https://www.credly.com/badges/6234bb3c-c69c-436e-a0b1-d454f394cf07?source=linked_in_profile). You can connect with me on [Linkedin](https://www.linkedin.com/in/patrickbaffour/)
 
+<hr>
+
+## [View Quiz Page](https://github.com/PatrickKyei/google-project-management-module)
+
+1. When you review a job listing, which section offers the most insight when deciding if the role is well-suited for you?
+
+- Job salary
+
+
+- **Job description**
+
+
+- Job benefits 
+
+
+- Job location
+
+> _Correct_  
+The job description indicates that the job matches your skill set and experience. {: .prompt-tip}
+
+2. Which of the following might be part of a job description for an entry-level project manager role?
+
+
+- Our leadership team is currently looking for a Senior Project Manager to support our clients in the Life Sciences and Industrial sectors. 
+
+
+- Our business group is hiring an experienced project management professional who has a broad understanding of solutions and industry best practices. 
+
+
+- Our company is seeking a Program Manager with experience managing a team in the Agile framework.
+
+
+- **Our North Coast branch needs a new Junior Project Manager who can channel drive and enthusiasm. You’ll be front and center, hands-on, and contributing your creative energy to high-impact projects.**
+
+> _Correct_  
+The term “Junior” typically refers to a newer role that requires less project management experience.{: .prompt-tip }
+
+
+3. Which of the following best exemplifies the progression of a project management career?
+
+- **Project manager to program manager to portfolio manager**
+
+
+- Program manager to project manager to portfolio manager
+
+
+- Project manager to portfolio manager to program manager
+
+> _Correct_  
+While you may encounter a different title progression in your career, this is a typical progression. All project managers lead projects from start to finish and serve as guides for their team. However, program managers are responsible for managing many projects at the same time, and portfolio managers are responsible for portfolios of projects or programs for one client. {: .prompt-tip }
+
+
+4. What three types of information can be helpful to include in your search for project management roles?
+
+
+- + [x] Skills you’ve acquired in your current or previous position
+
+> _Correct_  
+Including skills you’ve previously acquired in your job search can help you find jobs that match your experience. {: .prompt-tip }
+
+- + [x] Common project management-related buzzwords like “process improvement” and “risk management”
+
+> _Correct_  
+Using common project management buzzwords in your job search can help you find both project management and project management-related roles, even if those roles do not include “project manager” in the title. {: .promt-tip }
+
+- Training you may gain later in your project management career
+
+
+- + [x] Essential project management skills like coordination, organization, and leadership
+
+ > _Correct_  
+Using skills that are essential for all project managers in your job search can help you find both project management and project management-related roles, even if those roles do not include “project manager” in the title {: .prompt-tip }
+
+> [**View all results**](https://github.com/PatrickKyei/google-project-management-module)
+
 ## Conclusion
 
 Some of the core competencies I developed during this program includes:
