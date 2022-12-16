@@ -132,7 +132,7 @@ There are many introductory-level positions one can explore traditional project 
 
 <hr>
 
-## [View Quiz Page](https://github.com/PatrickKyei/google-project-management-module)
+## [Foundations Of Project Management - View Quiz Page](https://github.com/PatrickKyei/google-project-management-module)
 
 1. When you review a job listing, which section offers the most insight when deciding if the role is well-suited for you?
 
@@ -149,7 +149,7 @@ There are many introductory-level positions one can explore traditional project 
 
 > _Correct_  
 The job description indicates that the job matches your skill set and experience. 
-{: .prompt-tip}
+{: .prompt-tip }
 
 2. Which of the following might be part of a job description for an entry-level project manager role?
 
@@ -197,7 +197,7 @@ Including skills you’ve previously acquired in your job search can help you fi
 
 > _Correct_  
 Using common project management buzzwords in your job search can help you find both project management and project management-related roles, even if those roles do not include “project manager” in the title. 
-{: .promt-tip }
+{: .prompt-tip }
 
 - Training you may gain later in your project management career
 
