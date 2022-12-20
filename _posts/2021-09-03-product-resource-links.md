@@ -567,6 +567,6 @@ It just happens that:
 
 * [Job Offer Evaluator](https://communications.fidelity.com/pi/calculators/changing-job/)
 
-* [Learn Touch Typing](https://monkeytype.com/), (https://www.typingclub.com/)
+* [Monkey Type](https://monkeytype.com/), [Typing Club](https://www.typingclub.com/)
 
-* No Code App builders [Adalo](https://www.adalo.com/), [Softr](https://www.softr.io/)
+* No Code App builders [Adalo](https://www.adalo.com/), [Softr](https://www.softr.io/), [Bubble](https://bubble.io/)
