@@ -248,7 +248,7 @@ It just happens that:
 
 * [Learn Color](https://color.method.ac/)
 
-• [Cant' Unsee Design practice](https://cantunsee.space)
+* [Cant' Unsee Design practice](https://cantunsee.space)
 
 * [Online Vector Editor](https://editor.method.ac/)
 
