@@ -1,11 +1,11 @@
 ---
 title: I Hope You Live Your Best Life
 date: 2022-12-02 15:00:00 +00
-categories: [Life, Understanding]
-tags: [communication, life, understood]     # TAG names should always be lowercase
+categories: [Life, Communication]
+tags: [communication, life, conflict]     # TAG names should always be lowercase
 ---
 
-Dear ..., 
+Dear  
 
 It's been weighing on my mind for a while now, and I can't keep it to myself any longer. I'm concerned about the misunderstanding that happened between you ad I.
 
