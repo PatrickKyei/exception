@@ -10,7 +10,9 @@ I create digital products that are driven by user experience.
 
 These case study competions from my partition in various design processes. These are intended for academic and reference purpose. All feedbacks are welcomed.
 
-Kindly use **optins menu** to view in full screen. Thank you.
+Kindly use the **options menu** to view in full screen mode.  
+
+Thank you.
 
 ## Case Study 1: Sauce and Spoon App
 
