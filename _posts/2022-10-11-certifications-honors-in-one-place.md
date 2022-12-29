@@ -7,3 +7,5 @@ tags: [certifications, achievements, wins]     # TAG names should always be lowe
 ---
 
 When you do something good, something you are proud of, allow yourself to savor it.
+
+[Professional Certifications](https://www.credly.com/users/patrick-kyei/badges)
