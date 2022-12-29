@@ -29,6 +29,10 @@ It just happens that:
 
 * Check List For Any Design: [Checklist](https://www.checklist.design/), [UX Archive](https://uxarchive.com/), [Mobbin](https://mobbin.design/browse/ios/apps), [Really Good UX](https://www.reallygoodux.io/)
 
+* [Tiny Helper for Designers](https://tiny-helpers.dev/)
+
+* [Designers Store](https://www.uistore.design/)
+
 * [The Beginner's Guide to UX/UI Design](https://www.notion.so/The-Beginner-s-Guide-to-UI-UX-Design-6c0ff9e6afe84a35b2090dfde1ebed89)
 
 * [UX/UI products for career journey](https://designerassets.in/ui-ux-design/)
@@ -69,7 +73,11 @@ It just happens that:
 
 * [Huesnap](https://huesnap.com/)
 
+* [FFUEL Color Tools Collection](https://fffuel.co/)
+
 * [Colorwise](https://colorwise.io/)
+
+* [Color Shades Generator](https://omatsuri.app/color-shades-generator)
 
 * [iconfinder](https://iconfinder.com)
 
@@ -232,7 +240,7 @@ It just happens that:
 
 * [font pairing](https://www.fontpair.co/)
 
-* Present Design with Mockups: [3D Studio](https://previewed.app/), [Artboard](https://artboard.studio/), [Mockup Frames](https://mokupframes.com/), [Smartmockups](https://smartmockups.com/), [Mockuphone](https://mockuphone.com/), [Mockuuuup Studio](https://mockuuups.studio/), [Magic Mockups](https://magicmockups.com/)
+* Present Design with Mockups: [3D Studio](https://previewed.app/), [Artboard](https://artboard.studio/), [Mockup Frames](https://mokupframes.com/), [Smartmockups](https://smartmockups.com/), [Mockuphone](https://mockuphone.com/), [Mockuuuup Studio](https://mockuuups.studio/), [Magic Mockups](https://magicmockups.com/), [Facebook Design Tools](https://design.facebook.com/)
 
 * [UI Design Challenges](https://app.crowwwn.com/)
 
@@ -245,6 +253,12 @@ It just happens that:
 * [Learn Pen Tricks](https://bezier.method.ac/)
 
 * [Learn Typeface](https://type.method.ac/)
+
+* [Learn Letter Shapping](https://shape.method.ac/)
+
+* [Learn Alignment](https://www.supremo.co.uk/designers-eye/)
+
+* [Learn Pixel Perfect Shapes](https://pixact.ly/)
 
 * [Learn Color](https://color.method.ac/)
 

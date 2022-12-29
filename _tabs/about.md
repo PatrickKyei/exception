@@ -45,7 +45,7 @@ What I worked on:
 
 *(Feb 2019 - Present)*
 
-I started TS Collections with my cousin in the start of 2019. 
+I started TS Collections with my roommate in the start of 2019. 
 
 Learn more about TS Collections [here](https://web.facebook.com/trustedcollectionsstore)
 
