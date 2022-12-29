@@ -25,3 +25,8 @@ Thank you.
 ## Case Study 3:  Emotions Empathy App
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxk7S_7-OZNUwoU9SZ68ytdImN3MWbptEqf9-yNvD3rM69HcT51Szy68nhh2Se3f7LrlgLzWyTNQLD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="auto" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+#### Have a wonderful year ahead
+
+#### Happy New Year
