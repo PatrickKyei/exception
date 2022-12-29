@@ -8,7 +8,7 @@ tags: [ux design, technical, portfolio]   # TAG names should always be lowercase
 Hi, my name is Patrick.  
 I create digital products that are driven by user experience.
 
-These case study competions from my partition in various design processes. These are intended for academic and reference purpose. All feedbacks are welcomed.
+These are case study completions from my participation in different design challenges. They are intended for academic and reference purposes. All feedbacks are welcomed.
 
 Kindly use the **options menu** to view in full screen mode.  
 
