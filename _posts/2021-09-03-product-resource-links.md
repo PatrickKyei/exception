@@ -586,3 +586,8 @@ It just happens that:
 * [Monkey Type](https://monkeytype.com/), [Typing Club](https://www.typingclub.com/)
 
 * No Code App builders [Adalo](https://www.adalo.com/), [Softr](https://www.softr.io/), [Bubble](https://bubble.io/)
+
+* [Sketch Explanations](https://sketchplanations.com/)
+
+
+* [xkcd sketch explanations](https://xkcd.com)
