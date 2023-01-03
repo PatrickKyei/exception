@@ -4,7 +4,11 @@ date: 2023-01-03 22:44:00 +00
 categories: [Habit, Success]
 tags: [habit, success, character]   # TAG names should always be lowercase
 ---
-Toxic habits are behaviors or patterns of thinking or doing things that can be harmful or destructive to an individual's well-being or success. These habits may have negative effects on a person's physical or mental health, relationships, work, or other areas of their life. Some examples of toxic habits include procrastination, negative thinking, lack of discipline, poor time management, lack of self-care, lack of focus, inability to adapt to change, lack of accountability, inability to accept criticism, and lack of gratitude. It is important to recognize and address toxic habits in order to improve one's overall well-being and achieve personal and professional goals.
+Toxic habits are behaviors or patterns of thinking or doing things that can be harmful or destructive to an individual's well-being or success. These habits may have negative effects on a person's physical or mental health, relationships, work, or other areas of their life.  
+
+Some examples of toxic habits include procrastination, negative thinking, lack of discipline, poor time management, lack of self-care, lack of focus, inability to adapt to change, lack of accountability, inability to accept criticism, and lack of gratitude. 
+
+It is important to recognize and address toxic habits in order to improve one's overall well-being and achieve personal and professional goals.
 
 ## Procrastination
 
