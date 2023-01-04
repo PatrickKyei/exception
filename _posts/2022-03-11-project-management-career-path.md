@@ -61,7 +61,8 @@ You'll see how I learned what works and what doesn't, as well as how to problem 
 
 Are you ready? Let's go.
 
-> [**View all quiz results**](https://github.com/PatrickKyei/google-project-management-module) {: .prompt-tip }
+> **View all quiz results** [at the repository here](https://github.com/PatrickKyei/google-project-management-module) 
+{: .prompt-info }
 
 ### Project Charter
 
@@ -210,7 +211,8 @@ Using common project management buzzwords in your job search can help you find b
 Using skills that are essential for all project managers in your job search can help you find both project management and project management-related roles, even if those roles do not include “project manager” in the title 
 {: .prompt-tip }
 
-> [**View all quiz results**](https://github.com/PatrickKyei/google-project-management-module) {: .prompt-info }
+> **View all quiz results** [at the repository here](https://github.com/PatrickKyei/google-project-management-module) 
+{: .prompt-info }
 
 ## Conclusion
 
