@@ -61,6 +61,8 @@ You'll see how I learned what works and what doesn't, as well as how to problem 
 
 Are you ready? Let's go.
 
+> [**View all quiz results**](https://github.com/PatrickKyei/google-project-management-module) {: .prompt-tip }
+
 ### Project Charter
 
 A project charter is a formal document that clearly defines the project and outlines the necessary details to reach the project's goals.
@@ -208,7 +210,7 @@ Using common project management buzzwords in your job search can help you find b
 Using skills that are essential for all project managers in your job search can help you find both project management and project management-related roles, even if those roles do not include “project manager” in the title 
 {: .prompt-tip }
 
-> [**View all quiz results**](https://github.com/PatrickKyei/google-project-management-module)
+> [**View all quiz results**](https://github.com/PatrickKyei/google-project-management-module) {: .prompt-info }
 
 ## Conclusion
 
