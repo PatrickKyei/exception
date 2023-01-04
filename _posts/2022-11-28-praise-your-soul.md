@@ -8,5 +8,3 @@ tags: [praies, happiness, contentment]     # TAG names should always be lowercas
 ## Connect your sound system and just enjoy some good soul music
 
 {% include embed/youtube.html id='Kmb4qUhTcJk' %}
-
-{% include embed/youtube.html id='Balreaj8Yqs' %}
