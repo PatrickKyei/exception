@@ -25,7 +25,7 @@ If they find a way to reply to your messages,
 
 To get your calls, or to remember after you missed them, no matter how long it took,
 
-If they are always positive, cheerful, smiling and happy with and around you without ever or very rarely talking about ther problems and difficulties in life,
+If they are always positive, cheerful, smiling and happy with and around you without ever or very rarely talking about their problems and difficulties in life,
 
 If they are available for you in anyway now or later,
 
