@@ -14,6 +14,8 @@ Kindly use the **options menu** to view in full screen mode.
 
 Thank you.
 
+> Practising regularly and improving my design skillset [here](https://patrickkyei.com/posts/ux-ui-design-challenges/)
+
 ## Case Study 1: Sauce and Spoon App
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQoorQwBcqi9HxQS7I4DJAn0eDvp8a9T17cIWm7-0-YNHl17KqYmdBvdFQ1tj0F2RDH2Fu8YzvLh5E6/embed?start=false&loop=false&delayms=3000" frameborder="0" width="auto" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

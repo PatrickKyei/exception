@@ -18,7 +18,7 @@ That when the world comes down,
 I'll be thinking of you.
 
 With every breath I take,  
-I'll whisper your name,
+I'll whisper your name,  
 For in my heart and in my soul,  
 You'll always hold a flame.
 
