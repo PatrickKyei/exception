@@ -5,10 +5,9 @@ categories: [Sunshine, Lessons]
 tags: [lessons, mistakes, decision]     # TAG names should always be lowercase
 ---
 
-![new day and sunshine](/assets/img/new-day-new-sunshine.png "cc: Search Engine Land")
+![new day and sunshine](/assets/img/new-day-new-sunshine.png "cc: Search Engine Land"){: w="auto" h="700" }
 
-I figure there's no better person to tell the story than myself,  
-For I am the one who lived it,  
+I figure there's no better person to tell the story than myself, for I am the one who lived it.  
 
 As I sit here and look back on the journey we've shared,  
 I realize that letting go was the best thing I could have ever done.
