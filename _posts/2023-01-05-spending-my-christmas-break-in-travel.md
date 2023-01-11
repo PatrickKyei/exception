@@ -1,11 +1,13 @@
 ---
-title: How I Spent My Christmas Break In Travel
+title: How I Spent 2022 End Of Year [Christmas] Holiday
 date: 2023-01-05 12:44:00 +00
 categories: [Holiday, Social Life]
 tags: [holiday, travel, social life]   # TAG names should always be lowercase
 ---
 
-Social life is an important aspect of human life and is essential for our overall well-being and happiness. It allows us to connect with others, form meaningful relationships, and engage in activities that bring us joy and fulfillment. In today's busy world, it is easy to get caught up in work and other responsibilities, which can lead to feelings of isolation and loneliness. This is why it is important to take some time off work to focus on our social lives and maintain a healthy balance between work and personal life.
+![social-life](/assets/img/social-life.jpg)
+
+Social life is an important aspect of human life and it is essential for our overall well-being and happiness. It allows us to connect with others, form meaningful relationships, and engage in activities that bring us joy and fulfillment. In today's busy world, it is easy to get caught up in work and other responsibilities, which can lead to feelings of isolation and loneliness. This is why it is important to take some time off work to focus on our social lives and maintain a healthy balance between work and personal life.
 
 One of the main benefits of a strong social life is the sense of belonging and connection it provides. Humans are social creatures and we crave interaction with others. When we have a strong network of friends and loved ones, we feel supported and valued, which can improve our mental health and overall well-being.
 
