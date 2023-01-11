@@ -5,6 +5,8 @@ categories: [Life, Communication]
 tags: [communication, life, conflict]     # TAG names should always be lowercase
 ---
 
+![letter to dear](/assets/img/letter-to-dear.jpg)
+
 Dear  
 
 It's been weighing on my mind for a while now, and I can't keep it to myself any longer. I'm concerned about the misunderstanding that happened between you ad I.
