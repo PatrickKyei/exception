@@ -46,7 +46,7 @@ One of the most crucial skills a person can develop.
 
 Here's short video that explains the importance of promoting yourself:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tSl9K3x7FPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include embed/youtube.html id='tSl9K3x7FPM' %}
 
 _If you want to learn more about the importance of promoting yourself, take up the free course here: [Build Confidence With Self Promotion](https://learndigital.withgoogle.com/digitalskills/course/self-promotion)_
 

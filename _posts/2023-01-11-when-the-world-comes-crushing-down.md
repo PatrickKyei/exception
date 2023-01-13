@@ -6,6 +6,7 @@ tags: [love, care, romance]   # TAG names should always be lowercase
 ---
 
 ![lonely night](/assets/img/lonely-night.jpg "copyright: Drawing Skill")
+_a lonely night_
 
 When the world comes crashing down,  
 And all seems lost and grim,  

@@ -6,6 +6,7 @@ categories: [Progress, Management]
 tags: [business, entrepreneur, management]     # TAG names should always be lowercase
 ---
 ![pivot-quit](/assets/img/pivot-quit.jpg)
+_climbing up_
 
 Google has a graveyard of failed projects.
 

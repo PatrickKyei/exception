@@ -6,6 +6,7 @@ tags: [lessons, mistakes, decision]     # TAG names should always be lowercase
 ---
 
 ![new day and sunshine](/assets/img/new-day-new-sunshine.png "cc: Search Engine Land"){: w="auto" h="700" }
+_two loverbirds_
 
 I figure there's no better person to tell the story than myself, for I am the one who lived it.  
 

@@ -1,10 +1,10 @@
 ---
-title: Project Management Career Path
+title: Project Management Career Path - Google With Coursera
 date: 2022-03-11 22:35:00 +00
-categories: [PM, Project]
+categories: [Project Management, Google]
 mermaid: true
 math: true
-tags: [project, pm, career]     # TAG names should always be lowercase
+tags: [project management, google, coursera]     # TAG names should always be lowercase
 ---
 
 ## The Learning Experience
@@ -77,6 +77,7 @@ The charter helps to lay out project goals, highlight benefits, and help keep st
 I completed the project charter for my peers to review the completed project charter and provide feedback on each section.
 
 ![Project Charter](/assets/img/project-charter.png)
+_Project Charter_
 
 [Request Access to View](https://docs.google.com/document/d/1r7pQvLhsMWIVXqDKd_7Ye9MHJtQTU60dGTweY3vKefk/edit?usp=sharing)
 
@@ -87,6 +88,7 @@ A coalition is a temporary alliance or partnering of individuals or groups in or
 Omar, the owner of Sauce & Spoon, has requested that we expand the tablet rollout to include all dining sections, not just the bar. Deanna expects Peta to do what she can to accommodate an expansion, but Peta feels it is outside the scope of the project. However, because Omar is the owner and a senior stakeholder, Peta decides to get input from other team members. She hopes to identify at least two team members who will support her position on keeping the rollout confined to the bar area. Peta meets with Gilly, Alex, Larissa, Zane, Seydou, and Carter to discuss the pros and cons of expanding the tablet rollout.
 
 ![Email Coalition](/assets/img/email-coalition.png)
+_Writing Influential Emails_
 
 [Request Access to View](https://docs.google.com/document/d/1do4buT-AdSQ7VLdgGDhRpA7Jb2pNVP6aU3hkdQkT5lQ/edit?usp=sharing)
 
@@ -95,6 +97,7 @@ Omar, the owner of Sauce & Spoon, has requested that we expand the tablet rollou
 The planning phase of a project involves the schedule, the budget, risk management.
 
 ![Project Plan](/assets/img/project-plan.png)
+_Project Plan_
 
 [Request Access to View](https://docs.google.com/spreadsheets/d/1ah_RDH6w-i_x6dIoaOBxULTzNB8XjU7obxqiFu-uBhU/edit?usp=sharing&resourcekey=0-tt6gND6JhoxCJuPGMgb52w)
 
@@ -103,6 +106,7 @@ The planning phase of a project involves the schedule, the budget, risk manageme
 Peta has created evaluation questions and indicators to measure customer satisfaction during the test launch
 
 ![Survey Questions](/assets/img/survey-questions.png)
+_Survey Questions_
 
 [Request Access to View](https://docs.google.com/spreadsheets/d/1ah_RDH6w-i_x6dIoaOBxULTzNB8XjU7obxqiFu-uBhU/edit?usp=sharing&resourcekey=0-tt6gND6JhoxCJuPGMgb52w)
 
@@ -111,6 +115,7 @@ Peta has created evaluation questions and indicators to measure customer satisfa
 The test launch is complete and the team has compiled the survey results. Peta’s next task is to identify key data points from the survey responses and prepare a presentation. Her presentation should tell the story of the test launch, including what worked, what didn’t, and recommendations for next steps. She will present her findings to Omar, the CEO, Deanna, the Director of Operations, and several potential investors for the next tablet rollout project at the remaining Sauce & Spoon locations.
 
 ![Project Evaluation and Findings](/assets/img/evaluation-findings.png)
+_Project Evaluations_
 
 [Request Access to View](https://docs.google.com/presentation/d/1upWT9ggQZKE5Kad7LwMU5mhrLphjEO1AGIx3cgmgQnw/edit?usp=sharing)
 
@@ -118,6 +123,7 @@ The test launch is complete and the team has compiled the survey results. Peta�
 
 Peta just found out that there has been an update to the tablet contract that affects the project budget. Based on this new information, Peta needs to explain the situation to Deanna and ask for specific guidance on how to proceed. Although Peta has interacted regularly with Deanna throughout the project, she is still a senior stakeholder who expects Peta to deliver the project goals on time and within budget. Peta keeps these facts in mind as she composes an email to Deanna.
 ![Email to Senior Stakeholders](/assets/img/email-to-senior-stakeholders.png)
+_Writing Emails to Senior Stakeholders_
 
 [Request Access to View](https://docs.google.com/document/d/1_XNaeos3HQTbY4NHQ1fRErUbe_JiolKWGApTeSog54c/edit?usp=sharing)
 
@@ -126,6 +132,7 @@ Peta just found out that there has been an update to the tablet contract that af
 The Executive Summary summarizes the purpose and outcome of the tablet project.
 
 ![Executive Summary](/assets/img/executive-summary.png)
+_Executive Summary_
 
 [Request Access to View](https://docs.google.com/presentation/d/1Oh_4SQiFDjsuw6Tm_bPYZeYy68uisLwMcG0FFr6g2d0/edit?usp=sharing)
 
