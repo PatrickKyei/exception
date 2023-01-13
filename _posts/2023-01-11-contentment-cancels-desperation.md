@@ -5,6 +5,9 @@ categories: [Desire, Content]
 tags: [contentment, desire, goals]     # TAG names should always be lowercase
 ---
 
+![contentment](/assets/img/contentment.jpg "cc: pinterest")
+_contentment_
+
 Contentment is often associated with the idea of having enough, being satisfied with what one has, and not constantly striving for more.  
 While it is not about completely abandoning one's desires, it is about finding balance and not becoming overly consumed by them.
 

@@ -6,6 +6,7 @@ tags: [understanding, relationships, grude]   # TAG names should always be lower
 ---
 
 ![grudges](/assets/img/why-grudges.jpg "copyright devian arts")
+_Grudge_
 
 Holding grudges can be a heavy burden to carry, both emotionally and mentally. It can consume one's thoughts and emotions, leaving little room for positive experiences and growth.  
 
