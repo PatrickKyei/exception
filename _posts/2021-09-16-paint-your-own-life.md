@@ -14,3 +14,9 @@ Are we going to cry behind doors about disappointments? No!
 From this day, we are going to drive the boat where we want it to go. If your current job is not serving you well, improve yourself and apply for a higher position or switch to a different career.
 
 If your current relationship is been toxic to your growth, opt out and have the freedom to sour higher. Don't let your life end when things don't go well because you can paint another picture; the one you want to see.
+
+> For me, I choose to chase experiences more than dreams, for in the end, it's the memories that gleam. 
+
+When you truly understand life is short, and time is fleeting, you'll make every moment worth repeating.  
+For we only live once, and that's a fact,
+So let's make every day count, and never look back.
