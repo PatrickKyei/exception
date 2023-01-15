@@ -1,10 +1,10 @@
 ---
 title: Experience From The Google IT Certification Program - Coursera
-date: 2022-10-26 17:43:00 +00
+date: 2022-10-27 17:43:00 +00
 categories: [IT Support, Project]
 mermaid: true
 math: true
-tags: [project, technical, career]     # TAG names should always be lowercase
+tags: [project, technical, gooogle]     # TAG names should always be lowercase
 ---
 
 ![it technician](/assets/img/it-technician.png)
@@ -29,3 +29,6 @@ Thanks to the scholarship sponsors, many people now have the confidence and know
 ## Into The Program
 
 Still documenting ...
+
+> **View all quiz results** [at the repository here](https://github.com/PatrickKyei/google-it-support-module) 
+{: .prompt-info }

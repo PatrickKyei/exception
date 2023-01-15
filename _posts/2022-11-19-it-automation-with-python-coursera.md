@@ -6,7 +6,8 @@ tags: [technical, it automation, projects]     # TAG names should always be lowe
 ---
 > I will document this properly in the appropriate time.
 
-*[Documentation repo](https://github.com/PatrickKyei/google-it-automation-module)*
+> **View all quiz results** [at the repository here](https://github.com/PatrickKyei/google-it-automation-module)
+{: .prompt-info }
 
 ## Qwiklabs - Handling Files
 

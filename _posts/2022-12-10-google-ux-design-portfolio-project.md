@@ -10,6 +10,9 @@ I create digital products that are driven by user experience.
 
 These are case study completions from my participation in different design challenges. They are intended for academic and reference purposes. All feedbacks are welcomed.
 
+> **View all quiz results** [at the repository here](https://github.com/PatrickKyei/google-ux-design-module) 
+{: .prompt-info }
+
 Kindly use the **options menu** to view in full screen mode.  
 
 Thank you.
