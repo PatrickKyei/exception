@@ -1,8 +1,8 @@
 ---
 title: Every Year Teaches Us Two Things
 date: 2022-09-21 07:40:00 +00
-categories: [Love, Heartbreak]
-tags: [relationships, heartbreaks, love]     # TAG names should always be lowercase
+categories: [Life, Time]
+tags: [relationships, time, love]     # TAG names should always be lowercase
 ---
 
 Every year teaches us two things: 
