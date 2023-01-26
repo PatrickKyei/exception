@@ -56,3 +56,10 @@ Learn more about TS Collections [here](https://web.facebook.com/trustedcollectio
 I have taken over 100 professional certifications and have mentored individuals to improve their tech skills. I have helped some of these people to land different jobs. We continue to grow our focused community. I invite as you as a learner or a mentor, your small contribution can go far to help some. 
 
 Send a message request to join [Careers In Tech](https://wa.me/message/CFQ6VVR53WCBN1) and become a digital trailblazer
+
+## Product Owner, [ Facilitators Community](https://bit.ly/helpshapetheworld)
+
+*(June 2021 - January 2023)*
+
+Now this is a solution I created to help bridge shortage of facilitators at the time I was working with a Non-profit organization.
+The manager very often had challenges filling in new positions. The solution I came up with helped a lot. It was able to get 8 people employed
