@@ -6,6 +6,7 @@ tags: [memories, experiences, life]   # TAG names should always be lowercase
 ---
 
 ![happy moments](/assets/img/happy-moments.jpg)
+_great day lovely moments happy life_
 
 Life throws curve balls left and right. Many times we are not able to live up to our own expectations. Dreams delay, plans don't follow through.
 
