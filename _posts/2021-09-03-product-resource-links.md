@@ -282,6 +282,7 @@ It just happens that:
 
 * [Designer Prompt Generator](https://www.briefz.biz/)
 
+* [Shapen design prompt](/https://https://sharpen.design/)
 
 
 
