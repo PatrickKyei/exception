@@ -274,6 +274,10 @@ It just happens that:
 
 * [AI Fontparing](https://fontjoy.com/)
 
+* [AI Image Generator](https://instantart.io/)
+
+* [Ai Image Generator](https://dreamlike.art/)
+
 * [Remote Design Jobs](https://designfromanywhere.web.app/)
 
 * [Bitsize Design Practice](https://befront.io/)
@@ -283,6 +287,7 @@ It just happens that:
 * [Designer Prompt Generator](https://www.briefz.biz/)
 
 * [Shapen design prompt](/https://https://sharpen.design/)
+
 
 
 
