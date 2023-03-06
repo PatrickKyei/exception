@@ -5,14 +5,16 @@ categories: [Gratitude, Meaning]
 tags: [blessings, meaning, gratitude]   # TAG names should always be lowercase
 ---
 
-![Gratitude](/assests/img/gratitude-blessing.jpg)
+![Gratitude](/assets/img/gratitude-blessing.jpg)
 _Gratitude and Blessing_
 
 At some point in our lives, we realize that material possessions can only bring us temporary happiness. No matter how much we accumulate, there will always be someone who has more. 
 
 It is only when we shift our focus from what we have to what we can create that we truly start living. It's about making the most of the resources we have been blessed with and using them to create a life full of purpose and meaning.
 
-It's not always easy, especially in a world that constantly bombards us with messages of consumerism and the importance of owning the latest and greatest. But when we stop comparing ourselves to others and start focusing on our own unique journey, we can experience a sense of freedom and joy that can't be found in material possessions.
+It's not always easy, especially in a world that constantly bombards us with messages of consumerism and the importance of owning the latest and greatest. 
+
+But when we stop comparing ourselves to others and start focusing on our own unique journey, we can experience a sense of freedom and joy that can't be found in material possessions.
 
 Living a fulfilling life isn't about having everything, it's about making the most of what we have and finding joy in the little things. 
 
