@@ -18,7 +18,7 @@ It's not always easy, especially in a world that constantly bombards us with mes
 
 But when we stop comparing ourselves to others and start focusing on our own unique journey, we can experience a sense of freedom and joy that can't be found in material possessions.
 
-Living a fulfilling life isn't about having everything, it's about making the most of what we have and finding joy in the little things. 
+> Living a fulfilling life isn't about having everything, it's about making the most of what we have and finding joy in the little things. 
 
 It's about creating meaningful experiences and building deep connections with the people around us. It's about living a life that aligns with our values and brings us a sense of purpose.
 
