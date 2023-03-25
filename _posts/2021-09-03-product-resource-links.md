@@ -226,6 +226,8 @@ It just happens that:
 
 * [SVG Graphics](https://app.haikei.app/)
 
+* [Visual sitemap builder](https://octopus.do/)
+
 * [Mockups](https://mockuper.net/)
 
 * [App Screenshots](https://scrnshts.club/)
@@ -597,3 +599,7 @@ It just happens that:
 
 
 * [xkcd sketch explanations](https://xkcd.com)
+
+* [PDF power tool](https://tools.pdf24.org/en/)
+
+* [Visualize presentation](https://archivve.visualizevalue.com/)
