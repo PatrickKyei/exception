@@ -1,6 +1,6 @@
 ---
 title: Never Give Up Without A Fight
-date: 2023-03-29 14:10 +00
+date: 2023-03-29 14:10:00 +00
 categories: [Inspiration, Music]
 tags: [inspiration, music, courage]   # TAG names should always be lowercase
 ---
