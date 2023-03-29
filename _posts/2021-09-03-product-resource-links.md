@@ -290,7 +290,9 @@ It just happens that:
 
 * [Shapen design prompt](/https://https://sharpen.design/)
 
+* [Practice Design by doing](https://fakeclients.com/)
 
+* [Solve Desing briefs](https://goodbrief.io/)
 
 
 ## For Developers
