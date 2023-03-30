@@ -4,8 +4,8 @@
   type: github
   icon: 'fab fa-github-alt'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  # type: twitter
+  # icon: 'fab fa-twitter'
 -
   type: email
   icon: 'fas fa-envelope'
@@ -23,7 +23,7 @@
 # -
   type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://linkedin.com/in/patrickbaffour'                  # Fill with your Linkedin homepage
+  url:  'https://linkedin.com/in/patrickkyei'                  # Fill with your Linkedin homepage
 # -
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'

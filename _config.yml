@@ -30,11 +30,11 @@ url: 'https://patrickkyei.com'
 
 author: Patrick
 
-github:
-  username: PatrickKyei             # change to your github username
+# github:
+#   username: PatrickKyei             # change to your github username
 
-twitter:
-   username: _patrickkyei            # change to your twitter username
+# twitter:
+#    username: _patrickkyei            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -43,7 +43,7 @@ social:
   email: pkyei804@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://web.facebook.com/iamkyei/    # change to your twitter homepage
+    - https://patrickkyei.com/    # change to your twitter homepage
     # - https://github.com/PatrickKyei       # change to your github homepage
     # - Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -72,7 +72,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark  #[select a default]
+theme_mode:  #[select a default]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
