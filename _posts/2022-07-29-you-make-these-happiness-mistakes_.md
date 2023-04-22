@@ -19,6 +19,8 @@ We tend to define happiness more in terms of what we see than in terms of who we
 
 It doesn't stop there, though; we go farther and define other people's happiness in terms of what we have come to accept as a good life.
 
+![mother and daiughter](/assets/img/mother_n_daughter.jpg)
+
 So what happens is that we start judging someone's happiness based solely on what we see, forgetting that happiness is a condition that is unique to each individual.
 
 While some people have little and are happy, others have a lot and are unhappy.

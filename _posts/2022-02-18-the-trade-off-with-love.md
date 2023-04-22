@@ -19,7 +19,7 @@ So it's not very helpful when someone you care about asks you to sacrifice a lot
 
 ## The Bitter Scenario
 
-Have you ever loved someone so much that it feels like you two know everything there is to know about each other, that you can understand each other even in silence? But you can't be together or see each other anymore because of religious differences, career opportunities, education, tribe, status in the community, or simply because of some principles, and one of you has to sacrifice one of these things in order to stay togethet?
+Have you ever loved someone so much that it feels like you two know everything there is to know about each other, that you can understand each other even in silence? But you can't be together or see each other anymore because of religious differences, career opportunities, health condition, education, tribe, status in the community, or simply because of some principles, and one of you has to sacrifice one of these things in order to stay togethet?
 
 Oh, man, this is a difficult one. In either case, there are some important trade-offs to be made; there is no such thing as an easy choice here. This, I believe, is what makes life so intense.
 
@@ -63,7 +63,7 @@ You may have to take a leap of faith, but if you stay aware, put in the effort t
 
 ## The Trade-Off
 
-Having said that, it is conceivable that you may have to give up one or two items as a result of this decision. I understand, but that's life. If you truly want this career and your pursuit of love doesn't fit into your plans, you might have to part ways for a time and maybe you'll find your way back to each other, or maybe you won't and you find a new love in your new chapter of your life who wants to run climb the career ladder with you all the way up.
+Having said that, it is conceivable that you may have to give up one or two items as a result of this decision. I understand, but that's life. If you truly want this career and your pursuit of love doesn't fit into your plans, you might have to part ways for a time and maybe you'll find your way back to each other, or maybe you won't and you find a new love in your new chapter of your life who wants to climb the career ladder with you all the way up.
 
 ## Connect With Your Self
 
