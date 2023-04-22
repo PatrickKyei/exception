@@ -6,19 +6,18 @@ order: 4
 
 Hey I'm glad you are here. My name is Patrick.
 
-An experienced product professional with skills in management, design, and project management. Balances technical and business acumen to deliver impactful products with user-centered design. Leads cross-functional teams and delivers on-time, within budget. 
+An experienced product professional with skills in product management, design, and project management. Balances technical and business acumen to deliver impactful products with user-centered design. Leads cross-functional teams and delivers on-time, within budget. 
 
 > I create digital products
 > that are driven by  
 > user experience
 
-Passionate about innovation and has always been involved wit initiatives that seek to upskill people from all walks of life with the ability to use technology to better themselves in the way that they live and work.
+I am passionate about innovation and has always been involved with initiatives that seek to upskill people from all walks of life with the ability to use technology to better themselves in the way that they live and work.
 
-I have spoken at several tech conferences and had the opportunity to interact with [creative minds](https://youtube.com/channel/UCsAjtT-RYQRtMngsTGLxS2Q) in the tech industry to share their knowledge to impact the tech ecosystem.
+I have spoken at different tech conferences and had the opportunity to interact with [creative minds](https://youtube.com/channel/UCsAjtT-RYQRtMngsTGLxS2Q) in the tech industry to share their knowledge to impact the tech ecosystem.
 
 I jot down my thoughts. Those are my own initiatives. It's more of a communal celebration of learning. And if I can play some role in your life to help you go to a new place, I'd be happy, honored, and fortunate to do so. And if I ever stop being successful at it, I'll try something new.
 
-> Here are my thoughts on a few crucial things about life ...[find here](https://patrickkyei.com/posts/who-is-patrick-kyei/)
 
 Would love to hear from you. [Want to have a chat? Schedule a call](https://calendly.com/patrickbaffour/coffeechat)
 
