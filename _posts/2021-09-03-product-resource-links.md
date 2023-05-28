@@ -375,6 +375,8 @@ It just happens that:
 
 * [Learn Sql with Practice](https://www.sql-practice.com/)
 
+* [Learn Sql with Sql Bolt](https://sqlbolt.com/)
+
 * [Create documentation pages](https://docsify.js.org/#/?id=docsify)
 
 * [Contribute to open source](https://firstcontributions.github.io/)
@@ -605,3 +607,5 @@ It just happens that:
 * [PDF power tool](https://tools.pdf24.org/en/)
 
 * [Visualize presentation](https://archivve.visualizevalue.com/)
+
+* [The One Link For All Links](https://bio.link)
