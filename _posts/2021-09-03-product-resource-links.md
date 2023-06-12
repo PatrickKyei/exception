@@ -15,6 +15,8 @@ It just happens that:
 
 * [All In One Design Resources](https://www.evernote.design/categories/design-tools/)
 
+* [Designer Roadmap](https://roadmap.sh/)
+
 * [Free photos](https://pixabay.com/)
 
 * [Create Prototypes](https://humbleux.com)
@@ -382,6 +384,8 @@ It just happens that:
 * [Contribute to open source](https://firstcontributions.github.io/)
 
 * [Source Code Beautifier](https://carbon.now.sh)
+
+* [Share Code](https://ray.so)
 
 * [Excercism Coding exercise](https://exercism.org/)
 
