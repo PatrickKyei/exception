@@ -121,6 +121,18 @@ It just happens that:
 
 * [Sell design stuff](https://etsy.com/)
 
+* [Godly Design Inspiration](https://godly.website)
+
+* [One Page Love Design Inspiration](https://onepagelove.com)
+
+* [Land-book Design Inspiration](https://land-book.com)
+
+* [Best Website Gallery Inspiration](https://bestwebsite.gallery)
+
+* [Httpster Design Inspiration](https://httpster.net)
+
+* [Sass Landing Page Inpiration](https://sasslandingpage.com)
+
 * [Daily UI challenges: Become a better designer in 100 days](https://dailyui.co/)
 
 * [Illustrations - Undraw](https://undraw.co/illustrations)
