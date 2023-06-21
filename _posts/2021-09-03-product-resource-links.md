@@ -36,6 +36,8 @@ It just happens that:
 
 * [Tiny Helper for Designers](https://tiny-helpers.dev/)
 
+* [Design Components Inspiration](https://calltoinspiration.com/)
+
 * [Designers Store](https://www.uistore.design/)
 
 * [The Beginner's Guide to UX/UI Design](https://www.notion.so/The-Beginner-s-Guide-to-UI-UX-Design-6c0ff9e6afe84a35b2090dfde1ebed89)
