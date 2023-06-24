@@ -319,6 +319,8 @@ It just happens that:
 
 * [UXtools UX Challenges](https://uxtools.co/challenges/)
 
+* [Uxcel Challenges](https://uxcel.com/practice)
+
 
 ## For Developers
 
