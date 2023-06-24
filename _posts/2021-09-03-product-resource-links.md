@@ -17,10 +17,7 @@ It just happens that:
 
 * [UX Database](https://www.uxdatabase.io)
 
-
 * [Designer Roadmap](https://roadmap.sh/)
-
-* [Free photos](https://pixabay.com/)
 
 * [Create Prototypes](https://humbleux.com)
 
@@ -94,11 +91,13 @@ It just happens that:
 
 * [Free Logos for any Project](https://logoipsum.com/)
 
-* [Free Photos](https://pixeden.com/)
+* [Photos from Pixeden](https://pixeden.com/)
 
-* [Pxfuel photos](https://pxfuel.com/)
+* [Photos from Pixabay](https://pixabay.com/)
 
-* [Free photos](https://pexels.com/)
+* [Photos from Pxfuel](https://pxfuel.com/)
+
+* [Photos from Pexels](https://pexels.com/)
 
 * [Flat Icon](https://www.flaticon.com/)
 
@@ -137,8 +136,6 @@ It just happens that:
 * [Httpster Design Inspiration](https://httpster.net)
 
 * [Sass Landing Page Inpiration](https://sasslandingpage.com)
-
-* [Daily UI challenges: Become a better designer in 100 days](https://dailyui.co/)
 
 * [Illustrations - Undraw](https://undraw.co/illustrations)
 
@@ -264,8 +261,6 @@ It just happens that:
 
 * Present Design with Mockups: [3D Studio](https://previewed.app/), [Artboard](https://artboard.studio/), [Mockup Frames](https://mokupframes.com/), [Smartmockups](https://smartmockups.com/), [Mockuphone](https://mockuphone.com/), [Mockuuuup Studio](https://mockuuups.studio/), [Magic Mockups](https://magicmockups.com/), [Facebook Design Tools](https://design.facebook.com/)
 
-* [UI Design Challenges](https://app.crowwwn.com/)
-
 * [Learn Shape Tricks](https://boolean.method.ac/)
 
 * [Learn Alignment](https://www.supremo.co.uk/designers-eye/)
@@ -313,6 +308,16 @@ It just happens that:
 * [Practice Design by doing](https://fakeclients.com/)
 
 * [Solve Desing briefs](https://goodbrief.io/)
+
+* [UI Design Challenges](https://app.crowwwn.com/)
+
+* [Daily UI challenges: Become a better designer in 100 days](https://dailyui.co/)
+
+* [Design Daily](https://uidesigndaily.com/)
+
+* [UX Challenge](http://www.uxchallenge.co/)
+
+* [UXtools UX Challenges](https://uxtools.co/challenges/)
 
 
 ## For Developers
