@@ -3,12 +3,12 @@ title: Strangers Will Make You Rich - Hack For Early Career Starters
 date: 2023-05-28 07:50:00 +00
 categories: [Career, Networking]
 tags: [career, job, networking]  
-image: /assets/img/collaboration-doodle.png
+image:
+  path: /assets/img/collaboration-doodle.png
+  alt: collaboration
 
 # TAG names should always be lowercase
 ---
-
-![collaboration](/assets/img/collaboration-doodle.png)
 
 Learning how to network is probably the most life-changing experience I've ever had and I also want to challenge you to think that networking is a skill that you can learn.
 

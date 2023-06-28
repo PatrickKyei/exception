@@ -3,12 +3,11 @@ title: It Is This Reason Why I Don't Hold Grudges
 date: 2023-01-10 10:04:00 +00
 categories: [Misunderstanding, Grudge]
 tags: [understanding, relationships, grude]
-image: /assets/img/why-grudges.jpg
+image:
+  path: /assets/img/why-grudges.jpg
+  alt: grudges
    # TAG names should always be lowercase
 ---
-
-![grudges](/assets/img/why-grudges.jpg "copyright devian arts")
-_different feelings and expressions_
 
 Holding grudges can be a heavy burden to carry, both emotionally and mentally. It can consume one's thoughts and emotions, leaving little room for positive experiences and growth.  
 

@@ -1,12 +1,12 @@
 ---
 title: You Have To Allow The Sun To Rest So That There Will Be A New Day
 date: 2022-12-29 01:00:00 +00
+image:
+  path: /assets/img/new-day-new-sunshine.png
+  alt: new day and sunshine
 categories: [Sunshine, Lessons]
 tags: [lessons, mistakes, decision]     # TAG names should always be lowercase
 ---
-
-![new day and sunshine](/assets/img/new-day-new-sunshine.png "cc: Search Engine Land"){: w="auto" h="700" }
-_two loverbirds_
 
 I figure there's no better person to tell the story than myself, for I am the one who lived it.  
 

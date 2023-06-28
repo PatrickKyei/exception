@@ -2,10 +2,12 @@
 title: How I Spent 2022 End Of Year [Christmas] Holiday
 date: 2023-01-05 12:44:00 +00
 categories: [Holiday, Social Life]
-tags: [holiday, travel, social life]   # TAG names should always be lowercase
+tags: [holiday, travel, social life]
+image:
+  path: /assets/img/social-life.jpg
+  alt: social life
+# TAG names should always be lowercase
 ---
-
-![social-life](/assets/img/social-life.jpg){: w="auto" h="700" }
 
 Social life is an important aspect of human life and it is essential for our overall well-being and happiness. It allows us to connect with others, form meaningful relationships, and engage in activities that bring us joy and fulfillment. In today's busy world, it is easy to get caught up in work and other responsibilities, which can lead to feelings of isolation and loneliness. This is why it is important to take some time off work to focus on our social lives and maintain a healthy balance between work and personal life.
 

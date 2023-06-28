@@ -2,13 +2,12 @@
 title: Creating Meaning And Fulfillment - The Key To A Truly Rich Life
 date: 2023-03-06 18:30:00 +00
 categories: [Gratitude, Meaning]
-tags: [blessings, meaning, gratitude]
-image: /assets/img/gratitude-blessing.jpg   
+tags: [blessings, meaning, gratitude] 
+image:
+  path: /assets/img/gratitude-blessing.jpg
+  alt: Gratitude
 # TAG names should always be lowercase
 ---
-
-![Gratitude](/assets/img/gratitude-blessing.jpg)
-_Gratitude and Blessing_
 
 It's a long time I wrote anything at all. But after pondering about life and what meaning is to each of us and how we can achieve that with **gratitude**, I put my writing cap on, so where we go..
 

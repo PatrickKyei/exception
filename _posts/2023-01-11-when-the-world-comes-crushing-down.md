@@ -2,13 +2,12 @@
 title: When The World Comes Crushing
 date: 2023-01-11 05:04:00 +00
 categories: [Love, Compassion]
-tags: [love, care, romance]
-image: /assets/img/lonely-night.jpg   
+tags: [love, care, romance]   
+image:
+  path: /assets/img/lonely-night.jpg
+  alt: lonely night
 # TAG names should always be lowercase
 ---
-
-![lonely night](/assets/img/lonely-night.jpg "copyright: Drawing Skill")
-_a lonely night_
 
 When the world comes crashing down,  
 And all seems lost and grim,  

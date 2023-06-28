@@ -17,4 +17,12 @@ $ bundle update jekyll-theme-chirpy
 then
 
 $ bundle
+
+PREVIEW IMAGE
+
+---
+image:
+  path: /path/to/image
+  alt: image alternative text
+---
 >

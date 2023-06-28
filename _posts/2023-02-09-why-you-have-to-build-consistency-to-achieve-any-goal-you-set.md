@@ -3,12 +3,11 @@ title: CONSISTENCY Do You Really Need It? This Will Help You Decide!
 date: 2023-02-09 07:30:00 +00
 categories: [Consitency, Goals]
 tags: [consistency, goals, momemtum]   
-image: /assets/img/a-little-progress-each-day.jpg
+image:
+  path: /assets/img/a-little-progress-each-day.jpg
+  alt: a little progress each day
 # TAG names should always be lowercase
 ---
-
-![a little progress each day](/assets/img/a-little-progress-each-day.jpg)
-_image of girl working_
 
 Consistency is important in the pursuit of one's goals for several reasons:
 
