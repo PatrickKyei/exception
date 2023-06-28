@@ -1,11 +1,12 @@
 ---
 title: Success Is In Your Spheres
 date: 2021-08-12 05:35:20 +00
+image:
+  path: /assets/img/your-network.jpg
+  alt: your network
 categories: [Networking, Goals]
 tags: [communication, relationships, circle, people, value, connect, success, network]     # TAG names should always be lowercase
 ---
-
-![friends](/assets/img/your-network.jpg)
 
 ## Introduction
 

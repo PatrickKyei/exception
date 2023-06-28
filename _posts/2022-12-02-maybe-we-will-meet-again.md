@@ -1,11 +1,12 @@
 ---
 title: I Hope You Live Your Best Life
 date: 2022-12-02 15:00:00 +00
+image:
+  path: /assets/img/letter-to-dear.jpg
+  alt: letter to dear
 categories: [Life, Communication]
 tags: [communication, life, conflict]     # TAG names should always be lowercase
 ---
-
-![letter to dear](/assets/img/letter-to-dear.jpg)
 
 Dear  
 

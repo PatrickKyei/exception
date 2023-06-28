@@ -1,6 +1,9 @@
 ---
 title: Interesting Conversation Starters
 date: 2021-08-11 21:13:20 +00
+image:
+  path: /assets/img/conversation-starters.jpg
+  alt: talking
 categories: [Networking, Communication]
 tags: [communication, relationships]     # TAG names should always be lowercase
 ---

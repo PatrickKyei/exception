@@ -2,11 +2,12 @@
 title: A Perfect Girl For You
 author: anonymous
 date: 2022-11-08 15:00:00 +00
+image:
+  path: /assets/img/perfect_girl.png
+  alt: perfect girl
 categories: [Relationships, Choice]
 tags: [life, love, choice]     # TAG names should always be lowercase
 ---
-
-![perfect girl](/assets/img/perfect_girl.png)
 
 "You may not be his/her first, his/her last, or his/her only.
 

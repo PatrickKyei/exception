@@ -25,4 +25,7 @@ image:
   path: /path/to/image
   alt: image alternative text
 ---
+
+TOP IMAGE RESOLUTION
+1200 x 630
 >

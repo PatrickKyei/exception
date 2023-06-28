@@ -1,11 +1,12 @@
 ---
 title: How I Keep To My Writing Without Driving Myself Crazy
 date: 2022-12-23 15:00:00 +00
+image:
+  path: /assets/img/creativity-spectrum.jpg
+  alt: creativity
 categories: [Journal, Creativity]
 tags: [writing, skill, talent]     # TAG names should always be lowercase
 ---
-
-![creativity](/assets/img/creativity-spectrum.jpg "pexels")
 
 > Creativity exists on a spectrum. Some of us are visionaries, some of us are technical masters.
 
