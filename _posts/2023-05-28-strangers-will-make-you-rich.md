@@ -2,7 +2,10 @@
 title: Strangers Will Make You Rich - Hack For Early Career Starters
 date: 2023-05-28 07:50:00 +00
 categories: [Career, Networking]
-tags: [career, job, networking]     # TAG names should always be lowercase
+tags: [career, job, networking]  
+image: /assets/img/collaboration-doodle.png
+
+# TAG names should always be lowercase
 ---
 
 ![collaboration](/assets/img/collaboration-doodle.png)

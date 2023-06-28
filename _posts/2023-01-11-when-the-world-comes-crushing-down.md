@@ -2,7 +2,9 @@
 title: When The World Comes Crushing
 date: 2023-01-11 05:04:00 +00
 categories: [Love, Compassion]
-tags: [love, care, romance]   # TAG names should always be lowercase
+tags: [love, care, romance]
+image: /assets/img/lonely-night.jpg   
+# TAG names should always be lowercase
 ---
 
 ![lonely night](/assets/img/lonely-night.jpg "copyright: Drawing Skill")

@@ -2,7 +2,9 @@
 title: Contentment Doesn't Cancel Desire, It Cancels Desperation
 date: 2023-01-11 01:00:00 +00
 categories: [Desire, Content]
-tags: [contentment, desire, goals]     # TAG names should always be lowercase
+tags: [contentment, desire, goals]
+image: /assets/img/contentment.jpg     
+# TAG names should always be lowercase
 ---
 
 ![contentment](/assets/img/contentment.jpg "cc: pinterest")

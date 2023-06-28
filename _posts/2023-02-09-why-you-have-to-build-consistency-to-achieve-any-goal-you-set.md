@@ -2,7 +2,9 @@
 title: CONSISTENCY Do You Really Need It? This Will Help You Decide!
 date: 2023-02-09 07:30:00 +00
 categories: [Consitency, Goals]
-tags: [consistency, goals, momemtum]   # TAG names should always be lowercase
+tags: [consistency, goals, momemtum]   
+image: /assets/img/a-little-progress-each-day.jpg
+# TAG names should always be lowercase
 ---
 
 ![a little progress each day](/assets/img/a-little-progress-each-day.jpg)

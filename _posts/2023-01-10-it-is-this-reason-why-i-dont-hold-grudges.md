@@ -2,7 +2,9 @@
 title: It Is This Reason Why I Don't Hold Grudges
 date: 2023-01-10 10:04:00 +00
 categories: [Misunderstanding, Grudge]
-tags: [understanding, relationships, grude]   # TAG names should always be lowercase
+tags: [understanding, relationships, grude]
+image: /assets/img/why-grudges.jpg
+   # TAG names should always be lowercase
 ---
 
 ![grudges](/assets/img/why-grudges.jpg "copyright devian arts")

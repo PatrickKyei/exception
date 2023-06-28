@@ -2,7 +2,9 @@
 title: Even Though I Know These Moments They Won't Last Forever
 date: 2023-01-24 07:44:00 +00
 categories: [Life, Memories]
-tags: [memories, experiences, life]   # TAG names should always be lowercase
+tags: [memories, experiences, life]
+image: /assets/img/happy-moments.jpg   
+# TAG names should always be lowercase
 ---
 
 ![happy moments](/assets/img/happy-moments.jpg)
