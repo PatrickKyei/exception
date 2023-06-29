@@ -1,10 +1,12 @@
 ---
 title: Why You Think You Are Right But You Are Not
 date: 2021-09-10 20:30:00 +00
+image:
+  path: /assets/img/mindfulness.jpg
+  alt: mindset
 categories: [Mindset, Identity]
 tags: [mindset, thinking, results, identity, perspective]     # TAG names should always be lowercase
 ---
-![mindset](/assets/img/mindfulness.jpg)
 
 People think they see things as they are.
 >
