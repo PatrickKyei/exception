@@ -5,7 +5,6 @@ image:
   path: /assets/img/too-late.jpg
   alt: too-late
 categories: [Life, Lesson]
-author: unknown
 tags: [life, lessons, truths]     # TAG names should always be lowercase
 ---
 
@@ -35,7 +34,7 @@ Walk like you love yourself. Talk like you love yourself. Eat like you love your
 
 So, be with someone who is good for your mental health. Meditate. Feed your mind good stuff – No TV, no crappy books, no shitty people, and no dead-end jobs. There is never a refund on a wasted time.
 
-## 7. The people are fucked. And you, too, are a human.
+## 7. The people are f*cked. And you, too, are a human.
 
 Don’t trust just anyone. Doubt others, and doubt yourself. Then, re-evaluate your actions and adjust them to better suit your aspirations, dreams, and goals. If you can’t find a leader who inspires you, be the leader you wish you had.
 
@@ -49,7 +48,7 @@ People have become so comfortable being told what to do, how to do it, when to d
 
 ## 10. Give less fucks.
 
-Stop giving fucks about everything and everyone. That is, about what people are saying about you, about whether that cute boy/girl called you back or not, about whether your socks match or not, or what color your birthday balloon is.
+Stop giving f*cks about everything and everyone. That is, about what people are saying about you, about whether that cute boy/girl called you back or not, about whether your socks match or not, or what color your birthday balloon is.
 
 ## 11. You will mostly find interests, not friends.
 
