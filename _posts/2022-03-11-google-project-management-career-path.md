@@ -1,6 +1,9 @@
 ---
 title: Project Management Career Path - Google With Coursera
 date: 2022-03-11 22:35:00 +00
+image:
+  path: /assets/img/google-pm.png
+  alt: google project management Coursera
 categories: [Project Management, Google]
 mermaid: true
 math: true
