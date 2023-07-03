@@ -1,8 +1,8 @@
 ---
 title: Who Is Patrick?
 date: 2021-08-16 14:54:00 +00
-categories: [Baffour, Patrick]
-tags: [patrick, baffour, kyei]     # TAG names should always be lowercase
+categories: [Patrick, Kyei]
+tags: [about, patrick, kyei]     # TAG names should always be lowercase
 ---
 
 > Born into a world of uncertainties and

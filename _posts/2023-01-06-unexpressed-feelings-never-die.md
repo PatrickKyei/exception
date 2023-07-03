@@ -1,12 +1,12 @@
 ---
 title: Unexpressed Feelings Never Die
 date: 2023-01-06 01:00:00 +00
+image:
+  path: /assets/img/unexpressed-feelings.png
+  alt: expression of feelings
 categories: [Feelings, Affection]
 tags: [communication, affection, relationships]     # TAG names should always be lowercase
 ---
-
-![unexpressed feelings](/assets/img/unexpressed-feelings.png "cc: pinterest")
-_Expression of feelings_
 
 Unexpressed feelings never die,  
 They linger like a silent sigh.  

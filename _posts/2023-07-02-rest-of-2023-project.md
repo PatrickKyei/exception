@@ -1,10 +1,10 @@
 ---
-title: Best of 2023 Projects
+title: The rest of 2023 Projects
 date: 2023-07-02 07:50:00 +00
 categories: [Projects, Year]
 tags: [projects, year, portfolio]  
 image:
-  path: /assets/img/projects
+  path: /assets/img/projects.jpg
   alt: projects
 
 # TAG names should always be lowercase

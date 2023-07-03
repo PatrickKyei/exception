@@ -3,12 +3,11 @@ title: Contentment Doesn't Cancel Desire, It Cancels Desperation
 date: 2023-01-11 01:00:00 +00
 categories: [Desire, Content]
 tags: [contentment, desire, goals]
-image: /assets/img/contentment.jpg     
+image:
+  path: /assets/img/contentment.png
+  alt: contentment cc-pinterest   
 # TAG names should always be lowercase
 ---
-
-![contentment](/assets/img/contentment.jpg "cc: pinterest")
-_contentment_
 
 Contentment is often associated with the idea of having enough, being satisfied with what one has, and not constantly striving for more.  
 While it is not about completely abandoning one's desires, it is about finding balance and not becoming overly consumed by them.
