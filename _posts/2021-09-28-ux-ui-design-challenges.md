@@ -1,6 +1,9 @@
 ---
 title: UI/UX Design Challenges
-date: 2022-02-06 22:35:00 +00
+date: 2021-09-28 22:35:00 +00
+image:
+  path: /assets/img/ui-ux.jpg
+  alt: ux design challenges
 categories: [Design, Challenges]
 tags: [design, challenges, ui, ux, technical]     # TAG names should always be lowercase
 ---
