@@ -4,7 +4,7 @@ date: 2023-01-11 01:00:00 +00
 categories: [Desire, Content]
 tags: [contentment, desire, goals]
 image:
-  path: /assets/img/contentment.png
+  path: /assets/img/contentment.jpg
   alt: contentment cc-pinterest   
 # TAG names should always be lowercase
 ---
