@@ -54,7 +54,7 @@ Learn more about TS Collections [here](https://web.facebook.com/trustedcollectio
 
 *(July 2021 - Present)*
 
-I have taken over 100 professional certifications and have mentored individuals to improve their tech skills. I have helped some of these people to land different jobs. We continue to grow our focused community. I invite as you as a learner or a mentor, your small contribution can go far to help some. 
+I have taken over 100 professional certifications and have mentored individuals to improve their tech skills. I have helped some of these people to land different jobs. We continue to grow our focused community. I invite you as a learner or a mentor, your small contribution can go far to help someone. 
 
 Join [Skill Embassy](https://nas.io/skillembassy) and become a digital trailblazer
 
@@ -64,4 +64,4 @@ Join [Skill Embassy](https://nas.io/skillembassy) and become a digital trailblaz
 
 Now this is a solution I created to help bridge shortage of facilitators at the time I was working with a Non-profit organization.
 
-The managers very often had challenges filling in new positions. The solution I came up with helped a lot. It was able to fil 8 positions and got 8 people jobs to do.
+The managers very often had challenges filling in new positions. The solution I came up with helped a lot. It was able to fill 8 positions and got 8 people jobs to do.
