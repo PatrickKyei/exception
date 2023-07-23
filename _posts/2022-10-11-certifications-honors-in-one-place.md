@@ -3,7 +3,7 @@ title: Certifications And Achievements In One Place
 author: anonymous
 date: 2022-10-11 17:01:00 +00
 categories: [Certifications, Achievements]
-tags: [certifications, achievements, wins]     # TAG names should always be lowercase
+tags: [certifications, achievements, wins, projects]     # TAG names should always be lowercase
 ---
 
 When you do something good and are proud of it, it's important to take a moment to savor the feeling and the accomplishment. This can help you appreciate and recognize your own abilities and strengths, and it can also serve as motivation to continue working hard and striving for success. It's important to celebrate your achievements, no matter how big or small, as this can boost your confidence and self-esteem. So, when you do something good and are proud of it, allow yourself to fully experience and enjoy the feeling of accomplishment.  

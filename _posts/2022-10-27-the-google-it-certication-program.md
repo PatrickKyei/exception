@@ -4,7 +4,7 @@ date: 2022-10-27 17:43:00 +00
 categories: [IT Support, Project]
 mermaid: true
 math: true
-tags: [project, technical, gooogle]     # TAG names should always be lowercase
+tags: [projects, technical, gooogle]     # TAG names should always be lowercase
 ---
 
 ![it technician](/assets/img/it-technician.png)

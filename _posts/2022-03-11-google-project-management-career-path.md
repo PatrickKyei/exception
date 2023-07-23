@@ -7,7 +7,7 @@ image:
 categories: [Project Management, Google]
 mermaid: true
 math: true
-tags: [project management, google, coursera, quiz, answers]     # TAG names should always be lowercase
+tags: [project management, google, coursera, quiz, answers, projects]     # TAG names should always be lowercase
 ---
 
 ## The Learning Experience

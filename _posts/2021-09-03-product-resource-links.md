@@ -2,7 +2,7 @@
 title: Product Resource Links
 date: 2021-09-03 22:35:00 +00
 categories: [Resources, Links]
-tags: [resources, links, technical]     # TAG names should always be lowercase
+tags: [resources, links, technical, projects]     # TAG names should always be lowercase
 ---
 
 Links to some of the resources you might just find helpful.

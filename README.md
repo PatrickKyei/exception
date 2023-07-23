@@ -4,7 +4,7 @@
 
 
 <!-- Running Local Server
-$ bundle exec jekyll s --
+$ bundle exec jekyll s -l
 
 Running Upgrade
 - gem "jekyll-theme-chirpy", "~> 3.2"
@@ -28,4 +28,4 @@ image:
 
 TOP IMAGE RESOLUTION
 1200 x 630
->
+->
