@@ -14,11 +14,11 @@ It all started at the beginning of the year when I made a conscious decision to 
 
 Less partying, more time spent indoors, and an insatiable thirst for knowledge. My goal? To explore new career fields and excercise my brain.
 
-That's when I enrolled on Coursera, an online learning platform that felt like a treasure trove of opportunities. Without hesitation, I dove headfirst into the vast sea of courses available. Data Analytics, IT Support, Business Intelligence, Digital Marketing—you name it, I devoured it. 
+I enrolled on Coursera, an online learning platform that felt like a treasure trove of opportunities. Without hesitation, I dove headfirst into the vast sea of courses available. I enrolled and completed Data Analytics, IT Support, Business Intelligence, Digital Marketing. 
 
 It was the perfect complement to the UX Design and Project Management courses I had completed the previous year. If you're curious about my journey, you can check out my impressive collection of achievement on my [dashboard](https://www.credly.com/users/patrick-kyei).
 
-For six months straight, I dedicated myself to an intense study regimen. Day and night, I immersed myself in the world of learning, determined to conquer every course and gain practical skills.
+For six months straight, I dedicated myself to an intense study regimen. Day and night, I immersed myself in the world of learning, determined to complete the courses I'd enrolled in and gain practical skills.
 
 Hands-on activities and captivating portfolio projects fueled my progress, making the journey even more exciting.
 
@@ -28,4 +28,4 @@ And that's not all—I eagerly anticipate taking on fresh challenges and further
 
 I can't contain my excitement! If you want to witness my transformation and stay updated on my journey, head over to my [projects page](https://patrickkyei.com/projects/). 
 
-Brace yourself for a whirlwind of creativity and growth. Trust me, this is just the beginning. Stay tuned, because the best is yet to come!
+I am excited about what I will apply these new skills to and how that will shape my growth. Trust me, this is just the beginning. Stay tuned, because the best is yet to come!
