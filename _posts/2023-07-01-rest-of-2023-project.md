@@ -1,5 +1,5 @@
 ---
-title: The rest of 2023
+title: The Year 2023
 date: 2023-07-01 07:50:00 +00
 categories: [Projects, Year]
 tags: [projects, year, portfolio]  
