@@ -18,7 +18,7 @@ order: 5
     {% capture cur_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 
     {% if cur_year != last_year %}
-      {% unless forloop.first %}</ul>{% endunless %}
+      {% unless forloop.first %} {% endunless %}
       <div class="year lead">{{ cur_year }}</div>
       <ul class="list-unstyled">
       {% assign last_year = cur_year %}
