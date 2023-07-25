@@ -4,7 +4,7 @@ date: 2023-07-25 6:40:00 +00
 categories: [Technical, Messenger]
 tags: [messenger, chat, technical]   # TAG names should always be lowercase
 ---
-{% raw %}
+
 # Messenger Chat Plugin Code
 div#fb-root
 
@@ -33,4 +33,3 @@ script.
     fjs.parentNode.insertBefore(js, fjs);
   }(document, 'script', 'facebook-jssdk'));
 
-  {% endraw %}
