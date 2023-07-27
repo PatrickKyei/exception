@@ -189,6 +189,9 @@ It just happens that:
 
 * [Design Files](https://uplabs.com/)
 
+* [Figma Design Components](https://www.figcomponents.com/)
+
+
 * [Landing pages store](https://lapa.ninja/)
 
 * [Wireframes and mockups](https://uibundle.com)
@@ -311,7 +314,7 @@ It just happens that:
 
 * [Practice Design by doing](https://fakeclients.com/)
 
-* [Solve Desing briefs](https://goodbrief.io/)
+* [Solve Design briefs](https://goodbrief.io/)
 
 * [UI Design Challenges](https://app.crowwwn.com/)
 
