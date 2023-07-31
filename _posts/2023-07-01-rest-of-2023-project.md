@@ -4,7 +4,7 @@ date: 2023-07-01 07:50:00 +00
 categories: [Growth, Year]
 tags: [learning, year, portfolio]  
 image:
-  path: /assets/img/social-life.jpg
+  path: /assets/img/office-relax.jpg
   alt: projects
 
 # TAG names should always be lowercase
