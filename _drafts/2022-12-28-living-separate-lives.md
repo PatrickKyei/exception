@@ -1,5 +1,5 @@
 ---
-title: Living Separe Lives
+title: Living Separate Lives
 date: 2022-12-28 14:30:00 +00
 categories: [Romance, Lyrics]
 tags: [phil collins, romance, lyrics]     # TAG names should always be lowercase
