@@ -4,7 +4,7 @@ date: 2023-05-28 07:50:00 +00
 categories: [Career, Networking]
 tags: [career, job, networking]  
 image:
-  path: /assets/img/collaboration-doodle.png
+  path: /assets/img/collaboration-doodle.jpg
   alt: collaboration
 
 # TAG names should always be lowercase
