@@ -1,5 +1,5 @@
 ---
-title: Stop Burning Yourself
+title: Why Do You Keep Burning Yourself?
 date: 2023-07-31 22:30:00 +00
 categories: [Mistakes, Lessons]
 tags: [mistakes, lessons, experience]     # TAG names should always be lowercase
