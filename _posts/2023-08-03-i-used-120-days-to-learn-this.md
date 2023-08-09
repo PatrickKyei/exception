@@ -42,3 +42,7 @@ Abraham Maslow theory of needs cuts across every experience of our lives. Our ba
 
 
 
+Depending on your experience this may sound familiar or unfamiliar to you.
+
+In 2022 a pursued a project in completely new environment and lifestyle. Far from what I was accustomed to.
+
