@@ -1,6 +1,9 @@
 ---
 title: I Spent 120 Days Out of Touch With Everything, This Is What I Learnt
 date: 2023-08-03 03:30:00 +00
+image:
+  path: /assets/img/eastern-trip.jpg
+  alt: trip
 categories: [Experience, Lessons]
 tags: [lessons, adventure, experience]     # TAG names should always be lowercase
 ---
@@ -15,7 +18,7 @@ In 2022 a pursued a project in completely new environment and lifestyle. Far fro
 
 In June 2022 I parked a few things in my backpack and embarked on a journey to a place I have never lived. A place I had no relative or someone I could call a friend. 
 
-![eastern-trip](assets/img/eastern-trip.jpg)
+![eastern-trip](assets/img/eastern-pic.jpg)
 
 I left a stable job and embraced the opportunity to start something from scratch and learn a lot from this process. But it didn't come easy. It had it's own up and downs.
 
