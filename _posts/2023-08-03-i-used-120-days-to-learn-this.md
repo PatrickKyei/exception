@@ -48,16 +48,17 @@ Abraham Maslow theory of needs cuts across every experience of our lives. Our ba
 
 ### Don't Downplay Relationships And Your Support Network
 
-The saying that your network is your networth is true in all dimensions. 
+The saying that your network is your networth is true in all forms. 
 
-One of the people I immediately established a friendship with was my barber. At least I saw him once every 15 days and that means if I needed any information about the community I could go to him.
+One of the people I immediately established friendship with was my barber. At least I saw him once every 15 days and that means if I needed any information about the community I could go to him.
 
-He was actually a nice guy to have a chat with. Many times he had stories about the town to share. And he made my boring days a bit cheerful. I would just visit his shop on weekends and I was not busy to go chat. Sometimes I went with movies he had requested me to download for him. We watched the Transformers Age of the Beast, John Wick 4, Cocaine Bear etc.
+He was actually a nice guy to have conversation with. Many times he had stories about the town to share. And he made my boring days a bit cheerful. I would just visit his shop on weekends and days I was not busy to chat. Sometimes I went with movies he had requested me to download for him. We watched the Transformers Age of the Beast, John Wick 4, Cocaine Bear etc.
 
+...
 
 ### Asking For Help Is Strength
 
-It This was a completely new environment for me. Which means that there were many things I needed someone to help me with which included getting access to certain information I didn't have.
+This was a completely new environment for me. Which means that there were many things I needed someone to help me out with which included getting access to certain information I didn't have.
 
 It's true, sometimes it's difficult to approach a stranger and ask for their help even though we need it badly. The interesting thing is that a lot of people are ready and happy to help us if only we ask.
 
