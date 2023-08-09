@@ -56,7 +56,9 @@ He was actually a nice guy to have conversation with. Many times he had stories 
 
 ...
 
-### Asking For Help Is Strength
+### Asking For Help Is A Sign Strength
+
+Contrary to our prenotion about asking for from other people, it is a sign of strength to ask someone for help.
 
 This was a completely new environment for me. Which means that there were many things I needed someone to help me out with which included getting access to certain information I didn't have.
 
