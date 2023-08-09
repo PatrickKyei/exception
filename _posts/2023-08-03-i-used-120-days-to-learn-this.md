@@ -10,7 +10,7 @@ tags: [lessons, adventure, experience]     # TAG names should always be lowercas
 
 Depending on your experience this may sound familiar or unfamiliar to you.
 
-In 2022 a pursued a project in completely new environment and lifestyle. Far from what I was accustomed to.
+In 2022 I pursued a project in a completely new environment and lifestyle. Far from what I was accustomed to.
 
 > I spent 120 days away from everthing I know and I am familiar with, this is what I learnt.
 
@@ -27,6 +27,12 @@ I left a stable job and embraced the opportunity to start something from scratch
 One of the most important things that struck me was that I could start my life all over again if I needed to. 
 
 > I hope you live a life you are proud of. And if you find that you are not, I hope you have the strength to start all over again.
+
+There are times that we need a change in our lives but are unable to go after it because of the fear of starting over - doing something we are unfamiliar or completely nee to us. But change is inevitable, it's the only thing we can count on.
+
+So to me I see change as an opportunity to try new things and see what will really work for me.
+
+Besides your early years is the period you can do these things whiles you are not committed to family duties.
 
 ### Your Basic Needs First Over Anything
 
