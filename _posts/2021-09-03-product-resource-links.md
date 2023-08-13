@@ -5,21 +5,18 @@ categories: [Resources, Links]
 tags: [resources, links, technical, projects]     # TAG names should always be lowercase
 ---
 
-Links to some of the resources you might just find helpful.
+Links to product resources you might just find helpful.
 
-It just happens that:
-
-> If you can find answers to every **where`**, you can find a solution to any **how**.
 
 ## For Product Designers
 
 * [All In One Design Resources](https://www.evernote.design/categories/design-tools/)
 
-* [UX Database](https://www.uxdatabase.io)
-
 * [Designer Roadmap](https://roadmap.sh/)
 
 * [Create Prototypes](https://humbleux.com)
+
+### Design Systems
 
 * [Material Design - Google](https://material.io/design)
 
@@ -35,11 +32,19 @@ It just happens that:
 
 * [Design Components Inspiration](https://calltoinspiration.com/)
 
-* [Designers Store](https://www.uistore.design/)
+### Design Lessons and Education
 
 * [The Beginner's Guide to UX/UI Design](https://www.notion.so/The-Beginner-s-Guide-to-UI-UX-Design-6c0ff9e6afe84a35b2090dfde1ebed89)
 
+* [UX Database](https://www.uxdatabase.io)
+
 * [UX/UI products for career journey](https://designerassets.in/ui-ux-design/)
+
+* [Designers Store](https://www.uistore.design/)
+
+
+
+### Color Palletes and Gradients
 
 * [Colors from Adobe](https://color.adobe.com)
 
@@ -83,7 +88,7 @@ It just happens that:
 
 * [Color Shades Generator](https://omatsuri.app/color-shades-generator)
 
-* [iconfinder](https://iconfinder.com)
+
 
 * [SVG P_rn](https://svgporn.com/)
 
@@ -93,23 +98,9 @@ It just happens that:
 
 * [Free Logos for any Project](https://logoipsum.com/)
 
-* [Photos from Pixeden](https://pixeden.com/)
-
-* [Photos from Pixabay](https://pixabay.com/)
-
-* [Photos from Pxfuel](https://pxfuel.com/)
-
-* [Photos from Pexels](https://pexels.com/)
-
 * [Flat Icon](https://www.flaticon.com/)
 
 * [Brand Resource](https://niice.co/)
-
-* [Page flows - Videos](https://pageflows.com/)
-
-* [Page Collective](https://pagecollective.com/)
-
-* [Photoshop freebies](https://365psd.com/)
 
 * [Free Design Resource](https://freedesignresources.net/)
 
@@ -143,17 +134,7 @@ It just happens that:
 
 * [Illustrations - Undraw](https://undraw.co/illustrations)
 
-* [Icon, Illustrations for Designers](https://streamlinehq.com/)
 
-* [Illustrations - Flexiple](https://2.flexiple.com/scale/all-illustrations)
-
-* [Illustrations - Draw Kit](https://drawkit.io/)
-
-* [Illustrations - Absurd](https://absurd.design)
-
-* [Illustration - Free Vector](https://pixeltrue.com/)
-
-* [Illustrations - Many Pixels](https://www.manypixels.co/gallery)
 
 * [Graphic Resources for Everyone](https://freepik.com)
 
@@ -179,7 +160,11 @@ It just happens that:
 
 * [Free Mockup](https://previewed.app/)
 
+### Icons
+
 * [Open source Icon](https://remixicon.com/)
+
+* [iconfinder](https://iconfinder.com)
 
 * [Remove Background](https://remove.bg/)
 
@@ -193,6 +178,7 @@ It just happens that:
 
 * [Figma Design Components](https://www.figcomponents.com/)
 
+### Design Trends and Inspirations
 
 * [Landing pages store](https://lapa.ninja/)
 
@@ -234,9 +220,37 @@ It just happens that:
 
 * [Build without code](https://webflow.com/)
 
-* [Free 3D shapes](https://shapefest.com/#browse)
+
+
+### Illustrations-Photos-Vectors-3Ddesigns
+
+* [Photoshop freebies](https://365psd.com/)
+
+* [Photos from Pixeden](https://pixeden.com/)
+
+* [Photos from Pixabay](https://pixabay.com/)
+
+* [Photos from Pxfuel](https://pxfuel.com/)
+
+* [Photos from Pexels](https://pexels.com/)
+
+* [Icon, Illustrations for Designers](https://streamlinehq.com/)
+
+* [Illustrations - Flexiple](https://2.flexiple.com/scale/all-illustrations)
+
+* [Illustrations free Customize Animate & Download](https://storyset.com/)
+
+* [Illustrations - Draw Kit](https://drawkit.io/)
+
+* [Illustrations - Absurd](https://absurd.design)
+
+* [Illustration - Free Vector](https://pixeltrue.com/)
+
+* [Illustrations - Many Pixels](https://www.manypixels.co/gallery)
 
 * [Shapes, Illustrations and Icons](https://shape.so/)
+
+* [Free 3D shapes](https://shapefest.com/#browse)
 
 * [Download Adinkra Icons](https://adinkraicons.dev/)
 
@@ -256,23 +270,43 @@ It just happens that:
 
 * [Mockups](https://mockuper.net/)
 
-* [App Screenshots](https://scrnshts.club/)
+### App Screens/Interfaces
+
+* [App Screenshots Club](https://scrnshts.club/)
+
+* [Flowstep](https://flowstep.design/)
+
+* [Screenlane](https://screenlane.com/)
+
+* [Page Flow](https://pageflows.com/)
+
+* [Page Collective](https://pagecollective.com/)
 
 * [User Onboarding](https://useronboard.com/user-onboarding-teardowns/)
 
-* [Online photo editor](https://photopea.com)
+### Photo and Vector Editors
 
-* [Customize Animate & Download free Illustrations](https://storyset.com/)
+* [Online Vector Editor](https://editor.method.ac/)
+
+* [Online photo editor](https://photopea.com)
 
 * [Font Generator](https://fontello.com/)
 
 * [font pairing](https://www.fontpair.co/)
 
-* Present Design with Mockups: [3D Studio](https://previewed.app/), [Artboard](https://artboard.studio/), [Mockup Frames](https://mokupframes.com/), [Smartmockups](https://smartmockups.com/), [Mockuphone](https://mockuphone.com/), [Mockuuuup Studio](https://mockuuups.studio/), [Magic Mockups](https://magicmockups.com/), [Facebook Design Tools](https://design.facebook.com/)
+#### Present Design with Mockups: 
+* [3D Studio](https://previewed.app/) 
+* [Artboard](https://artboard.studio/) 
+* [Mockup Frames](https://mokupframes.com/)
+* [Smartmockups](https://smartmockups.com/)
+* [Mockuphone](https://mockuphone.com/)
+* [Mockuuuup Studio](https://mockuuups.studio/)
+* [Magic Mockups](https://magicmockups.com/)
+* [Facebook Design Tools](https://design.facebook.com/)
+
+### Design Practice - Become A Better Designer
 
 * [Learn Shape Tricks](https://boolean.method.ac/)
-
-* [Learn Alignment](https://www.supremo.co.uk/designers-eye/)
 
 * [Learn Typography](https://betterwebtype.com/triangle/)
 
@@ -290,9 +324,9 @@ It just happens that:
 
 * [Cant' Unsee Design practice](https://cantunsee.space)
 
-* [Online Vector Editor](https://editor.method.ac/)
-
 * [Ben Sounds](https://bensound.com/)
+
+### Font Tools
 
 * [AI Auto Draw Tool](https://www.autodraw.com/)
 
@@ -306,6 +340,8 @@ It just happens that:
 
 * [Remote Design Jobs](https://designfromanywhere.web.app/)
 
+### Design Prompts for Portfolio
+
 * [Bitsize Design Practice](https://befront.io/)
 
 * [Design Prompt Generator](https://designercize.com/)
@@ -318,11 +354,14 @@ It just happens that:
 
 * [Solve Design briefs](https://goodbrief.io/)
 
-* [UI Design Challenges](https://app.crowwwn.com/)
+
+### Design Challenges
 
 * [Daily UI challenges: Become a better designer in 100 days](https://dailyui.co/)
 
 * [Design Daily](https://uidesigndaily.com/)
+
+* [UI Design Challenges](https://app.crowwwn.com/)
 
 * [UX Challenge](http://www.uxchallenge.co/)
 

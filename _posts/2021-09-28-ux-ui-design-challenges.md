@@ -134,10 +134,51 @@ Design Hint...
 
 Design a Flash Message with both the outcome for an error and success. Is it for a sign up form? A download/upload message?
 
-![day ten](/assets/img/flash-message-thumbnail.png)
+![day eleven](/assets/img/flash-message-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/NKwvmYSIwV8sggoSJ1406W/Daily-UI-%3A%3A-010?node-id=2%3A255&viewport=241%2C48%2C1&scaling=min-zoom&page-id=0%3A1%3Ffuid%3D901914268454600757)
 
 ### Working towards my certification, I will resume once done. Thank you!!
 
 ### Back from the long Wait!!
+
+## Daily UI :: 012
+
+Design Hint...
+
+Design an e-commerce shop. Is it simple for a local business or a large online retailer? Is it for clothing, shoes, handmade soap, or something else?  
+
+![day twelve](/assets/img/single-product.png)
+
+[Demo Page](https://www.figma.com/proto/feysabsdNWx1zREoMSSt32/Daily-UI-%3A%3A-012?type=design&node-id=404-60&t=Xt0LtWpOIA4IVsIt-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+## Daily UI :: 013
+
+Design Hint...
+
+Design an e-commerce shop. Is it simple for a local business or a large online retailer? Is it for clothing, shoes, handmade soap, or something else?  
+
+![day thirteen](/assets/img/direct-messaging-thumbnail.png)
+
+[Demo Page](https://www.figma.com/proto/iCVLOTgu7fpD6zasCaxgTX/Daily-UI-%3A%3A-013?type=design&node-id=16-165&t=deEtuR3RUtq6861j-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=16%3A165&mode=design)
+
+
+## Daily UI :: 014
+
+Design Hint...
+
+Design a Countdown-timer. Is it for an app? An interface for an oven or cooking device? A sport related countdown such as on a scoreboard? Or is it a launch countdown for NASA, race cars, or something else? 
+
+![day fourteen](/assets/img/countdown-timer-thumbnail.png)
+
+[Demo Page](https://www.figma.com/proto/iCVLOTgu7fpD6zasCaxgTX/Daily-UI-%3A%3A-013?type=design&node-id=16-165&t=deEtuR3RUtq6861j-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=16%3A165&mode=design)
+
+## Daily UI :: 015
+
+Design Hint...
+
+Design a Countdown-timer. Is it for an app? An interface for an oven or cooking device? A sport related countdown such as on a scoreboard? Or is it a launch countdown for NASA, race cars, or something else? 
+
+![day fifteen](/assets/img/countdown-timer-thumbnail.png)
+
+[Demo Page](https://www.figma.com/proto/iCVLOTgu7fpD6zasCaxgTX/Daily-UI-%3A%3A-013?type=design&node-id=16-165&t=deEtuR3RUtq6861j-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=16%3A165&mode=design)
