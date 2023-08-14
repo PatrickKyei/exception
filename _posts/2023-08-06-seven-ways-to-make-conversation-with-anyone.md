@@ -10,7 +10,7 @@ tags: [rapport, strangers, conversation]     # TAG names should always be lowerc
 
 Talking to new people might seem like a lot of work, but I've got some easy tricks to help you out. 
 
-You see, strangers can be bring awesome opportunities. Each person brings a new experience, chance to learn something new, experience something different, or hear a story you've never heard before. 
+You see, strangers can bring awesome opportunities. Each person brings a new experience, chance to learn something new, experience something different, or hear a story you've never heard before. 
 
 Imagine you're in a room, and you spot someone you want to talk to. You feel the first word on your lips, but it's stuck somewhere in your throat. You are shy. Don't worry, just say it!
 
