@@ -1,3 +1,10 @@
+---
+title: Projects
+date: 2023-04-09 18:35:00 +00
+categories: [Projects, Experience]
+tags: [projects, team, work]     # TAG names should always be lowercase
+---
+
 Projects I worked on directly or worked on together with different teams.
 
 - [Project Management : Sauce and Spoon](https://patrickkyei.com/posts/project-management-career-path/)
