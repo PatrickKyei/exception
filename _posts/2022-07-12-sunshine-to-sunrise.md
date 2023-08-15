@@ -5,7 +5,7 @@ categories: [Life, Sunshine]
 tags: [life, sunshine, new]     # TAG names should always be lowercase
 ---
 
-![full-year](/assets/img/full-year.gif)
+![full-year](/assets/img/full-year.jpg)
 
 Hey ...
 
