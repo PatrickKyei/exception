@@ -1,15 +1,20 @@
 ---
 title: LOVE is a LOSING GAME
 date: 2022-04-09 18:35:00 +00
+image:
+  path: /assets/img/confused-girl.png
+  alt: confused girl
 categories: [Love, Choice]
 tags: [choice, life, love]     # TAG names should always be lowercase
 ---
 
-![kind love](/assets/img/kind-love.jpg){: .shadow }
+
 
 > **4** Love is patient, love is kind. It does not envy, it does not boast, it is not proud. **5** It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. **6** Love does not delight in evil but rejoices with the truth. **7** It always protects, always trust, always hopes, always perseveres.
 
 Love comes with a lot of promises. You go into it hearing many promises and giving a lot of promises of your own without knowing exactly what to expect in return. So yeah, from the onset, you start giving something without knowing what to get in return.
+
+![kind love](/assets/img/kind-love.jpg){: .shadow }
 
 What are your beliefs, principles, values in a relationship? You go in compromising and giving up a lot of them. Maybe that's how it's designed to be? I can't really tell.
 
