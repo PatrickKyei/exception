@@ -179,6 +179,6 @@ Design Hint...
 
 Design a Countdown-timer. Is it for an app? An interface for an oven or cooking device? A sport related countdown such as on a scoreboard? Or is it a launch countdown for NASA, race cars, or something else? 
 
-![day fifteen](/assets/img/countdown-timer-thumbnail.png)
+![day fifteen](/assets/img/On-off-switch-thumbnail.png)
 
-[Demo Page](https://www.figma.com/proto/iCVLOTgu7fpD6zasCaxgTX/Daily-UI-%3A%3A-013?type=design&node-id=16-165&t=deEtuR3RUtq6861j-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=16%3A165&mode=design)
+[Demo Page](https://www.figma.com/proto/5mkxVreWhuvH4CFmy9Dcgp/Daily-UI-%3A%3A-015?type=design&node-id=9-102&t=UZjGVdxYT6J2PBp8-1&scaling=min-zoom&page-id=0%3A1&mode=design)
