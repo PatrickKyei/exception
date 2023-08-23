@@ -12,7 +12,7 @@ In the midst of life's bustling chaos, there's a quiet corner of my heart where 
 
 There are moments I've looked back upon in the tapestry of our journey, realizing I might not have painted our story with all the shades of love it deserved. There were times when I faltered, allowing the noise of the world to overshadow the melody of your heart.
 
-{% include embed/{youtube}.html id='{wTRSlZEq_l0}' %}
+{% include embed/youtube.html id='wTRSlZEq_l0' %}
 
 If ever I made you feel like a distant star when you deserved to be the sun, know that my heart carries the weight of that realization.
 
