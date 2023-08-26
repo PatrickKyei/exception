@@ -8,8 +8,6 @@ categories: [Networking, Communication]
 tags: [communication, relationships]     # TAG names should always be lowercase
 ---
 
-![talking](/assets/img/conversation-starters.jpg)
-
 ## Introduction
 
 Striking and maintaining an interesting conversation is not always simple and easy for many. In an age where we love to express ourselves with emojis and memes, people are losing the skill of expressing themselves through valuable conversations. An age where you click a button to express you like someone or something - an age where you can express your dislike or hate for something with the click of a button, people are growing into the habit of ending it there when they say just a word. They lose the opportunity of knowing and experiencing what maintaining a valuable conversation can lead one to.
