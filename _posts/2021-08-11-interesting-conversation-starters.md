@@ -74,19 +74,19 @@ These are not exhausted list of some interesting questions and topics to spike y
 
 7. Are you a reserved or open person?
 
-8. How does humor influence your mood.
+8. How does humor influence your mood?
 
 9. Who do you text most in a day?
 
 10. What is your opinion about sin/evil in the world?
 
-11. What is the hardest part of your work.
+11. What is the hardest part of your work?
 
 12. What is the worst advice you ever heard?
 
-13. What is the one thing you will never do no matter the situation.
+13. What is the one thing you will never do no matter the situation?
 
-14. What is the worst pick-up line you have ever heard'
+14. What is the worst pick-up line you have ever heard?
 
 15. What is the worst present you have ever received and why?
 
@@ -94,9 +94,9 @@ These are not exhausted list of some interesting questions and topics to spike y
 
 17. Have you ever been on a blind date before?
 
-18. What is the first thing you think about when you wake up in the morning.
+18. What is the first thing you think about when you wake up in the morning?
 
-19. If your friend is sad what would you do to make them feel better.
+19. If your friend is sad what would you do to make them feel better?
 
 20. What is the silliest thing someone has ever said to you?
 
@@ -110,7 +110,7 @@ These are not exhausted list of some interesting questions and topics to spike y
 
 25. What hurt your feelings?
 
-26. If you could be famous, would you want to?why?
+26. If you could be famous, would you want to? Why?
 
 27. If you could have more friends would you?
 
@@ -160,7 +160,7 @@ These are not exhausted list of some interesting questions and topics to spike y
 
 50. What do you think people need to know about each other before getting married?
 
-51. What do i do that makes you relaxed or happy?
+51. What do I do that makes you relaxed or happy?
 
 52. What three things do you want to be remembered for?
 
@@ -234,7 +234,7 @@ These are not exhausted list of some interesting questions and topics to spike y
 
 87. What’s one thing you’ve won and how did you win it?
 
-88. What’s one thing you’ve won and how did you win it?
+88. What simplel acts of life warms your heart?
 
 89. How long can you go without checking your phone?
 
@@ -262,11 +262,21 @@ These are not exhausted list of some interesting questions and topics to spike y
 
 101. If you could only pack one thing for a trip (besides clothing) what would it be?
 
-102. If you could only pack one thing for a trip (besides clothing) what would it be?
+102. What is the fondest moment of your childhoold that you still remember?
 
 103. If your plane was going down, who would you would call?
 
-For the most part, these should save you from not having anything at all to say. But as you go out and meet people regularly, you will develop the strategy that works best for you. Good luck in desire to build new and healthy relationships. Go out and have fun!
+104. If you could wake up tomorrow having gained any one quality or ability, what would it be?
+
+105. If you could change anything about the way you were raised, what would it be?
+
+106. If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?
+
+107. What does friendship mean to you?
+
+For the most part, these should save you from not having anything at all to say. But as you go out and meet people regularly, you will develop the strategy that works best for you. 
+
+Good luck in desire to build new and healthy relationships. Go out and have fun!
 
 <!-- ## Intimate questions
 
@@ -288,11 +298,8 @@ For the most part, these should save you from not having anything at all to say.
 
 9. For what in your life do you feel most grateful?
 
-10. If you could change anything about the way you were raised, what would it be?
 
 11. Take four minutes and tell your partner your life story in as much detail as possible.
-
-12. If you could wake up tomorrow having gained any one quality or ability, what would it be?
 
 13. If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?
 
@@ -307,8 +314,6 @@ For the most part, these should save you from not having anything at all to say.
 18. What is your most terrible memory?
 
 19. If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?
-
-20. What does friendship mean to you?
 
 21. What roles do love and affection play in your life?
 
@@ -334,7 +339,6 @@ For the most part, these should save you from not having anything at all to say.
 
 32. What, if anything, is too serious to be joked about?
 
-33. If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?
 
 34. Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?
 
