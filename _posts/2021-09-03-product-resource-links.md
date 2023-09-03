@@ -680,7 +680,9 @@ Links to product resources you might just find helpful.
 
 * [Sketch Explanations](https://sketchplanations.com/)
 
-* [Drawio](https://draw.io)
+* [Drawio - Flow Chart Maker](https://draw.io)
+
+* [Auto Draw - Ai Experiment Drawing](https://autodraw.com)
 
 * [xkcd sketch explanations](https://xkcd.com)
 
