@@ -614,9 +614,9 @@ Links to product resources you might just find helpful.
 
 * [Calender for Meetings](https://calendly.com/)
 
-* [Content Management](https://buffer.com)
+* [Content Management Buffer](https://buffer.com)
 
-* [Content Management](https://hootsuite.com)
+* [Content Management Hootsuite](https://hootsuite.com)
 
 * [Keyword generator](https://keywordtool.io)
 
@@ -662,7 +662,7 @@ Links to product resources you might just find helpful.
 
 * [Title Generator](https://tweakyourbiz.com/title-generator/)
 
-* [Hand-drawn Slide Deck](https://app.excalideck.com/)
+* [Hand-drawn Slide Deck](https://excalidraw.com/)
 
 * [Our World In Data](https://ourworldindata.org/)
 
