@@ -2,7 +2,7 @@
 title: How to Add Protection to Your Website
 date: 2023-08-30 07:13:20 +00
 image:
-  path: /assets/img/Speed-Security-Everywhere.svg
+  path: /assets/img/speed-security-everywhere.jpg
   alt: talking
 categories: [Networks, Security]
 tags: [protection, security, website, cloudflare]     # TAG names should always be lowercase

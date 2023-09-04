@@ -192,3 +192,13 @@ Design a Pop-Up/Overlay. Is it a web sign-up form that pops up? Is it an ad over
 ![day sixteen](/assets/img/pop-up-overlay-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/VScfUV1QcZeYnDvKCGIeqe/Daily-UI-%3A%3A-016?type=design&node-id=4-21&t=xYCGwpCgfphN5Ape-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=4%3A21&mode=design)
+
+## Daily UI :: 017
+
+Design Hint...
+
+Design a Purchase Receipt. What was purchased? On what date? How much was the item? And from what source and vendor?
+
+![day seventeen](/assets/img/pop-up-overlay-thumbnail.png)
+
+[Demo Page](https://www.figma.com/proto/Umf2bqAGZYH878FnMs9Qcn/Daily-UI-%3A%3A-017?type=design&node-id=2-18&t=SH21i4jYoH8nrWoS-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A18&mode=design)
