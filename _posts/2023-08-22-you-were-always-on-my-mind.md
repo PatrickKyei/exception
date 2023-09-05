@@ -1,5 +1,5 @@
 ---
-title: You Were Always On My Mind
+title: She Left Without A Goodbye So I Left Her A Message To Let Things Go
 date: 2023-08-22 03:30:00 +00
 image:
   path: /assets/img/on-mind.jpg

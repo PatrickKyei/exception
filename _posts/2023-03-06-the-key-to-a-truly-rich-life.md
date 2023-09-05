@@ -1,5 +1,5 @@
 ---
-title: Creating Meaning And Fulfillment - The Key To A Truly Rich Life
+title: How To Create Meaning And Fulfillment - The Key To A Truly Rich Life
 date: 2023-03-06 18:30:00 +00
 categories: [Gratitude, Meaning]
 tags: [blessings, meaning, gratitude] 
