@@ -19,7 +19,7 @@ Always have this principle that whenever you sacrifice something now, you will r
 
 ## Start reading
 
-If you come to Stoicism and you don’t read, then now is the best time to start. Reading is going through the thought process of others. You’re basically copy-pasting ways of living and many other different stuff from others.
+If you come to here and you don’t read, then now is the best time to start. Reading is going through the thought process of others. You’re basically copy-pasting ways of living and many other different stuff from others.
 
 ## Write
 
@@ -27,7 +27,9 @@ Writing helps you organize your thoughts and new ideas, so that they’re not ju
 
 ## Exercise
 
-It is a shame for a man to grow old without seeing the beauty and strength which his body is capable of, said Socrates. Other than just strength and beauty, there’s also a lot of benefits for exercising, such as stress relief, increase in serotonin, testosterone, etc.
+> It is a shame for a man to grow old without seeing the beauty and strength which his body is capable of, said Socrates. 
+
+Other than just strength and beauty, there’s also a lot of benefits for exercising, such as **stress relief**, **increase in serotonin**, **testosterone**, etc.
 
 ## Take responsibility, at least for your own failures and mistakes
 
