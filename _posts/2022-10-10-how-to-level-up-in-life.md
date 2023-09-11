@@ -1,11 +1,13 @@
 ---
 title: How To Level Up In Life
 date: 2022-10-10 13:43:00 +00
+image:
+  path: /assets/img/level-up.jpg
+  alt: level-up
 categories: [Life, Growth]
 tags: [life, growth, process]     # TAG names should always be lowercase
 ---
 
-![level-up](/assets/img/level-up.jpg)
 
 ## Stop wasting your time
 
