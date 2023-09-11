@@ -44,6 +44,7 @@ Links to product resources you might just find helpful.
 
 * [Product Design Roadmap](https://product-design-roadmap.com/)
 
+*  [Hack Design Education](https://hackdesign.org)
 
 
 
