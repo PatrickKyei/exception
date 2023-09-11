@@ -19,7 +19,7 @@ Always have this principle that whenever you sacrifice something now, you will r
 
 ## Start reading
 
-If you come to here and you don’t read, then now is the best time to start. Reading is going through the thought process of others. You’re basically copy-pasting ways of living and many other different stuff from others.
+If you come here and you don’t read, then now is the best time to start. Reading is going through the thought process of others. You’re basically copy-pasting ways of living and many other different stuff from others.
 
 ## Write
 
