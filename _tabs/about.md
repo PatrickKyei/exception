@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info
-order: 4
+order: 5
 ---
 
 Hey I'm glad you are here. My name is Patrick.
