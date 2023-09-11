@@ -5,7 +5,7 @@ image:
   path: /assets/img/level-up.jpg
   alt: level-up
 categories: [Life, Growth]
-tags: [life, growth, process]     # TAG names should always be lowercase
+tags: [life, growth, development]     # TAG names should always be lowercase
 ---
 
 
