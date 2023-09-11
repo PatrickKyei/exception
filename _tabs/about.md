@@ -6,7 +6,7 @@ order: 5
 
 Hey I'm glad you are here. My name is Patrick.
 
-An experienced product professional with skills in product management, design, and project management. Balances technical and business acumen to deliver impactful products with user-centered design. Leads cross-functional teams and delivers on-time, within budget. 
+An experienced product professional with skills in product management, design, and project management. I balance technical and business acumen to deliver impactful products with user-centered design. Have experience Leading cross-functional teams and delivers on-time, within budget. 
 
 > I create digital products
 > that are driven by  
