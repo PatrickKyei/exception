@@ -1,5 +1,5 @@
 ---
-title: How To Level Up In Life
+title: How Can I Level Up In Life?
 date: 2022-10-10 13:43:00 +00
 image:
   path: /assets/img/level-up.jpg
