@@ -1,6 +1,5 @@
 ---
 title: How To Level Up In Life
-author: anonymous
 date: 2022-10-10 13:43:00 +00
 categories: [Life, Growth]
 tags: [life, growth, process]     # TAG names should always be lowercase
