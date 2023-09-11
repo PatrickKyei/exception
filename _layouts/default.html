@@ -3,59 +3,49 @@ layout: compress
 # Default layout
 ---
 
-<!doctype html>
+<!DOCTYPE html>
 
-{% include origin-type.html %}
-
-{% include lang.html %}
-
-{% capture prefer_mode %}
-  {% if site.theme_mode %}
-    data-mode="{{ site.theme_mode }}"
-  {% endif %}
-{% endcapture %}
-
-{% if layout.tail_includes %}
-  {% assign has_tail = true %}
-{% endif %}
+{% include origin-type.html %} {% include lang.html %} {% capture prefer_mode %}
+{% if site.theme_mode %} data-mode="{{ site.theme_mode }}" {% endif %} {%
+endcapture %} {% if layout.tail_includes %} {% assign has_tail = true %} {%
+endif %}
 
 <!-- `site.alt_lang` can specify a language different from the UI -->
 <html lang="{{ site.alt_lang | default: site.lang }}" {{ prefer_mode }}>
   {% include head.html %}
 
   <body>
-      
-    {% include fb-messenger-chat.html %}
-      
-    {% include sidebar.html lang=lang %}
+    {% include fb-messenger-chat.html %} {% include sidebar.html lang=lang %}
 
     <div id="fb-root"></div>
-<!-- Your Chat Plugin code -->
-<div id="fb-customer-chat" class="fb-customerchat"></div>
-<script>
-  var chatbox = document.getElementById('fb-customer-chat');
-  chatbox.setAttribute("page_id", "105512498005912");
-  chatbox.setAttribute("attribution", "biz_inbox");
-</script>
-<!-- Your SDK code -->
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      xfbml: true,
-      version: 'v17.0'
-    });
-  };
+    <!-- Your Chat Plugin code -->
+    <div id="fb-customer-chat" class="fb-customerchat"></div>
+    <script>
+      var chatbox = document.getElementById("fb-customer-chat");
+      chatbox.setAttribute("page_id", "105512498005912");
+      chatbox.setAttribute("attribution", "biz_inbox");
+    </script>
+    <!-- Your SDK code -->
+    <script>
+      window.fbAsyncInit = function () {
+        FB.init({
+          xfbml: true,
+          version: "v17.0",
+        });
+      };
 
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s);
-    js.id = id;
-    js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-</script>
+      (function (d, s, id) {
+        var js,
+          fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js";
+        fjs.parentNode.insertBefore(js, fjs);
+      })(document, "script", "facebook-jssdk");
+    </script>
 
+    <!-- end of script -->
 
     <div id="main-wrapper" class="d-flex justify-content-center">
       <div class="container px-xxl-5">
@@ -70,30 +60,29 @@ layout: compress
           </main>
 
           <!-- panel -->
-          <aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 text-muted">
+          <aside
+            aria-label="Panel"
+            id="panel-wrapper"
+            class="col-xl-3 ps-2 text-muted"
+          >
             <div class="access">
-              {% include_cached update-list.html lang=lang %}
-              {% include_cached trending-tags.html lang=lang %}
+              {% include_cached update-list.html lang=lang %} {% include_cached
+              trending-tags.html lang=lang %}
             </div>
 
-            {% for _include in layout.panel_includes %}
-              {% assign _include_path = _include | append: '.html' %}
-              {% include {{ _include_path }} lang=lang %}
-            {% endfor %}
+            {% for _include in layout.panel_includes %} {% assign _include_path
+            = _include | append: '.html' %} {% include {{ _include_path }}
+            lang=lang %} {% endfor %}
           </aside>
         </div>
 
         <div class="row">
           <!-- tail -->
           <div id="tail-wrapper" class="col-12 col-lg-11 col-xl-9 px-md-4">
-            {% if has_tail %}
-              {% for _include in layout.tail_includes %}
-                {% assign _include_path = _include | append: '.html' %}
-                {% include {{ _include_path }} lang=lang %}
-              {% endfor %}
-            {% endif %}
-
-            {% include_cached footer.html lang=lang %}
+            {% if has_tail %} {% for _include in layout.tail_includes %} {%
+            assign _include_path = _include | append: '.html' %} {% include {{
+            _include_path }} lang=lang %} {% endfor %} {% endif %} {%
+            include_cached footer.html lang=lang %}
           </div>
         </div>
 
@@ -101,7 +90,11 @@ layout: compress
       </div>
 
       <aside aria-label="Scroll to Top">
-        <button id="back-to-top" type="button" class="btn btn-lg btn-box-shadow">
+        <button
+          id="back-to-top"
+          type="button"
+          class="btn btn-lg btn-box-shadow"
+        >
           <i class="fas fa-angle-up"></i>
         </button>
       </aside>
@@ -109,18 +102,12 @@ layout: compress
 
     <div id="mask"></div>
 
-    {% if site.pwa.enabled %}
-      {% include_cached notification.html lang=lang %}
+    {% if site.pwa.enabled %} {% include_cached notification.html lang=lang %}
     {% endif %}
 
     <!-- JavaScripts -->
 
-    {% include js-selector.html %}
-
-    {% if page.mermaid %}
-      {% include mermaid.html %}
-    {% endif %}
-
-    {% include_cached search-loader.html %}
+    {% include js-selector.html %} {% if page.mermaid %} {% include mermaid.html
+    %} {% endif %} {% include_cached search-loader.html %}
   </body>
 </html>
