@@ -1,5 +1,5 @@
 ---
-title: Project Management Career Path - Google With Coursera
+title: Project Management Capstone - Google With Coursera
 date: 2022-03-11 22:35:00 +00
 image:
   path: /assets/img/google-pm.png
