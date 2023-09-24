@@ -8,6 +8,11 @@ categories: [Networks, Security]
 tags: [protection, security, website, cloudflare]     # TAG names should always be lowercase
 ---
 
+Though internet security tools are becoming more and more efficient, people have remained one of the most vulnerable ways for offensive attacks to be successul. These are often achieved through social engineering.
+
+
+When the attacks on my website were not successful, it was mind social media accounts that were targeted nex. And I almost felt for this next trick.
+
 ![what-next](/assets/img/Screenshot 2023-08-16 21.36.26.png)
 
 ![asset-1](/assets/img/Screenshot 2023-08-16 21.41.04.png)

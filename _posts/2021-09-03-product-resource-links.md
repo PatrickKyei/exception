@@ -100,6 +100,8 @@ Links to product resources you might just find helpful.
 
 * [PNG to ICO converter](https://convertico.com)
 
+* [SVG/PNG Converter](https://www.svgviewer.dev/svg-to-png)
+
 * [Free Logos for any Project](https://logoipsum.com/)
 
 * [Flat Icon](https://www.flaticon.com/)

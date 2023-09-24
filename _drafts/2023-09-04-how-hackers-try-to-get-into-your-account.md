@@ -5,9 +5,15 @@ categories: [Cybersecuity, Hacking]
 tags: [cybersecurity, hacking, social engineering, phishing]     # TAG names should always be lowercase
 ---
 
-Hackers try many ways to get access to your personal information. If one method fails, they resort to other methods.
+People spend a lot of time online and businesses are conducted over the internet all the time.
 
-When the attacks on my website were not successful, it was mind social media accounts that were targeted nex. And I almost felt for this next trick.
+Hackers try many ways to get access to your personal information data of your customers. If one method fails, they resort to other methods.
+
+After completing the Google Cybersecurity course, I became more aware of the different offensive attacks that goes on day to day on the internet.
+
+So when I noticed someone had tried to attack my domain, I was curious and wanted to investigate.
+
+
 
 
 
