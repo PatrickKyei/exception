@@ -46,6 +46,8 @@ Links to product resources you might just find helpful.
 
 *  [Hack Design Education](https://hackdesign.org)
 
+** [Growth Design Case Studies](https://growth.design/case-studies)
+
 
 
 ### Color Palletes and Gradients
