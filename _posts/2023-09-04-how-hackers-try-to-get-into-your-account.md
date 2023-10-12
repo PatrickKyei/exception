@@ -32,11 +32,11 @@ The first red flag is that I didn't receive any email from Facebook. For importa
 
 ![phishing message](/assets/img/Screenshot 2023-09-03 02.15.56.png)
 
-> One of the safe ways to check if a site may contain or lead to harmful applicatin is to hover your mouse cursor on the link and investigate the preview  link if it is embeded in a text
+> One of the safe ways to check if a site may contain or lead to harmful application is to hover your mouse cursor on the link and preview it
 
 ![suspicious site](/assets/img/Screenshot 2023-09-03 02.16.14.png)
 
-Because I am investigating this I went ahead to click the link. In your case, as soon as you identify a link to be harmful **delete imediately**
+Because I am investigating this I went ahead to click the link. In your case, as soon as you identify a link to be harmful **delete immediately**
 
 Usually some the things that will give out a suspicious attack are mispellings or wrongful information. 
 
@@ -58,10 +58,9 @@ Further with our investigation if click the continue button another page shows. 
 
 ![look for detail](/assets/img/Screenshot 2023-09-03 02.16.28.png)
 
-> Here's a quick game from Google to help you identify phishing attacks and stafe on the internet
+> Here's a [quick game from Google](https://phishingquiz.withgoogle.com/) to help you identify phishing attacks and stafe on the internet
 {: .prompt-info}
 
-https://phishingquiz.withgoogle.com/
 
 The moment you put in your email and password the hacker is going to collect these information and use it to access your account. 
 
