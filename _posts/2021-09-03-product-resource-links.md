@@ -5,7 +5,17 @@ categories: [Resources, Links]
 tags: [resources, links, technical, projects]     # TAG names should always be lowercase
 ---
 
-Links to product resources you might just find helpful.
+## What is it?
+
+This is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.
+
+## For whom?
+
+For everyone. Here everyone can find their favourite tastes. But to be specific, it is aimed at developers, desigers and product/project managers.
+
+## Contributing
+
+If you find something which doesn't make sense, or something which is missing, please you the chat feature or comment section below. Please add valid and well-reasoned explanations about your changes or comments and I will respond.
 
 
 ## For Product Designers
@@ -599,6 +609,8 @@ Links to product resources you might just find helpful.
 * [Learn With Microsoft](https://learn.microsoft.com/en-us/training/ "Microsoft Learning Garage")
 
 * [Shield Pixel-perfect](https://shields.io/)
+
+* [Free for devs](https://free-for.dev/)
 
 ## For Product Managers
 
