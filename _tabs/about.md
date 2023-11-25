@@ -14,7 +14,7 @@ An experienced product professional with skills in product management, design, a
 
 I am passionate about innovation and has always been involved with initiatives that seek to upskill people from all walks of life with the ability to use technology to better themselves in the way that they live and work.
 
-I have spoken at different tech conferences and had the opportunity to interact with [creative minds](https://youtube.com/channel/UCsAjtT-RYQRtMngsTGLxS2Q) in the tech industry to share their knowledge to impact the tech ecosystem.
+I have spoken at different tech conferences and had the opportunity to interact with [creative minds](https://youtube.com/@skillembassy_) in the tech industry to share their knowledge to impact the tech ecosystem.
 
 I jot down my thoughts. Those are my own initiatives. It's more of a communal celebration of learning. And if I can play some role in your life to help you go to a new place, I'd be happy, honored, and fortunate to do so. And if I ever stop being successful at it, I'll try something new.
 
