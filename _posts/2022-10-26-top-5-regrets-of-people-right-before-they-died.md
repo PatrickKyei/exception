@@ -54,7 +54,7 @@ Figure out who matter most to you in life, and make sure you have them by your s
 
 Happiness is a choice rather than a consequence of situations. It is important we make choices based on our happiness and not our fears. 
 
-Ware expressed, **“Fear of change had them pretending to others and to their selves that they were content, when deep within, they longed to laugh properly.”**
+Ware expressed, **“Fear of change had them pretending to others and to themselves that they were content, when deep within, they longed to laugh properly.”**
 
 Fear is the only thing that holds us back from experiencing happiness and appreciating life to the fullest. Do not leave room for regret in your last days. Act on your choices and be as happy as you wish to be.
 
