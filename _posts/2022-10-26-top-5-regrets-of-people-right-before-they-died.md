@@ -56,6 +56,10 @@ Happiness is a choice rather than a consequence of situations. It is important w
 
 Ware expressed, **“Fear of change had them pretending to others and to themselves that they were content, when deep within, they longed to laugh properly.”**
 
-Fear is the only thing that holds us back from experiencing happiness and appreciating life to the fullest. Do not leave room for regret in your last days. Act on your choices and be as happy as you wish to be.
+Fear is the only thing that holds us back from experiencing happiness and appreciating life to the fullest. 
+
+Do not leave room for regret in your last days. 
+
+Act on your choices and be as happy as you wish to be.
 
 In the end we only regret the chances we didn’t take.
