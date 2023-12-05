@@ -6,7 +6,9 @@ order: 5
 
 Hey I'm glad you are here. My name is Patrick.
 
-An experienced product professional with skills in product management, design, and project management. 
+I write to Raise the Collective Consciousness.
+
+As An experienced product professional with skills in product management, design, and project management
 
 I balance technical and business acumen to deliver impactful products with user-centered design. 
 
@@ -23,7 +25,7 @@ I have spoken at different tech conferences and had the opportunity to interact 
 
 I jot down my thoughts. 
 
-Those are my own initiatives. To Raise the collective Consciousness.
+Those are my own initiatives.
 
 It's more of a communal celebration of learning. 
 

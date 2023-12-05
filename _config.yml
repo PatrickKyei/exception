@@ -19,11 +19,10 @@ timezone: Africa/Accra
 
 title: Patrick Kyei                         # the main title
 
-tagline: Never stop learning. Improve 1% every day. # it will display as the sub-title
+tagline: Improve 1% every day. Never stop learning. # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Hi my name is Patrick Kyei, I create digital products,that are driven by
-  user experience
+  Hi my name is Patrick Kyei, I write to Raise the collective Consciousness.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://patrickkyei.com'
