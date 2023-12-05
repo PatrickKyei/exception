@@ -22,19 +22,31 @@ Giving up on personal goals for the sake of others usually leads you to immense 
 
 ## 2. “I Wish I hadn’t Worked so Hard”
 
-This regret is common to most people who regret not spending enough time with their families due to extensive work schedules. This was the case with almost every male patient Ware talked to.
+This regret is common to most people who regret not spending enough time with their families due to extensive work schedules. 
+
+This was the case with almost every male patient Ware talked to.
 
 Getting caught up in the rat race and over-working ourselves to achieve **name**, **fame**, **success**, and **money** at the cost of avoiding family trips and personal assignments usually result in a state of disillusionment and extreme regret that we realize, but not before it is too late…
 
 ## 3. “I wish I had the Courage to express my Feelings”
 
-Many people suppressed their feelings in order to keep peace with others. As a result, they settled for a mediocre existence and never became who they were truly capable of becoming. Many developed illnesses relating to the bitterness and resentment they carried as a result.
+Many people suppressed their feelings in order to keep peace with others. 
 
-We cannot control the reactions of others. **However, although people may initially react when you change the way you are by speaking honestly, in the end it raises the relationship to a whole new and healthier level**. Either that or it releases the unhealthy relationship from your life. Either way, you win.
+As a result, they settled for a mediocre existence and never became who they were truly capable of becoming. 
+
+Many developed illnesses relating to the bitterness and resentment they carried as a result.
+
+We cannot control the reactions of others. 
+
+**However, although people may initially react when you change the way you are by speaking honestly, in the end it raises the relationship to a whole new and healthier level**. 
+
+Either that or it releases the unhealthy relationship from your life. Either way, you win.
 
 ## 4. “I Wish I had stayed in Touch with my Friends”
 
-There were many deep regrets about not giving friendships the time and effort that they deserved. Ware states, **“Often they would not truly realize the full benefits of friends until their dying weeks and it was not always possible to track them down.”**
+There were many deep regrets about not giving friendships the time and effort that they deserved. 
+
+Ware states, **“Often they would not truly realize the full benefits of friends until their dying weeks and it was not always possible to track them down.”**
 
 Figure out who matter most to you in life, and make sure you have them by your side.
 
