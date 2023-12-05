@@ -4,7 +4,7 @@ date: 2023-12-05 10:50:00 +00
 image:
   path: /assets/img/death-bed.png
   alt: Death Bed
-categories: [Death, Life]
+categories: [Life, Choice]
 tags: [regrets, life, death]     # TAG names should always be lowercase
 ---
 
