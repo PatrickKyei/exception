@@ -1,11 +1,12 @@
 ---
 title: Top 5 Regrets Of People Right Before They Died
 date: 2022-10-25 13:01:00 +00
-categories: [Deat, Life]
+image:
+  path: /assets/img/death-bed.png
+  alt: Death Bed
+categories: [Death, Life]
 tags: [regrets, life, death]     # TAG names should always be lowercase
 ---
-
-![Death Bed](/assets/img/death-bed.jpg)
 
 We hardly take out any time to acknowledge our surroundings or contemplate our past choices until we are faced with the realization of an approaching death.
 
