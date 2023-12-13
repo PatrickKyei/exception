@@ -1,11 +1,12 @@
 ---
 title: How can I make my life better?
 date: 2022-03-16 15:35:00 +00
+image:
+  path: /assets/img/better-life.png
+  alt: Better life
 categories: [Life, Choices]
 tags: [life, change, choices, advice]     # TAG names should always be lowercase
 ---
-
-![better-life](/assets/img/better-life.jpg)
 
 We all go through life learning very valuable lessons. We learn, relearn and unlearn things. And there are ways we could do things better if we had a second chance. Here goes a few:
 
