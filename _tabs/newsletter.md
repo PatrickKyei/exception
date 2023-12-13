@@ -1,6 +1,6 @@
 ---
 title: Newsletter
-icon: fas fa-envelope
+icon: fas fa-newspaper
 order: 6
 ---
 
