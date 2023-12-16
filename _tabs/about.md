@@ -36,4 +36,4 @@ And if I ever stop being successful at it, I'll try something new.
 
 <hr>
 
-<iframe src="https://patrickkyei.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://patrickkyei.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
