@@ -1,6 +1,6 @@
 ---
 title: Pivot Don't Quit - Highligthing A crucial point in Entreprenership
-date: 2022-08-10 07:40:00 +00
+date: 2023-12-15 07:40:00 +00
 image:
   path: /assets/img/pivot-quit.png
   alt: Climbing up
