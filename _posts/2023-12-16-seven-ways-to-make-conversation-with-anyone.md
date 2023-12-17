@@ -10,20 +10,31 @@ tags: [letters, rapport, conversation]     # TAG names should always be lowercas
 
 Talking to new people might seem like a lot of work, but I've got some easy tricks to help you out. 
 
-You see, strangers can bring awesome opportunities. Each person brings a new experience, an opportunity to learn something new, experience something different, or hear a story you've never heard before. 
+You see, strangers can bring awesome opportunities. 
+
+Each person brings a new experience, an opportunity to learn something new, experience something different, or hear a story you've never heard before. 
 
 Imagine you're in a room, and you spot someone you want to talk to. You feel the first word on your lips, but it's stuck somewhere in your throat. You are shy. Don't worry, just say it!
 
 **Start with a Simple Hello**
 
-Imagine the first word as a gate. Once you open it with a simple greeting like "hi" or "hello," everything else flows more smoothly. 
+Imagine the first word as a gate. 
 
-Put on a big smile and say hi! Don't hesitate. If you are reading this by that person stick your hand out, and say hello.
+Once you open it with a simple greeting like "hi" or "hello," everything else flows more smoothly. 
+
+Put on a big smile and say hi! Don't hesitate. 
+
+If you are reading this by that person stick your hand out, and say hello.
 
 Forget the boring "hi, how are you" routine.
+
 It's a time waster. Instead, ask a personal question. 
 
-People love sharing, trust me! Instead of asking what's up, try something unique like: How did you get that interesting tatoo? Or, do you remember the first day you came to this city? Personal questions lead to cool stories.
+People love sharing, trust me! 
+
+Instead of asking what's up, try something unique like: How did you get that interesting tatoo? Or, do you remember the first day you came to this city? 
+
+Personal questions lead to cool stories.
 
 Answers to those questions are always something unique, always something personal. 
 
