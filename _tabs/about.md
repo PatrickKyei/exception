@@ -6,7 +6,7 @@ order: 5
 
 Hey I'm glad you are here. My name is Patrick.
 
-I write to Raise the collective consciousness.
+I write to Expand the collective consciousness.
 
 As An experienced product professional with skills in product management, design, and project management
 
