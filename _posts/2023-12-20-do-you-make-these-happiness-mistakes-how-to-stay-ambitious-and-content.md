@@ -4,7 +4,7 @@ date: 2023-12-20 07:40:00 +00
 image:
   path: /assets/img/ambition-content.png
   alt: Ambitious Happy Man
-categories: Human Potential, Contentment]
+categories: [Human Potential, Contentment]
 tags: [happiness, ambition, potential]     # TAG names should always be lowercase
 ---
 
