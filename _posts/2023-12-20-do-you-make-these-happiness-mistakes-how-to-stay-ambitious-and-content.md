@@ -1,11 +1,12 @@
 ---
-title: You Make These Happiness Mistakes?
-date: 2022-07-29 07:40:00 +00
-categories: [Happiness, Life]
-tags: [happiness, life, world]     # TAG names should always be lowercase
+title: Do You Make These Happiness Mistakes? (How To Stay Ambitious & Content)
+date: 2023-12-20 07:40:00 +00
+image:
+  path: /assets/img/ambition-content.png
+  alt: Ambitious Happy Man Flying
+categories: Human Potential, Contentment]
+tags: [happiness, ambition, potential]     # TAG names should always be lowercase
 ---
-
-![each-happiness](/assets/img/each-happiness.jpg)
 
 > Happiness is found when you stop comparing yourself to other people.
 
@@ -29,8 +30,16 @@ Abundance creates comfort and not necessarily happiness.
 
 > Let us be thankful that what is most needful and useful, generally is most cheap and common. Though men value very highly their gold and silver, and the luxuries which are counted the best fruits of every land, yet in a time of famine they willingly barter them for bread.
 
-What is happiness? City life? Bright lights? Perhaps it is, perhaps not! Is the village boy who strived to leave the village behind for the bright city life happy? Or is it the city boy who finds love in the dull slow paced village that finds happiness? Who is to judge if not the very person that strives for his own definition of happiness?
+What is happiness? City life? Bright lights? 
+
+Perhaps it is, perhaps not! 
+
+Is the village boy who strived to leave the village behind for the bright city life happy? Or is it the city boy who finds love in the dull slow paced village that finds happiness?
+
+Who is to judge if not the very person that strives for his own definition of happiness?
 
 We cannot account for all that we have as happiness and discount other people as unhappy because we think they lack what we have.
 
-However, just because you don't require much to be happy doesn't mean you should settle for the absolute minimum. Live life to the fullest and always seek to improve yourself.
+However, just because you don't require much to be happy doesn't mean you should settle for the absolute minimum. 
+
+Live life to the fullest and always seek to improve yourself.
