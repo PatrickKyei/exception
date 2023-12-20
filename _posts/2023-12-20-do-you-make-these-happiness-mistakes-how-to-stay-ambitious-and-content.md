@@ -10,7 +10,9 @@ tags: [happiness, ambition, potential]     # TAG names should always be lowercas
 
 > Happiness is found when you stop comparing yourself to other people.
 
-Due to our varied life experiences, everyone has a unique perspective on the world. Each of us derives meaning and value from different things.
+Due to our varied life experiences, everyone has a unique perspective of the world. 
+
+Each of us derives meaning and value from different things.
 
 As a result, we all experience happiness and express it in different ways.
 
@@ -34,7 +36,9 @@ What is happiness? City life? Bright lights?
 
 Perhaps it is, perhaps not! 
 
-Is the village boy who strived to leave the village behind for the bright city life happy? Or is it the city boy who finds love in the dull slow paced village that finds happiness?
+Is the village boy who strived to leave the village behind for the bright city life happy? 
+
+Or is it the city boy who finds love in the dull slow paced village that finds happiness?
 
 Who is to judge if not the very person that strives for his own definition of happiness?
 
