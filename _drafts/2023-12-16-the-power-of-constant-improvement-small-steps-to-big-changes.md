@@ -8,6 +8,18 @@ categories: [Human Capacity, Progress]
 tags: [letters, progress]     # TAG names should always be lowercase
 ---
 
+MOST people want instant success.
+
+90% of people are after instant success. The hard truth is that success is not a one day wonder.
+
+The world is experiencing a rapid advance technology - AI. Information is growing at a fast rate. Social media is connecting the world together.
+
+The same blessing is a curse. Social media, AI, and rapid growth of information.
+
+Social media is pushing the get rich quick lifestyle into our faces everyday. With the help of AI, companies can target individuals with ads and contents that glue them to their screens all day.
+
+We cannot downplay the importance of social media in today's world. However we cannot also deny the other side of technology and social media.
+
 
 Consistency is important in the pursuit of one's goals for several reasons:
 
