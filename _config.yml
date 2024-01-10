@@ -35,6 +35,7 @@ author: Patrick Kyei
 twitter:
     username: thepatrickkyei            # change to your twitter username
 
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -45,8 +46,7 @@ social:
     - https://patrickkyei.com/    # change to your twitter homepage
     # - https://github.com/PatrickKyei       # change to your github homepage
     # - Uncomment below to add more social links
-    - https://www.twitter.com/thepatrickkyei
-    # - https://linkedin.com/in/patrickkyei
+    - https://instagram.com/thepatrickkyei
 
 google_site_verification: #google-site-verification=HF25M9k_MrtzBP9ODIMc_Y2liss1uABb7hsL9Q6xpZI # change to your verification string
 
@@ -71,7 +71,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark #[select a default]
+theme_mode: [dark] #[select a default]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
