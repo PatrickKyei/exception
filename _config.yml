@@ -22,7 +22,7 @@ title: Patrick Kyei                        # the main title
 tagline: Expand the collective consciousness # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Discover thought-provoing content by Patrick Kyei, dedicated to raising collective consciousness.
+  Discover thought-provoking content by Patrick Kyei, dedicated to raising collective consciousness.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://patrickkyei.com'
@@ -32,8 +32,8 @@ author: Patrick Kyei
 # github:
 #   username: PatrickKyei             # change to your github username
 
-# twitter:
-#    username: thepatrickkyei            # change to your twitter username
+twitter:
+    username: thepatrickkyei            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -45,7 +45,7 @@ social:
     - https://patrickkyei.com/    # change to your twitter homepage
     # - https://github.com/PatrickKyei       # change to your github homepage
     # - Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.twitter.com/thepatrickkyei
     # - https://linkedin.com/in/patrickkyei
 
 google_site_verification: #google-site-verification=HF25M9k_MrtzBP9ODIMc_Y2liss1uABb7hsL9Q6xpZI # change to your verification string
