@@ -5,7 +5,7 @@ image:
   path: /assets/img/better-life.png
   alt: Better life
 categories: [Life, Choices]
-tags: [life, change, choices, letters]     # TAG names should always be lowercase
+tags: [life, change, choices]     # TAG names should always be lowercase
 ---
 
 We all go through life learning very valuable lessons. We learn, relearn and unlearn things. And there are ways we could do things better if we had a second chance. Here goes a few:

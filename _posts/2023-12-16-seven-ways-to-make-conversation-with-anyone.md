@@ -5,7 +5,7 @@ image:
   path: /assets/img/strangers-conversation.png
   alt: Strangers First Conversation
 categories: [Communication, Psychology]
-tags: [letters, rapport, conversation]     # TAG names should always be lowercase
+tags: [rapport, conversation]     # TAG names should always be lowercase
 ---
 
 Talking to new people might seem like a lot of work, but I've got some easy tricks to help you out. 

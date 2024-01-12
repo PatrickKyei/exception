@@ -29,3 +29,7 @@
   type: instagram
   icon: 'fab fa-facebook'
   url:  'https://facebook.com/thepatrickkyei'                  # Fill with your stackoverflow homepage
+-
+  type: youtube
+  icon: 'fab fa-youtube'
+  url:  'https://youtube.com/@thepatrickyei'                  # Fill with your stackoverflow homepage
