@@ -104,6 +104,6 @@ try differently.
 
 Thank you for reading and enjoy the weekend.
 
-<iframe src="https://skillembassy.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://patrickkyei.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 Sign up to receive weekly dose of fresh content in your inbox every Saturday.
