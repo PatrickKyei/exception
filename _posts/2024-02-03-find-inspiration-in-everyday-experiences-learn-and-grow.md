@@ -1,9 +1,9 @@
 ---
 title: find inspiration in every day experiences - learn and grow
-date: 2024-02-03 07:00:00 +00
+date: 2024-02-03 08:00:00 +00
 image:
   path: /assets/img/everyday-inspiration.png
-  alt: self-educate
+  alt: everyday inspiration
 categories: [Learning, Inspiration]
 tags: [letters, curious, learning] # TAG names should always be lowercase
 ---
@@ -43,8 +43,8 @@ If you don’t intentionally choose what you want to do, you will become what so
 99% of people are conditioned to follow a default path in life set out by society.
 
 Go to school.   
-Be assigned a program you aren't interested in.
-Get a job.   
+Be assigned a program you aren't interested in.  
+Get a job.  
 Spend 8 hours building someone else's dreams and forget about your own.   
 Retire at the ripe age of 60.   
 When you have no time left and just enough money to survive (not thrive) until death.
