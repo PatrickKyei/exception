@@ -85,7 +85,7 @@ Creativity is sparked by adventure.
 
 Get outside and live life. 
 
-Speak to someone, open yourself to new adventures and you'd be surprise the good things that can come out of it.
+Speak to someone, open yourself to new adventures and you'd be surprised the good things that can come out of it.
 
 ## Read on a topic that interest you that you don’t know much about
 
