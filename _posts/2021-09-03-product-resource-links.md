@@ -612,6 +612,8 @@ If you find something which doesn't make sense, or something which is missing, p
 
 * [Free for devs](https://free-for.dev/)
 
+* [Jekyll Themes](https://themes.jekyllrc.org/)
+
 ## For Product Managers
 
 * Email Marketing Tools: [MailChimp](https://mailchimp.com/), [Constant Contact](https://www.constantcontact.com/global/home-page), [Emma](https://myemma.com/), [Email Octopus](https://emailoctopus.com)
