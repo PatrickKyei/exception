@@ -15,7 +15,7 @@ For everyone. Here everyone can find their favourite tastes. But to be specific,
 
 ## Contributing
 
-If you find something which doesn't make sense, or something which is missing, please you the chat feature or comment section below. Please add valid and well-reasoned explanations about your changes or comments and I will respond.
+If you find something which doesn't make sense, or something which is missing, please use the chat feature or comment section below. Please add valid and well-reasoned explanations about your changes or comments and I will respond.
 
 
 ## For Product Designers
