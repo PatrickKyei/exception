@@ -107,7 +107,7 @@ Teach, entertain, show them the way.
 
 It's your responsibility to package your offer in a way that others can profit from it.
 
-Create your own career that doesn't depend independently on a capped paycheck.
+Create your own career that doesn't depend on a capped paycheck.
 
 The future belongs to those who create their own careers through a wide range of synergistic skills.
 
