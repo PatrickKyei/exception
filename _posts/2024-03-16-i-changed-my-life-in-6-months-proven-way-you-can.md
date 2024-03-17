@@ -3,7 +3,7 @@ title: i changed my life in 6 months (proven way you can)
 date: 2024-03-16 07:00:00 +00
 image:
   path: /assets/img/build.png
-  alt: reject the mindless path
+  alt: changed life
 categories: [Learning, Personal Development]
 tags: [letters, learning, personal development] # TAG names should always be lowercase
 ---
@@ -26,7 +26,8 @@ Society is a behavior system. You need to be intentional about the choices and h
 
 By	the	time you	become	 an adult,	you	rarely	notice	the	belief systems	 that are running	your life.
 
-> “Until	you make	the	unconscious	conscious,	it will	direct	your	life 	and	you	will call	it	fate.” - atomic habits 
+> “Until	you make	the	unconscious	conscious,  
+it will	direct	your	life 	and	you	will call	it	fate.” - atomic habits 
 
 Most people never give a second thought to	the fact that	they tie	their self worth to a career path set out for them by society.
 
