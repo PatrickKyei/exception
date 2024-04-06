@@ -1,5 +1,5 @@
 ---
-title: the only way stop being broke
+title: the only way to stop being broke
 date: 2024-04-06 07:00:00 +00
 image:
   path: /assets/img/stop-being-broke.png
