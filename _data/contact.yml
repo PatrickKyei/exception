@@ -21,15 +21,15 @@
   type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://linkedin.com/in/thepatrickkyei'                  # Fill with your mastodon account page
-# -
-  # type: instagram
-  # icon: 'fab fa-instagram'   # icons powered by <https://fontawesome.com/>
-  # url:  'https://instagram.com/thepatrickkyei'                 # Fill with your Linkedin homepage
+-
+  type: instagram
+  icon: 'fab fa-instagram'   # icons powered by <https://fontawesome.com/>
+  url:  'https://instagram.com/thepatrickkyei'                 # Fill with your Linkedin homepage
 -
   type: facebook
   icon: 'fab fa-facebook'
   url:  'https://facebook.com/thepatrickkyei'                  # Fill with your stackoverflow homepage
--
-  type: spotify
-  icon: 'fab fa-spotify'
-  url:  'https://podcasters.spotify.com/pod/show/thepatrickkyei'                  # Fill with your stackoverflow homepage
+# -
+#   type: spotify
+#   icon: 'fab fa-spotify'
+#   url:  'https://podcasters.spotify.com/pod/show/thepatrickkyei'                  # Fill with your stackoverflow homepage
