@@ -141,7 +141,7 @@ If you have solved a problem in your life, and other people also experience that
 
 Study less, build more, and your skill set will be forced to grow.
 
-This is what I teach in my community of Creative Builders. Get instant access: https://nas.io/skillembassy for a limited time.
+This is what I teach in my community of [Creative Builders](https://nas.io/skillembassy). Get instant access: [Skillembassy](https://nas.io/skillembassy) for a limited time.
 
 ## Step 3: Expand - Build Leverage
 
