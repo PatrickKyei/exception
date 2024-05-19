@@ -278,3 +278,5 @@ Comparing yourself to others will only hold you back from success.
 Your focus should be on becoming the best version of yourself.
 
 Optimize your mind, and you change your life.
+
+Have a wonderful week friend.
