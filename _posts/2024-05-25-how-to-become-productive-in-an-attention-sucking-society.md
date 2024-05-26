@@ -1,11 +1,13 @@
 ---
-title: the creative hack to become more productive 
+title: the creative hack to become more productive in an attention sucking society
 image:
   path: /assets/img/creative-hack.png
   alt: creative hack
 date: 2024-05-26 07:35:00 +00
 categories: [Business, Productivity]
-tags: [letters, creativity, business]   
+tags: [letters, creativity, business] 
+--- 
+
 We are living in a very intriguing and strange age. 
 
 > It is transformational when someone teaches you how to be purposeful about your thoughts, how to take charge of your life and your brain.
