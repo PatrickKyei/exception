@@ -1,5 +1,5 @@
 ---
-title: Build Whatevr You Want (Start Your Dream Company)
+title: Build Whatever You Want (Start Your Dream Company)
 image:
   path: /assets/img/learn-build.png
   alt: build whatever you want in 2024
