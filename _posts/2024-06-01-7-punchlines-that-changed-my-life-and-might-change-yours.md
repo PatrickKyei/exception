@@ -231,5 +231,5 @@ Build those habits into your life.
 
 Thank you for reading.
 
- - Patrick
+-Patrick
 
