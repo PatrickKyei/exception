@@ -177,7 +177,7 @@ If you want to be notified when the second part of this Letter is released subsc
 
 i. If you have been reading these Letters from my website, I want to let you know that there will be a few upgrades over the next weeks. Spend your time exploring the new website.
 
-It would not be complete in the initil build. But I like to just build things and iterate on them, reducing the time between idea and execution.
+It would not be complete in the initial build. But I like to just build things and iterate on them, reducing the time between idea and execution.
 
 Thanks for reading. Talk next week.
 
