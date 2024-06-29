@@ -1,5 +1,5 @@
 ---
-title: Build Mental Mastery 2
+title: Build Mental Mastery II
 image:
   path: /assets/img/mental-mastery-2.png
   alt: build mental mastery
